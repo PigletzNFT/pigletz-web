@@ -1,0 +1,13 @@
+{
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript", "typescript","javascriptreact","typescriptreact"],
+    "files.trimTrailingWhitespace": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
