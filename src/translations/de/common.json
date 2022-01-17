@@ -1,155 +1,155 @@
 {
     "nav": {
         "website": "Pigletz.com",
-        "home": "Home",
+        "home": "Startseite",
         "gallery": "Galerie",
         "aboutus": "Über Uns",
         "pigletz": "Meine Pigletz",
-        "mystery": "My Boxes",
-        "connect": "Connect Wallet",
-        "buypiglets": "Mint Piglets",
-        "menu": "Menu",
-        "back": "Back"
+        "mystery": "Meine Boxen",
+        "connect": "Wallet Verbinden",
+        "buypiglets": "Pigletz Minten",
+        "menu": "Menü",
+        "back": "Zurück"
     },
     "footer": {
         "copyright": "© 2021-2022 Pigletz",
-        "terms": "Terms and Conditions",
-        "privacy": "Privacy Policy",
+        "terms": "Geschäftsbedingungen",
+        "privacy": "Datenschutzerklärung",
         "contracts": {
             "title": "Contracts:",
             "pigletz": "Pigletz (BEP721)",
             "pifi": "PiFi (BEP20)",
-            "salesManager": "Sales",
-            "mysteryBox": "MysteryBox (BEP721)"
+            "salesManager": "Verkäufe",
+            "mysteryBox": "Überraschungsbox (BEP721)"
         }
     },
     "presale": {
-        "title": "Pigletz Presale",
-        "description": "Welcome chosen one! You were selected to participate in our Presale and here you have the chance the mint an unique Piglet at the lowest possible price. You can also mint a bundle of 5, 10 or 20 in the same transaction. Your discount code will be applied to all of them. Enjoy!",
-        "tiersDescription": "We are minting collections with different amounts and prices. The price increases with time and at the end will reach 8 BNB. However with the higher price there is also a higher chance to get the special booster.",
-        "checkTiers": "check the tiers below"
+        "title": "Pigletz Vorverkauf",
+        "description": "Wilkommen, Auserwälhte*r! Du wurdest ausgewählt, um an unserem Vorverkauf teilzunehmen und hast hier die Chance ein einzigartiges Piglet zum niedrigsmöglichen Preis zu minten. Du kannst auch ein Bündel aus 5,10 oder 20 Pigletz gleichzeitig minten. Dein Rabattcode wird auf allen angewendet. Viel Spaß!",
+        "tiersDescription": "Wir minten verschieden Sammlungen mit unterschiedlichen Mengen und Preisen. Im Laufe der Zeit steigt der Preis auch und wird am Ende 8 BNB betragen. Mit dem höheren Preis steigt jedoch auch die Chance einen spezielen Booster zu erhalten.",
+        "checkTiers": "Tiers unten ansehen"
     },
     "pigletzList": {
-        "title": "Pigletz Collection",
-        "description": "The beautiful collection of {{address}}",
+        "title": "Pigletz Sammlung",
+        "description": "Die schöne Sammlung aus {{address}}",
         "my": {
-            "description": "Your beautiful collection"
+            "description": "Deine schöne Sammlung"
         },
-        "boostersOfferTitle": "Do you need <b>boosters</b>",
-        "boostersOfferCaption": "Invest in your Piglet and it will produce more value for you",
-        "levelReachedCaption": "I reached <b>Level {{level}}</b>"
+        "boostersOfferTitle": "Brauchst Du <b>boosters</b>",
+        "boostersOfferCaption": "Investiere in deinem Piglet und der wird Mehrwert für Dich schaffen",
+        "levelReachedCaption": "Ich habe <b>Level {{level}}</b> erreicht"
     },
     "connect": {
-        "title": "Connect Wallet",
+        "title": "Wallet verbinden",
         "balance": "{{balance}} BNB",
-        "disconnect": "Disconnect",
+        "disconnect": " Verbindung Trennen",
         "providers": {
             "metamask": "MetaMask",
             "trustwallet": "Trust Wallet",
             "binancewallet": "Binance Wallet",
             "walletconnect": "Wallet Connect"
         },
-        "howtoTitle": "You don't have any crypto wallet?",
-        "howtoButton": "Learn how to connect"
+        "howtoTitle": "Hast Du keine Krypto-Wallets?",
+        "howtoButton": "Hilfe zum Verbinden"
     },
     "actions": {
         "levelUp": {
-            "pending": "Going to level {{level}}",
-            "success": "Congrats!",
-            "error": "Sorry, something went wrong"
+            "pending": "Level {{level}} erreichen",
+            "success": "Glückwunsch!",
+            "error": "Entschuldigung, etwas ist schief gelaufen"
         },
         "boosterUp": {
-            "pending": "Activating booster",
-            "success": "Congrats!",
-            "error": "Sorry, something went wrong"
+            "pending": "Booster aktivieren",
+            "success": "Glückwunsch!",
+            "error": "Entschuldigung, etwas ist schief gelaufen"
         },
         "checkDiscount": {
-            "pending": "Checking code",
-            "success": "The code is Valid",
-            "error": "This is a wrong or expired code"
+            "pending": "Code prüfen",
+            "success": "Der Code ist gültig",
+            "error": "Das ist ein falscher oder abgelaufener Code"
         },
         "purchasePiglet": {
-            "pending": "Minting {{count}} piglet",
-            "pending_plural": "Minting {{count}} piglets",
-            "success": "{{count}} piglet successfully minted",
-            "success_plural": "{{count}} piglets successfully minted",
-            "error": "Sorry, something went wrong"
+            "pending": "{{count}} Piglet minten",
+            "pending_plural": "{{count}} Pigletz minten",
+            "success": "{{count}} Piglet erfolgreich gemintet",
+            "success_plural": "{{count}} Pigletz erfolgreich gemintet",
+            "error": "Entschuldigung, etwas ist schief gelaufen"
         },
         "approveToken": {
-            "pending": "Approving for {{amount}} {{symbol}}",
-            "success": "Done",
-            "error": "Sorry, something went wrong"
+            "pending": "Freigabe für {{amount}} {{symbol}}",
+            "success": "Erledigt",
+            "error": "Entschuldigung, etwas ist schief gelaufen"
         },
         "openBox": {
-            "pending": "Opening box with {{count}} piglet",
-            "pending_plural": "Opening box with {{count}} pigletz",
-            "success": "Congratz!",
-            "error": "Sorry, something went wrong"
+            "pending": "Box öffnen mit {{count}} Piglet",
+            "pending_plural": "Box öffnen mit {{count}} Pigletz",
+            "success": "Glückwunsch!",
+            "error": "Entschuldigung, etwas ist schief gelaufen"
         },
         "depositToken": {
-            "pending": "Depositing {{amount}} {{symbol}}",
-            "success": "Congratz!",
-            "error": "Sorry, something went wrong"
+            "pending": "Einzahlen {{amount}} {{symbol}}",
+            "success": "Glückwunsch!",
+            "error": "Entschuldigung, etwas ist schief gelaufen"
         },
         "destroy": {
-            "pending": "Breaking Piglet #{{tokenId}}",
-            "success": "It's over",
-            "error": "Sorry, something went wrong"
+            "pending": "Piglet Brechen #{{tokenId}}",
+            "success": "Es ist vorbei",
+            "error": "Entschuldigung, etwas ist schief gelaufen"
         },
         "transfer": {
-            "pending": "Transfering Piglet #{{tokenId}} to {{recipient}}",
-            "success": "Sent",
-            "error": "Sorry, something went wrong"
+            "pending": "Piglet transferieren #{{tokenId}} zu {{recipient}}",
+            "success": "Übertragen",
+            "error": "Entschuldigung, etwas ist schief gelaufen"
         },
         "materialize": {
-            "pending": "Materializing Piglet #{{tokenId}}",
-            "success": "Sent",
-            "error": "Sorry, something went wrong"
+            "pending": "Piglet Verkörperlichen #{{tokenId}}",
+            "success": "Übertragen",
+            "error": "Entschuldigung, etwas ist schief gelaufen"
         }
     },
     "buy": {
         "saleAddress": "Sale Contract: {{address}}",
-        "promoCodeCaption": "Discount:",
-        "promoCodeCheckButton": "Check",
-        "promoCodePlaceholder": "PASTE CODE HERE...",
-        "quantityCaption": "Quantity:",
-        "buyNowButton": "Mint Now",
-        "totalCaption": "Total:",
+        "promoCodeCaption": "Rabattcode:",
+        "promoCodeCheckButton": "Prüfen",
+        "promoCodePlaceholder": "CODE EINFÜGEN...",
+        "quantityCaption": "Menge:",
+        "buyNowButton": "Jetzt minten",
+        "totalCaption": "Gesamt:",
         "howto": {
             "mobile": {
-                "button": "Not Sure? Learn How to Buy ↓",
-                "youNeed": "You need the ",
+                "button": "Nicht sicher? Erfahren wie man kaufen kann ↓",
+                "youNeed": "Du brauchst ",
                 "metamask": "MetaMask",
                 "walletApp": "Wallet App",
                 "android": "Android",
                 "ios": "iOS",
-                "bscTitle": "You need to configure MetaMask to use the Binance Smart Chain Mainnet.",
-                "bscGuide": "Follow this guide",
-                "bscBalance": "You need sufficient BNB Balance in your MetaMask Account to buy a Piglet. Use your favourite Crypto Exchange to transfer BNB to your MetaMask Public Address.",
-                "bscFindAddress": "How to find your Wallet Public Address?",
-                "bscFindAddressStep1": "1. In your Wallet tap on the Address pill.",
-                "bscFindAddressStep2": "2. Address is copied to your clipboard.",
-                "openMetamaskCaption": "Use the button below to open our <strong>dApp Sale Page</strong> directly in MetaMask Browser:",
-                "openMetamaskButton": "Open MetaMask"
+                "bscTitle": "Du sollst MetaMask konfigurieren, um das Binance Smart Chain Mainnet zu nutzen.",
+                "bscGuide": "Diese Anleitung folgen",
+                "bscBalance": "Du  brauchst ausreichendes BNB-Guthaben auf Deinem MetaMask-Konto, um ein Piglet zu kaufen. Nutze Deine bevorzugte Krypto-Börse, um BNB an Deine MetaMask Public Adresse zu überweisen.",
+                "bscFindAddress": "Wie finde ich meine Wallet Public Adresse?",
+                "bscFindAddressStep1": "1. In Deinem Wallet auf die Adresse-Taste klicken.",
+                "bscFindAddressStep2": "2. Die Adresse ist in Deine Zwischenablage kopiert.",
+                "openMetamaskCaption": "Nutze den Button, um unsere <strong>dApp Verkaufsseite</strong> direkt in Deinem MetaMask-Browser zu öffnen:",
+                "openMetamaskButton": "MetaMask öffnen"
             },
             "desktop": {
-                "button": "Not Sure? Learn How to Buy on Desktop ↓",
-                "youNeed": "You need the ",
+                "button": "Nicht sicher? Erfahren wie man im WEB kaufen kann ↓",
+                "youNeed": "Du brauchst ",
                 "metamask": "MetaMask",
-                "extension": "Browser Extension for Chrome or Firefox.",
+                "extension": "Browser-Erweiterung für Chrome oder Firefox.",
                 "chrome": "Google Chrome",
                 "firefox": "Mozilla Firefox",
-                "bscTitle": "You need to configure MetaMask to use the Binance Smart Chain Mainnet.",
-                "bscGuide": "Follow this guide",
-                "bscVideo": "Watch this video",
-                "bscBalance": "You need sufficient BNB Balance in your MetaMask Account to buy a Piglet. Use your favourite Crypto Exchange to transfer BNB to your MetaMask Public Address.",
-                "bscFindAddress": "How to find your Wallet Public Address?",
-                "bscFindAddressStep1": "1. In your Browser's MetaMask Extension click on your Account Name.",
-                "bscFindAddressStep2": "2. Address is copied to your clipboard.",
-                "connectWalletCaption1": "When you have sufficient funds in your wallet you need to Connect it with our website, clicking on \"Connect Wallet\" in the Website Navigation.",
-                "connectWalletCaption2": "When you are connected you can <strong>use the form below</strong> to make a purchase.",
-                "watchVideoCaption1": "Watch this video",
-                "watchVideoCaption2": " for step-by-step instructions:"
+                "bscTitle": "Du sollst MetaMask konfigurieren, um das Binance Smart Chain Mainnet zu nutzen.",
+                "bscGuide": "Diese Anleitung folgen",
+                "bscVideo": "Video anschauen",
+                "bscBalance": "Du  brauchst ausreichendes BNB-Guthaben auf Deinem MetaMask-Konto, um ein Piglet zu kaufen. Nutze Deine bevorzugte Krypto-Börse, um BNB an Deine MetaMask Public Adresse zu überweisen.",
+                "bscFindAddress": "Wie finde ich meine Wallet Public Adresse?",
+                "bscFindAddressStep1": "1. Klicke die Konto-Namen Taste in der Metamask-Erweiterung Deines Browsers.",
+                "bscFindAddressStep2": "2. Die Adresse ist in Deine Zwischenablage kopiert.",
+                "connectWalletCaption1": "Wenn Du über ausreichendes Guthaben in dem Wallet verfügts, sollst Du diesen mit unserer Webseite verbinden, indem Du auf \"Connect Wallet\" in der Website Navigation klickst.",
+                "connectWalletCaption2": "Wenn die Verbindung eingerichtet ist, kannst Du <strong>Das Formular unten nutzen</strong> einen Kauf tätigen.",
+                "watchVideoCaption1": "Video anschauen",
+                "watchVideoCaption2": " für Schritt-für-Schritt-Anleitung:"
             }
         }
     },
