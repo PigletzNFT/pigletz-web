@@ -25,8 +25,8 @@
     },
     "presale": {
         "title": "Pigletz Vorverkauf",
-        "description": "Wilkommen, Auserwälhte*r! Du wurdest ausgewählt, um an unserem Vorverkauf teilzunehmen und hast hier die Chance ein einzigartiges Piglet zum niedrigsmöglichen Preis zu minten. Du kannst auch ein Bündel aus 5,10 oder 20 Pigletz gleichzeitig minten. Dein Rabattcode wird auf allen angewendet. Viel Spaß!",
-        "tiersDescription": "Wir minten verschieden Sammlungen mit unterschiedlichen Mengen und Preisen. Im Laufe der Zeit steigt der Preis auch und wird am Ende 8 BNB betragen. Mit dem höheren Preis steigt jedoch auch die Chance einen spezielen Booster zu erhalten.",
+        "description": "Wilkommen, Auserwälhte*r! Du wurdest ausgewählt, um an unserem Vorverkauf teilzunehmen, und hast hier die Chance, ein einzigartiges Piglet zum niedrigsmöglichen Preis zu minten. Du kannst auch ein Bündel aus 5,10 oder 20 Pigletz gleichzeitig minten. Dein Rabattcode wird auf allen angewendet. Viel Spaß!",
+        "tiersDescription": "Wir minten verschiedene Sammlungen mit unterschiedlichen Mengen und Preisen. Im Laufe der Zeit steigt der Preis auch und wird am Ende 8 BNB betragen. Mit dem höheren Preis steigt jedoch auch die Chance, einen spezielen Booster zu erhalten.",
         "checkTiers": "Tiers unten ansehen"
     },
     "pigletzList": {
@@ -36,7 +36,7 @@
             "description": "Deine schöne Sammlung"
         },
         "boostersOfferTitle": "Brauchst Du <b>boosters</b>",
-        "boostersOfferCaption": "Investiere in deinem Piglet und der wird Mehrwert für Dich schaffen",
+        "boostersOfferCaption": "Investiere in dein Piglet und dieses wird Mehrwert für Dich schaffen",
         "levelReachedCaption": "Ich habe <b>Level {{level}}</b> erreicht"
     },
     "connect": {
@@ -117,15 +117,15 @@
         "totalCaption": "Gesamt:",
         "howto": {
             "mobile": {
-                "button": "Nicht sicher? Erfahren wie man kaufen kann ↓",
+                "button": "Nicht sicher? Erfahre, wie man kaufen kann ↓",
                 "youNeed": "Du brauchst ",
                 "metamask": "MetaMask",
                 "walletApp": "Wallet App",
                 "android": "Android",
                 "ios": "iOS",
                 "bscTitle": "Du sollst MetaMask konfigurieren, um das Binance Smart Chain Mainnet zu nutzen.",
-                "bscGuide": "Diese Anleitung folgen",
-                "bscBalance": "Du  brauchst ausreichendes BNB-Guthaben auf Deinem MetaMask-Konto, um ein Piglet zu kaufen. Nutze Deine bevorzugte Krypto-Börse, um BNB an Deine MetaMask Public Adresse zu überweisen.",
+                "bscGuide": "Dieser Anleitung folgen",
+                "bscBalance": "Du brauchst ausreichendes BNB-Guthaben auf Deinem MetaMask-Konto, um ein Piglet zu kaufen. Nutze Deine bevorzugte Krypto-Börse, um BNB an Deine MetaMask Public Adresse zu überweisen.",
                 "bscFindAddress": "Wie finde ich meine Wallet Public Adresse?",
                 "bscFindAddressStep1": "1. In Deinem Wallet auf die Adresse-Taste klicken.",
                 "bscFindAddressStep2": "2. Die Adresse ist in Deine Zwischenablage kopiert.",
@@ -133,14 +133,14 @@
                 "openMetamaskButton": "MetaMask öffnen"
             },
             "desktop": {
-                "button": "Nicht sicher? Erfahren wie man im WEB kaufen kann ↓",
+                "button": "Nicht sicher? Erfahre, wie man im WEB kaufen kann ↓",
                 "youNeed": "Du brauchst ",
                 "metamask": "MetaMask",
                 "extension": "Browser-Erweiterung für Chrome oder Firefox.",
                 "chrome": "Google Chrome",
                 "firefox": "Mozilla Firefox",
                 "bscTitle": "Du sollst MetaMask konfigurieren, um das Binance Smart Chain Mainnet zu nutzen.",
-                "bscGuide": "Diese Anleitung folgen",
+                "bscGuide": "Dieser Anleitung folgen",
                 "bscVideo": "Video anschauen",
                 "bscBalance": "Du  brauchst ausreichendes BNB-Guthaben auf Deinem MetaMask-Konto, um ein Piglet zu kaufen. Nutze Deine bevorzugte Krypto-Börse, um BNB an Deine MetaMask Public Adresse zu überweisen.",
                 "bscFindAddress": "Wie finde ich meine Wallet Public Adresse?",
@@ -154,7 +154,7 @@
         }
     },
     "piglet": {
-        "boost": "{{boost}}% boost",
+        "boost": "{{boost}}% boosten",
         "level": "Level {{level}}",
         "dailyMint": "{{dailyMint}} PiFi Daily",
         "pifi": "PiFi:",
