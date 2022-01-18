@@ -163,7 +163,7 @@
         "depositButton": "Einzahlen ({{invested}}/{{total}})",
         "totalValue": "Gesamtwert:",
         "pifiToNextLevel": "{{pifi}} PiFi zum Level {{nextLevel}}",
-        "reachedLevelCaption": "I habe <b>Level {{level}} erreicht</b>",
+        "reachedLevelCaption": "Ich habe <b>Level {{level}} erreicht</b>",
         "gotoLevelButton": "Zum Level {{level}}",
         "goToCollection": "Sammlung",
         "traitsTitle": "Piglet-Eigenschaften",
@@ -181,10 +181,10 @@
         "pifiLPDeclaration": "Der PiFi-Wert wird geschätzt, nachdem die LP bei PancakeSwap erstellt wurde. Das geschiet nur EINMAL während des Verkaufs.",
         "destroy": {
             "title": "Dein Piglet brechen",
-            "description": "Wenn Du dein Piglet brichst, werden alle darin enthaltenen Tokens im Gesamtwert von ${{balanceInUSD}} USD an dener Adresse {{recipient}} ausgezahlt. Dein Piglet wird jedoch zerstört und ist für immer verloren. Also zweimal überlegen und erst dann entscheiden.",
-            "lesserLevel": "Du sollst mindestens Level 2 sein, um dein Piglet brechen zu dürfen!",
+            "description": "Wenn Du Dein Piglet brichst, werden alle darin enthaltenen Tokens im Gesamtwert von ${{balanceInUSD}} USD an dener Adresse {{recipient}} ausgezahlt. Dein Piglet wird jedoch zerstört und ist für immer verloren. Also zweimal überlegen und erst dann entscheiden.",
+            "lesserLevel": "Du sollst mindestens Level 2 sein, um Dein Piglet brechen zu dürfen!",
             "button": "Brechen",
-            "confirmation": "Bist Du sicher, dass Du dein Piglet brechen willst?",
+            "confirmation": "Bist Du sicher, dass Du Dein Piglet brechen willst?",
             "confirm": "Ja, auszahlen",
             "decline": "Nein, ich kann es nicht"
         },
@@ -271,7 +271,7 @@
             "title": "Gamification",
             "caption1": "Level-up, um Piglet-Eigenschaften zu enthüllen und Basis-Mintrate zu verbessern.",
             "caption2": "Boostern sammeln und nutzen, um die Tokenerstellng zu beschleunigen.",
-            "caption3": "Deine Pigletz über unsere bequeme dApp überwachen und verwalten."
+            "caption3": "Deine Pigletz über unsere bequeme Dapp überwachen und verwalten."
         },
         "boosters": {
             "title": "Boostern",
@@ -279,7 +279,7 @@
         },
         "defi": {
             "title": "DeFi",
-            "description": "Du kannst dein piglet auf eine bestimmte Zeit locken, um das Mining zu beschleunigen.",
+            "description": "Du kannst Dein piglet auf eine bestimmte Zeit locken, um das Mining zu beschleunigen.",
             "steaking": {
                 "title": "Piglet-Staking",
                 "description": "Dein Piglet für schnelleres Mining locken "
@@ -363,8 +363,8 @@
             "announcement": "Pigletz jetzt live auf Binance-Smart Chain",
             "description": "Folge uns für weitere Informationen, Vorverkaufs- und Verkaufsdaten und Rabatte",
             "twitter": "Folgen auf Twitter",
-            "discord": "Unser Discord-Server beitreten",
-            "telegram": "Unser Telegram-Kanal beitreten"
+            "discord": "Unserem Discord-Server beitreten",
+            "telegram": "Unserem Telegram-Kanal beitreten"
         },
         "marketplaces": {
             "title": "Auch verfügbar unter:"
