@@ -14,7 +14,7 @@
             "name": "Vicho",
             "title": "The Web Master",
             "description": "Vicho also has a Master's Degree in Computer Sciences and has been developing websites and web apps professionally since before Uni, when he was in High School. He left his software engineering job to co-start his own company 11 years ago. It built hundreds of websites and ranked them very well across multiple verticals on Google.",
-            "photo": "/assets/images/ivo.png"
+            "photo": "/assets/images/vicho.png"
         },
         {
             "name": "Miro",
@@ -34,22 +34,30 @@
             "name": "Yan a.k.a Piglet_Z",
             "title": "The Community Builder",
             "description": "Yan has been a professional Online Marketing specialist and a Social Media Coordinator for almost 10 years. She is also an NFT admirer and self-taught dressmaker. Her personal profiles are deeply conspired and can rarely be found on any social media. However she responds in our Discord almost 24/7.",
-            "photo": "/assets/images/yani.png",
+            "photo": "/assets/images/yan.png",
             "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
             "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
         },
         {
             "name": "Niko",
             "title": "The 3D",
-            "description": "Niko is a graphical and 3D designer with almost 10 years of experience in the field. He has had an interest in NFT's and the wolrd of crypto for some time. When he is not on the internet he can be found in the city art gallery.",
+            "description": "Niko is a graphic and 3D designer with almost 10 years of experience in the field. He has had an interest in NFT's and the wolrd of crypto for some time. When he is not on the internet he can be found in the city art gallery.",
             "photo": "/assets/images/niko.png"
         },
         {
             "name": "Eve",
             "title": "The Concept Art",
             "description": "Eve is an open-minded, self-taught artist, that has been experimenting with digital art for a while now. She is trying to ignite her curiosity through art in all of its forms.",
-            "photo": "/assets/images/moni.png",
+            "photo": "/assets/images/eve.png",
             "instagram": "https://www.instagram.com/evesserpent/"
+        },
+        {
+            "name": "Veronica",
+            "title": "The Frontender",
+            "description": "Energetic front-end developer with experience of designing, developing, and managing websites. She loves traveling around the world and collecting gem stones and crystals and making jewelry from them.",
+            "photo": "/assets/images/vicky.png",
+            "instagram": "https://www.instagram.com/vikkinbd/",
+            "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
         }
     ]
 }
