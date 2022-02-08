@@ -1,4 +1,10 @@
 {
+    "seo": {
+        "url": "https://pigletz.com",
+        "title": "Pigletz - The first NFT that materializes!",
+        "description": "Pigletz is an unique NFT collectable game introducing: unique 3D cute piglets; a digital piggy bank holding your tokens; upgradable NFTs with levels; DeFi - own token, staking, lending; Real 3D piglet figure",
+        "image": "https://pigletz.com/assets/images/social-banner.jpg"
+    },
     "nav": {
         "website": "Pigletz.com",
         "home": "Home",
@@ -7,9 +13,31 @@
         "pigletz": "My Pigletz",
         "mystery": "My Boxes",
         "connect": "Connect Wallet",
-        "buypiglets": "Mint Piglets",
+        "buypiglets": "Mint Pigletz",
         "menu": "Menu",
         "back": "Back"
+    },
+    "banner": {
+        "presale": {
+            "text": "Presale ends in {{time}}",
+            "mintNow": "Mint Now",
+            "second": "{{count}} second",
+            "second_other": "{{count}} seconds",
+            "minute": "{{count}} minute",
+            "minute_other": "{{count}} minutes",
+            "hour": "{{count}} hour",
+            "hour_other": "{{count}} hours",
+            "day": "{{count}} day",
+            "day_other": "{{count}} days"
+        },
+        "public": {
+            "text": "Join our discord community for special offers!",
+            "mintNow": "Mint Now"
+        },
+        "binance": {
+            "text": "Pigletz is now available on Binance NFT",
+            "buy": "Buy from Binance"
+        }
     },
     "footer": {
         "copyright": "© 2021-2022 Pigletz",
@@ -29,11 +57,37 @@
         "tiersDescription": "We are minting collections with different amounts and prices. The price increases with time and at the end will reach 8 BNB. However with the higher price there is also a higher chance to get the special booster.",
         "checkTiers": "check the tiers below"
     },
+    "mint": {
+        "title": "Pigletz Minting",
+        "description": "Welcome! Here you can mint your new Piglet. It will be selected using provably fair random algorithm. If you want to receive discount codes join our communities in Discord, Telegram and Twitter and ask for the options. Enjoy!",
+        "tiersDescription": "We are minting collections with different amounts and prices. The price increases with time and at the end will reach 8 BNB. However with the higher price there is also a higher chance to get the special booster.",
+        "checkTiers": "check the tiers below"
+    },
     "pigletzList": {
         "title": "Pigletz Collection",
         "description": "The beautiful collection of {{address}}",
         "my": {
             "description": "Your beautiful collection"
+        },
+        "seo": {
+            "title": "Pigletz Collection",
+            "description": "A valuable collection of {{count}} piglet",
+            "description_other": "A valuable collection of {{count}} pigletz"
+        },
+        "boostersOfferTitle": "Do you need <b>boosters</b>",
+        "boostersOfferCaption": "Invest in your Piglet and it will produce more value for you",
+        "levelReachedCaption": "I reached <b>Level {{level}}</b>"
+    },
+    "mysteryBoxList": {
+        "title": "Mystery Boxes",
+        "description": "List of boxes owned by {{address}}",
+        "my": {
+            "description": "Your mystery boxes. Open to see the Pigletz inside!"
+        },
+        "seo": {
+            "title": "Pigletz Mystery Boxes",
+            "description": "A valuable collection of {{count}} mystery box full of Pigletz",
+            "description_other": "A valuable collection of {{count}} mystery boxes full of Pigletz"
         },
         "boostersOfferTitle": "Do you need <b>boosters</b>",
         "boostersOfferCaption": "Invest in your Piglet and it will produce more value for you",
@@ -61,7 +115,19 @@
         "boosterUp": {
             "pending": "Activating booster",
             "success": "Congrats!",
-            "error": "Sorry, something went wrong"
+            "errors": {
+                "default": "Sorry, something went wrong",
+                "some piglets dont have the same sign": "Some pigletz don't have the same sign",
+                "wrong number of piglets": "Wrong number of pigletz",
+                "not all piglets are owned by the same owner": "Not all pigletz are owned by the same owner",
+                "some piglets have already been boosted": "Some pigletz have already been boosted",
+                "some piglets are celebrities": "Some pigletz are celebrities",
+                "some piglets are not of the correct level": "Some pigletz are not of the correct level",
+                "some piglets have not been boosted": "Some pigletz have not been boosted",
+                "some piglets are not boostable": "Some pigletz are not boostable",
+                "duplicate tokens": "Duplicate tokens",
+                "sll piglets must have different signs": "All pigletz must have different signs"
+            }
         },
         "checkDiscount": {
             "pending": "Checking code",
@@ -70,9 +136,9 @@
         },
         "purchasePiglet": {
             "pending": "Minting {{count}} piglet",
-            "pending_plural": "Minting {{count}} piglets",
+            "pending_other": "Minting {{count}} pigletz",
             "success": "{{count}} piglet successfully minted",
-            "success_plural": "{{count}} piglets successfully minted",
+            "success_other": "{{count}} pigletz successfully minted",
             "error": "Sorry, something went wrong"
         },
         "approveToken": {
@@ -82,13 +148,18 @@
         },
         "openBox": {
             "pending": "Opening box with {{count}} piglet",
-            "pending_plural": "Opening box with {{count}} pigletz",
+            "pending_other": "Opening box with {{count}} pigletz",
             "success": "Congratz!",
             "error": "Sorry, something went wrong"
         },
         "depositToken": {
             "pending": "Depositing {{amount}} {{symbol}}",
             "success": "Congratz!",
+            "error": "Sorry, something went wrong"
+        },
+        "registerDeposit": {
+            "pending": "Registering {{amount}} {{symbol}}",
+            "success": "Success!",
             "error": "Sorry, something went wrong"
         },
         "destroy": {
@@ -189,7 +260,7 @@
             "decline": "No, I can't"
         },
         "deposit": {
-            "balance": "{{balance}} {{symbol}}",
+            "balance": "{{balance}} {{symbol}} (${{usd}})",
             "tokenNotFound": "Token not found",
             "title": "Deposit Crypto",
             "selectToken": "Please select a token",
@@ -198,13 +269,18 @@
             "inputAmount": "Choose Amount to Deposit",
             "maxButton": "MAX",
             "availableBalance": "Available:",
-            "depositButton": "Deposit Now"
+            "depositButton": "Deposit Now",
+            "unregisteredDeposit": "You have {{balance}} {{symbol}} $({{balanceUSD}}) unregistered",
+            "reisteredDeposit": "Register Now"
         },
         "boosters": {
             "requiresLevel": "Requires level {{level}}",
             "activateButton": "Activate Booster",
             "activated": "Activated",
             "title": "Boosters",
+            "tokenSelect": {
+                "title": "Select {{count}} Pigletz"
+            },
             "names": {
                 "Invest $100": "Value $100",
                 "Invest $500": "Value $500",
@@ -224,10 +300,10 @@
                 "Invest tokens with value of at least $2000 USD": "Get your piglet valuation above $2000 USD",
                 "Collect 3 piglets": "Collect 3 Pigletz",
                 "Collect 7 piglets": "Collect 7 Pigletz",
-                "Invest 3 different tokens": "Invest 3 different tokens, excluding PiFi",
-                "Invest 7 different tokens": "Invest 7 different tokens, excluding PiFi",
-                "Collect 3 with the same zodiac sign": "Collect 3 Pigletz with the same zodiac sign",
-                "Collect 12 piglets with different zodiac signs": "Collect 12 Pigletz with different zodiac signs",
+                "Invest 3 different tokens": "Invest 3 different non-zero valued tokens, excluding PiFi",
+                "Invest 7 different tokens": "Invest 7 different non-zero valued tokens, excluding PiFi",
+                "Collect 3 with the same zodiac sign": "Collect 3 pigletz with the same zodiac sign",
+                "Collect 12 piglets with different zodiac signs": "Collect 12 pigletz with different zodiac signs",
                 "Stake it in the Staking Contract": "Stake it in the Staking Contract",
                 "It is born like this": "It is born like this"
             },
@@ -237,8 +313,8 @@
                 "Invest tokens with value of at least $2000 USD": "You can do it by investing tokens",
                 "Collect 3 piglets": "Just mint 3",
                 "Collect 7 piglets": "Just mint 7",
-                "Invest 3 different tokens": "Use the deposit button",
-                "Invest 7 different tokens": "Use the deposit button",
+                "Invest 3 different tokens": "Tokens need to be listed on PancakeSwap",
+                "Invest 7 different tokens": "Tokens need to be listed on PancakeSwap",
                 "Collect 3 with the same zodiac sign": "Booster will affect all 3",
                 "Collect 12 piglets with different zodiac signs": "Booster will affect all 12",
                 "Stake it in the Staking Contract": "Coming soon",
@@ -253,7 +329,7 @@
         "nft": {
             "title": "It's an NFT",
             "features": [
-                "12,345 unique Limited Edition Piglets with provable random characteristics of various rarity",
+                "12,345 unique Limited Edition Pigletz with provable random characteristics of various rarity",
                 "100% hand-crafted 3d models",
                 "A total of over 2 billion combinations possible",
                 "Randomly minted on purchase",
@@ -275,7 +351,7 @@
         },
         "boosters": {
             "title": "Boosters",
-            "description": "Boosters increase the PiFi token mining speed of your piglets. There are 9 of them in total."
+            "description": "Boosters increase the PiFi token mining speed of your pigletz. There are 9 of them in total."
         },
         "defi": {
             "title": "DeFi",
@@ -328,9 +404,9 @@
                     "status": "✓ Completed"
                 },
                 {
-                    "description": "Launch a listing on Binance NFT<br />(December 2021 - January 2022)",
-                    "progress": 0,
-                    "status": "Upcoming"
+                    "description": "Launch a listing on Binance NFT<br />(January 2022)",
+                    "progress": 100,
+                    "status": "✓ Completed"
                 },
                 {
                     "description": "<b>Creat a PiFi Liquidity Pool on PancakeSwap</b><br />(After the sale)",
@@ -367,7 +443,7 @@
             "telegram": "Join our Telegram Channel"
         },
         "marketplaces": {
-            "title": "Also available at:"
+            "title": "Also available on:"
         }
     }
 }
