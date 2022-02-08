@@ -1,11 +1,11 @@
 {
-    "title": "About us",
-    "description": "Pigletz.com is a collaboration between two companies (Blockchain Technology Bulgaria and Aff Media) with decades of combined experience in the fields of mobile game develoment, web authoring and marketing and blockchain technology. Our team consists exclusively of professionals, some of whom have worked in the IT industry for over 20 years.",
+    "title": "Über Uns",
+    "description": "Pigletz.com ist eine Kollaboration zwischen zwei Unternehmen Blockchain Technology Bulgaria und Aff Media, die zusammen jahrzehntenlange Erfahrung in den Bereichen Spielentwicklung und Blockchain-Technlogien, Web-Authoring und Marketing aufweisen. Unser Team besteht ausschließlich aus Spezialisten. Einige von ihnen sind seit über 20 Jahren in der IT-Branche tätig.",
     "team": [
         {
             "name": "Galin a.k.a. MasterPig",
             "title": "The Visionary",
-            "description": "Galin is a Master of Engineering in computer sciences and entrepreneur with more than 20 years in the business. As a founder of several game-dev companies he has produced successful games with millions of players. Last 5 years he develops companies in the blockchain and DeFi fields.",
+            "description": "Galin hat den Masterstudiengang Software-Engeneering absolviert und ist Unternehmer mit mehr als 20 Jahren Erfahrung. Als Gründer mehrerer Spielentwicklungsunternehmen hat er mit seinem Team erfolgreiche Spiele mit Millionen von Spielern produziert. In den letzten 5 Jahren entwickelt er Unternehmen in den Bereichen Blockchain und DeFi.",
             "photo": "/assets/images/masterpig.png",
             "linkedin": "https://www.linkedin.com/in/galindinkov/",
             "twitter": "https://twitter.com/_galinDinkov"
@@ -13,27 +13,27 @@
         {
             "name": "Vicho",
             "title": "The Web Master",
-            "description": "Vicho also has a Master's Degree in Computer Sciences and has been developing websites and web apps professionally since before Uni, when he was in High School. He left his software engineering job to co-start his own company 11 years ago. It built hundreds of websites and ranked them very well across multiple verticals on Google.",
+            "description": "Vicho hat ebenefalls enen Masterabschluss in Informatik und entwickelt seit seiner Schulzeit professionelle Webseiten und Webanwendungen. Er hat seinen Job als Softwareentwickler gekündigt, um vor 11 Jahren sein eigenes Unternehmen mitzugründen. Er hat Hunderte von Webseiten entwickelt und diese bei Google sehr gut platziert.",
             "photo": "/assets/images/ivo.png"
         },
         {
             "name": "Miro",
             "title": "The Market[ing] Maker",
-            "description": "Building web projects from scratch in the iGaming and FX industries. Co-owner of TradingPedia.com",
+            "description": "Aufbau von Webprojekten in der iGaming und FX-Branchen. Miteingentümer von TradingPedia.com",
             "photo": "/assets/images/miro.png",
             "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
         },
         {
             "name": "Miró",
             "title": "The Contracts",
-            "description": "Software genius with 3 decades of experience",
+            "description": "Software-Genie mit 3 Jahrzehnten-Erfahrung.",
             "photo": "/assets/images/miro2.png",
             "linkedin": "https://www.linkedin.com/in/miroslavln"
         },
         {
             "name": "Yan a.k.a Piglet_Z",
             "title": "The Community Builder",
-            "description": "Yan has been a professional Online Marketing specialist and a Social Media Coordinator for almost 10 years. She is also an NFT admirer and self-taught dressmaker. Her personal profiles are deeply conspired and can rarely be found on any social media. However she responds in our Discord almost 24/7.",
+            "description": "Yan ist seit fast 10 Jahren eine Online-Marketing und Social-Media Spezialistin. Sie ist auch einen NFT-Fan und selbst erlernte Schneiderin. Ihre persönlichen Profilen in den Social Medien sind sehr inspirierend, einzigartig und nur sehr selten zu finden. Allerdings ist sie auf unserem Discord fast 24/7 verfügbar.",
             "photo": "/assets/images/yani.png",
             "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
             "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
@@ -41,15 +41,16 @@
         {
             "name": "Niko",
             "title": "The 3D",
-            "description": "Niko is a graphical and 3D designer with almost 10 years of experience in the field. He has had an interest in NFT's and the wolrd of crypto for some time. When he is not on the internet he can be found in the city art gallery.",
+            "description": "Niko ist ein Grafik- und 3D-Designer mit fast 10 Jahren Erfahrung. Seit einiger Zeit interessiert er sich für NFTs und Cryptowährungen. Wenn er nicht gerade online unterwegs ist, kann man ihn in der Kunstgalerie treffen.",
             "photo": "/assets/images/niko.png"
         },
         {
             "name": "Eve",
             "title": "The Concept Art",
-            "description": "Eve is an open-minded, self-taught artist, that has been experimenting with digital art for a while now. She is trying to ignite her curiosity through art in all of its forms.",
+            "description": "Eve ist eine aufgeschlossene, selbst erlernte Künstlerin, die schon einiger Zeit mit digitaler Kunst experimentiert. Sie versucht, ihre Neugier durch Kunst in allen Formen zu entfachen.",
             "photo": "/assets/images/moni.png",
             "instagram": "https://www.instagram.com/evesserpent/"
         }
     ]
 }
+
