@@ -1,0 +1,55 @@
+{
+    "title": "About us",
+    "description": "Pigletz.com is a collaboration between two companies (Blockchain Technology Bulgaria and Aff Media) with decades of combined experience in the fields of mobile game develoment, web authoring and marketing and blockchain technology. Our team consists exclusively of professionals, some of whom have worked in the IT industry for over 20 years.",
+    "team": [
+        {
+            "name": "Galin a.k.a. MasterPig",
+            "title": "The Visionary",
+            "description": "Galin is a Master of Engineering in computer sciences and entrepreneur with more than 20 years in the business. As a founder of several game-dev companies he has produced successful games with millions of players. Last 5 years he develops companies in the blockchain and DeFi fields.",
+            "photo": "/assets/images/masterpig.png",
+            "linkedin": "https://www.linkedin.com/in/galindinkov/",
+            "twitter": "https://twitter.com/_galinDinkov"
+        },
+        {
+            "name": "Vicho",
+            "title": "The Web Master",
+            "description": "Vicho also has a Master's Degree in Computer Sciences and has been developing websites and web apps professionally since before Uni, when he was in High School. He left his software engineering job to co-start his own company 11 years ago. It built hundreds of websites and ranked them very well across multiple verticals on Google.",
+            "photo": "/assets/images/ivo.png"
+        },
+        {
+            "name": "Miro",
+            "title": "The Market[ing] Maker",
+            "description": "Building web projects from scratch in the iGaming and FX industries. Co-owner of TradingPedia.com",
+            "photo": "/assets/images/miro.png",
+            "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+        },
+        {
+            "name": "Miró",
+            "title": "The Contracts",
+            "description": "Software genius with 3 decades of experience",
+            "photo": "/assets/images/miro2.png",
+            "linkedin": "https://www.linkedin.com/in/miroslavln"
+        },
+        {
+            "name": "Yan a.k.a Piglet_Z",
+            "title": "The Community Builder",
+            "description": "Yan has been a professional Online Marketing specialist and a Social Media Coordinator for almost 10 years. She is also an NFT admirer and self-taught dressmaker. Her personal profiles are deeply conspired and can rarely be found on any social media. However she responds in our Discord almost 24/7.",
+            "photo": "/assets/images/yani.png",
+            "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
+            "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+        },
+        {
+            "name": "Niko",
+            "title": "The 3D",
+            "description": "Niko is a graphical and 3D designer with almost 10 years of experience in the field. He has had an interest in NFT's and the wolrd of crypto for some time. When he is not on the internet he can be found in the city art gallery.",
+            "photo": "/assets/images/niko.png"
+        },
+        {
+            "name": "Eve",
+            "title": "The Concept Art",
+            "description": "Eve is an open-minded, self-taught artist, that has been experimenting with digital art for a while now. She is trying to ignite her curiosity through art in all of its forms.",
+            "photo": "/assets/images/moni.png",
+            "instagram": "https://www.instagram.com/evesserpent/"
+        }
+    ]
+}
