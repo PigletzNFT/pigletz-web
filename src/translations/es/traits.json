@@ -1,26 +1,26 @@
 {
     "trait": {
         "category": {
-            "Level": "Level",
-            "Base PiFi/Day": "Base PiFi/Day",
-            "Gender": "Gender",
-            "Zodiac": "Sign",
-            "Body": "Body",
-            "Mouth": "Mouth",
-            "Eyes": "Eyes",
-            "Hairstyle": "Hairstyle",
-            "Beardstyle": "Beardstyle",
-            "Earrings": "Earrings",
-            "Nose": "Nose Style",
-            "Glasses": "Glasses",
-            "Tattoo": "Tattoo"
+            "Level": "Nivel",
+            "Base PiFi/Day": "Base??? PiFi/Día",
+            "Gender": "Género",
+            "Zodiac": "Signo",
+            "Body": "Cuerpo",
+            "Mouth": "Boca",
+            "Eyes": "Ojos",
+            "Hairstyle": "Peinado",
+            "Beardstyle": "Estilo de barba",
+            "Earrings": "Pendientes",
+            "Nose": "Tipos de nariz",
+            "Glasses": "Gafas",
+            "Tattoo": "Tatuaje"
         },
         "value": {
             "Level": {
-                "1": "1st",
-                "2": "2nd",
-                "3": "3rd",
-                "4": "Materialized"
+                "1": "1er/ Primer ??",
+                "2": "2o/ Segundo??",
+                "3": "3er/ Tercer",
+                "4": "Materializado"
             },
             "Base PiFi/Day": {
                 "167": "167",
@@ -29,149 +29,149 @@
                 "500": "500"
             },
             "Gender": {
-                "GenderMale": "Male",
-                "GenderFemale": "Female",
-                "GenderOther": "Other"
+                "GenderMale": "Masculino",
+                "GenderFemale": "Femenino",
+                "GenderOther": "Otro"
             },
             "Zodiac": {
                 "ZodiacAries": "Aries",
-                "ZodiacTaurus": "Taurus",
-                "ZodiacGemini": "Gemini",
-                "ZodiacCancer": "Cancer",
+                "ZodiacTaurus": "Tauro",
+                "ZodiacGemini": "Géminis",
+                "ZodiacCancer": "Cáncer",
                 "ZodiacLeo": "Leo",
                 "ZodiacVirgo": "Virgo",
                 "ZodiacLibra": "Libra",
-                "ZodiacScorpio": "Scorpio",
-                "ZodiacSagittarius": "Sagittarius",
-                "ZodiacCapricorn": "Capricorn",
-                "ZodiacAquarius": "Aquarius",
-                "ZodiacPisces": "Pisces"
+                "ZodiacScorpio": "Escorpio",
+                "ZodiacSagittarius": "Sagitario",
+                "ZodiacCapricorn": "Capricornio",
+                "ZodiacAquarius": "Acuario",
+                "ZodiacPisces": "Piscis"
             },
             "Body": {
-                "BodyPinkMale": "Pink",
-                "BodyBrownMale": "Brown",
-                "BodyBlackMale": "Black",
+                "BodyPinkMale": "Rosa",
+                "BodyBrownMale": "Marrón???  Moreno",
+                "BodyBlackMale": "Negro",
                 "BodyAlbinoMale": "Albino",
-                "BodyGoldMale": "Gold",
-                "BodyStoneMale": "Stone",
-                "BodyPinkFemale": "Pink",
-                "BodyBrownFemale": "Brown",
-                "BodyBlackFemale": "Black",
+                "BodyGoldMale": "Dorado? Oro",
+                "BodyStoneMale": "Roca",
+                "BodyPinkFemale": "Rosa",
+                "BodyBrownFemale": "Marrón???  Moreno",
+                "BodyBlackFemale": "Negro",
                 "BodyAlbinoFemale": "Albino",
-                "BodyGoldFemale": "Gold",
-                "BodyStoneFemale": "Stone"
+                "BodyGoldFemale": "Dorado? Oro",
+                "BodyStoneFemale": "Roca"
             },
             "Mouth": {
-                "MouthMaleBubblegum": "Bubblegum",
-                "MouthSmoking": "Smoking",
-                "MouthAngry": "Angry",
-                "MouthMaleSmiling": "Smiling",
-                "MouthMaleTongue": "Tongue",
-                "MouthDrooling": "Drooling",
-                "MouthMaleVampire": "Vampire",
-                "MouthGoldTooth": "Gold Tooth",
-                "MouthStandard": "Standard",
-                "MouthHalfOpen": "Half Open",
-                "MouthFemaleSmiling": "Smiling",
-                "MouthFemaleBubblegum": "Bubblegum",
-                "MouthKiss": "Kiss",
-                "MouthFemaleTongue": "Tongue",
-                "MouthFemaleVampire": "Vampire"
+                "MouthMaleBubblegum": "Chicle",
+                "MouthSmoking": "Fumador",
+                "MouthAngry": "Enojado",
+                "MouthMaleSmiling": "Sonriente",
+                "MouthMaleTongue": "Lengua",
+                "MouthDrooling": "Babeando",
+                "MouthMaleVampire": "Vampiro",
+                "MouthGoldTooth": "Diente dorado",
+                "MouthStandard": "Estándar",
+                "MouthHalfOpen": "Medio abierto",
+                "MouthFemaleSmiling": "Sonriente",
+                "MouthFemaleBubblegum": "Chicle",
+                "MouthKiss": "Beso",
+                "MouthFemaleTongue": "Lengua",
+                "MouthFemaleVampire": "Vampiro"
             },
             "Eyes": {
-                "EyesMaleBrown": "Brown",
-                "EyesMaleGreen": "Green",
-                "EyesMaleBlue": "Blue",
-                "EyesTired": "Tired",
+                "EyesMaleBrown": "",
+                "EyesMaleGreen": "Verde",
+                "EyesMaleBlue": "Azul",
+                "EyesTired": "Cansado",
                 "EyesBitcoin": "Bitcoin",
-                "EyesInlove": "In love",
-                "EyesScared": "Scared",
-                "EyesMaleAngry": "Angry",
-                "EyesCrying": "Crying",
-                "EyesSeductive": "Seductive",
-                "EyesFemaleGreen": "Green",
-                "EyesFemaleBlue": "Blue",
-                "EyesFemaleBrown": "Brown",
+                "EyesInlove": "Enamorado",
+                "EyesScared": "Asustado",
+                "EyesMaleAngry": "Enojado",
+                "EyesCrying": "Lloroso",
+                "EyesSeductive": "Seductor",
+                "EyesFemaleGreen": "Verde",
+                "EyesFemaleBlue": "Azul",
+                "EyesFemaleBrown": "Marrón",
                 "EyesFemaleBitcoin": "Bitcoin",
-                "EyesBlinking": "Blinking",
-                "EyesFemaleAngry": "Angry"
+                "EyesBlinking": "Parpadeando",
+                "EyesFemaleAngry": "Enojado"
             },
             "Hairstyle": {
-                "HairstyleBald": "Bald",
-                "HairstyleManbunBlack": "Black Manbun",
+                "HairstyleBald": "Calvo",
+                "HairstyleManbunBlack": "Moño negro hombre",
                 "HairstyleRasta": "Rasta",
-                "HairstyleEmoBlonde": "Blonde Emo",
-                "HairstyleEmoBrown": "Brown Emo",
-                "HairstyleEmoBlack": "Black Emo",
-                "HairstyleSpikedBrown": "Brown Spiked",
-                "HairstyleEyesMaleAngry": "Angry",
-                "HairstyleSpikedBlonde": "Blonde Spiked",
-                "HairstyleChild": "Child",
+                "HairstyleEmoBlonde": "Emo Rubio",
+                "HairstyleEmoBrown": "Emo Marrón",
+                "HairstyleEmoBlack": "Emo Negro",
+                "HairstyleSpikedBrown": "Pincho marrón",
+                "HairstyleEyesMaleAngry": "Enojado",
+                "HairstyleSpikedBlonde": "Pincho rubio",
+                "HairstyleChild": "Niño",
                 "HairstylePunk": "Punk",
                 "HairstyleFedora": "Fedora",
-                "HairstyleSummerHat": "Summer Hat",
-                "HairstyleShort": "Short",
-                "HairstyleBraid": "Braid",
+                "HairstyleSummerHat": "Gorra",
+                "HairstyleShort": "Corto",
+                "HairstyleBraid": "Trenza",
                 "HairstyleAfro": "Afro",
-                "HairstyleStraight": "Straight",
-                "HairstyleCurlyBanksBlonde": "Blonde Curly Banks",
-                "HairstyleCurlyBanksRed": "Red Curly Banks",
-                "HairstyleBunsBlack": "Black Buns",
-                "HairstyleBunsBlonde": "Blonde Buns",
-                "HairstyleBunsBrown": "Brown Buns",
-                "HairstyleBanks": "Banks",
-                "HairstylePonytails": "Ponytails",
-                "HairstylePonytail": "Ponytail"
+                "HairstyleStraight": "Liso",
+                "HairstyleCurlyBanksBlonde": "Blonde Curly Banks?? Rizado rubio con flequillo",
+                "HairstyleCurlyBanksRed": "Red Curly Banks Rizado rojo con flequillo",
+                "HairstyleBunsBlack": "Moño negro",
+                "HairstyleBunsBlonde": "Moño rubio",
+                "HairstyleBunsBrown": "Moño marrón",
+                "HairstyleBanks": "Flequillos",
+                "HairstylePonytails": "Coletas de caballo",
+                "HairstylePonytail": "Coleta de caballo"
             },
             "Beardstyle": {
-                "BeardstyleNone": "None",
-                "BeardstyleFull": "Full",
-                "BeardstyleThin": "Thin",
-                "BeardstyleStandard": "Standard",
+                "BeardstyleNone": "Ninguno",
+                "BeardstyleFull": "Full???",
+                "BeardstyleThin": "Thin???",
+                "BeardstyleStandard": "Estándar",
                 "BeardstyleMario": "Mario",
                 "BeardstyleDali": "Dali"
             },
             "Earrings": {
-                "EarringsNone": "None",
-                "EarringsMaleRingsSilver": "Silver Rings",
-                "EarringsMaleRingsGold": "Gold Rings",
-                "EarringsManiac": "Maniac",
-                "EarringsDrop": "Drop",
-                "EarringsFancy": "Fancy",
-                "EarringsBigRings": "Big Rings",
-                "EarringsStones": "Stones",
-                "EarringsFemaleRings": "Rings",
-                "EarringsBalls": "Balls"
+                "EarringsNone": "Ningunos",
+                "EarringsMaleRingsSilver": "Pendientes de plata",
+                "EarringsMaleRingsGold": "Pendientes de oro",
+                "EarringsManiac": "Maníaco",
+                "EarringsDrop": "Gota",
+                "EarringsFancy": "Elegantes",
+                "EarringsBigRings": "Pendientes grandes",
+                "EarringsStones": "Piedras",
+                "EarringsFemaleRings": "Pendientes",
+                "EarringsBalls": "Bolas"
             },
             "Nose": {
-                "NoseNone": "None",
+                "NoseNone": "Ninguno",
                 "NoseTribal": "Tribal",
-                "NoseHorseshoe": "Horseshoe",
-                "NoseRing": "Ring",
-                "NoseSeptum": "Septum",
-                "NoseBooger": "Booger"
+                "NoseHorseshoe": "Herradura",
+                "NoseRing": "Aro",
+                "NoseSeptum": "Tabique",
+                "NoseBooger": "Booger????"
             },
             "Glasses": {
-                "GlassesNone": "None",
+                "GlassesNone": "Ningunas",
                 "GlassesJohn": "John",
-                "GlassesHalf": "Half",
-                "GlassesEyepatch": "Eyepatch",
-                "GlassesOptical": "Optical",
-                "GlassesMask": "Mask",
+                "GlassesHalf": "Mitad",
+                "GlassesEyepatch": "Parche de ojo"
+                "GlassesOptical": "Óptico"
+                "GlassesMask": "Máscara"
                 "GlassesRetro": "Retro",
-                "GlassesCateyeRed": "Red Cateye",
-                "GlassesCateyeWhite": "White Cateye",
-                "GlassesHeartshaped": "Heartshaped",
-                "GlassesGolden": "Golden"
+                "GlassesCateyeRed": "Ojos de gato Rojas"
+                "GlassesCateyeWhite": "Ojos de gato Blancas"
+                "GlassesHeartshaped": "En forma de corazón"
+                "GlassesGolden": "Doradas"
             },
             "Tattoo": {
-                "TattooNone": "None",
+                "TattooNone": "Ninguno"
                 "TattooTyson": "Tyson",
-                "TattooRapper": "Rapper",
-                "TattooMaleFace": "Face",
-                "TattooFemaleFace": "Face",
-                "TattooPiercing": "Piercing",
-                "TattooFull": "Full"
+                "TattooRapper": "Rapero"
+                "TattooMaleFace": "Rostro"
+                "TattooFemaleFace": "Rostro"
+                "TattooPiercing": "Piercing/Perforación??"
+                "TattooFull": "Full??"
             }
         }
     }
