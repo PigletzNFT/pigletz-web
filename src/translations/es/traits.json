@@ -155,22 +155,22 @@
                 "GlassesNone": "Ningunas",
                 "GlassesJohn": "John",
                 "GlassesHalf": "Mitad",
-                "GlassesEyepatch": "Parche de ojo"
-                "GlassesOptical": "Óptico"
-                "GlassesMask": "Máscara"
+                "GlassesEyepatch": "Parche de ojo",
+                "GlassesOptical": "Óptico",
+                "GlassesMask": "Máscara",
                 "GlassesRetro": "Retro",
-                "GlassesCateyeRed": "Ojos de gato Rojas"
-                "GlassesCateyeWhite": "Ojos de gato Blancas"
-                "GlassesHeartshaped": "En forma de corazón"
+                "GlassesCateyeRed": "Ojos de gato Rojas",
+                "GlassesCateyeWhite": "Ojos de gato Blancas",
+                "GlassesHeartshaped": "En forma de corazón",
                 "GlassesGolden": "Doradas"
             },
             "Tattoo": {
-                "TattooNone": "Ninguno"
+                "TattooNone": "Ninguno",
                 "TattooTyson": "Tyson",
-                "TattooRapper": "Rapero"
-                "TattooMaleFace": "Rostro"
-                "TattooFemaleFace": "Rostro"
-                "TattooPiercing": "Piercing/Perforación??"
+                "TattooRapper": "Rapero",
+                "TattooMaleFace": "Rostro",
+                "TattooFemaleFace": "Rostro",
+                "TattooPiercing": "Piercing/Perforación??",
                 "TattooFull": "Full??"
             }
         }
