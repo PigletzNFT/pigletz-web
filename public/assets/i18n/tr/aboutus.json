@@ -1,0 +1,55 @@
+{
+    "title": "Hakkımızda",
+    "description": "Pigletz.com, mobil oyun geliştirme, web geliştirme ve pazarlama ve blok zinciri teknolojisi alanlarında onlarca yıllık birleşik deneyime sahip iki şirket (Blockchain Technology Bulgaristan ve Aff Media) arasındaki bir işbirliğidir. Ekibimizden bazıları 20 yılı aşkın süredir BT sektöründe çalışmış profesyonellerden oluşmaktadır.",
+    "team": [
+        {
+            "name": "Galin a.k.a. MasterPig",
+            "title": "Vizyoner",
+            "description": "Galin, bilgisayar bilimlerinde mühendislik yüksek lisans yaptı ve iş hayatında 20 yılı aşkın süredir girişimcidir. Birkaç oyun geliştirme şirketinin kurucusu olarak milyonlarca oyuncuyla başarılı oyunlar üretti. Son 5 yıldır blockchain ve DeFi alanlarında şirketler geliştiriyor.",
+            "photo": "/assets/images/masterpig.png",
+            "linkedin": "https://www.linkedin.com/in/galindinkov/",
+            "twitter": "https://twitter.com/_galinDinkov"
+        },
+        {
+            "name": "Vicho",
+            "title": "Web Master",
+            "description": "Vicho also has a Master's Degree in Computer Sciences and has been developing websites and web apps professionally since before Uni, when he was in High School. He left his software engineering job to co-start his own company 11 years ago. It built hundreds of websites and ranked them very well across multiple verticals on Google.",
+            "photo": "/assets/images/ivo.png"
+        },
+        {
+            "name": "Miro",
+            "title": "The Market[ing] Maker",
+            "description": "Building web projects from scratch in the iGaming and FX industries. Co-owner of TradingPedia.com",
+            "photo": "/assets/images/miro.png",
+            "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+        },
+        {
+            "name": "Miró",
+            "title": "The Contracts",
+            "description": "3 Yıllık deneyime sahip yazılım dehası",
+            "photo": "/assets/images/miro2.png",
+            "linkedin": "https://www.linkedin.com/in/miroslavln"
+        },
+        {
+            "name": "Yan a.k.a Piglet_Z",
+            "title": "The Community Builder",
+            "description": "Yan has been a professional Online Marketing specialist and a Social Media Coordinator for almost 10 years. She is also an NFT admirer and self-taught dressmaker. Her personal profiles are deeply conspired and can rarely be found on any social media. However she responds in our Discord almost 24/7.",
+            "photo": "/assets/images/yani.png",
+            "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
+            "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+        },
+        {
+            "name": "Niko",
+            "title": "The 3D",
+            "description": "Niko, alanında yaklaşık 10 yıllık deneyime sahip bir grafik ve 3D tasarımcıdır. Bir süredir NFT'lere ve kripto dünyasına ilgi duyuyor. İnternette olmadığı zamanlarda şehrin sanat galerisinde bulunabilir.",
+            "photo": "/assets/images/niko.png"
+        },
+        {
+            "name": "Eve",
+            "title": "The Concept Art",
+            "description": "Eve, bir süredir dijital sanatla deneyler yapan açık fikirli, kendi kendini yetiştirmiş bir sanatçıdır. Sanatın tüm biçimleriyle merakını ateşlemeye çalışıyor.",
+            "photo": "/assets/images/moni.png",
+            "instagram": "https://www.instagram.com/evesserpent/"
+        }
+    ]
+}

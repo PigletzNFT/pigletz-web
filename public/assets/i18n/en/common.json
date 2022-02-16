@@ -15,7 +15,12 @@
         "connect": "Connect Wallet",
         "buypiglets": "Mint Pigletz",
         "menu": "Menu",
-        "back": "Back"
+        "back": "Back",
+        "languages": {
+            "en": "English",
+            "de": "Deutch",
+            "es": "Español"
+        }
     },
     "banner": {
         "presale": {
