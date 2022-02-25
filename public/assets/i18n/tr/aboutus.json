@@ -1,0 +1,42 @@
+{
+  "title": "Hakkımızda",
+  "team": [
+    {
+      "title": "Vizyoner",
+      "photo": "/assets/images/masterpig.png",
+      "linkedin": "https://www.linkedin.com/in/galindinkov/",
+      "twitter": "https://twitter.com/_galinDinkov"
+    },
+    {
+      "name": "Vicho",
+      "title": "Web Master",
+      "photo": "/assets/images/ivo.png"
+    },
+    {
+      "name": "Miro",
+      "photo": "/assets/images/miro.png",
+      "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+    },
+    {
+      "name": "Miró",
+      "photo": "/assets/images/miro2.png",
+      "linkedin": "https://www.linkedin.com/in/miroslavln"
+    },
+    {
+      "photo": "/assets/images/yani.png",
+      "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
+      "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+    },
+    {
+      "name": "Niko",
+      "photo": "/assets/images/niko.png"
+    },
+    {
+      "name": "Eve",
+      "photo": "/assets/images/moni.png",
+      "instagram": "https://www.instagram.com/evesserpent/"
+    },
+    {
+    }
+  ]
+}
