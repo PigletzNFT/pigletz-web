@@ -1,0 +1,456 @@
+{
+  "seo": {
+    "title": "Pigletz - Gerçeğe dönüşen ilk NFT!",
+    "description": "Pigletz, şunları içeren, benzersiz bir NFT koleksiyonu oyunudur:\nbenzersiz, 3 boyutlu, sevimli domuzcuklar; token'larınızı saklamak için dijital bir domuzcuk kumbara; seviyeleri yükseltilebilen NFT'ler; merkeziyetsiz finans ile token sahibi olma, bahis oynama ve borç verme; gerçek, 3 boyutlu domuzcuk figürleri."
+  },
+  "nav": {
+    "website": "Pigletz.com",
+    "home": "Anasayfa",
+    "gallery": "Galeri",
+    "aboutus": "Hakkımızda",
+    "pigletz": "Pigletz'lerim",
+    "mystery": "Kutularım",
+    "connect": "Cüzdan Bağla",
+    "buypiglets": "Pigletz Bas",
+    "menu": "Menü",
+    "back": "Geri",
+    "languages": {
+      "en": "İngilizce",
+      "de": "Almanca",
+      "es": "İspanyolca"
+    }
+  },
+  "banner": {
+    "presale": {
+      "text": "Ön satış için son tarih: {{time}} ",
+      "mintNow": "Hemen Bas",
+      "second": "{{count}} saniye",
+      "second_other": "{{count}} saniye",
+      "minute": "{{count}} dakika",
+      "minute_other": "{{count}} dakika",
+      "hour": "{{count}} saat",
+      "hour_other": "{{count}} saat",
+      "day": "{{count}} gün",
+      "day_other": "{{count}} gün"
+    },
+    "public": {
+      "text": "Özel teklifler için Discord topluluğumuza katılın!",
+      "mintNow": "Hemen Bas"
+    },
+    "binance": {
+      "text": "Pigletz artık Binance NFT'de mevcut",
+      "buy": "Binance'den satın alın"
+    }
+  },
+  "footer": {
+    "copyright": "© 2021-2022 Pigletz",
+    "terms": "Hüküm ve Koşullar",
+    "privacy": "Gizlilik Politikası",
+    "contracts": {
+      "title": "Sözleşmeler:",
+      "pigletz": "Pigletz (BEP721)",
+      "pifi": "PiFi (BEP20)",
+      "salesManager": "Satış",
+      "mysteryBox": "GizemliKutu (BEP721)"
+    }
+  },
+  "presale": {
+    "title": "Pigletz Ön Satışı",
+    "description": "Hoş geldin seçilmiş kişi! Ön satışımıza katılmak için seçildiniz ve mümkün olan en düşük fiyata eşsiz bir Pigletz basma şansına sahipsiniz. Aynı işlemde 5, 10, veya 20'lik bir paket de basabilirsiniz. İndirim kodunuz hepsine uygulanacaktır. İyi eğlenceler!",
+    "tiersDescription": "Farklı miktar ve fiyatlarda koleksiyonlar basıyoruz. Fiyat zamanla artmaktadır ve sonunda 8 BNB'ye ulaşacaktır. Ancak fiyat arttığında, özel takviyeyi elde etme şansınız da artmaktadır.",
+    "checkTiers": "aşağıdaki seviyeleri kontrol edin"
+  },
+  "mint": {
+    "title": "Pigletz Basma",
+    "description": "Hoş geldiniz! Burada yeni Pigletz'inizi basabilirsiniz. Bastığınız Pigletz kanıtlanabilir bir şekilde adil ve rastgele bir algoritma kullanılarak seçilecektir. İndirim kodları almak isterseniz Discord, Telegram ve Twitter'daki topluluklarımıza katılın ve seçenekleri sorun. İyi eğlenceler!",
+    "tiersDescription": "Farklı miktar ve fiyatlarda koleksiyonlar basıyoruz. Fiyat zamanla artmaktadır ve sonunda 8 BNB'ye ulaşacaktır. Ancak fiyat arttığında, özel takviyeyi elde etme şansınız da artmaktadır.",
+    "checkTiers": "aşağıdaki seviyeleri kontrol edin"
+  },
+  "pigletzList": {
+    "title": "Pigletz Koleksiyonu",
+    "description": "{{address}} adresinin güzel koleksiyonu",
+    "my": {
+      "description": "Güzel koleksiyonunuz"
+    },
+    "seo": {
+      "title": "Pigletz Koleksiyonu",
+      "description": "{{count}} Pigletz içeren değerli bir koleksiyon",
+      "description_other": "{{count}} Pigletz içeren değerli bir koleksiyon"
+    },
+    "boostersOfferTitle": "<b>Takviyeye</b> ihtiyacınız var mı?",
+    "boostersOfferCaption": "Pigletz'inize yatırım yaparsanız sizin için daha çok değer üretecektir.",
+    "levelReachedCaption": "<b>Seviye {{level}}</b>'e ulaştım"
+  },
+  "mysteryBoxList": {
+    "title": "Gizemli Kutular",
+    "description": "{{address}} adresine ait kutuların listesi",
+    "my": {
+      "description": "Gizemli kutularınız. İçindeki Pigletz'leri görmek için açın!"
+    },
+    "seo": {
+      "title": "Pigletz Gizemli Kutuları",
+      "description": "Pigletz dolu {{count}} gizemli kutu içeren değerli bir koleksiyon",
+      "description_other": "Pigletz dolu {{count}} gizemli kutu içeren değerli bir koleksiyon"
+    },
+    "boostersOfferTitle": "<b>Takviyeye</b> ihtiyacınız var mı?",
+    "boostersOfferCaption": "Pigletz'inize yatırım yaparsanız sizin için daha çok değer üretecektir.",
+    "levelReachedCaption": "Ulaştığım seviye: <b>{{level}}</b>"
+  },
+  "connect": {
+    "title": "Cüzdan Bağla",
+    "balance": "{{balance}} BNB",
+    "disconnect": "Bağlantıyı Kes",
+    "providers": {
+      "metamask": "MetaMask",
+      "trustwallet": "Trust Wallet",
+      "binancewallet": "Binance Wallet",
+      "walletconnect": "WalletConnect"
+    },
+    "howtoTitle": "Kripto cüzdanınız yok mu?",
+    "howtoButton": "Nasıl bağlanacağınızı öğrenin"
+  },
+  "actions": {
+    "levelUp": {
+      "pending": "{{level}}. seviyesine geçiliyor",
+      "success": "Tebrikler!",
+      "error": "Üzgünüz, bir şeyler ters gitti"
+    },
+    "boosterUp": {
+      "pending": "Takviyeyi etkinleştir",
+      "success": "Tebrikler!",
+      "errors": {
+        "default": "Üzgünüz, bir şeyler ters gitti",
+        "some piglets dont have the same sign": "Bazı Pigletz'ler aynı burçta değil",
+        "wrong number of piglets": "Hatalı Pigletz sayısı",
+        "not all piglets are owned by the same owner": "Tüm Pigletz'ler aynı kişiye ait değil",
+        "some piglets have already been boosted": "Bazı Pigletz'lere zaten takviye uygulanmış",
+        "some piglets are celebrities": "Bazı Pigletz'ler ünlü",
+        "some piglets are not of the correct level": "Bazı Pigletz'ler doğru seviyede değil",
+        "some piglets have not been boosted": "Bazı Pigletz'lere takviye uygulanmamış",
+        "some piglets are not boostable": "Bazı Pigletz'lere takviye uygulanamaz",
+        "duplicate tokens": "Kopya token'lar",
+        "sll piglets must have different signs": "Tüm Pigletz'ler farklı burçta olmalı"
+      },
+      "error": "Üzgünüz, bir şeyler ters gitti"
+    },
+    "checkDiscount": {
+      "pending": "Kod kontrol ediliyor",
+      "success": "Kod geçerli",
+      "error": "Kod yanlış ya da süresi dolmuş"
+    },
+    "purchasePiglet": {
+      "pending": "{{count}} Pigletz basılıyor",
+      "pending_other": "{{count}} Pigletz basılıyor",
+      "success": "{{count}} Pigletz başarıyla basıldı",
+      "success_other": "{{count}} Pigletz başarıyla basıldı",
+      "error": "Üzgünüz, bir şeyler ters gitti",
+      "pending_plural": "Minting {{count}} piglets",
+      "success_plural": "{{count}} piglets successfully minted"
+    },
+    "approveToken": {
+      "pending": "{{amount}} {{symbol}} için onay",
+      "success": "Tamam",
+      "error": "Üzgünüz, bir şeyler ters gitti"
+    },
+    "openBox": {
+      "pending": "{{count}} Pigletz içeren kutu açılıyor",
+      "pending_other": "{{count}} Pigletz içeren kutu açılıyor",
+      "success": "Tebrikler!",
+      "error": "Üzgünüz, bir şeyler ters gitti",
+      "pending_plural": "Opening box with {{count}} pigletz"
+    },
+    "depositToken": {
+      "pending": "{{amount}} {{symbol}} yatırılıyor",
+      "success": "Tebrikler!",
+      "error": "Üzgünüz, bir şeyler ters gitti"
+    },
+    "registerDeposit": {
+      "pending": "{{amount}} {{symbol}} kaydediliyor",
+      "success": "Başarılı!",
+      "error": "Üzgünüz, bir şeyler ters gitti"
+    },
+    "destroy": {
+      "pending": "Kırılıyor: Pigletz #{{tokenId}}",
+      "success": "Bitti",
+      "error": "Üzgünüz, bir şeyler ters gitti"
+    },
+    "transfer": {
+      "pending": "Pigletz #{{tokenId}} şu alıcıya gönderiliyor: {{recipient}}",
+      "success": "Gönderildi",
+      "error": "Üzgünüz, bir şeyler ters gitti"
+    },
+    "materialize": {
+      "pending": "Pigletz #{{tokenId}} gerçeğe dönüştürülüyor",
+      "success": "Gönderildi",
+      "error": "Üzgünüz, bir şeyler ters gitti"
+    }
+  },
+  "buy": {
+    "saleAddress": "Satış Sözleşmesi: {{address}}",
+    "promoCodeCaption": "İndirim:",
+    "promoCodeCheckButton": "Kontrol",
+    "promoCodePlaceholder": "KODUNUZU BURAYA YAPIŞTIRIN...",
+    "quantityCaption": "Adet:",
+    "buyNowButton": "Hemen Bas",
+    "totalCaption": "Toplam:",
+    "howto": {
+      "mobile": {
+        "button": "Emin değil misiniz? Nasıl satın alacağınızı öğrenin ↓",
+        "youNeed": "İhtiyacınız olanlar:",
+        "metamask": "MetaMask",
+        "walletApp": "Cüzdan Uygulaması",
+        "android": "Android",
+        "ios": "iOS",
+        "bscTitle": "Binance Smart Chain Mainnet'i kullanmak için MetaMask'ı yapılandırmanız gerekmektedir.",
+        "bscGuide": "Bu kılavuzu takip edin",
+        "bscBalance": "Pigletz satın almak için MetaMask hesabınızda yeterli BNB bakiyesi olmalıdır. MetaMask açık adresinize BNB aktarmak için en sevdiğiniz kripto borsasını kullanın.",
+        "bscFindAddress": "Cüzdanınızın açık adresini nasıl bulursunuz?",
+        "bscFindAddressStep1": "1. Cüzdanınızda adrese tıklayın",
+        "bscFindAddressStep2": "2. Adres panoya kopyalanacaktır",
+        "openMetamaskCaption": "<strong>dApp Satış Sayfamızı</strong> doğrudan MetaMask tarayıcısında açmak için aşağıdaki butonu kullanın",
+        "openMetamaskButton": "MetaMask'ı Aç"
+      },
+      "desktop": {
+        "button": "Emin değil misin? Masaüstünde nasıl satın alacağınızı öğrenin ↓",
+        "youNeed": "İhtiyacınız olanlar:",
+        "metamask": "MetaMask",
+        "extension": "Chrome veya Firefox için tarayıcı uzantısı",
+        "chrome": "Google Chrome",
+        "firefox": "Mozilla Firefox",
+        "bscTitle": "Binance Smart Chain Mainnet'i kullanmak için MetaMask'ı yapılandırmanız gerekmektedir.",
+        "bscGuide": "Bu kılavuzu takip edin",
+        "bscVideo": "Bu videoyu izleyin",
+        "bscBalance": "Pigletz satın almak için MetaMask hesabınızda yeterli BNB bakiyesi olmalıdır. MetaMask açık adresinize BNB aktarmak için en sevdiğiniz kripto borsasını kullanın.",
+        "bscFindAddress": "Cüzdanınızın açık adresini nasıl bulursunuz?",
+        "bscFindAddressStep1": "1. Tarayıcınızın MetaMask uzantısında hesap adına tıklayın",
+        "bscFindAddressStep2": "2. Adres panoya kopyalanacaktır",
+        "connectWalletCaption1": "Cüzdanınızda yeterli bakiye olduğunda, web sitesi navigasyonundan \"Cüzdan Bağla\"ya tıklayarak cüzdanınızı web sitemize bağlamanız gerekmektedir.",
+        "connectWalletCaption2": "Bağlandıktan sonra satın alım için<strong>aşağıdaki formu kullanabilirsiniz.</strong>",
+        "watchVideoCaption1": "Adım adım talimatlar için",
+        "watchVideoCaption2": "bu videoyu izleyin:"
+      }
+    }
+  },
+  "piglet": {
+    "boost": "%{{boost}} takviye",
+    "level": "Seviye {{level}}",
+    "dailyMint": "Günlük {{dailyMint}} PiFi",
+    "pifi": "PiFi:",
+    "walletDescription": "Bu Pigletz cüzdanınız. Cüzdanınız üzerinde tam kontrole sahipsiniz (non-custodial) ve yalnızca Pigletz'in sahibi cüzdanla etkileşime girebilir: Token yatırın ya da Pigletz'inizi kırarak içindekileri çekin.",
+    "walletTitle": "Cüzdan",
+    "depositButton": "Yatır ({{invested}}/{{total}})",
+    "totalValue": "Toplam değer:",
+    "pifiToNextLevel": "Seviye {{nextLevel}} için {{pifi}} PiFi",
+    "reachedLevelCaption": "Ulaştığım seviye: <b>{{level}}</b>",
+    "gotoLevelButton": "{{level}}. seviyeye geç",
+    "goToCollection": "Koleksiyon",
+    "traitsTitle": "Pigletz Özellikleri",
+    "quickInfoTitle": "Hızlı Bilgi",
+    "destroyButton": "Kır",
+    "materializeButton": "Gerçeğe Dönüştür",
+    "dematerializeButton": "Dijitalleştir",
+    "transferButton": "Aktar",
+    "investments": {
+      "symbol": "TOKEN",
+      "amount": "MİKTAR",
+      "usd": "USD",
+      "nothing": "Henüz herhangi bir yatırımınız yok"
+    },
+    "pifiLPDeclaration": "PiFi değeri, PancakeSwap'ta LP (likidite havuzu) oluşturulduktan sonra hesaplanacaktır. Bu, satış sırasında yalnızca BİR KEZ olacaktır.",
+    "destroy": {
+      "title": "Pigletz'inizi Kırın",
+      "description": "Pigletz'inizi kırarsanız, içinde bulunan {{balanceInUSD}}$ USD toplam değerine sahip tüm token'lar {{recipient}} adresine gönderilecektir. Fakat Pigletz'iniz imha edilecek ve sonsuza kadar kaybolacaktır. Bu yüzden iki kere düşünün, gözlerinin içine bakın ve öyle karar verin.",
+      "lesserLevel": "Pigletz'inizi kırmak için en az 2. seviyede olmalısınız!",
+      "button": "Kır",
+      "confirmation": "Pigletz'inizi kırmak istediğinizden emin misiniz?",
+      "confirm": "Evet, parayı çek",
+      "decline": "Hayır, yapamam"
+    },
+    "deposit": {
+      "balance": "{{balance}} {{symbol}}",
+      "tokenNotFound": "Token bulunamadı",
+      "title": "Kripto Yatır",
+      "selectToken": "Lütfen bir token seçin",
+      "defaultToken": "PancakeSwap token'ları ...",
+      "inputAddress": "ya da token adresini aşağıya girin",
+      "inputAmount": "Yatırılacak miktarı seçin",
+      "maxButton": "MAKSİMUM",
+      "availableBalance": "Mevcut:",
+      "depositButton": "Şimdi Yatır",
+      "unregisteredDeposit": "Kaydedilmemiş bakiyeniz: {{balance}} {{symbol}} ({{balanceUSD}})$",
+      "reisteredDeposit": "Şimdi Kaydet"
+    },
+    "boosters": {
+      "requiresLevel": "Seviye {{level}} gerekli",
+      "activateButton": "Takviyeyi Etkinleştir",
+      "activated": "Etkinleştirildi",
+      "title": "Takviyeler",
+      "tokenSelect": {
+        "title": "{{count}} Pigletz seçin"
+      },
+      "names": {
+        "Invest $100": "Değer 100$",
+        "Invest $500": "Değer 500$",
+        "Invest $2000": "Değer 2000$",
+        "Collect 3": "3 tane topla",
+        "Collect 7": "7 tane topla",
+        "Invest 3 tokens": "3 token yatır",
+        "Invest 7 tokens": "7 token yatır",
+        "3 Similar": "3 farklı",
+        "12 Different": "12 farklı",
+        "Staked": "Staked",
+        "Special": "Özel"
+      },
+      "descriptions": {
+        "Invest tokens with value of at least $100 USD": "Pigletz değerinizi 100$ USD'nin üstüne çıkarın",
+        "Invest tokens with value of at least $500 USD": "Pigletz değerinizi 500$ USD'nin üstüne çıkarın",
+        "Invest tokens with value of at least $2000 USD": "Pigletz değerinizi 2000$ USD'nin üstüne çıkarın",
+        "Collect 3 piglets": "3 Pigletz Toplayın",
+        "Collect 7 piglets": "7 Pigletz Toplayın",
+        "Invest 3 different tokens": "PiFi hariç, değeri sıfırdan farklı, 3 farklı token yatırın",
+        "Invest 7 different tokens": "PiFi hariç, değeri sıfırdan farklı, 7 farklı token yatırın",
+        "Collect 3 with the same zodiac sign": "Aynı burçta 3 Pigletz toplayın",
+        "Collect 12 piglets with different zodiac signs": "Farklı burçta 12 Pigletz toplayın",
+        "Stake it in the Staking Contract": "Stake it in the Staking Contract",
+        "It is born like this": "Böyle doğdu"
+      },
+      "tips": {
+        "Invest tokens with value of at least $100 USD": "Token yatırarak yapabilirsiniz",
+        "Invest tokens with value of at least $500 USD": "Token yatırarak yapabilirsiniz",
+        "Invest tokens with value of at least $2000 USD": "Token yatırarak yapabilirsiniz",
+        "Collect 3 piglets": "3 tane basın",
+        "Collect 7 piglets": "7 tane basın",
+        "Invest 3 different tokens": "Token'lar PancakeSwap'ta listelenmiş olmalı",
+        "Invest 7 different tokens": "Token'lar PancakeSwap'ta listelenmiş olmalı",
+        "Collect 3 with the same zodiac sign": "Takviye 3'ünü de etkileyecek",
+        "Collect 12 piglets with different zodiac signs": "Takviye 12'sini de etkileyecek",
+        "Stake it in the Staking Contract": "Çok yakında",
+        "It is born like this": "Böyle doğdu"
+      }
+    }
+  },
+  "home": {
+    "subtitle": "Gerçeğe dönüşen ilk NFT!",
+    "howitworks": "Nasıl çalıştığını görün",
+    "videoModalTitle": "Nasıl çalışıyor",
+    "nft": {
+      "title": "Bu bir NFT",
+      "features": [
+        "Çeşitli nadirliklerde, kanıtlanabilir şekilde rastgele özelliklere sahip, benzersiz, sınırlı üretim 12.345 adet Pigletz",
+        "%100 el yapımı 3 boyutlu modeller",
+        "Toplam 2 milyardan fazla kombinasyon mümkün",
+        "Satın alım sırasında rastgele şekilde basılır",
+        "Pigletz büyüdükçe özellikleri ortaya çıkar",
+        "Geliri hayır kurumlarına giden ekstra 5 ünlü NFT"
+      ]
+    },
+    "token": {
+      "title": "Tokenomi",
+      "caption1": "Her Pigletz, satın aldığınız günden itibaren PiFi token'ları kazmaya başlar.",
+      "caption2": "Kumbarada para biriktirir gibi, Pigletz'inize token yatırabilirsiniz.",
+      "caption3": "Yatırdığınız token'ların yanı sıra madencilikle eldi edilen PiFi token'larına erişmek için Pigletz'inizi kırın."
+    },
+    "game": {
+      "title": "Oyunlaştırma",
+      "caption1": "Pigletz özelliklerini açığa çıkarmak ve temel madencilik oranını artırmak için seviye atlayın",
+      "caption2": "Token üretim hızını daha da artırmak için takviyeler toplayın ve kullanın.",
+      "caption3": "Kullanışlı Dapp'imiz (merkeziyetsiz uygulama) aracılığıyla Pigletz'lerinizi izleyin ve yönetin."
+    },
+    "boosters": {
+      "title": "Takviyeler",
+      "description": "Takviyeler Pigletz'lerinizin token madenciliği hızını artırır. Toplam 9 takviye bulunmaktadır."
+    },
+    "defi": {
+      "title": "DeFi",
+      "description": "Madencilik sürecini hızlandırmak için Pigletz'inizi belirli bir süre kilitleyebilirsiniz.",
+      "steaking": {
+        "title": "Piglet Staking",
+        "description": "Lock your piglet for faster mining"
+      },
+      "lending": {
+        "title": "Lending",
+        "description": "Get a PiFi credit line by pawning your piglet."
+      }
+    },
+    "3dprint": {
+      "title": "Materialization",
+      "description1": "You can use PiFi tokens to purchase a 3D print of your NFT, which represents it in the real world. When you order your 3D-printed piggy bank, the NFT is locked in a Smart Contract. The physical object has an unlock code inside, but you have to break the Piglet to get a hold of the cipher. This ensures the item functions in only one reality at a given point in time, always retaining its NFT characteristics.",
+      "description2": "Furthermore, the material state of the Piglet is considered the last Level 4, that has the highest base mining rate."
+    },
+    "roadmap": {
+      "title": "Yol Haritası",
+      "stages": [
+        {
+          "description": "<b>Fikir</b> 2021'in başında doğdu",
+          "progress": 100,
+          "status": "✓ Tamamlandı"
+        },
+        {
+          "description": "<b>Ekip oluşturuldu</b> ve çalışmaya başladı (2Ç 2021)",
+          "progress": 100,
+          "status": "✓ Tamamlandı"
+        },
+        {
+          "description": "Pigletz'in özelliklerini <b>Kavramsallaştırma ve Modelleme</b> (3Ç 2021)",
+          "progress": 100,
+          "status": "✓ Tamamlandı"
+        },
+        {
+          "description": "<b>Akıllı Sözleşmeler ve Dapps</b> Geliştirme (4Ç 2021)",
+          "progress": 100,
+          "status": "✓ Tamamlandı"
+        },
+        {
+          "description": "<b>Zincirde lansman</b><br />(Aralık 2021)",
+          "progress": 100,
+          "status": "✓ Tamamlandı"
+        },
+        {
+          "description": "<b>İlk ön satış</b><br />(18 Aralık 2021)",
+          "progress": 100,
+          "status": "✓ Tamamlandı"
+        },
+        {
+          "description": "Binance NFT'de bir liste başlatın<br />(Ocak 2022)",
+          "progress": 100,
+          "status": "✓ Tamamlandı"
+        },
+        {
+          "description": "<b>PancakeSwap'ta bir PiFi Likidite Havuzu Oluşturulacak</b><br />(Satıştan sonra)",
+          "progress": 0,
+          "status": "Yaklaşıyor"
+        },
+        {
+          "description": "<b>İlk 3D Baskılar</b> hazırlanacak <br />(1Ç 2022)",
+          "progress": 0,
+          "status": "Çalışıyoruz..."
+        },
+        {
+          "description": "<b>DeFi Staking</b> yayınlanacak <br /> (2Ç 2022)",
+          "progress": 0,
+          "status": "Çalışıyoruz..."
+        },
+        {
+          "description": " <b>Mobil Oyun</b> yayınlandı<br /> (3Ç 2022)",
+          "progress": 0,
+          "status": "Çalışıyoruz..."
+        },
+        {
+          "description": " <b>DAO</b> (Merkezi Olmayan Otonom Organizasyon) <br /> (4Ç 2022)",
+          "progress": 0,
+          "status": "Çalışıyoruz..."
+        }
+      ]
+    },
+    "joinUs": {
+      "announcement": "Pigletz artık Binance Smart Chain'de mevcut",
+      "description": "Daha fazla bilgi, ön satış ve satış tarihleri ve indirimler için bizi takip edin",
+      "twitter": "Bizi Twitter'da takip edin",
+      "discord": "Discord sunucumuza katılın",
+      "telegram": "Telegram kanalımıza katılın"
+    },
+    "marketplaces": {
+      "title": "Ulaşabileceğiniz diğer yerler:"
+    }
+  }
+}
