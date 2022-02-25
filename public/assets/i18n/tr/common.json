@@ -1,7 +1,9 @@
 {
   "seo": {
+    "url": "https://pigletz.com",
     "title": "Pigletz - Gerçeğe dönüşen ilk NFT!",
-    "description": "Pigletz, şunları içeren, benzersiz bir NFT koleksiyonu oyunudur:\nbenzersiz, 3 boyutlu, sevimli domuzcuklar; token'larınızı saklamak için dijital bir domuzcuk kumbara; seviyeleri yükseltilebilen NFT'ler; merkeziyetsiz finans ile token sahibi olma, bahis oynama ve borç verme; gerçek, 3 boyutlu domuzcuk figürleri."
+    "description": "Pigletz, şunları içeren, benzersiz bir NFT koleksiyonu oyunudur:\nbenzersiz, 3 boyutlu, sevimli domuzcuklar; token'larınızı saklamak için dijital bir domuzcuk kumbara; seviyeleri yükseltilebilen NFT'ler; merkeziyetsiz finans ile token sahibi olma, bahis oynama ve borç verme; gerçek, 3 boyutlu domuzcuk figürleri.",
+    "image": "https://pigletz.com/assets/images/social-banner.jpg"
   },
   "nav": {
     "website": "Pigletz.com",
