@@ -1,0 +1,128 @@
+{
+  "trait": {
+    "category": {
+      "Level": "Seviye",
+      "Base PiFi/Day": "Temel PiFi/Gün",
+      "Gender": "Cinsiyet",
+      "Zodiac": "Burç",
+      "Body": "Vücüt",
+      "Mouth": "Ağız",
+      "Hairstyle": "Saç Tarzı",
+      "Beardstyle": "Sakal Tarzı",
+      "Earrings": "Küpeler",
+      "Glasses": "Gözlük",
+      "Tattoo": "Dövme"
+    },
+    "value": {
+      "Level": {
+        "1": "1. Seviye",
+        "2": "2. Seviye",
+        "3": "3. Seviye"
+      },
+      "Base PiFi/Day": {
+        "167": "167",
+        "250": "250",
+        "417": "417",
+        "500": "500"
+      },
+      "Gender": {
+        "GenderMale": "Erkek",
+        "GenderFemale": "Kadın"
+      },
+      "Zodiac": {
+        "ZodiacAries": "Koç",
+        "ZodiacTaurus": "Boğa",
+        "ZodiacGemini": "İkizler",
+        "ZodiacCancer": "Yengeç",
+        "ZodiacLeo": "Aslan",
+        "ZodiacVirgo": "Başak",
+        "ZodiacLibra": "Terazi",
+        "ZodiacScorpio": "Akrep",
+        "ZodiacSagittarius": "Yay",
+        "ZodiacCapricorn": "Oğlak",
+        "ZodiacAquarius": "Kova",
+        "ZodiacPisces": "Balık"
+      },
+      "Body": {
+        "BodyPinkMale": "Pembe",
+        "BodyBrownMale": "Kahverengi",
+        "BodyBlackMale": "Siyah",
+        "BodyAlbinoMale": "Albino",
+        "BodyGoldMale": "Altın",
+        "BodyStoneMale": "Taş",
+        "BodyPinkFemale": "Pembe",
+        "BodyBrownFemale": "Kahverengi",
+        "BodyBlackFemale": "Siyah",
+        "BodyAlbinoFemale": "Albino",
+        "BodyGoldFemale": "Altın",
+        "BodyStoneFemale": "Taş"
+      },
+      "Mouth": {
+        "MouthAngry": "Kızgın",
+        "MouthMaleTongue": "Dil",
+        "MouthMaleVampire": "Vampir",
+        "MouthStandard": "Normal",
+        "MouthKiss": "Öpücük",
+        "MouthFemaleTongue": "Dil",
+        "MouthFemaleVampire": "Vampir"
+      },
+      "Eyes": {
+        "EyesMaleBrown": "Kahverengi",
+        "EyesMaleGreen": "Yeşil",
+        "EyesMaleBlue": "Mavi",
+        "EyesTired": "Yorgun",
+        "EyesBitcoin": "Bitcoin",
+        "EyesInlove": "Aşık",
+        "EyesMaleAngry": "Kızgın",
+        "EyesFemaleGreen": "Yeşil",
+        "EyesFemaleBlue": "Mavi",
+        "EyesFemaleBrown": "Kahverengi",
+        "EyesFemaleBitcoin": "Bitcoin",
+        "EyesBlinking": "Göz Kırpan",
+        "EyesFemaleAngry": "Kızgın"
+      },
+      "Hairstyle": {
+        "HairstyleBald": "Kel",
+        "HairstyleRasta": "Rasta",
+        "HairstyleEmoBlonde": "Sarı Emo",
+        "HairstyleEmoBlack": "Siyah Emo",
+        "HairstyleEyesMaleAngry": "Kızgın",
+        "HairstyleChild": "Çocuk",
+        "HairstylePunk": "Punk",
+        "HairstyleFedora": "Fedora",
+        "HairstyleShort": "Kısa",
+        "HairstyleBraid": "Örgülü",
+        "HairstyleAfro": "Afro",
+        "HairstyleStraight": "Düz",
+        "HairstyleBanks": "Banks"
+      },
+      "Beardstyle": {
+        "BeardstyleNone": "Yok",
+        "BeardstyleThin": "İnce",
+        "BeardstyleStandard": "Normal",
+        "BeardstyleMario": "Mario",
+        "BeardstyleDali": "Dali"
+      },
+      "Earrings": {
+        "EarringsNone": "Yok",
+        "EarringsManiac": "Manyak",
+        "EarringsDrop": "Damla",
+        "EarringsFancy": "Süslü"
+      },
+      "Nose": {
+        "NoseNone": "Yok",
+        "NoseSeptum": "Septum"
+      },
+      "Glasses": {
+        "GlassesJohn": "John",
+        "GlassesRetro": "Retro"
+      },
+      "Tattoo": {
+        "TattooTyson": "Tyson",
+        "TattooRapper": "Rapçı",
+        "TattooPiercing": "Piercing",
+        "TattooFull": "Tamamen Dövmeli"
+      }
+    }
+  }
+}
