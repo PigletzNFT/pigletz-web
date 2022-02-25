@@ -18,8 +18,9 @@
         "back": "Back",
         "languages": {
             "en": "English",
-            "de": "Deutch",
-            "es": "Español"
+            "de": "Deutsch",
+            "es": "Español",
+            "tr": "Türkçe"
         }
     },
     "banner": {
@@ -79,7 +80,7 @@
             "description": "A valuable collection of {{count}} piglet",
             "description_other": "A valuable collection of {{count}} pigletz"
         },
-        "boostersOfferTitle": "Do you need <b>boosters</b>",
+        "boostersOfferTitle": "Do you need <b>boosters?</b>",
         "boostersOfferCaption": "Invest in your Piglet and it will produce more value for you",
         "levelReachedCaption": "I reached <b>Level {{level}}</b>"
     },
@@ -344,12 +345,14 @@
         },
         "token": {
             "title": "Tokenomics",
+            "learnMore": "Learn More",
             "caption1": "Each piglet starts mining PiFi tokens from the day you buy it.",
             "caption2": "You can deposit tokens in your piglet the way you deposit coins in a piggy bank.",
             "caption3": "Break your piglet to access all deposited tokens plus all of the mined PiFi tokens."
         },
         "game": {
             "title": "Gamification",
+            "learnMore": "Learn More",
             "caption1": "Level up to reveal Piglet traits and improve base mining rate.",
             "caption2": "Collect and apply boosters to increase token production speed even further.",
             "caption3": "Monitor and manage your Pigletz through our convenient Dapp."
@@ -360,6 +363,7 @@
         },
         "defi": {
             "title": "DeFi",
+            "learnMore": "Learn More",
             "description": "You can lock your piglet for a specific time in order to accelerate the mining process.",
             "steaking": {
                 "title": "Piglet Staking",
@@ -372,6 +376,7 @@
         },
         "3dprint": {
             "title": "Materialization",
+            "learnMore": "Learn More",
             "description1": "You can use PiFi tokens to purchase a 3D print of your NFT, which represents it in the real world. When you order your 3D-printed piggy bank, the NFT is locked in a Smart Contract. The physical object has an unlock code inside, but you have to break the Piglet to get a hold of the cipher. This ensures the item functions in only one reality at a given point in time, always retaining its NFT characteristics.",
             "description2": "Furthermore, the material state of the Piglet is considered the last Level 4, that has the highest base mining rate."
         },
