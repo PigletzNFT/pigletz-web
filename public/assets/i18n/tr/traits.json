@@ -1,0 +1,179 @@
+{
+  "trait": {
+    "category": {
+      "Level": "Seviye",
+      "Base PiFi/Day": "Temel PiFi/Gün",
+      "Gender": "Cinsiyet",
+      "Zodiac": "Burç",
+      "Body": "Vücüt",
+      "Mouth": "Ağız",
+      "Eyes": "Gözler",
+      "Hairstyle": "Saç Tarzı",
+      "Beardstyle": "Sakal Tarzı",
+      "Earrings": "Küpeler",
+      "Nose": "Burun Tarzı",
+      "Glasses": "Gözlük",
+      "Tattoo": "Dövme"
+    },
+    "value": {
+      "Level": {
+        "1": "1. Seviye",
+        "2": "2. Seviye",
+        "3": "3. Seviye",
+        "4": "Gerçek Halde"
+      },
+      "Base PiFi/Day": {
+        "167": "167",
+        "250": "250",
+        "417": "417",
+        "500": "500"
+      },
+      "Gender": {
+        "GenderMale": "Erkek",
+        "GenderFemale": "Kadın",
+        "GenderOther": "Diğer"
+      },
+      "Zodiac": {
+        "ZodiacAries": "Koç",
+        "ZodiacTaurus": "Boğa",
+        "ZodiacGemini": "İkizler",
+        "ZodiacCancer": "Yengeç",
+        "ZodiacLeo": "Aslan",
+        "ZodiacVirgo": "Başak",
+        "ZodiacLibra": "Terazi",
+        "ZodiacScorpio": "Akrep",
+        "ZodiacSagittarius": "Yay",
+        "ZodiacCapricorn": "Oğlak",
+        "ZodiacAquarius": "Kova",
+        "ZodiacPisces": "Balık"
+      },
+      "Body": {
+        "BodyPinkMale": "Pembe",
+        "BodyBrownMale": "Kahverengi",
+        "BodyBlackMale": "Siyah",
+        "BodyAlbinoMale": "Albino",
+        "BodyGoldMale": "Altın",
+        "BodyStoneMale": "Taş",
+        "BodyPinkFemale": "Pembe",
+        "BodyBrownFemale": "Kahverengi",
+        "BodyBlackFemale": "Siyah",
+        "BodyAlbinoFemale": "Albino",
+        "BodyGoldFemale": "Altın",
+        "BodyStoneFemale": "Taş"
+      },
+      "Mouth": {
+        "MouthMaleBubblegum": "Sakız",
+        "MouthSmoking": "Sigara",
+        "MouthAngry": "Kızgın",
+        "MouthMaleSmiling": "Gülümseme",
+        "MouthMaleTongue": "Dil",
+        "MouthDrooling": "Salya",
+        "MouthMaleVampire": "Vampir",
+        "MouthGoldTooth": "Altın Diş",
+        "MouthStandard": "Normal",
+        "MouthHalfOpen": "Yarım Açık",
+        "MouthFemaleSmiling": "Gülümseme",
+        "MouthSad": "Üzgün",
+        "MouthFemaleBubblegum": "Sakız",
+        "MouthKiss": "Öpücük",
+        "MouthFemaleTongue": "Dil",
+        "MouthFemaleVampire": "Vampir"
+      },
+      "Eyes": {
+        "EyesMaleBrown": "Kahverengi",
+        "EyesMaleGreen": "Yeşil",
+        "EyesMaleBlue": "Mavi",
+        "EyesTired": "Yorgun",
+        "EyesBitcoin": "Bitcoin",
+        "EyesInlove": "Aşık",
+        "EyesScared": "Korkmuş",
+        "EyesMaleAngry": "Kızgın",
+        "EyesCrying": "Ağlayan",
+        "EyesSeductive": "Çekici",
+        "EyesFemaleGreen": "Yeşil",
+        "EyesFemaleBlue": "Mavi",
+        "EyesFemaleBrown": "Kahverengi",
+        "EyesFemaleBitcoin": "Bitcoin",
+        "EyesBlinking": "Göz Kırpan",
+        "EyesFemaleAngry": "Kızgın"
+      },
+      "Hairstyle": {
+        "HairstyleBald": "Kel",
+        "HairstyleManbunBlack": "Siyah Erkek Topuzu",
+        "HairstyleRasta": "Rasta",
+        "HairstyleEmoBlonde": "Sarı Emo",
+        "HairstyleEmoBrown": "Kahve Emo",
+        "HairstyleEmoBlack": "Siyah Emo",
+        "HairstyleSpikedBrown": "Kahve Dikenli",
+        "HairstyleEyesMaleAngry": "Kızgın",
+        "HairstyleSpikedBlonde": "Sarı Dikenli",
+        "HairstyleChild": "Çocuk",
+        "HairstylePunk": "Punk",
+        "HairstyleFedora": "Fedora",
+        "HairstyleSummerHat": "Yaz Şapkası",
+        "HairstyleShort": "Kısa",
+        "HairstyleBraid": "Örgülü",
+        "HairstyleAfro": "Afro",
+        "HairstyleStraight": "Düz",
+        "HairstyleCurlyBanksBlonde": "Sarı Kıvırcık Kâkül",
+        "HairstyleCurlyBanksRed": "Kızıl Kıvırcık Kâkül",
+        "HairstyleBunsBlack": "Siyah Topuz",
+        "HairstyleBunsBlonde": "Sarı Topuz",
+        "HairstyleBunsBrown": "Kahve Topuz",
+        "HairstyleBanks": "Banks",
+        "HairstylePonytails": "İkili At Kuyruğu",
+        "HairstylePonytail": "At Kuyruğu"
+      },
+      "Beardstyle": {
+        "BeardstyleNone": "Yok",
+        "BeardstyleFull": "Tüm Surat",
+        "BeardstyleThin": "İnce",
+        "BeardstyleStandard": "Normal",
+        "BeardstyleMario": "Mario",
+        "BeardstyleDali": "Dali"
+      },
+      "Earrings": {
+        "EarringsNone": "Yok",
+        "EarringsMaleRingsSilver": "Gümüş Küpe",
+        "EarringsMaleRingsGold": "Altın Küpe",
+        "EarringsManiac": "Manyak",
+        "EarringsDrop": "Damla",
+        "EarringsFancy": "Süslü",
+        "EarringsBigRings": "Büyük Küpe",
+        "EarringsStones": "Taş Küpe",
+        "EarringsFemaleRings": "Halka Küpe",
+        "EarringsBalls": "Top Küpe"
+      },
+      "Nose": {
+        "NoseNone": "Yok",
+        "NoseTribal": "Kabile",
+        "NoseHorseshoe": "At Nalı",
+        "NoseRing": "Halka",
+        "NoseSeptum": "Septum",
+        "NoseBooger": "Sümük"
+      },
+      "Glasses": {
+        "GlassesNone": "Yok",
+        "GlassesJohn": "John",
+        "GlassesHalf": "Yarım",
+        "GlassesEyepatch": "Göz Bandı",
+        "GlassesOptical": "Optik",
+        "GlassesMask": "Maske",
+        "GlassesRetro": "Retro",
+        "GlassesCateyeRed": "Kırmızı Kedi Gözü",
+        "GlassesCateyeWhite": "Beyaz Kedi Gözü",
+        "GlassesHeartshaped": "Kalp",
+        "GlassesGolden": "Altın"
+      },
+      "Tattoo": {
+        "TattooNone": "Yok",
+        "TattooTyson": "Tyson",
+        "TattooRapper": "Rapçı",
+        "TattooMaleFace": "Yüz",
+        "TattooFemaleFace": "Yüz",
+        "TattooPiercing": "Piercing",
+        "TattooFull": "Tamamen Dövmeli"
+      }
+    }
+  }
+}

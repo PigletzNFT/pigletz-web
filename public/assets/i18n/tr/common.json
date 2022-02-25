@@ -113,7 +113,7 @@
   },
   "actions": {
     "levelUp": {
-      "pending": "{{level}}. seviyesine geçiliyor",
+      "pending": "{{level}}. seviyeye geçiliyor",
       "success": "Tebrikler!",
       "error": "Üzgünüz, bir şeyler ters gitti"
     },
@@ -300,7 +300,7 @@
         "Invest 7 tokens": "7 token yatır",
         "3 Similar": "3 farklı",
         "12 Different": "12 farklı",
-        "Staked": "Staked",
+        "Staked": "Kilitlenen",
         "Special": "Özel"
       },
       "descriptions": {
@@ -366,18 +366,18 @@
       "title": "DeFi",
       "description": "Madencilik sürecini hızlandırmak için Pigletz'inizi belirli bir süre kilitleyebilirsiniz.",
       "steaking": {
-        "title": "Piglet Staking",
-        "description": "Lock your piglet for faster mining"
+        "title": "Pigletz Kilitleme",
+        "description": "Daha hızlı madencilik için Pigletz kilitleyin"
       },
       "lending": {
-        "title": "Lending",
-        "description": "Get a PiFi credit line by pawning your piglet."
+        "title": "Borç Verme",
+        "description": "Pigletz borç verek PiFi kredisi kazanın."
       }
     },
     "3dprint": {
-      "title": "Materialization",
-      "description1": "You can use PiFi tokens to purchase a 3D print of your NFT, which represents it in the real world. When you order your 3D-printed piggy bank, the NFT is locked in a Smart Contract. The physical object has an unlock code inside, but you have to break the Piglet to get a hold of the cipher. This ensures the item functions in only one reality at a given point in time, always retaining its NFT characteristics.",
-      "description2": "Furthermore, the material state of the Piglet is considered the last Level 4, that has the highest base mining rate."
+      "title": "Gerçeğe Dönüştürme",
+      "description1": "NFT'nizin gerçek dünyadaki temsili olan 3 boyutlu (3D) baskısını satın almak için PiFi token'ları kullanabilirsiniz. 3D baskı kumbaranızı sipariş ettiğinizde, NFT bir Akıllı Sözleşmede kilitlenir. Fiziksel nesnenin içinde bir kilit açma kodu bulunmaktadır; ancak şifreyi almak için Pigletz'i kırmanız gerekir. Bu, öğenin belirli bir zamanda yalnızca tek bir gerçeklikte işlev görmesini ve her zaman NFT özelliklerini korumasını sağlamaktadır.",
+      "description2": "Ayrıca Pigletz'in gerçeğe dönüştürülmüş hali, en yüksek temel madencilik oranına sahip olan 4. Seviye olarak kabul edilir."
     },
     "roadmap": {
       "title": "Yol Haritası",
@@ -388,22 +388,22 @@
           "status": "✓ Tamamlandı"
         },
         {
-          "description": "<b>Ekip oluşturuldu</b> ve çalışmaya başladı (2Ç 2021)",
+          "description": "<b>Ekip oluşturuldu</b> ve çalışmaya başladı (2.Ç 2021)",
           "progress": 100,
           "status": "✓ Tamamlandı"
         },
         {
-          "description": "Pigletz'in özelliklerini <b>Kavramsallaştırma ve Modelleme</b> (3Ç 2021)",
+          "description": "Pigletz özelliklerinin<b>Kavramsallaştırma ve Modellemesi</b> (3.Ç 2021)",
           "progress": 100,
           "status": "✓ Tamamlandı"
         },
         {
-          "description": "<b>Akıllı Sözleşmeler ve Dapps</b> Geliştirme (4Ç 2021)",
+          "description": "<b>Akıllı Sözleşmeler ve Dapps</b> Geliştirme (4.Ç 2021)",
           "progress": 100,
           "status": "✓ Tamamlandı"
         },
         {
-          "description": "<b>Zincirde lansman</b><br />(Aralık 2021)",
+          "description": "<b>Zincirde piyasaya sunum</b><br />(Aralık 2021)",
           "progress": 100,
           "status": "✓ Tamamlandı"
         },
@@ -413,27 +413,27 @@
           "status": "✓ Tamamlandı"
         },
         {
-          "description": "Binance NFT'de bir liste başlatın<br />(Ocak 2022)",
+          "description": "Binance NFT'de listelenme<br />(Ocak 2022)",
           "progress": 100,
           "status": "✓ Tamamlandı"
         },
         {
-          "description": "<b>PancakeSwap'ta bir PiFi Likidite Havuzu Oluşturulacak</b><br />(Satıştan sonra)",
+          "description": "<b>PancakeSwap'ta bir PiFi Likidite Havuzu Oluşturma</b><br />(Satıştan sonra)",
           "progress": 0,
-          "status": "Yaklaşıyor"
+          "status": "Çok yakında"
         },
         {
-          "description": "<b>İlk 3D Baskılar</b> hazırlanacak <br />(1Ç 2022)",
-          "progress": 0,
-          "status": "Çalışıyoruz..."
-        },
-        {
-          "description": "<b>DeFi Staking</b> yayınlanacak <br /> (2Ç 2022)",
+          "description": "<b>İlk 3D baskıların</b> teslimi <br />(1.Ç 2022)",
           "progress": 0,
           "status": "Çalışıyoruz..."
         },
         {
-          "description": " <b>Mobil Oyun</b> yayınlandı<br /> (3Ç 2022)",
+          "description": "<b>DeFi kilitlemenin</b> açılması <br /> (2.Ç 2022)",
+          "progress": 0,
+          "status": "Çalışıyoruz..."
+        },
+        {
+          "description": " <b>Mobil Oyunun</b> yayınlanması<br /> (3.Ç 2022)",
           "progress": 0,
           "status": "Çalışıyoruz..."
         },
