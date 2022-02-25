@@ -126,6 +126,7 @@
         "wrong number of piglets": "Falsche Anzahl von Pigletz",
         "not all piglets are owned by the same owner": "Nicht alle Pigletz gehören demselben Eigentümer",
         "some piglets have already been boosted": "Einige Pigletz wurden bereits geboostert",
+        "some piglets are celebrities": "Manche Pigletz sind Promis",
         "some piglets are not of the correct level": "Einige Pigletz sind nicht auf dem richtigen Lebel",
         "some piglets have not been boosted": "Einige Pigletz sind nicht geboostert",
         "some piglets are not boostable": "Einige Pigletz sind nicht Booster-fähig",
@@ -143,6 +144,7 @@
       "pending": "{{count}} Piglet minten",
       "pending_other": "{{count}} Pigletz minten.",
       "success": "{{count}} Piglet erfolgreich gemintet",
+      "success_other": "{{count}} Pigletz erfolgreich gemintet",
       "error": "Entschuldigung, etwas ist schief gelaufen",
       "pending_plural": "{{count}} Pigletz minten",
       "success_plural": "{{count}} Pigletz erfolgreich gemintet"
@@ -286,6 +288,7 @@
       "activated": "Activiert",
       "title": "Boostern",
       "tokenSelect": {
+        "title": "Wähle {{count}} Pigletz"
       },
       "names": {
         "Invest $100": "Wert $100",
