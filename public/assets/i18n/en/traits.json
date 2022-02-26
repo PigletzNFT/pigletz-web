@@ -1,5 +1,6 @@
 {
     "trait": {
+        "description": "This is a {{level}} level {{body}} Piglet of {{gender}} gender - one of a kindred of 12,345 unique Pigletz. It will mine {{dailyMint}} PiFi tokens for you daily. Break it to get a hold of the coins! Or have it shipped as a real 3D-printed piggy bank. You decide.",
         "category": {
             "Level": "Level",
             "Base PiFi/Day": "Base PiFi/Day",
@@ -17,9 +18,9 @@
         },
         "value": {
             "Level": {
-                "1": "1st",
-                "2": "2nd",
-                "3": "3rd",
+                "1": "First",
+                "2": "Second",
+                "3": "Third",
                 "4": "Materialized"
             },
             "Base PiFi/Day": {
@@ -31,7 +32,7 @@
             "Gender": {
                 "GenderMale": "Male",
                 "GenderFemale": "Female",
-                "GenderOther": "Other"
+                "GenderOther": "Unspecified"
             },
             "Zodiac": {
                 "ZodiacAries": "Aries",
