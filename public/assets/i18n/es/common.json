@@ -20,7 +20,7 @@
       "en": "English",
       "de": "Deutsch",
       "es": "Español",
-      "tr": "Turco"
+      "tr": "Türkçe"
     }
   },
   "banner": {
@@ -194,7 +194,7 @@
     "promoCodeCheckButton": "Verificar",
     "promoCodePlaceholder": "Copiar código aquí...",
     "quantityCaption": "Cantidad:",
-    "buyNowButton": "Acuñar ahora",
+    "buyNowButton": "Acuñar",
     "totalCaption": "Total:",
     "howto": {
       "mobile": {
