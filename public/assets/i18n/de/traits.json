@@ -1,6 +1,6 @@
 {
   "trait": {
-    "description": "This is a {{level}} level {{body}} Piglet of {{gender}} gender - one of a kindred of 12,345 unique Pigletz. It will mine {{dailyMint}} PiFi tokens for you daily. Break it to get a hold of the coins! Or have it shipped as a real 3D-printed piggy bank. You decide.",
+    "description": "Das ist ein {{level}} Stufe {{body}} Piglet mit dem Geschlecht {{gender}}  - einer von 12.345 einzigartigen Ferkeln. Es schürft täglich {{dailyMint}} PiFi tokens für dich. Brich es auf, um an die Münzen zu kommen! Oder lass es als echtes 3D-gedrucktes Sparschwein versenden. Du entscheidest!",
     "category": {
       "Level": "Level",
       "Base PiFi/Day": "Basis PiFi/Tag",
