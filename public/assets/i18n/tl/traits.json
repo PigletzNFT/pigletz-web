@@ -1,0 +1,180 @@
+{
+  "trait": {
+    "description": "Isa itong {{level}} level {{body}} Piglet ng {{gender}} gender - isa sa isang kamag-anak ng 12,345 natatanging Pigletz. Ito ay minahan ng {{dailyMint}} PiFi token para sa iyo araw-araw. Hatiin ito upang mahawakan ang mga barya! O ipadala ito bilang isang tunay na 3D-printed na alkansya. Ikaw ang magdesisyon.",
+    "category": {
+      "Level": "Antas",
+      "Base PiFi/Day": "Base PiFi/Araw",
+      "Gender": "Kasarian",
+      "Zodiac": "Tanda",
+      "Body": "Katawan",
+      "Mouth": "Bibig",
+      "Eyes": "Mga mata",
+      "Hairstyle": "Estilo ng buhok",
+      "Beardstyle": "Beardstyle",
+      "Earrings": "Hikaw",
+      "Nose": "Estilo ng Ilong",
+      "Glasses": "Salamin",
+      "Tattoo": "Tattoo"
+    },
+    "value": {
+      "Level": {
+        "1": "Una",
+        "2": "Pangalawa",
+        "3": "Pangatlo",
+        "4": "Materialized"
+      },
+      "Base PiFi/Day": {
+        "167": "167",
+        "250": "250",
+        "417": "417",
+        "500": "500"
+      },
+      "Gender": {
+        "GenderMale": "Lalaki",
+        "GenderFemale": "Babae",
+        "GenderOther": "Hindi natukoy"
+      },
+      "Zodiac": {
+        "ZodiacAries": "Aries",
+        "ZodiacTaurus": "Taurus",
+        "ZodiacGemini": "Gemini",
+        "ZodiacCancer": "Kanser",
+        "ZodiacLeo": "Leo",
+        "ZodiacVirgo": "Virgo",
+        "ZodiacLibra": "Libra",
+        "ZodiacScorpio": "Scorpio",
+        "ZodiacSagittarius": "Sagittarius",
+        "ZodiacCapricorn": "Capricorn",
+        "ZodiacAquarius": "Aquarius",
+        "ZodiacPisces": "Pisces"
+      },
+      "Body": {
+        "BodyPinkMale": "Rosas",
+        "BodyBrownMale": "kayumanggi",
+        "BodyBlackMale": "Itim",
+        "BodyAlbinoMale": "Albino",
+        "BodyGoldMale": "ginto",
+        "BodyStoneMale": "Bato",
+        "BodyPinkFemale": "Rosas",
+        "BodyBrownFemale": "kayumanggi",
+        "BodyBlackFemale": "Itim",
+        "BodyAlbinoFemale": "Albino",
+        "BodyGoldFemale": "ginto",
+        "BodyStoneFemale": "Bato"
+      },
+      "Mouth": {
+        "MouthMaleBubblegum": "Bubble gum",
+        "MouthSmoking": "paninigarilyo",
+        "MouthAngry": "Galit",
+        "MouthMaleSmiling": "Nakangiti",
+        "MouthMaleTongue": "Dila",
+        "MouthDrooling": "Naglalaway",
+        "MouthMaleVampire": "Bampira",
+        "MouthGoldTooth": "Gintong Ngipin",
+        "MouthStandard": "Pamantayan",
+        "MouthHalfOpen": "Half Open",
+        "MouthFemaleSmiling": "Nakangiti",
+        "MouthSad": "Malungkot",
+        "MouthFemaleBubblegum": "Bubble gum",
+        "MouthKiss": "Halik",
+        "MouthFemaleTongue": "Dila",
+        "MouthFemaleVampire": "Bampira"
+      },
+      "Eyes": {
+        "EyesMaleBrown": "kayumanggi",
+        "EyesMaleGreen": "Berde",
+        "EyesMaleBlue": "Asul",
+        "EyesTired": "Pagod",
+        "EyesBitcoin": "Bitcoin",
+        "EyesInlove": "Umiibig",
+        "EyesScared": "Natatakot",
+        "EyesMaleAngry": "Galit",
+        "EyesCrying": "Umiiyak",
+        "EyesSeductive": "Mapang-akit",
+        "EyesFemaleGreen": "Berde",
+        "EyesFemaleBlue": "Asul",
+        "EyesFemaleBrown": "kayumanggi",
+        "EyesFemaleBitcoin": "Bitcoin",
+        "EyesBlinking": "Kumikislap",
+        "EyesFemaleAngry": "Galit"
+      },
+      "Hairstyle": {
+        "HairstyleBald": "Kalbo",
+        "HairstyleManbunBlack": "Itim na Manbun",
+        "HairstyleRasta": "Rasta",
+        "HairstyleEmoBlonde": "Blonde Emo",
+        "HairstyleEmoBrown": "Brown Emo",
+        "HairstyleEmoBlack": "Itim na Emo",
+        "HairstyleSpikedBrown": "Brown Spiked",
+        "HairstyleEyesMaleAngry": "Galit",
+        "HairstyleSpikedBlonde": "Blonde Spiked",
+        "HairstyleChild": "bata",
+        "HairstylePunk": "Punk",
+        "HairstyleFedora": "Fedora",
+        "HairstyleSummerHat": "Summer Hat",
+        "HairstyleShort": "Maikli",
+        "HairstyleBraid": "Itrintas",
+        "HairstyleAfro": "Afro",
+        "HairstyleStraight": "Diretso",
+        "HairstyleCurlyBanksBlonde": "Blonde Curly Banks",
+        "HairstyleCurlyBanksRed": "Mga Red Curly Banks",
+        "HairstyleBunsBlack": "Itim na Buns",
+        "HairstyleBunsBlonde": "Blonde Buns",
+        "HairstyleBunsBrown": "Brown Buns",
+        "HairstyleBanks": "Mga bangko",
+        "HairstylePonytails": "Nakapusod",
+        "HairstylePonytail": "nakapusod"
+      },
+      "Beardstyle": {
+        "BeardstyleNone": "wala",
+        "BeardstyleFull": "Puno",
+        "BeardstyleThin": "Manipis",
+        "BeardstyleStandard": "Pamantayan",
+        "BeardstyleMario": "Mario",
+        "BeardstyleDali": "Dali"
+      },
+      "Earrings": {
+        "EarringsNone": "wala",
+        "EarringsMaleRingsSilver": "Mga singsing na Pilak",
+        "EarringsMaleRingsGold": "Mga singsing na ginto",
+        "EarringsManiac": "baliw",
+        "EarringsDrop": "Ihulog",
+        "EarringsFancy": "Fancy",
+        "EarringsBigRings": "Malaking singsing",
+        "EarringsStones": "Mga bato",
+        "EarringsFemaleRings": "Mga singsing",
+        "EarringsBalls": "Mga bola"
+      },
+      "Nose": {
+        "NoseNone": "wala",
+        "NoseTribal": "Tribal",
+        "NoseHorseshoe": "Horseshoe",
+        "NoseRing": "singsing",
+        "NoseSeptum": "Septum",
+        "NoseBooger": "Booger"
+      },
+      "Glasses": {
+        "GlassesNone": "wala",
+        "GlassesJohn": "John",
+        "GlassesHalf": "kalahati",
+        "GlassesEyepatch": "Panakip sa mata",
+        "GlassesOptical": "Sa mata",
+        "GlassesMask": "maskara",
+        "GlassesRetro": "Retro",
+        "GlassesCateyeRed": "Pulang Cateye",
+        "GlassesCateyeWhite": "Puting Cateye",
+        "GlassesHeartshaped": "Hugis puso",
+        "GlassesGolden": "ginto"
+      },
+      "Tattoo": {
+        "TattooNone": "wala",
+        "TattooTyson": "Tyson",
+        "TattooRapper": "Rapper",
+        "TattooMaleFace": "Mukha",
+        "TattooFemaleFace": "Mukha",
+        "TattooPiercing": "Pagbutas",
+        "TattooFull": "Puno"
+      }
+    }
+  }
+}
