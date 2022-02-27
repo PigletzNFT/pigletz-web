@@ -20,7 +20,7 @@
       "en": "English",
       "de": "Deutsch",
       "es": "Español",
-      "tr": "Türkçe"
+      "tr": "Turco"
     }
   },
   "banner": {
@@ -59,7 +59,7 @@
   },
   "presale": {
     "title": "Pigletz Preventa",
-    "description": "Bienvenido, afortunado! ! Fuiste seleccionado para participar en nuestra Preventa y tienes la oportunidad de acuñar tu único Piglet al precio más bajo posible. También puedes acuñar un paquete de 5, 10 o 20 Pigletz en la misma transacción. Tu código de descuento se aplicará a todos ellos. Disfruta!",
+    "description": "Bienvenido, afortunado! ! Fuiste seleccionado para participar en nuestra Preventa y tienes la oportunidad de acuñar tu único Piglet al precio más bajo posible. También puedes acuñar un paquete de 5, 10 o 20 Pigletz en la misma transacción. Tu código de descuento se aplicará a todos ellos. ¡Disfruta!",
     "tiersDescription": "Acuñamos colecciones de diferentes cantidades y precios. El precio aumenta con el tiempo y al final llegará a unos 8 BNB. Sin embargo, el precio más alto aumenta la probabilidad de obtener un refuerzo especial.",
     "checkTiers": "Comprueba las colecciones abajo"
   },
@@ -81,7 +81,7 @@
       "description_other": "Una valiosa colección de {{count}} Pigletz"
     },
     "boostersOfferTitle": "¿Necesitas <b>refuerzos?</b>",
-    "boostersOfferCaption": "Invierte en tu Piglet para que aporte más valor para ti ",
+    "boostersOfferCaption": "¡Invierte en tu Piglet para que aporte más valor para ti! ",
     "levelReachedCaption": "He alcanzado <b>el nivel {{nivel}}</b>"
   },
   "mysteryBoxList": {
@@ -116,13 +116,13 @@
     "levelUp": {
       "pending": "Subir de nivel {{level}}",
       "success": "¡Felicidades!",
-      "error": "Perdón, algo salió mal"
+      "error": "¡Perdón, algo salió mal!"
     },
     "boosterUp": {
       "pending": "Activando refuerzo",
       "success": "¡Felicidades!",
       "errors": {
-        "default": "Perdón, algo salió mal",
+        "default": "¡Perdón, algo salió mal!",
         "some piglets dont have the same sign": "Algunos Pigletz no tienen el mismo signo",
         "wrong number of piglets": "Número incorrecto de Pigletz",
         "not all piglets are owned by the same owner": "No todos los Pigletz son propiedad del mismo dueño",
@@ -146,46 +146,46 @@
       "pending_other": "Acuñando {{count}} Pigletz",
       "success": "{{count}} Piglet acuñado con éxito",
       "success_other": "{{count}} Pigletz acuñados con éxito",
-      "error": "Perdón, algo salió mal",
+      "error": "¡Perdón, algo salió mal!",
       "pending_plural": "Acuñando {{count}} Pigletz",
       "success_plural": "{{count}} Pigletz acuñados con éxito"
     },
     "approveToken": {
       "pending": "Aprobando {{amount}} {{symbol}}",
       "success": "Hecho",
-      "error": "Perdón, algo salió mal"
+      "error": "¡Perdón, algo salió mal!"
     },
     "openBox": {
       "pending": "Abriendo caja con {{count}} Piglet",
       "pending_other": "Abriendo caja con {{count}} Pigletz",
       "success": "¡Felicidades!",
-      "error": "Perdón, algo salió mal",
+      "error": "¡Perdón, algo salió mal!",
       "pending_plural": "Opening box with {{count}} pigletz  ????"
     },
     "depositToken": {
       "pending": "Depositando {{amount}} {{symbol}}",
       "success": "¡Felicidades!",
-      "error": "Perdón, algo salió mal"
+      "error": "¡Perdón, algo salió mal!"
     },
     "registerDeposit": {
       "pending": "Registrando {{amount}} {{symbol}}",
       "success": "¡Éxito!",
-      "error": "Perdón, algo salió mal"
+      "error": "¡Perdón, algo salió mal!"
     },
     "destroy": {
       "pending": "Rompiendo Piglet #{{tokenId}}",
       "success": "Se acabó",
-      "error": "Perdón, algo salió mal"
+      "error": "¡Perdón, algo salió mal!"
     },
     "transfer": {
       "pending": "Transferencia de Piglet #{{tokenId}} a {{recipient}}",
       "success": "Enviado",
-      "error": "Perdón, algo salió mal"
+      "error": "¡Perdón, algo salió mal!"
     },
     "materialize": {
       "pending": "Materializando Piglet #{{tokenId}}",
       "success": "Enviado",
-      "error": "Perdón, algo salió mal"
+      "error": "¡Perdón, algo salió mal!"
     }
   },
   "buy": {
@@ -205,7 +205,7 @@
         "android": "Android",
         "ios": "iOS",
         "bscTitle": "Debes configurar MetaMask para usar Binance Smart Chain Mainnet.",
-        "bscGuide": "Sigue esta guía",
+        "bscGuide": "¡Sigue esta guía!",
         "bscBalance": "Necesitas suficiente saldo de BNB en tu cuenta de MetaMask para comprar un Piglet. Usa tu Crypto Exchange favorito para transferir BNB a tu dirección pública de MetaMask.",
         "bscFindAddress": "¿Cómo encontrar la dirección pública de tu billetera?",
         "bscFindAddressStep1": "1. En tu billetera, pincha sobre Dirección.",
@@ -221,15 +221,15 @@
         "chrome": "Google Chrome",
         "firefox": "Mozilla Firefox",
         "bscTitle": "Debes configurar MetaMask para usar Binance Smart Chain Mainnet.",
-        "bscGuide": "Sigue esta guía",
-        "bscVideo": "Mira este video",
+        "bscGuide": "¡Sigue esta guía!",
+        "bscVideo": "¡Mira este video!",
         "bscBalance": "Necesitas suficiente saldo de BNB en tu cuenta de MetaMask para comprar un Piglet. Usa tu Crypto Exchange favorito para transferir BNB a tu dirección pública de MetaMask.",
         "bscFindAddress": "¿Cómo encontrar la dirección pública de tu billetera?",
         "bscFindAddressStep1": "1. En la extensión MetaMask de tu navegador, haz clic en el nombre de tu cuenta.",
         "bscFindAddressStep2": "2. La dirección es copiada en tu portapapeles.",
         "connectWalletCaption1": "Cuando tengas fondos suficientes en tu billetera, debes conectarla a nuestro sitio web, haciendo clic en \"Conectar billetera\" en la navegación del sitio web.",
         "connectWalletCaption2": "Cuando estés conectado, puedes <strong>utilizar el siguiente formulario</strong> para realizar una compra.",
-        "watchVideoCaption1": "Mira este video",
+        "watchVideoCaption1": "¡Mira este video!",
         "watchVideoCaption2": " instrucciones paso a paso:"
       }
     }
@@ -265,7 +265,7 @@
       "description": "El hecho de romper tu Piglet removerá todos los tokens dentro de él con un valor total de ${{balanceInUSD}} USD a tu dirección {{recipient}}. Sin embargo, tu Piglet será destruido y perdido para siempre. Así que, ¡Piénsalo dos veces, míralo a los ojos y decide!",
       "lesserLevel": " ¡Debes haber alcanzado al menos el nivel 2 para que se te permita romper tu Piglet!",
       "button": "Romper",
-      "confirmation": "¿Estás seguro de que quieres romper tu Piglet??",
+      "confirmation": "¿Estás seguro de que quieres romper tu Piglet?",
       "confirm": "Sí, cobrar",
       "decline": "No, no puedo"
     },
@@ -334,7 +334,7 @@
   },
   "home": {
     "subtitle": "¡El primer NFT que se materializa!",
-    "howitworks": "Ve cómo funciona",
+    "howitworks": "¡Ve cómo funciona!",
     "videoModalTitle": "Cómo funciona",
     "nft": {
       "title": "Es un NFT",
@@ -348,7 +348,7 @@
       ]
     },
     "token": {
-      "title": "Tokenomics",
+      "title": "Economía del Token",
       "learnMore": "Saber más",
       "caption1": "Cada Piglet comienza a acuñar tokens PiFi desde el primer día que lo compras",
       "caption2": "Puedes depositar tokens en tu Piglet de la misma manera que depositas monedas en la alcancía",
@@ -368,7 +368,7 @@
     "defi": {
       "title": "DeFi",
       "learnMore": "Saber más",
-      "description": "Puedes bloquear a tu Piglet durante un tiempo específico para acelerar el proceso de acuñación",
+      "description": "Puedes bloquear tu Piglet durante un tiempo específico para acelerar el proceso de acuñación.",
       "steaking": {
         "title": "Piglet Staking",
         "description": "Bloquea tu Piglet para una acuñación más rápida"
@@ -381,8 +381,8 @@
     "3dprint": {
       "title": "Materialización",
       "learnMore": "Saber más",
-      "description1": "Puedes usar tokens PiFi para comprar una impresión 3D de tu NFT, que lo representa en el mundo real. Cuando solicitas tu piglet impreso en 3D, el NFT se bloquea dentro de un contrato inteligente. El objeto físico tiene un código de desbloqueo dentro, pero tienes que romper el Piglet para obtener el cifrado. Esto garantiza que el ítem funcione en una sola realidad en un momento dado, conservando siempre sus características NFT.",
-      "description2": "Además, la materializaión del Piglet se considera el último Nivel 4, que posee la cantidad básica más alta de tokens generados "
+      "description1": "Puedes usar tokens PiFi para comprar una impresión 3D de tu NFT, que lo representa en el mundo real. Cuando solicitas tu Piglet impreso en 3D, el NFT se bloquea dentro de un contrato inteligente. El objeto físico tiene un código de desbloqueo dentro, pero tienes que romper el Piglet para obtener el cifrado. Esto garantiza que el ítem funcione en una sola realidad en un momento dado, conservando siempre sus características NFT.",
+      "description2": "Además, la materializaión del Piglet se considera el último Nivel 4, que posee la cantidad básica más alta de tokens generados."
     },
     "roadmap": {
       "title": "Mapa",
@@ -423,7 +423,7 @@
           "status": "Realizado"
         },
         {
-          "description": "<b>Crea el fondo de liquidez/ Agrega liquidez PiFi en PancakeSwap</b><br />(Después de la venta)",
+          "description": "<b>Agrega liquidez PiFi en PancakeSwap</b><br />(Después de la venta)",
           "progress": 0,
           "status": "Próximamente"
         },
@@ -451,7 +451,7 @@
     },
     "joinUs": {
       "announcement": "Pigletz ya está disponible en Binance Smart Chain",
-      "description": "Síguenos para más información, fechas de preventa y venta y descuentos",
+      "description": "¡Síguenos para más información, fechas de preventa y venta y descuentos!",
       "twitter": "Síguenos en Twitter",
       "discord": "Únete a nuestro Discord Server",
       "telegram": "Únete a nuestro grupo de Telegram"
