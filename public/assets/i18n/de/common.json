@@ -147,8 +147,8 @@
       "success": "{{count}} Piglet erfolgreich gemintet",
       "success_other": "{{count}} Pigletz erfolgreich gemintet",
       "error": "Entschuldigung, etwas ist schief gelaufen",
-      "pending_plural": "{{count}} Pigletz minten",
-      "success_plural": "{{count}} Pigletz erfolgreich gemintet"
+      "success_plural": "{{count}} Pigletz erfolgreich gemintet",
+      "pending_plural": "{{count}} Pigletz minten"
     },
     "approveToken": {
       "pending": "Freigabe für {{amount}} {{symbol}}",
