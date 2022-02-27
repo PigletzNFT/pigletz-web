@@ -80,7 +80,7 @@
       "description": "Eine wertvolle Sammlung von {{count}} Piglet",
       "description_other": "Eine wertvolle Sammlung von {{count}} Pigletz"
     },
-    "boostersOfferTitle": "Brauchst Du <b>boosters</b>",
+    "boostersOfferTitle": "Brauchst Du <b>boosters?</b>",
     "boostersOfferCaption": "Investiere in dein Piglet und dieses wird Mehrwert für Dich schaffen",
     "levelReachedCaption": "Ich habe <b>Level {{level}}</b> erreicht"
   },
@@ -147,8 +147,8 @@
       "success": "{{count}} Piglet erfolgreich gemintet",
       "success_other": "{{count}} Pigletz erfolgreich gemintet",
       "error": "Entschuldigung, etwas ist schief gelaufen",
-      "success_plural": "{{count}} Pigletz erfolgreich gemintet",
-      "pending_plural": "{{count}} Pigletz minten"
+      "pending_plural": "{{count}} Pigletz minten",
+      "success_plural": "{{count}} Pigletz erfolgreich gemintet"
     },
     "approveToken": {
       "pending": "Freigabe für {{amount}} {{symbol}}",
@@ -194,7 +194,7 @@
     "promoCodeCheckButton": "Prüfen",
     "promoCodePlaceholder": "CODE EINFÜGEN...",
     "quantityCaption": "Menge:",
-    "buyNowButton": "Jetzt minten",
+    "buyNowButton": "Minten",
     "totalCaption": "Gesamt:",
     "howto": {
       "mobile": {
