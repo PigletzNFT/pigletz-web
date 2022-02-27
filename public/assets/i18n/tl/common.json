@@ -1,6 +1,8 @@
 {
   "seo": {
     "url": "https://pigletz.com",
+    "title": "Pigletz - Ang unang NFT na nag-mamaterialize!",
+    "description": "Ang Pigletz ay isang natatanging NFT collectable game na nagpapakilala ng: natatanging 3D cute na biik; isang digital na alkansya na may hawak ng iyong mga token; naa-upgrade na mga NFT na may level; DeFi - sariling token, staking, lending; at tunay na 3D piglet figure",
     "image": "https://pigletz.com/assets/images/social-banner.jpg"
   },
   "nav": {
@@ -56,6 +58,7 @@
   },
   "presale": {
     "title": "Pigletz Presale",
+    "description": "Maligayang pagdating! Ikaw ay napili upang lumahok sa aming Presale at dito mayroon kang pagkakataong mag-mint ng isang natatanging Piglet sa pinakamababang posibleng presyo. Maaari ka ring mag-mint ng isang bundle ng 5, 10 o 20 sa parehong transaksyon. Ang iyong discount code ay ilalapat sa lahat ng mga ito. Enjoy!",
     "tiersDescription": "Kami ay gumagawa ng mga koleksyon na may iba't ibang halaga at presyo. Ang pagtaas ng presyo sa paglipas ng panahon at sa dulo ay aabot sa 8 BNB. Gayunpaman sa mas mataas na presyo mayroon ding mas mataas na pagkakataon na makuha ang espesyal na booster.",
     "checkTiers": "suriin ang mga tier sa ibaba"
   },
@@ -69,6 +72,7 @@
     "title": "Pigletz Collection",
     "description": "Ang magandang koleksyon ng {{address}}",
     "my": {
+      "description": "Ang maganda mong collection"
     },
     "seo": {
       "title": "Pigletz Collection",
@@ -340,12 +344,14 @@
     },
     "token": {
       "title": "Tokenomics",
+      "learnMore": "Matuto pa",
       "caption1": "Ang bawat biik ay magsisimulang magmina ng mga PiFi token mula sa araw na binili mo ito.",
       "caption2": "Maaari kang magdeposito ng mga token sa iyong biik gaya ng pagdedeposito mo ng mga barya sa alkansya.",
       "caption3": "Hatiin ang iyong biik para ma-access ang lahat ng nadeposito na token kasama ang lahat ng mined na PiFi token."
     },
     "game": {
       "title": "Gamification",
+      "learnMore": "Matuto pa",
       "caption1": "Mag-level up para ipakita ang mga katangian ng Piglet at pahusayin ang base mining rate.",
       "caption2": "Kolektahin at ilapat ang mga booster para pataasin pa ang bilis ng produksyon ng token.",
       "caption3": "Subaybayan at pamahalaan ang iyong Pigletz sa pamamagitan ng aming maginhawang Dapp."
@@ -356,6 +362,7 @@
     },
     "defi": {
       "title": "DeFi",
+      "learnMore": "Matuto pa",
       "description": "Maaari mong i-lock ang iyong biik para sa isang tiyak na oras upang mapabilis ang proseso ng pagmimina.",
       "steaking": {
         "title": "Piglet Staking",
@@ -368,6 +375,7 @@
     },
     "3dprint": {
       "title": "Materialisasyon",
+      "learnMore": "Matuto pa",
       "description1": "Maaari mong gamitin ang mga token ng PiFi upang bumili ng 3D print ng iyong NFT, na kumakatawan dito sa totoong mundo. Kapag nag-order ka ng iyong 3D-printed na alkansya, ang NFT ay naka-lock sa isang Smart Contract. Ang pisikal na bagay ay may unlock code sa loob, ngunit kailangan mong basagin ang Piglet upang makuha ang cipher. Tinitiyak nito na gumagana ang item sa isang realidad lamang sa isang partikular na punto ng oras, palaging pinapanatili ang mga katangian ng NFT nito.",
       "description2": "Higit pa rito, ang materyal na estado ng Piglet ay itinuturing na huling Level 4, na may pinakamataas na rate ng base mining."
     },
