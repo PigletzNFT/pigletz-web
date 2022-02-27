@@ -1,0 +1,36 @@
+{
+  "trait": {
+    "description": "Това е {{level}} ниво {{body}} прасенце от {{gender}} пол - едно от of 12 345 уникални Pigletz. То ще ти копае по {{dailyMint}} PiFi токени на ден. Счупи го за да вземем токените в него! Или пък си го поръчай като уникална 3D фигурка. Ти решаваш.",
+    "category": {
+      "Level": "Ниво"
+    },
+    "value": {
+      "Level": {
+      },
+      "Base PiFi/Day": {
+      },
+      "Gender": {
+      },
+      "Zodiac": {
+      },
+      "Body": {
+      },
+      "Mouth": {
+      },
+      "Eyes": {
+      },
+      "Hairstyle": {
+      },
+      "Beardstyle": {
+      },
+      "Earrings": {
+      },
+      "Nose": {
+      },
+      "Glasses": {
+      },
+      "Tattoo": {
+      }
+    }
+  }
+}
