@@ -1,0 +1,180 @@
+{
+  "trait": {
+    "description": "Това е {{level}} ниво {{body}} прасенце от {{gender}} пол - едно от of 12 345 уникални Pigletz. То ще ти копае по {{dailyMint}} PiFi токени на ден. Счупи го за да вземем токените в него! Или пък си го поръчай като уникална 3D фигурка. Ти решаваш.",
+    "category": {
+      "Level": "Ниво",
+      "Base PiFi/Day": "Базово PiFi/Ден",
+      "Gender": "Пол",
+      "Zodiac": "Знак",
+      "Body": "Тяло",
+      "Mouth": "Уста",
+      "Eyes": "Очи",
+      "Hairstyle": "Прическа",
+      "Beardstyle": "Стил на брада",
+      "Earrings": "Обеци",
+      "Nose": "Стил на носа",
+      "Glasses": "Очила",
+      "Tattoo": "Татуировка"
+    },
+    "value": {
+      "Level": {
+        "1": "1во",
+        "2": "2ро",
+        "3": "3то",
+        "4": "Материализирано"
+      },
+      "Base PiFi/Day": {
+        "167": "167",
+        "250": "250",
+        "417": "417",
+        "500": "500"
+      },
+      "Gender": {
+        "GenderMale": "Мъж",
+        "GenderFemale": "Жена",
+        "GenderOther": "Друг"
+      },
+      "Zodiac": {
+        "ZodiacAries": "Овен",
+        "ZodiacTaurus": "Телец",
+        "ZodiacGemini": "Близнаци",
+        "ZodiacCancer": "Рак",
+        "ZodiacLeo": "Лъв",
+        "ZodiacVirgo": "Дева",
+        "ZodiacLibra": "Везни",
+        "ZodiacScorpio": "Скорпион",
+        "ZodiacSagittarius": "Стрелец",
+        "ZodiacCapricorn": "Козирог",
+        "ZodiacAquarius": "Водолей",
+        "ZodiacPisces": "Риби"
+      },
+      "Body": {
+        "BodyPinkMale": "Розово",
+        "BodyBrownMale": "Кафяво",
+        "BodyBlackMale": "Черно",
+        "BodyAlbinoMale": "Албино",
+        "BodyGoldMale": "Златно",
+        "BodyStoneMale": "Каменно",
+        "BodyPinkFemale": "Розово",
+        "BodyBrownFemale": "Кафяво",
+        "BodyBlackFemale": "Черно",
+        "BodyAlbinoFemale": "Албино",
+        "BodyGoldFemale": "Златно",
+        "BodyStoneFemale": "Каменно"
+      },
+      "Mouth": {
+        "MouthMaleBubblegum": "Дъвка",
+        "MouthSmoking": "Пушещ",
+        "MouthAngry": "Ядосан",
+        "MouthMaleSmiling": "Усмихнат",
+        "MouthMaleTongue": "Език",
+        "MouthDrooling": "Слюнка",
+        "MouthMaleVampire": "Вампир",
+        "MouthGoldTooth": "Златна уста",
+        "MouthStandard": "Стандартен",
+        "MouthHalfOpen": "Полуотворен",
+        "MouthFemaleSmiling": "Усмихнат",
+        "MouthSad": "Тъжен",
+        "MouthFemaleBubblegum": "Дъвка",
+        "MouthKiss": "Целувка",
+        "MouthFemaleTongue": "Език",
+        "MouthFemaleVampire": "Вампир"
+      },
+      "Eyes": {
+        "EyesMaleBrown": "Кафеви",
+        "EyesMaleGreen": "Зелени",
+        "EyesMaleBlue": "Сини",
+        "EyesTired": "Изморени",
+        "EyesBitcoin": "Биткойн",
+        "EyesInlove": "Влюбени",
+        "EyesScared": "Изплашен",
+        "EyesMaleAngry": "Ядосан",
+        "EyesCrying": "Плачещ",
+        "EyesSeductive": "Съблазнителен",
+        "EyesFemaleGreen": "Зелени",
+        "EyesFemaleBlue": "Сини",
+        "EyesFemaleBrown": "Кафеви",
+        "EyesFemaleBitcoin": "Биткойн",
+        "EyesBlinking": "Мигащи",
+        "EyesFemaleAngry": "Ядосан"
+      },
+      "Hairstyle": {
+        "HairstyleBald": "Плешив",
+        "HairstyleManbunBlack": "Черен мъжки кок",
+        "HairstyleRasta": "Раста",
+        "HairstyleEmoBlonde": "Рус Емо",
+        "HairstyleEmoBrown": "Кафяв Емо",
+        "HairstyleEmoBlack": "Чернен Емо",
+        "HairstyleSpikedBrown": "Кафеви шипове",
+        "HairstyleEyesMaleAngry": "Ядосан",
+        "HairstyleSpikedBlonde": "Руси шипове",
+        "HairstyleChild": "Дете",
+        "HairstylePunk": "Пънк",
+        "HairstyleFedora": "Федора",
+        "HairstyleSummerHat": "Лятна шапка",
+        "HairstyleShort": "Къса",
+        "HairstyleBraid": "Плитка",
+        "HairstyleAfro": "Афро",
+        "HairstyleStraight": "Изправена",
+        "HairstyleCurlyBanksBlonde": "Рус къдрав бретон",
+        "HairstyleCurlyBanksRed": "Червен къдрав бретон",
+        "HairstyleBunsBlack": "Черни кокчета",
+        "HairstyleBunsBlonde": "Руси кокчета",
+        "HairstyleBunsBrown": "Кафеви кокчета",
+        "HairstyleBanks": "Бретон",
+        "HairstylePonytails": "Конски опашки",
+        "HairstylePonytail": "Конска опашка"
+      },
+      "Beardstyle": {
+        "BeardstyleNone": "Нищо",
+        "BeardstyleFull": "Пълен",
+        "BeardstyleThin": "Тънка",
+        "BeardstyleStandard": "Стандартна",
+        "BeardstyleMario": "Марио",
+        "BeardstyleDali": "Дали"
+      },
+      "Earrings": {
+        "EarringsNone": "Никакъв",
+        "EarringsMaleRingsSilver": "Сребърни пръстени",
+        "EarringsMaleRingsGold": "Златни пръстени",
+        "EarringsManiac": "Маниак",
+        "EarringsDrop": "Капка",
+        "EarringsFancy": "Луксозен",
+        "EarringsBigRings": "Големи пръстени",
+        "EarringsStones": "Камъни",
+        "EarringsFemaleRings": "Пръстени",
+        "EarringsBalls": "Топки"
+      },
+      "Nose": {
+        "NoseNone": "Никакъв",
+        "NoseTribal": "Племенен",
+        "NoseHorseshoe": "Подкова",
+        "NoseRing": "Пръстен",
+        "NoseSeptum": "Септум",
+        "NoseBooger": "Сопол"
+      },
+      "Glasses": {
+        "GlassesNone": "Никакъв",
+        "GlassesJohn": "Джон",
+        "GlassesHalf": "Половина",
+        "GlassesEyepatch": "Превръзка",
+        "GlassesOptical": "Оптичен",
+        "GlassesMask": "Маска",
+        "GlassesRetro": "Ретро",
+        "GlassesCateyeRed": "Червено котешко око",
+        "GlassesCateyeWhite": "Бяло котешко око",
+        "GlassesHeartshaped": "Форма на сърце",
+        "GlassesGolden": "Златен"
+      },
+      "Tattoo": {
+        "TattooNone": "Никакъв",
+        "TattooTyson": "Тайсън",
+        "TattooRapper": "Рапър",
+        "TattooMaleFace": "Лице",
+        "TattooFemaleFace": "Лице",
+        "TattooPiercing": "Пиерсинг",
+        "TattooFull": "Пълен"
+      }
+    }
+  }
+}
