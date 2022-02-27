@@ -190,8 +190,13 @@
         "promoCodeCheckButton": "Check",
         "promoCodePlaceholder": "PASTE CODE HERE...",
         "quantityCaption": "Quantity:",
-        "buyNowButton": "Mint Now",
+        "buyNowButton": "Mint",
+        "discountedPrice": "{{price}} BNB",
         "totalCaption": "Total:",
+        "tiersTitle": "Tiers",
+        "tierIndex": "Tier {{index}}",
+        "tierPrice": "{{price}} BNB",
+        "itemsInColletionLeft": "{{amountLeft}} left",
         "howto": {
             "mobile": {
                 "button": "Not Sure? Learn How to Buy ↓",
