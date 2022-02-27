@@ -127,6 +127,7 @@
         "wrong number of piglets": "Falsche Anzahl von Pigletz",
         "not all piglets are owned by the same owner": "Nicht alle Pigletz gehören demselben Eigentümer",
         "some piglets have already been boosted": "Einige Pigletz wurden bereits geboostert",
+        "some piglets are celebrities": "Manche Pigletz sind Promis",
         "some piglets are not of the correct level": "Einige Pigletz sind nicht auf dem richtigen Lebel",
         "some piglets have not been boosted": "Einige Pigletz sind nicht geboostert",
         "some piglets are not boostable": "Einige Pigletz sind nicht Booster-fähig",
@@ -144,6 +145,7 @@
       "pending": "{{count}} Piglet minten",
       "pending_other": "{{count}} Pigletz minten.",
       "success": "{{count}} Piglet erfolgreich gemintet",
+      "success_other": "{{count}} Pigletz erfolgreich gemintet",
       "error": "Entschuldigung, etwas ist schief gelaufen",
       "success_plural": "{{count}} Pigletz erfolgreich gemintet",
       "pending_plural": "{{count}} Pigletz minten"
@@ -287,6 +289,7 @@
       "activated": "Activiert",
       "title": "Boostern",
       "tokenSelect": {
+        "title": "Wähle {{count}} Pigletz"
       },
       "names": {
         "Invest $100": "Wert $100",
@@ -346,12 +349,14 @@
     },
     "token": {
       "title": "Tokenomics",
+      "learnMore": "Mehr erfahren",
       "caption1": "Jedes Piglet beginnt schon ab Kauf PiFi-Tokens zu minen.",
       "caption2": "Du kannst Tokens in Deinem Piglet einzahlen, so wie Du Münzen in dem Sparschweinchen enzahlst.",
       "caption3": "Breche dein Piglet, um Zugriff auf alle hinterlegten Tokens und alle geminten PiFi-Tokens zu erhalten."
     },
     "game": {
       "title": "Gamification",
+      "learnMore": "Mehr erfahren",
       "caption1": "Level-up, um Piglet-Eigenschaften zu enthüllen und Basis-Mintrate zu verbessern.",
       "caption2": "Boostern sammeln und nutzen, um die Tokenerstellng zu beschleunigen.",
       "caption3": "Deine Pigletz über unsere bequeme Dapp überwachen und verwalten."
@@ -362,6 +367,7 @@
     },
     "defi": {
       "title": "DeFi",
+      "learnMore": "Mehr erfahren",
       "description": "Du kannst Dein piglet auf eine bestimmte Zeit locken, um das Mining zu beschleunigen.",
       "steaking": {
         "title": "Piglet-Staking",
@@ -374,6 +380,7 @@
     },
     "3dprint": {
       "title": "Materialisation",
+      "learnMore": "Mehr erfahren",
       "description1": "Du kannst PiFi-Tokens verwenden, um einen 3D-Druck Deines NFTs zu kaufen, das Dein Piglet in der realen Welt repräsentiert. Wenn Du Dein 3D-gedrucktes Piglet bestellst, wird das NFT in einem Smart-Contract gesperrt. Das physische Objekt enthält einen Freischaltcode, aber Du sollst das Piglet brechen, um an dem Code zu gelangen. Damit wird sichergestellt, dass das Objekt zu einem bestimmten Zeitpunkt nur in einer Realität funktioniert und die NFT-Eigenschaften beibehalten sind.",
       "description2": "Der materielle Zustand des Pigletz erreicht das letzte Level 4 und damit die beste Mining-Rate."
     },
