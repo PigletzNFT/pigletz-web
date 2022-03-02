@@ -1,7 +1,7 @@
 {
   "seo": {
     "url": "https://pigletz.com",
-    "title": "Pigletz - Ang unang NFT na nag-mamaterialize!",
+    "title": "Pigletz - Ang unang NFT na nagkakatotoo!",
     "description": "Ang Pigletz ay isang natatanging NFT collectable game na nagpapakilala ng: natatanging 3D cute na biik; isang digital na alkansya na may hawak ng iyong mga token; naa-upgrade na mga NFT na may level; DeFi - sariling token, staking, lending; at tunay na 3D piglet figure",
     "image": "https://pigletz.com/assets/images/social-banner.jpg"
   },
@@ -18,9 +18,11 @@
     "back": "Bumalik",
     "languages": {
       "en": "Ingles",
-      "de": "Deutch",
+      "bg": "Български",
+      "de": "Deutsch",
       "es": "Español",
-      "tr": "Türkçe"
+      "tr": "Türkçe",
+      "tl": "Filipino"
     }
   },
   "banner": {
@@ -190,8 +192,9 @@
     "promoCodeCheckButton": "Suriin",
     "promoCodePlaceholder": "I-paste ang CODE DITO...",
     "quantityCaption": "Dami:",
-    "buyNowButton": "Mint Ngayon",
+    "buyNowButton": "Mint",
     "totalCaption": "Kabuuan:",
+    "itemsInColletionLeft": "{{amountLeft}} natitira ",
     "howto": {
       "mobile": {
         "button": "Hindi ako sigurado? Alamin Kung Paano Bumili ↓",
