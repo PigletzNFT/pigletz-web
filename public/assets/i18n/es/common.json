@@ -18,9 +18,11 @@
     "back": "Atrás",
     "languages": {
       "en": "English",
+      "bg": "Български",
       "de": "Deutsch",
       "es": "Español",
-      "tr": "Türkçe"
+      "tr": "Türkçe",
+      "tl": "Filipino"
     }
   },
   "banner": {
@@ -194,7 +196,13 @@
     "promoCodeCheckButton": "Verificar",
     "promoCodePlaceholder": "Copiar código aquí...",
     "quantityCaption": "Cantidad:",
+    "buyNowButton": "Acuñar",
+    "discountedPrice": "{{price}} BNB",
     "totalCaption": "Total:",
+    "tiersTitle": "Colecciones",
+    "tierIndex": "Colección {{index}}",
+    "tierPrice": "{{price}} BNB",
+    "itemsInColletionLeft": "quedan {{amountLeft}}",
     "howto": {
       "mobile": {
         "button": "¿No estás seguro? Aprende a comprar ↓",
@@ -347,12 +355,14 @@
     },
     "token": {
       "title": "Economía del Token",
+      "learnMore": "Saber más",
       "caption1": "Cada Piglet comienza a acuñar tokens PiFi desde el primer día que lo compras",
       "caption2": "Puedes depositar tokens en tu Piglet de la misma manera que depositas monedas en la alcancía",
       "caption3": "Rompe tu Piglet para acceder a todos los tokens depositados más todos los tokens PiFi acuñados."
     },
     "game": {
       "title": "Gamificación",
+      "learnMore": "Saber más",
       "caption1": "Sube de nivel para revelar los rasgos de tu Piglet y mejora la cantidad básica de tokens generados",
       "caption2": "Recoge y usa refuerzos para aumentar aún más la velocidad de acuñación de tokens.",
       "caption3": "Supervisa y gestiona tus Pigletz a través de nuestra Dapp."
@@ -363,6 +373,7 @@
     },
     "defi": {
       "title": "DeFi",
+      "learnMore": "Saber más",
       "description": "Puedes bloquear tu Piglet durante un tiempo específico para acelerar el proceso de acuñación.",
       "steaking": {
         "title": "Piglet Staking",
@@ -375,6 +386,7 @@
     },
     "3dprint": {
       "title": "Materialización",
+      "learnMore": "Saber más",
       "description1": "Puedes usar tokens PiFi para comprar una impresión 3D de tu NFT, que lo representa en el mundo real. Cuando solicitas tu Piglet impreso en 3D, el NFT se bloquea dentro de un contrato inteligente. El objeto físico tiene un código de desbloqueo dentro, pero tienes que romper el Piglet para obtener el cifrado. Esto garantiza que el ítem funcione en una sola realidad en un momento dado, conservando siempre sus características NFT.",
       "description2": "Además, la materializaión del Piglet se considera el último Nivel 4, que posee la cantidad básica más alta de tokens generados."
     },
