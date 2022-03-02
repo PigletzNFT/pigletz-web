@@ -195,7 +195,12 @@
     "promoCodePlaceholder": "CODE EINFÜGEN...",
     "quantityCaption": "Menge:",
     "buyNowButton": "Minten",
+    "discountedPrice": "{{price}} BNB",
     "totalCaption": "Gesamt:",
+    "tiersTitle": "Ebenen",
+    "tierIndex": "Ebene {{index}}",
+    "tierPrice": "{{price}} BNB",
+    "itemsInColletionLeft": "{{amountLeft}} mehr",
     "howto": {
       "mobile": {
         "button": "Nicht sicher? Erfahre, wie man kaufen kann ↓",
