@@ -193,7 +193,11 @@
     "promoCodePlaceholder": "I-paste ang CODE DITO...",
     "quantityCaption": "Dami:",
     "buyNowButton": "Mint",
+    "discountedPrice": "{{price}} BNB",
     "totalCaption": "Kabuuan:",
+    "tiersTitle": "Mga Baitang",
+    "tierIndex": "Baitang {{index}}",
+    "tierPrice": "{{price}} BNB",
     "itemsInColletionLeft": "{{amountLeft}} natitira ",
     "howto": {
       "mobile": {
