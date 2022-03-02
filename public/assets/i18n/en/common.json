@@ -18,9 +18,11 @@
         "back": "Back",
         "languages": {
             "en": "English",
+            "bg": "Български",
             "de": "Deutsch",
             "es": "Español",
-            "tr": "Türkçe"
+            "tr": "Türkçe",
+            "tl": "Filipino"
         }
     },
     "banner": {
