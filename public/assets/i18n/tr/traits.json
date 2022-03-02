@@ -1,6 +1,6 @@
 {
   "trait": {
-    "description": "Bu, {{level}} seviye {{body}}  {{gender}} cinsiyetten Piglet - 12.345 benzersiz Pigletz türünden biri. Senin için her gün {{dailyMint}} PiFi jeton madenciliği yapacak. Paraları ele geçirmek için kırın!  Veya gerçek bir 3D kumbara olarak işlemesini sağlayın. Kararını sen ver ! ",
+    "description": "Bu, {{level}}. seviye ve {{gender}} cinsiyetinde bir Pigletz, 12.345 eşsiz Pigletz'den biri. Sizin için madencilikle her gün {{dailyMint}} PiFi token'ı kazacak. Token'ları almak için onu kırabilir ya da 3 boyutlu bir kumbara olarak adresinize gönderilmesini isteyebilirsiniz. Karar sizin.",
     "category": {
       "Level": "Seviye",
       "Base PiFi/Day": "Temel PiFi/Gün",
@@ -37,7 +37,7 @@
       "Zodiac": {
         "ZodiacAries": "Koç",
         "ZodiacTaurus": "Boğa",
-        "ZodiacGemini": "İkizler",
+        "ZodiacGemini": "Ikizler",
         "ZodiacCancer": "Yengeç",
         "ZodiacLeo": "Aslan",
         "ZodiacVirgo": "Başak",
@@ -122,13 +122,13 @@
         "HairstyleBunsBlonde": "Sarı Topuz",
         "HairstyleBunsBrown": "Kahve Topuz",
         "HairstyleBanks": "Banks",
-        "HairstylePonytails": "İkili At Kuyruğu",
+        "HairstylePonytails": "Ikili At Kuyruğu",
         "HairstylePonytail": "At Kuyruğu"
       },
       "Beardstyle": {
         "BeardstyleNone": "Yok",
         "BeardstyleFull": "Tüm Surat",
-        "BeardstyleThin": "İnce",
+        "BeardstyleThin": "Ince",
         "BeardstyleStandard": "Normal",
         "BeardstyleMario": "Mario",
         "BeardstyleDali": "Dali"

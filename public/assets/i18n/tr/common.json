@@ -13,20 +13,22 @@
     "pigletz": "Pigletz'lerim",
     "mystery": "Kutularım",
     "connect": "Cüzdan Bağla",
-    "buypiglets": "Pigletz Bas",
+    "buypiglets": "Pigletz NFT üret",
     "menu": "Menü",
     "back": "Geri",
     "languages": {
       "en": "English",
+      "bg": "Български",
       "de": "Deutsch",
       "es": "Español",
-      "tr": "Türkçe"
+      "tr": "Türkçe",
+      "tl": "Filipino"
     }
   },
   "banner": {
     "presale": {
       "text": "Ön satış için son tarih: {{time}} ",
-      "mintNow": "Hemen Bas",
+      "mintNow": "Şimdi üret",
       "second": "{{count}} saniye",
       "second_other": "{{count}} saniye",
       "minute": "{{count}} dakika",
@@ -38,7 +40,7 @@
     },
     "public": {
       "text": "Özel teklifler için Discord topluluğumuza katılın!",
-      "mintNow": "Hemen Bas"
+      "mintNow": "Şimdi üret"
     },
     "binance": {
       "text": "Pigletz artık Binance NFT'de mevcut",
@@ -59,13 +61,13 @@
   },
   "presale": {
     "title": "Pigletz Ön Satışı",
-    "description": "Hoş geldin seçilmiş kişi! Ön satışımıza katılmak için seçildiniz ve mümkün olan en düşük fiyata eşsiz bir Pigletz basma şansına sahipsiniz. Aynı işlemde 5, 10, veya 20'lik bir paket de basabilirsiniz. İndirim kodunuz hepsine uygulanacaktır. İyi eğlenceler!",
+    "description": "Hoş geldin seçilmiş kişi! Ön satışımıza katılmak için seçildiniz ve mümkün olan en düşük fiyata eşsiz bir Pigletz üretmek şansına sahipsiniz. Aynı işlemde 5, 10, veya 20'lik bir paket de basabilirsiniz. Indirim kodunuz hepsine uygulanacaktır. Iyi eğlenceler!",
     "tiersDescription": "Farklı miktar ve fiyatlarda koleksiyonlar basıyoruz. Fiyat zamanla artmaktadır ve sonunda 8 BNB'ye ulaşacaktır. Ancak fiyat arttığında, özel takviyeyi elde etme şansınız da artmaktadır.",
     "checkTiers": "aşağıdaki seviyeleri kontrol edin"
   },
   "mint": {
-    "title": "Pigletz Basma",
-    "description": "Hoş geldiniz! Burada yeni Pigletz'inizi basabilirsiniz. Bastığınız Pigletz kanıtlanabilir bir şekilde adil ve rastgele bir algoritma kullanılarak seçilecektir. İndirim kodları almak isterseniz Discord, Telegram ve Twitter'daki topluluklarımıza katılın ve seçenekleri sorun. İyi eğlenceler!",
+    "title": "Pigletz NFT üretmek",
+    "description": "Hoş geldiniz! Burada yeni Pigletz'inizi basabilirsiniz. Bastığınız Pigletz kanıtlanabilir bir şekilde adil ve rastgele bir algoritma kullanılarak seçilecektir. Indirim kodları almak isterseniz Discord, Telegram ve Twitter'daki topluluklarımıza katılın ve seçenekleri sorun. Iyi eğlenceler!",
     "tiersDescription": "Farklı miktar ve fiyatlarda koleksiyonlar basıyoruz. Fiyat zamanla artmaktadır ve sonunda 8 BNB'ye ulaşacaktır. Ancak fiyat arttığında, özel takviyeyi elde etme şansınız da artmaktadır.",
     "checkTiers": "aşağıdaki seviyeleri kontrol edin"
   },
@@ -88,7 +90,7 @@
     "title": "Gizemli Kutular",
     "description": "{{address}} adresine ait kutuların listesi",
     "my": {
-      "description": "Gizemli kutularınız. İçindeki Pigletz'leri görmek için açın!"
+      "description": "Gizemli kutularınız. Içindeki Pigletz'leri görmek için açın!"
     },
     "seo": {
       "title": "Pigletz Gizemli Kutuları",
@@ -110,7 +112,7 @@
       "walletconnect": "WalletConnect"
     },
     "howtoTitle": "Kripto cüzdanınız yok mu?",
-    "howtoButton": "Nasıl bağlanacağınızı öğrenin"
+    "howtoButton": "Nasıl bağlanacağını öğren"
   },
   "actions": {
     "levelUp": {
@@ -142,10 +144,10 @@
       "error": "Kod yanlış ya da süresi dolmuş"
     },
     "purchasePiglet": {
-      "pending": "{{count}} Pigletz basılıyor",
-      "pending_other": "{{count}} Pigletz basılıyor",
-      "success": "{{count}} Pigletz başarıyla basıldı",
-      "success_other": "{{count}} Pigletz başarıyla basıldı",
+      "pending": "{{count}} Pigletz üretmek",
+      "pending_other": "{{count}} Pigletz üretmek",
+      "success": "{{count}} Pigletz başarıyla üretti",
+      "success_other": "{{count}} Pigletz başarıyla üretti",
       "error": "Üzgünüz, bir şeyler ters gitti",
       "pending_plural": "Minting {{count}} piglets",
       "success_plural": "{{count}} piglets successfully minted"
@@ -190,16 +192,21 @@
   },
   "buy": {
     "saleAddress": "Satış Sözleşmesi: {{address}}",
-    "promoCodeCaption": "İndirim:",
+    "promoCodeCaption": "Indirim:",
     "promoCodeCheckButton": "Kontrol",
     "promoCodePlaceholder": "KODUNUZU BURAYA YAPIŞTIRIN...",
     "quantityCaption": "Adet:",
-    "buyNowButton": "Hemen Bas",
+    "buyNowButton": "Üret",
+    "discountedPrice": "{{price}} BNB",
     "totalCaption": "Toplam:",
+    "tiersTitle": "Aşamalar",
+    "tierIndex": "Aşama {{index}}",
+    "tierPrice": "{{price}} BNB",
+    "itemsInColletionLeft": "{{amountLeft}} daha",
     "howto": {
       "mobile": {
         "button": "Emin değil misiniz? Nasıl satın alacağınızı öğrenin ↓",
-        "youNeed": "İhtiyacınız olanlar:",
+        "youNeed": "Ihtiyacınız olanlar:",
         "metamask": "MetaMask",
         "walletApp": "Cüzdan Uygulaması",
         "android": "Android",
@@ -215,7 +222,7 @@
       },
       "desktop": {
         "button": "Emin değil misin? Masaüstünde nasıl satın alacağınızı öğrenin ↓",
-        "youNeed": "İhtiyacınız olanlar:",
+        "youNeed": "Ihtiyacınız olanlar:",
         "metamask": "MetaMask",
         "extension": "Chrome veya Firefox için tarayıcı uzantısı",
         "chrome": "Google Chrome",
@@ -350,7 +357,7 @@
     "token": {
       "title": "Tokenomi",
       "learnMore": "Daha Fazla Bilgi",
-      "caption1": "Her Pigletz, satın aldığınız günden itibaren PiFi token'ları kazmaya başlar.",
+      "caption1": "Her Piglet, satın aldığınız günden itibaren PiFi token'ları kazmaya başlar.",
       "caption2": "Kumbarada para biriktirir gibi, Pigletz'inize token yatırabilirsiniz.",
       "caption3": "Yatırdığınız token'ların yanı sıra madencilikle eldi edilen PiFi token'larına erişmek için Pigletz'inizi kırın."
     },
@@ -398,7 +405,7 @@
           "status": "✓ Tamamlandı"
         },
         {
-          "description": "Pigletz özelliklerinin<b>Kavramsallaştırma ve Modellemesi</b> (3.Ç 2021)",
+          "description": "Pigletz özelliklerinin <b>Kavramsallaştırma ve Modellemesi</b> (3.Ç 2021)",
           "progress": 100,
           "status": "✓ Tamamlandı"
         },
@@ -413,7 +420,7 @@
           "status": "✓ Tamamlandı"
         },
         {
-          "description": "<b>İlk ön satış</b><br />(18 Aralık 2021)",
+          "description": "<b>Ilk ön satış</b><br />(18 Aralık 2021)",
           "progress": 100,
           "status": "✓ Tamamlandı"
         },
@@ -428,7 +435,7 @@
           "status": "Çok yakında"
         },
         {
-          "description": "<b>İlk 3D baskıların</b> teslimi <br />(1.Ç 2022)",
+          "description": "<b>Ilk 3D baskıların</b> teslimi <br />(1.Ç 2022)",
           "progress": 0,
           "status": "Çalışıyoruz..."
         },
