@@ -18,9 +18,11 @@
     "back": "Atrás",
     "languages": {
       "en": "English",
+      "bg": "Български",
       "de": "Deutsch",
       "es": "Español",
-      "tr": "Türkçe"
+      "tr": "Türkçe",
+      "tl": "Filipino"
     }
   },
   "banner": {
@@ -195,7 +197,12 @@
     "promoCodePlaceholder": "Copiar código aquí...",
     "quantityCaption": "Cantidad:",
     "buyNowButton": "Acuñar",
+    "discountedPrice": "{{price}} BNB",
     "totalCaption": "Total:",
+    "tiersTitle": "Colecciones",
+    "tierIndex": "Colección {{index}}",
+    "tierPrice": "{{price}} BNB",
+    "itemsInColletionLeft": "quedan {{amountLeft}}",
     "howto": {
       "mobile": {
         "button": "¿No estás seguro? Aprende a comprar ↓",
