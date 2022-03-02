@@ -18,9 +18,11 @@
     "back": "Bumalik",
     "languages": {
       "en": "Ingles",
+      "bg": "Български",
       "de": "Deutsch",
       "es": "Español",
-      "tr": "Türkçe"
+      "tr": "Türkçe",
+      "tl": "Filipino"
     }
   },
   "banner": {
@@ -190,6 +192,7 @@
     "promoCodeCheckButton": "Suriin",
     "promoCodePlaceholder": "I-paste ang CODE DITO...",
     "quantityCaption": "Dami:",
+    "buyNowButton": "Mint",
     "totalCaption": "Kabuuan:",
     "itemsInColletionLeft": "{{amountLeft}} natitira ",
     "howto": {
