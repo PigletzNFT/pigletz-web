@@ -18,9 +18,11 @@
     "back": "Geri",
     "languages": {
       "en": "English",
+      "bg": "Български",
       "de": "Deutsch",
       "es": "Español",
-      "tr": "Türkçe"
+      "tr": "Türkçe",
+      "tl": "Filipino"
     }
   },
   "banner": {
@@ -194,6 +196,8 @@
     "promoCodeCheckButton": "Kontrol",
     "promoCodePlaceholder": "KODUNUZU BURAYA YAPIŞTIRIN...",
     "quantityCaption": "Adet:",
+    "buyNowButton": "Üret",
+    "discountedPrice": "{{price}} BNB",
     "totalCaption": "Toplam:",
     "tiersTitle": "Aşamalar",
     "tierIndex": "Aşama {{index}}",
