@@ -109,7 +109,8 @@
       "binancewallet": "Binance Wallet",
       "walletconnect": "WalletConnect"
     },
-    "howtoTitle": "Kripto cüzdanınız yok mu?"
+    "howtoTitle": "Kripto cüzdanınız yok mu?",
+    "howtoButton": "Nasıl bağlanacağını öğren"
   },
   "actions": {
     "levelUp": {
