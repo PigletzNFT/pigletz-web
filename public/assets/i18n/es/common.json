@@ -248,6 +248,7 @@
     "pifi": "PiFi:",
     "walletDescription": "Esta es la billetera no custodiada de tu Piglet. Solo el Piglet, respectivamente, su propietario puede interactuar con ella: depositar tokens o romperlo y retirar todo lo que contiene",
     "walletTitle": "Billetera",
+    "depositButton": "Depósito ({{invested}}/{{total}})",
     "totalValue": "Valor total:",
     "pifiToNextLevel": "{{pifi}} PiFi a nivel {{nextLevel}}",
     "reachedLevelCaption": "He alcanzado <b>Nivel {{level}}</b>",
