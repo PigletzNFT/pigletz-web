@@ -1,0 +1,45 @@
+{
+  "title": "О нас",
+  "team": [
+    {
+      "name": "Галин, он же MasterPig",
+      "photo": "/assets/images/masterpig.png",
+      "linkedin": "https://www.linkedin.com/in/galindinkov/",
+      "twitter": "https://twitter.com/_galinDinkov"
+    },
+    {
+      "name": "Вичо",
+      "title": "Веб-мастер"
+    },
+    {
+      "name": "Миро",
+      "photo": "/assets/images/miro.png",
+      "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+    },
+    {
+      "name": "Миро",
+      "description": "Гений программного обеспечения с 30-летним опытом",
+      "linkedin": "https://www.linkedin.com/in/miroslavln"
+    },
+    {
+      "title": "Создатель сообщества",
+      "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
+      "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+    },
+    {
+      "name": "Нико",
+      "title": "3D",
+      "photo": "/assets/images/niko.png"
+    },
+    {
+      "photo": "/assets/images/eve.png",
+      "instagram": "https://www.instagram.com/evesserpent/"
+    },
+    {
+      "name": "Вероника",
+      "photo": "/assets/images/vicky.png",
+      "instagram": "https://www.instagram.com/vikkinbd/",
+      "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
+    }
+  ]
+}
