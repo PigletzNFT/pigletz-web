@@ -17,14 +17,30 @@
     "menu": "قائمة",
     "back": "رجوع للخلف",
     "languages": {
+      "en": "English",
+      "bg": "Български",
+      "de": "Deutsch",
+      "es": "Español",
+      "tr": "Türkçe",
+      "tl": "Filipino"
     }
   },
   "banner": {
     "presale": {
-      "mintNow": "النعناع الآن"
+      "text": "ينتهي ما قبل البيع في {{time}}",
+      "mintNow": "النعناع الآن",
+      "second": "{{count}} ثانية",
+      "second_other": "{{count}} ثواني",
+      "minute": "{{count}} دقيقة",
+      "minute_other": "{{count}} دقائق",
+      "hour": "{{count}} ساعة",
+      "hour_other": "{{count}} ساعات",
+      "day": "{{count}} يوم",
+      "day_other": "{{count}} ايام"
     },
     "public": {
-      "text": "انضم إلى مجتمع التنافس لدينا للحصول على عروض خاصة!"
+      "text": "انضم إلى مجتمع التنافس لدينا للحصول على عروض خاصة!",
+      "mintNow": "النعناع الآن"
     },
     "binance": {
       "text": "Pigletz متاح الآن على Binance NFT",
@@ -57,11 +73,14 @@
   },
   "pigletzList": {
     "title": "مجموعة Pigletz ",
+    "description": "مجموعة رائعة من {{address}}",
     "my": {
       "description": "مجموعتك الجميلة"
     },
     "seo": {
-      "title": "مجموعة Pigletz  "
+      "title": "مجموعة Pigletz  ",
+      "description": "مجموعة قيمة من {{count}} خنزير صغير",
+      "description_other": "مجموعة قيّمة من {{count}}  pigletz"
     },
     "boostersOfferTitle": "هل تحتاج إلى <b> معززات؟ </ b>",
     "boostersOfferCaption": "استثمر في Piglet الخاص بك وسوف ينتج عنه قيمة أكبر لك",
@@ -69,11 +88,14 @@
   },
   "mysteryBoxList": {
     "title": "صناديق الغموض",
+    "description": "قائمة الصناديق التي يملكها {{address}}",
     "my": {
       "description": "صناديق الغموض الخاصة بك. افتح لرؤية Pigletz بالداخل!"
     },
     "seo": {
-      "title": "مربعات لغز Pigletz"
+      "title": "مربعات لغز Pigletz",
+      "description": "مجموعة قيّمة من {{count}} صندوق الغموض المليء بـ Pigletz",
+      "description_other": "مجموعة قيّمة من {{count}} الصناديق الغامضة المليئة بـ Pigletz"
     },
     "boostersOfferTitle": "هل تحتاج إلى <b> التعزيزات </ b>",
     "boostersOfferCaption": "استثمر في Piglet الخاص بك وسوف ينتج عنه قيمة أكبر لك",
@@ -81,6 +103,7 @@
   },
   "connect": {
     "title": "ربط المحفظة",
+    "balance": "{{balance}} BNB",
     "disconnect": "قطع الاتصال",
     "providers": {
       "metamask": "ميتامسك",
@@ -93,6 +116,7 @@
   },
   "actions": {
     "levelUp": {
+      "pending": "الذهاب إلى المستوى {{level}}",
       "success": "تهاني!",
       "error": "عذرا، هناك خطأ ما"
     },
@@ -119,23 +143,30 @@
       "error": "هذا رمز خاطئ أو منتهي الصلاحية"
     },
     "purchasePiglet": {
+      "pending": "سك {{count}} خنزير صغير",
       "pending_other": "سك {{عدد}} خنزير",
       "success": "تم سك {{عدد}} خنزير صغير بنجاح",
+      "success_other": "تم سك {{count}} خنزير صغير بنجاح",
       "error": "عذرا، هناك خطأ ما"
     },
     "approveToken": {
+      "pending": "الموافقة على {{amount}} {{symbol}}",
       "success": "منجز",
       "error": "عذرا، هناك خطأ ما"
     },
     "openBox": {
+      "pending": "فتح مربع مع {{count}} خنزير صغير",
+      "pending_other": "فتح مربع مع {{count}} خنزير صغير",
       "success": "تهانينا!",
       "error": "عذرا، هناك خطأ ما"
     },
     "depositToken": {
+      "pending": "إيداع {{amount}} {{symbol}}",
       "success": "تهانينا!",
       "error": "عذرا، هناك خطأ ما"
     },
     "registerDeposit": {
+      "pending": "تسجيل {{amount}} {{symbol}}",
       "success": "نجاح!",
       "error": "عذرا، هناك خطأ ما"
     },
@@ -145,6 +176,7 @@
       "error": "عذرا، هناك خطأ ما"
     },
     "transfer": {
+      "pending": "نقل Piglet # {{token Id}} إلى {{recipient}}",
       "success": "أرسلت",
       "error": "عذرا، هناك خطأ ما"
     },
@@ -155,13 +187,18 @@
     }
   },
   "buy": {
+    "saleAddress": "عقد البيع: {{address}}",
     "promoCodeCaption": "خصم:",
     "promoCodeCheckButton": "يفحص",
     "promoCodePlaceholder": "لصق الكود هنا ...",
     "quantityCaption": "كمية:",
     "buyNowButton": "نعناع",
+    "discountedPrice": "{{price}} BNB",
     "totalCaption": "المجموع:",
     "tiersTitle": "المستويات",
+    "tierIndex": "المستوى {{index}}",
+    "tierPrice": "{{price}} BNB",
+    "itemsInColletionLeft": "بقي {{amountLeft}}",
     "howto": {
       "mobile": {
         "button": "غير متأكد؟ تعلم كيفية الشراء ↓",
@@ -176,6 +213,7 @@
         "bscFindAddress": "كيف تجد عنوان المحفظة العام الخاص بك؟",
         "bscFindAddressStep1": "1.  اضغط على حبة العنوان في محفظتك.",
         "bscFindAddressStep2": "2. يتم نسخ العنوان إلى الحافظة الخاصة بك.",
+        "openMetamaskCaption": "استخدم الزر أدناه لفتح <strong> صفحة بيع <dApp </strong> مباشرة في متصفح MetaMask:",
         "openMetamaskButton": "افتح MetaMask"
       },
       "desktop": {
@@ -200,11 +238,17 @@
     }
   },
   "piglet": {
+    "boost": "{{boost}}٪ دفعة",
+    "level": "المستوى {{level}}",
+    "dailyMint": "{{dailyMint}} PiFi اليومي",
     "pifi": "PiFi: ",
     "walletDescription": "هذه هي محفظة Piglet الخاصة بك. إنه غير أمني وفقط Piglet ، على التوالي يمكن لمالكه التفاعل معه - إيداع الرموز المميزة أو كسرها وسحب كل ما يحتويه",
     "walletTitle": "محفظة نقود",
+    "depositButton": "الإيداع ({{invested}} / {{total}})",
     "totalValue": "المجموع",
+    "pifiToNextLevel": "{{pifi}} PiFi إلى المستوى {{nextLevel}}",
     "reachedLevelCaption": "لقد وصلت إلى <b> المستوى {{المستوى}} </b>",
+    "gotoLevelButton": "انتقل إلى المستوى {{level}}",
     "goToCollection": "مجموعة",
     "traitsTitle": "سمات الخنزير الصغير",
     "quickInfoTitle": "معلومات سريعة",
@@ -221,6 +265,7 @@
     "pifiLPDeclaration": "سيتم تقدير قيمة PiFi بعد إنشاء LP في PancakeSwap. سيحدث هذا مرة واحدة فقط أثناء البيع.",
     "destroy": {
       "title": "كسر خنزير صغير الخاص بك",
+      "description": "سيؤدي كسر Piglet إلى سحب جميع الرموز المميزة بداخله بقيمة إجمالية قدرها $ {BalanceInUSD}} USD إلى عنوانك {{recipient}}. ومع ذلك سيتم تدمير الخنزير الصغير الخاص بك ويضيع إلى الأبد. لذا فكر مرتين ، انظر إلى عينيه وقرر.",
       "lesserLevel": "يجب أن تكون في المستوى 2 على الأقل حتى يُسمح لك بكسر الخنزير الصغير!",
       "button": "استراحة",
       "confirmation": "هل أنت متأكد أنك تريد كسر الخنزير الصغير الخاص بك؟",
@@ -228,6 +273,7 @@
       "decline": "لا ، لا أستطيع"
     },
     "deposit": {
+      "balance": "{{balance}} {{symbol}} (${{usd}})",
       "tokenNotFound": "لم يتم العثور على الرمز",
       "title": "إيداع العملات المشفرة",
       "selectToken": "الرجاء تحديد رمز مميز",
@@ -237,13 +283,16 @@
       "maxButton": "الأعلى",
       "availableBalance": "متاح:",
       "depositButton": "إيداع الآن",
+      "unregisteredDeposit": "لديك {{balance}} {{symbol}} $ ({{balanceUSD}}) غير مسجل",
       "reisteredDeposit": "سجل الان"
     },
     "boosters": {
+      "requiresLevel": "يتطلب المستوى {{level}}",
       "activateButton": "تفعيل الداعم",
       "activated": "مفعل",
       "title": "التعزيز",
       "tokenSelect": {
+        "title": "حدد {{count}} Pigletz"
       },
       "names": {
         "Invest $100": "القيمة 100 دولار",
@@ -276,6 +325,7 @@
         "Invest tokens with value of at least $500 USD": "يمكنك القيام بذلك عن طريق الاستثمار في الرموز",
         "Invest tokens with value of at least $2000 USD": "يمكنك القيام بذلك عن طريق الاستثمار في الرموز",
         "Collect 3 piglets": "فقط نعناع 3",
+        "Collect 7 piglets": "فقط نعناع 7",
         "Invest 3 different tokens": "يجب إدراج الرموز في مقايضة الفطيرة",
         "Invest 7 different tokens": "يجب إدراج الرموز في مقايضة الفطيرة",
         "Collect 3 with the same zodiac sign": "سوف يؤثر الداعم على كل 3",
@@ -387,7 +437,8 @@
         },
         {
           "description": "تم إصدار <b> DeFi Staking </b> <br /> (الربع الثاني من عام 2022)",
-          "progress": 0
+          "progress": 0,
+          "status": "عمل..."
         },
         {
           "description": "تم إصدار <b> لعبة الجوال </ b> <br /> (الربع الثالث 2022)",
