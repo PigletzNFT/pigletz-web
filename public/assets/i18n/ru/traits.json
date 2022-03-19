@@ -1,0 +1,180 @@
+{
+  "trait": {
+    "description": "Это поросенок {{level}} уровня {{body}} {{gender}} пола - один из 12 345 уникальных поросят. Он будет ежедневно добывать для вас {{dailyMint}} токенов PiFi. Разбейте его, чтобы получить монеты! Или отправьте его в виде настоящей копилки, напечатанной на 3D-принтере. Решение за Вами.",
+    "category": {
+      "Level": "Уровень",
+      "Base PiFi/Day": "Базовая добыча PiFi/день",
+      "Gender": "Пол",
+      "Zodiac": "Знак зодиака",
+      "Body": "Тело",
+      "Mouth": "Рот",
+      "Eyes": "Глаза",
+      "Hairstyle": "Прическа",
+      "Beardstyle": "Борода",
+      "Earrings": "Серьги",
+      "Nose": "Форма носа",
+      "Glasses": "Очки",
+      "Tattoo": "Тату"
+    },
+    "value": {
+      "Level": {
+        "1": "Первый",
+        "2": "Второй",
+        "3": "Третий",
+        "4": "Материализованный"
+      },
+      "Base PiFi/Day": {
+        "167": "167",
+        "250": "250",
+        "417": "417",
+        "500": "500"
+      },
+      "Gender": {
+        "GenderMale": "Мужской",
+        "GenderFemale": "Женский",
+        "GenderOther": "Неопределенный"
+      },
+      "Zodiac": {
+        "ZodiacAries": "Овен",
+        "ZodiacTaurus": "Телец",
+        "ZodiacGemini": "Близнецы",
+        "ZodiacCancer": "Рак",
+        "ZodiacLeo": "Лев",
+        "ZodiacVirgo": "Дева",
+        "ZodiacLibra": "Весы",
+        "ZodiacScorpio": "Скорпион",
+        "ZodiacSagittarius": "Стрелец",
+        "ZodiacCapricorn": "Козерог",
+        "ZodiacAquarius": "Водолей",
+        "ZodiacPisces": "Рыбы"
+      },
+      "Body": {
+        "BodyPinkMale": "Розовый",
+        "BodyBrownMale": "Коричневый",
+        "BodyBlackMale": "Черный",
+        "BodyAlbinoMale": "Альбинос",
+        "BodyGoldMale": "Золотой",
+        "BodyStoneMale": "Каменный",
+        "BodyPinkFemale": "Розовый",
+        "BodyBrownFemale": "Коричневый",
+        "BodyBlackFemale": "Чёрный",
+        "BodyAlbinoFemale": "Альбинос",
+        "BodyGoldFemale": "Золотой",
+        "BodyStoneFemale": "Каменный"
+      },
+      "Mouth": {
+        "MouthMaleBubblegum": "Жевательная резинка",
+        "MouthSmoking": "Курящий",
+        "MouthAngry": "Сердитый",
+        "MouthMaleSmiling": "Улыбающийся",
+        "MouthMaleTongue": "Язык",
+        "MouthDrooling": "Пускает слюну",
+        "MouthMaleVampire": "Вампир",
+        "MouthGoldTooth": "Золотой зуб",
+        "MouthStandard": "Стандартный",
+        "MouthHalfOpen": "Полуоткрытый",
+        "MouthFemaleSmiling": "Улыбающийся",
+        "MouthSad": "Грустный",
+        "MouthFemaleBubblegum": "Жевательная резинка",
+        "MouthKiss": "Поцелуй",
+        "MouthFemaleTongue": "Язык",
+        "MouthFemaleVampire": "Вампир"
+      },
+      "Eyes": {
+        "EyesMaleBrown": "Коричневый",
+        "EyesMaleGreen": "Зеленый",
+        "EyesMaleBlue": "Синий",
+        "EyesTired": "Уставший",
+        "EyesBitcoin": "Bitcoin",
+        "EyesInlove": "Влюблён",
+        "EyesScared": "Испуганный",
+        "EyesMaleAngry": "Сердитый",
+        "EyesCrying": "Плачущий",
+        "EyesSeductive": "Соблазнительный",
+        "EyesFemaleGreen": "Зеленый",
+        "EyesFemaleBlue": "Синий",
+        "EyesFemaleBrown": "Коричневый",
+        "EyesFemaleBitcoin": "Bitcoin",
+        "EyesBlinking": "Подмигивающий",
+        "EyesFemaleAngry": "Сердитый"
+      },
+      "Hairstyle": {
+        "HairstyleBald": "Лысый",
+        "HairstyleManbunBlack": "Black Manbun",
+        "HairstyleRasta": "Раста",
+        "HairstyleEmoBlonde": "Блондин(-ка) Эмо",
+        "HairstyleEmoBrown": "Шатен Emo",
+        "HairstyleEmoBlack": "Брюнет Emo",
+        "HairstyleSpikedBrown": "Коричневый с шипами",
+        "HairstyleEyesMaleAngry": "Сердитый",
+        "HairstyleSpikedBlonde": "Блондин(-ка) с шипами",
+        "HairstyleChild": "Ребенок",
+        "HairstylePunk": "Панк",
+        "HairstyleFedora": "Федора",
+        "HairstyleSummerHat": "Летняя шляпа",
+        "HairstyleShort": "Короткий",
+        "HairstyleBraid": "Коса",
+        "HairstyleAfro": "Афро",
+        "HairstyleStraight": "Выпрямленные",
+        "HairstyleCurlyBanksBlonde": "Светлые кудрявые кудряшки",
+        "HairstyleCurlyBanksRed": "Красные кудрявые кудряшки",
+        "HairstyleBunsBlack": "Черные булочки",
+        "HairstyleBunsBlonde": "Светлые булочки",
+        "HairstyleBunsBrown": "Коричневые булочки",
+        "HairstyleBanks": "Булочки",
+        "HairstylePonytails": "Хвостики",
+        "HairstylePonytail": "Хвостик"
+      },
+      "Beardstyle": {
+        "BeardstyleNone": "Без бороды",
+        "BeardstyleFull": "Полный",
+        "BeardstyleThin": "Худой",
+        "BeardstyleStandard": "Стандартный",
+        "BeardstyleMario": "Марио",
+        "BeardstyleDali": "Дали"
+      },
+      "Earrings": {
+        "EarringsNone": "Без сережек",
+        "EarringsMaleRingsSilver": "Серебряные кольца",
+        "EarringsMaleRingsGold": "Золотые кольца",
+        "EarringsManiac": "Маньяк",
+        "EarringsDrop": "Капля",
+        "EarringsFancy": "Изысканный",
+        "EarringsBigRings": "Большие кольца",
+        "EarringsStones": "Камни",
+        "EarringsFemaleRings": "Кольца",
+        "EarringsBalls": "Шарики"
+      },
+      "Nose": {
+        "NoseNone": "Без носа",
+        "NoseTribal": "Племенной",
+        "NoseHorseshoe": "Подкова",
+        "NoseRing": "Кольцо",
+        "NoseSeptum": "Перегородка",
+        "NoseBooger": "Козявка"
+      },
+      "Glasses": {
+        "GlassesNone": "Без очков",
+        "GlassesJohn": "Джон",
+        "GlassesHalf": "Половинчатые",
+        "GlassesEyepatch": "Повязка на глаз",
+        "GlassesOptical": "Оптические",
+        "GlassesMask": "Маска",
+        "GlassesRetro": "Ретро",
+        "GlassesCateyeRed": "Красный кошачий глаз",
+        "GlassesCateyeWhite": "Белый кошачий глаз",
+        "GlassesHeartshaped": "Сердцевидный",
+        "GlassesGolden": "Золотые"
+      },
+      "Tattoo": {
+        "TattooNone": "Без тату",
+        "TattooTyson": "Тайсон",
+        "TattooRapper": "Рэпер",
+        "TattooMaleFace": "Лицо",
+        "TattooFemaleFace": "Лицо",
+        "TattooPiercing": "Пирсинг",
+        "TattooFull": "Весь покрыт тату"
+      }
+    }
+  }
+}

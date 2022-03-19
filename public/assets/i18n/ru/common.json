@@ -1,0 +1,466 @@
+{
+  "seo": {
+    "url": "https://pigletz.com",
+    "title": "Pigletz - Первый NFT, который способен материализовываться!",
+    "description": "Pigletz is an unique NFT collectable game introducing: unique 3D cute piglets; a digital piggy bank holding your tokens; upgradable NFTs with levels; DeFi - own token, staking, lending; Real 3D piglet figure",
+    "image": "https://pigletz.com/assets/images/social-banner.jpg"
+  },
+  "nav": {
+    "website": "Pigletz.com",
+    "home": "Главная",
+    "gallery": "Галлерея",
+    "aboutus": "О нас",
+    "pigletz": "Мой Pigletz",
+    "mystery": "Моё хранилище",
+    "connect": "Подключить Кошелёк",
+    "buypiglets": "Купить Pigletz",
+    "menu": "Меню",
+    "back": "Назад",
+    "languages": {
+      "en": "English",
+      "bg": "Български",
+      "de": "Deutsch",
+      "es": "Español",
+      "tr": "Türkçe",
+      "tl": "Filipino"
+    }
+  },
+  "banner": {
+    "presale": {
+      "text": "Предпродажа закачивается через {{time}}",
+      "mintNow": "Купить прямо сейчас",
+      "second": "{{count}} секунда",
+      "second_other": "{{count}} секунды",
+      "minute": "{{count}} минут",
+      "minute_other": "{{count}} минуты",
+      "hour": "{{count}} час",
+      "hour_other": "{{count}} часов",
+      "day": "{{count}} день",
+      "day_other": "{{count}} дней"
+    },
+    "public": {
+      "text": "Присоединяйся к нашему discord сообществу для спецпредложений!",
+      "mintNow": "Купить сейчас"
+    },
+    "binance": {
+      "text": "Pigletz уже доступны на Binance NFT",
+      "buy": "Купить на Binance"
+    }
+  },
+  "footer": {
+    "copyright": "© 2021-2022 Pigletz",
+    "terms": "Terms and Conditions\nУсловия и положение",
+    "privacy": "Политика Конфиденциальности",
+    "contracts": {
+      "title": "Контракты:",
+      "pigletz": "Pigletz (BEP721)",
+      "pifi": "PiFi (BEP20)",
+      "salesManager": "Продажи:",
+      "mysteryBox": "MysteryBox (BEP721)"
+    }
+  },
+  "presale": {
+    "title": "Предпродажа Pigletz ",
+    "description": "Добро пожаловать, счастливчик! Тебе повезло и у тебя есть возможность принять участие в нашей предпродаже Pigletz. Ты можешь купить уникальный Pigletz по минимально возможной цене. Ты можешь купить комплект из 5, 10  или 20 штук в рамках одной транзакции. Твой скидочный купон будет действителен на весь комплект целиком!\nНаслаждайся!",
+    "tiersDescription": "Мы производим коллекции с разным количеством и ценой. Цена увеличивается со временем и в конце концов достигнет 8 BNB. Кроме этого с ростом цены также увеличивается шанс получить специальный ускоритель (бустер).",
+    "checkTiers": "проверь их уровень ниже"
+  },
+  "mint": {
+    "title": "Покупка Pigletz ",
+    "description": "Добро пожаловать! Здесь вы можете создать своего нового поросенка-копилку. Он будет выбран с использованием доказуемо честного случайного алгоритма. Если вы хотите получать промокод, присоединяйтесь к нашим сообществам в Discord, Telegram и Twitter. Дерзайте!",
+    "tiersDescription": "Мы чеканим коллекции с разным количеством и ценой. Цена увеличивается со временем и в конце концов достигнет 8 BNB. Кроме того с ростом цены также \nувеличивается шанс получить специальный усилитель (бустер).",
+    "checkTiers": "проверь их уровень ниже"
+  },
+  "pigletzList": {
+    "title": "Коллекция Pigletz ",
+    "description": "Ценная коллекция {{address}}",
+    "my": {
+      "description": "Ваша ценная коллекция"
+    },
+    "seo": {
+      "title": "Коллекция Pigletz",
+      "description": "Ценная коллекция из {{count}} поросят",
+      "description_other": "Ценная коллекция из {{count}} поросят"
+    },
+    "boostersOfferTitle": "Вам нужны <b>бустеры?</b>",
+    "boostersOfferCaption": "Инвестируйте в своего Поросенка-копилку, и он будет накапливать токены быстрее.",
+    "levelReachedCaption": "Я достиг <b>Уровня {{level}}</b>"
+  },
+  "mysteryBoxList": {
+    "title": "Мистический Короб",
+    "description": "Список коробов, принадлежащие {{address}}",
+    "my": {
+      "description": "Ваши загадочные коробки. Откройте, чтобы увидеть поросенка-копилку внутри!"
+    },
+    "seo": {
+      "title": "Pigletz Мистический Короб",
+      "description": "Ценная коллекция из {{count}} загадочных коробок, полных поросят-копилок.",
+      "description_other": "Ценная коллекция из {{count}} загадочных коробок, полных поросят-копилок."
+    },
+    "boostersOfferTitle": "Вам нужен <b>ускоритель</b>",
+    "boostersOfferCaption": "Инвестируйте в своего поросенка-копилку, и он будет накапливать ценности быстрее.",
+    "levelReachedCaption": "Я достиг <b>Уровня {{level}}</b>"
+  },
+  "connect": {
+    "title": "Подключить Кошёлек",
+    "balance": "{{balance}} BNB",
+    "disconnect": "Отключить",
+    "providers": {
+      "metamask": "MetaMask",
+      "trustwallet": "Trust Wallet",
+      "binancewallet": "Binance Wallet",
+      "walletconnect": "Подключить Кошелёк"
+    },
+    "howtoTitle": "У вас нет криптокошелька?",
+    "howtoButton": "Узнайте как подключить"
+  },
+  "actions": {
+    "levelUp": {
+      "pending": "Перейти на уровень {{level}}",
+      "success": "Поздравляем!",
+      "error": "Извините, что-то пошло не так"
+    },
+    "boosterUp": {
+      "pending": "Применить ускоритель",
+      "success": "Поздравляем!",
+      "errors": {
+        "default": "Извините, что-то пошло не так",
+        "some piglets dont have the same sign": "У некоторых поросят-копилок не совпадает знак зодиака",
+        "wrong number of piglets": "Неверное количество поросят-копилок",
+        "not all piglets are owned by the same owner": "Не все поросята-копилки принадлежат одному и тому же владельцу",
+        "some piglets have already been boosted": "На некоторых поросят-копилок уже был применён ускоритель",
+        "some piglets are celebrities": "Некоторые поросята-копилки - знаменитости",
+        "some piglets are not of the correct level": "Некоторые поросята-копилки не того уровня",
+        "some piglets have not been boosted": "На часть поросят-копилок не был применён ускоритель",
+        "some piglets are not boostable": "На некоторые копилки невозможно применить ускоритель",
+        "duplicate tokens": "Дублицировать токены",
+        "sll piglets must have different signs": "Все поросята-копилки должны иметь разные знаки"
+      }
+    },
+    "checkDiscount": {
+      "pending": "Проверка кода",
+      "success": "Код действителен",
+      "error": "Это неверный или просроченный код"
+    },
+    "purchasePiglet": {
+      "pending": "Чеканка {{count}} поросят-копилок",
+      "pending_other": "Чеканка {{count}} поросят-копилок",
+      "success": "{{count}} поросят-копилок успешно отчеканено",
+      "success_other": "{{count}} поросят-копилок успешно отчеканено",
+      "error": "Извините, что-то пошло не так"
+    },
+    "approveToken": {
+      "pending": "Подтверждается {{amount}} {{symbol}}",
+      "success": "Выполнено",
+      "error": "Извините, что-то пошло не так"
+    },
+    "openBox": {
+      "pending": "Открывается загадочный короб с {{count}} поросятами-копилками",
+      "pending_other": "Открывается загадочный короб с {{count}} поросятами-копилками",
+      "success": "Поздравляем!",
+      "error": "Извините, что-то пошло не так"
+    },
+    "depositToken": {
+      "pending": "Депозит в размере {{сумма}} {{symbol}}",
+      "success": "Поздравляем!",
+      "error": "Извините, что-то пошло не так"
+    },
+    "registerDeposit": {
+      "pending": "Регистрируется {{amount}} {{symbol}}",
+      "success": "Удача!",
+      "error": "Извините, что-то пошло не так"
+    },
+    "destroy": {
+      "pending": "Разбивается Поросёнок-копилка #{{tokenId}}",
+      "success": "Все кончено",
+      "error": "Извините, что-то пошло не так"
+    },
+    "transfer": {
+      "pending": "Передается Поросёнок-копилка #{{tokenId}} к {{recipient}}",
+      "success": "Отправлено",
+      "error": "Извините, что-то пошло не так"
+    },
+    "materialize": {
+      "pending": "Материализуется Поросёнок #{{tokenId}}",
+      "success": "Отправлено",
+      "error": "Извините, что-то пошло не так"
+    }
+  },
+  "buy": {
+    "saleAddress": "Продажа контракта: {{address}}",
+    "promoCodeCaption": "Скидка:",
+    "promoCodeCheckButton": "Проверка",
+    "promoCodePlaceholder": "ВСТАВИТЬ ПРОМОКОД СЮДА...",
+    "quantityCaption": "Количество:",
+    "buyNowButton": "Чеканка",
+    "discountedPrice": "{{price}} BNB",
+    "totalCaption": "Сумма:",
+    "tiersTitle": "Категории",
+    "tierIndex": "Категория {{index}}",
+    "tierPrice": "{{price}} BNB",
+    "itemsInColletionLeft": "{{amountLeft}} left",
+    "howto": {
+      "mobile": {
+        "button": "Не уверены? Узнайте, как купить ↓",
+        "youNeed": "Вам необходимо",
+        "metamask": "MetaMask",
+        "walletApp": "Wallet App",
+        "android": "Android",
+        "ios": "iOS",
+        "bscTitle": "Вам необходимо настроить MetaMask для использования основной сети Binance Smart Chain.",
+        "bscGuide": "Следуйте этому руководству",
+        "bscBalance": "Вам необходимо иметь достаточный баланс BNB в вашей учетной записи MetaMask, чтобы купить поросенка-копилку. Используйте свою криптобиржу для перевода BNB на общедоступный адрес MetaMask.",
+        "bscFindAddress": "Как узнать общедоступный адрес кошелька?",
+        "bscFindAddressStep1": "1. В своем кошельке кликните на табличку «Адрес».",
+        "bscFindAddressStep2": "2. Адрес скопирован в буфер обмена.",
+        "openMetamaskCaption": "Используйте кнопку ниже, чтобы открыть нашу <strong>страницу продажи dApp</strong> непосредственно в браузере MetaMask:",
+        "openMetamaskButton": "Откройте MetaMask"
+      },
+      "desktop": {
+        "button": "Не уверены? Узнайте, как покупать на Desktop ↓",
+        "youNeed": "Вам необходима",
+        "metamask": "MetaMask",
+        "extension": "Браузерное расширение для Chrome или Firefox.",
+        "chrome": "Google Chrome",
+        "firefox": "Mozilla Firefox",
+        "bscTitle": "Вам необходимо настроить MetaMask для использования основной сети Binance Smart Chain.",
+        "bscGuide": "Следуйте этому руководству",
+        "bscVideo": "Посмотри это видео",
+        "bscBalance": "Вам необходимо иметь достаточный баланс BNB в вашей учетной записи MetaMask, чтобы купить поросенка. Используйте свою криптобиржу для перевода BNB на публичный адрес MetaMask.",
+        "bscFindAddress": "Как узнать публичный адрес кошелька?",
+        "bscFindAddressStep1": "1. В расширении браузера MetaMask на щелкните имя своей учетной записи.",
+        "bscFindAddressStep2": "2. Адрес скопирован в буфер обмена.",
+        "connectWalletCaption1": "Когда у вас будет достаточно средств в вашем кошельке, вам необходимо подключить его к нашему веб-сайту, нажав «Подключить кошелек» в навигации.",
+        "connectWalletCaption2": "После подключения вы можете <strong>использовать форму ниже</strong> для совершения покупки.",
+        "watchVideoCaption1": "Посмотри это видео",
+        "watchVideoCaption2": " для пошаговых инструкций:"
+      }
+    }
+  },
+  "piglet": {
+    "boost": "{{boost}}% ускоритель",
+    "level": "Уровень {{level}}",
+    "dailyMint": "{{dailyMint}} PiFi ежедневно",
+    "pifi": "PiFi:",
+    "walletDescription": "Это кошелек вашей Поросёнка-копилку. Он не имеет расходов и только Поросенок-копилка, т.е.  её владелец может с ним взаимодействовать - внести токены или разбить её и вывести все, что в ней содержится.",
+    "walletTitle": "Кошелёк",
+    "depositButton": "Депозит ({{инвестировано}}/{{всего}})",
+    "totalValue": "Общая стоимость:",
+    "pifiToNextLevel": "{{pifi}} PiFi до Уровня {{nextLevel}}",
+    "reachedLevelCaption": "Я достиг <b>Уровня {{level}}</b>",
+    "gotoLevelButton": "Перейти на уровень {{level}}",
+    "goToCollection": "Коллекция",
+    "traitsTitle": "Характеристики поросёнка-копилки",
+    "quickInfoTitle": "Краткая информация",
+    "destroyButton": "Разбить",
+    "materializeButton": "Материализовать",
+    "dematerializeButton": "Дигитализировать",
+    "transferButton": "Передать",
+    "investments": {
+      "symbol": "TOKEN",
+      "amount": "КОЛИЧЕСТВО",
+      "usd": "USD",
+      "nothing": "У вас еще нет инвестиций"
+    },
+    "pifiLPDeclaration": "Стоимость PiFi будет оцениваться после создания LP на PancakeSwap. Это произойдет ОДИН ЕДИНСТВЕННЫЙ РАЗ во время распродажи.",
+    "destroy": {
+      "title": "Разбить свою копилку",
+      "description": "При разбитии вашей Копилки все находящиеся внутри неё токены ${{balanceInUSD}} USD будут переведены на ваш адрес {{recipient}}. Однако ваша Поросёнок-копилка будет уничтожена навсегда. Так что подумайте дважды, посмотрите ей в глаза и сделайте верное решение.",
+      "lesserLevel": "Вы должны достигнуть второго уровня, чтобы разбить свою копилку!",
+      "button": "Разбить",
+      "confirmation": "Вы уверены, что хотите разбить копилку?",
+      "confirm": "Yes, cash out",
+      "decline": "Нет, я не могу"
+    },
+    "deposit": {
+      "balance": "{{balance}} {{symbol}} (${{usd}})",
+      "tokenNotFound": "Токен не найден",
+      "title": "Депозит Криптовалюты",
+      "selectToken": "Выберите токен",
+      "defaultToken": "PancakeSwap токен ...",
+      "inputAddress": "или введите адрес токена ниже",
+      "inputAmount": "Выберите сумму для депозита",
+      "maxButton": "MAX",
+      "availableBalance": "Доступно:",
+      "depositButton": "Внести на депозит сейчас",
+      "unregisteredDeposit": "У вас есть незарегистрированных {{баланс}} {{символ}} $({{балансUSD}}) ",
+      "reisteredDeposit": "Зарегистрируйте сейчас"
+    },
+    "boosters": {
+      "requiresLevel": "Требуется уровень {{уровень}}",
+      "activateButton": "Активировать ускоритель",
+      "activated": "Активировано",
+      "title": "Ускорители",
+      "tokenSelect": {
+        "title": "Выберите {{count}} Копилок"
+      },
+      "names": {
+        "Invest $100": "Стоимость $100",
+        "Invest $500": "Стоимость $500",
+        "Invest $2000": "Стоимость $2000",
+        "Collect 3": "Собрать 3",
+        "Collect 7": "Собрать 7",
+        "Invest 3 tokens": "Инвестировать 3 токена",
+        "Invest 7 tokens": "Инвестировать 7 токена",
+        "3 Similar": "3 одинаковых",
+        "12 Different": "12 разных",
+        "Staked": "Собранный",
+        "Special": "Особенный"
+      },
+      "descriptions": {
+        "Invest tokens with value of at least $100 USD": "Получить поросенка-копилку стоимостью выше  $100 USD",
+        "Invest tokens with value of at least $500 USD": "Получить поросенка-копилку стоимостью выше  $500 USD",
+        "Invest tokens with value of at least $2000 USD": "Получить поросенка-копилку стоимостью выше  $2000 USD",
+        "Collect 3 piglets": "Собрать 3 поросёнка-копилки",
+        "Collect 7 piglets": "Собрать 7 поросят-копилок",
+        "Invest 3 different tokens": "Инвестируйте 3 разных токена с ненулевой стоимостью, исключая PiFi",
+        "Invest 7 different tokens": "Инвестируйте 7 разных токена с ненулевой стоимостью, исключая PiFi",
+        "Collect 3 with the same zodiac sign": "Собери 3 поросенка-копилки с одинаковым знаком зодиака",
+        "Collect 12 piglets with different zodiac signs": "Собери 12 поросенка-копилки с одинаковым знаком зодиака",
+        "Stake it in the Staking Contract": "Соберите это в контракте ставок",
+        "It is born like this": "Он был таким создан"
+      },
+      "tips": {
+        "Invest tokens with value of at least $100 USD": "Вы можете сделать это, инвестируя токены",
+        "Invest tokens with value of at least $500 USD": "Вы можете сделать это, инвестируя токены",
+        "Invest tokens with value of at least $2000 USD": "Вы можете сделать это, инвестируя токены",
+        "Collect 3 piglets": "Просто отчеканьте 3",
+        "Collect 7 piglets": "Просто отчеканьте 3",
+        "Invest 3 different tokens": "Токены должны быть представлены на PancakeSwap",
+        "Invest 7 different tokens": "Токены должны быть представлены на PancakeSwap",
+        "Collect 3 with the same zodiac sign": "Ускоритель повлияет на все 3",
+        "Collect 12 piglets with different zodiac signs": "Ускоритель повлияет на все 12",
+        "Stake it in the Staking Contract": "Скоро",
+        "It is born like this": "Он был таким создан"
+      }
+    }
+  },
+  "home": {
+    "subtitle": "Первый NFT, который материализуется!",
+    "howitworks": "Посмотри, как это работает",
+    "videoModalTitle": "Как это работает",
+    "nft": {
+      "title": "Это NFT",
+      "features": [
+        "12 345 уникальных Pigletz (поросят-копилок) ограниченной серии с доказано случайными характеристиками различной редкости",
+        "3D модели 100% ручной работы",
+        "Всего возможно более 2 миллиардов комбинаций.",
+        "Случайно созданные при покупке",
+        "Характеристики раскрываются по мере улучшения Вашей поросенка-копилки",
+        "Дополнительно 5 знаменитостей NTF отправятся на благотворительность"
+      ]
+    },
+    "token": {
+      "title": "Tokenomics",
+      "learnMore": "Узнать больше",
+      "caption1": "Каждый поросенок-копилка начинает майнить токены PiFi со дня его покупки.",
+      "caption2": "Вы можете инвестировать токены в свою поросенка-копилку так же, как кладете монеты в копилку.",
+      "caption3": "Разбейте свою копилку, чтобы получить доступ ко всем уже вложенным токенам, а также ко всем намайненным токенам PiFi."
+    },
+    "game": {
+      "title": "Геймификация",
+      "learnMore": "Узнать больше",
+      "caption1": "Повышайте уровень копилки, чтобы раскрыть все её характеристики поросенка и улучшить базовую скорость майнинга.",
+      "caption2": "Собирайте и применяйте ускорители, чтобы еще больше увеличить скорость добычи токенов.",
+      "caption3": "Контролируйте и управляйте своей поросёнком-копилкой через наш удобный Dapp."
+    },
+    "boosters": {
+      "title": "Ускоритель",
+      "description": "Ускорители увеличивают скорость добычи токенов PiFi вашего поросенка. В сумме их всего 9."
+    },
+    "defi": {
+      "title": "DeFi",
+      "learnMore": "Узнать больше",
+      "description": "Вы можете заблокировать своего поросенка на определенное время, чтобы ускорить процесс майнинга.",
+      "steaking": {
+        "title": "Piglet Staking",
+        "description": "Заблокируйте своего поросенка для более быстрого майнинга"
+      },
+      "lending": {
+        "title": "Кредитование",
+        "description": "Получите кредитную линию PiFi, заложив своего поросенка."
+      }
+    },
+    "3dprint": {
+      "title": "Материализация",
+      "learnMore": "Узнать больше",
+      "description1": "Вы можете использовать токены PiFi для покупки 3D-печати вашего NFT, которая представляет его в реальном мире. Когда вы заказываете копилку, напечатанную на 3D-принтере, NFT фиксируется в смарт-контракте. Внутри физического объекта есть код разблокировки, но вам нужно разбить копилку, чтобы получить шифр. Это гарантирует, что элемент функционирует только в одной реальности в данный момент времени, всегда сохраняя свои характеристики NFT.",
+      "description2": "Кроме того, материальное состояние поросёнка-копилки является последним четвёртным уровнем. Он имеет самую высокую базовую скорость добычи."
+    },
+    "roadmap": {
+      "title": "Дорожная карта",
+      "stages": [
+        {
+          "description": "<b>Рождение идеи</b> в начале 2021 года",
+          "progress": 100,
+          "status": "✓ Выполнено"
+        },
+        {
+          "description": "<b>Команда была сформирована</b> и начала работать (второй квартал 2021 г.)",
+          "progress": 100,
+          "status": "✓ Выполнено"
+        },
+        {
+          "description": "<b>Концептуализация и моделирование</b> признаков поросенка (3 квартал 2021 г.)",
+          "progress": 100,
+          "status": "✓ Выполнено"
+        },
+        {
+          "description": "Разработка <b>смарт-контрактов и децентрализованных приложений</b> (4 квартал 2021 г.)",
+          "progress": 100,
+          "status": "✓ Выполнено"
+        },
+        {
+          "description": "<b>Запуск в сети</b><br />(декабрь 2021 г.)",
+          "progress": 100,
+          "status": "✓ Выполнено"
+        },
+        {
+          "description": "<b>Первая предпродажа</b><br />(18 декабря 2021 г.)",
+          "progress": 100,
+          "status": "✓ Выполнено"
+        },
+        {
+          "description": "Запуск листинга на Binance NFT<br />(январь 2022 г.)",
+          "progress": 100,
+          "status": "✓ Выполнено"
+        },
+        {
+          "description": "<b>Создай пул ликвидности PiFi на PancakeSwap</b><br />(После продажи)",
+          "progress": 0,
+          "status": "В разработке"
+        },
+        {
+          "description": "<b>Доставка первых 3D-моделей</b><br />(1 квартал 2022 г.)",
+          "progress": 0,
+          "status": "В процессе..."
+        },
+        {
+          "description": "Выпуск <b>DeFi Staking</b> <br /> (второй квартал 2022 г.)",
+          "progress": 0,
+          "status": "В процессе..."
+        },
+        {
+          "description": " <b>Мобильная игра</b> выпущена в <br /> (Q3 2022)",
+          "progress": 0,
+          "status": "В процессе..."
+        },
+        {
+          "description": " <b>DAO</b><br /> (Q4 2022)",
+          "progress": 0,
+          "status": "В процессе..."
+        }
+      ]
+    },
+    "joinUs": {
+      "announcement": "Pigletz доступны на Binance Smart Chain",
+      "description": "Следи за нами для дополнительной информации, будь в курсе о предпродажах и скидках",
+      "twitter": "Следи за нами в Twitter",
+      "discord": "Присоединяйтесь к нашему Discord серверу",
+      "telegram": "Присоединиться к Telegram каналу"
+    },
+    "marketplaces": {
+      "title": "Также доступен на:"
+    }
+  }
+}
