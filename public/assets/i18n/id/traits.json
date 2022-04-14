@@ -1,0 +1,138 @@
+{
+  "trait": {
+    "description": "Ini adalah Piglet {{level}} level {{body}} dengan jenis kelamin {{gender}} - salah satu dari 12.345 Pigletz unik. Ini akan menambang {{dailyMint}} token PiFi untuk anda setiap hari. Hancurkan untuk mendapatkan koin! Atau kirimkan sebagai celengan cetak 3D asli. Kamu tentukan.",
+    "category": {
+      "Base PiFi/Day": "basis PiFi per Hari",
+      "Gender": "Jenis Kelamin",
+      "Body": "Badan",
+      "Mouth": "Mulut",
+      "Eyes": "Mata",
+      "Hairstyle": "Gaya Rambut",
+      "Beardstyle": "Gaya Janggut",
+      "Earrings": "Anting-anting",
+      "Nose": "Bentuk Hidung",
+      "Glasses": "Kacamata",
+      "Tattoo": "Tato"
+    },
+    "value": {
+      "Level": {
+        "1": "Pertama",
+        "2": "Kedua",
+        "3": "Ketiga",
+        "4": "Terwujud"
+      },
+      "Base PiFi/Day": {
+      },
+      "Gender": {
+        "GenderMale": "Pria",
+        "GenderFemale": "Wanita",
+        "GenderOther": "Tidak terdefinisi"
+      },
+      "Zodiac": {
+      },
+      "Body": {
+        "BodyBrownMale": "Coklat",
+        "BodyBlackMale": "Hitam",
+        "BodyGoldMale": "Emas",
+        "BodyStoneMale": "Batu",
+        "BodyBlackFemale": "Hitam",
+        "BodyStoneFemale": "Batu"
+      },
+      "Mouth": {
+        "MouthMaleBubblegum": "Permen Karet",
+        "MouthSmoking": "Merokok",
+        "MouthAngry": "Marah",
+        "MouthMaleSmiling": "Senyum",
+        "MouthMaleTongue": "Lidah",
+        "MouthDrooling": "Ngiler",
+        "MouthMaleVampire": "Vampir",
+        "MouthGoldTooth": "Gigi Emas",
+        "MouthStandard": "Standar",
+        "MouthHalfOpen": "Setengah Terbuka",
+        "MouthFemaleSmiling": "Senyum",
+        "MouthSad": "Sedih",
+        "MouthFemaleBubblegum": "Permen Karet",
+        "MouthKiss": "Cium",
+        "MouthFemaleTongue": "Lidah",
+        "MouthFemaleVampire": "Vampir"
+      },
+      "Eyes": {
+        "EyesMaleBrown": "Cokelat",
+        "EyesMaleGreen": "Hijau",
+        "EyesMaleBlue": "Biru",
+        "EyesTired": "Lelah",
+        "EyesInlove": "Kasmaran",
+        "EyesScared": "Takut",
+        "EyesMaleAngry": "Marah",
+        "EyesCrying": "Menangis",
+        "EyesSeductive": "Seduktif",
+        "EyesFemaleGreen": "Hijau",
+        "EyesFemaleBlue": "Biru",
+        "EyesFemaleBrown": "Cokelat",
+        "EyesBlinking": "Kedip",
+        "EyesFemaleAngry": "Marah"
+      },
+      "Hairstyle": {
+        "HairstyleBald": "Botak",
+        "HairstyleManbunBlack": "Manbun Hitam",
+        "HairstyleEmoBrown": "Cokelat Emo",
+        "HairstyleEmoBlack": "Hitam Emo",
+        "HairstyleSpikedBrown": "Spike Cokelat",
+        "HairstyleEyesMaleAngry": "Marah",
+        "HairstyleSpikedBlonde": "Spike Pirang",
+        "HairstyleChild": "Anak",
+        "HairstyleSummerHat": "Topi Musim Panas",
+        "HairstyleShort": "Pendek",
+        "HairstyleBraid": "Kepang",
+        "HairstyleStraight": "Lurus",
+        "HairstyleCurlyBanksBlonde": "Pirang Keriting Poni",
+        "HairstyleCurlyBanksRed": "Keriting Merah Poni",
+        "HairstyleBunsBlack": "Bun Hitam",
+        "HairstyleBunsBlonde": "Bun Pirang",
+        "HairstyleBanks": "Poni",
+        "HairstylePonytails": "Kuncir Kuda",
+        "HairstylePonytail": "Kuncir Kuda"
+      },
+      "Beardstyle": {
+        "BeardstyleNone": "Tidak ada",
+        "BeardstyleFull": "Penuh",
+        "BeardstyleThin": "Tipis",
+        "BeardstyleStandard": "Standar"
+      },
+      "Earrings": {
+        "EarringsNone": "Tidak ada",
+        "EarringsMaleRingsSilver": "Cincin Perak",
+        "EarringsMaleRingsGold": "Cincin Emas",
+        "EarringsManiac": "Maniak",
+        "EarringsBigRings": "Lingkaran Besar",
+        "EarringsStones": "Batu",
+        "EarringsFemaleRings": "Lingkaran",
+        "EarringsBalls": "Bola"
+      },
+      "Nose": {
+        "NoseNone": "Tidak ada",
+        "NoseHorseshoe": "Sepatu Kuda",
+        "NoseRing": "Lingkaran",
+        "NoseBooger": "Upil"
+      },
+      "Glasses": {
+        "GlassesNone": "Tidak ada",
+        "GlassesHalf": "Setengah",
+        "GlassesEyepatch": "Penutup Mata",
+        "GlassesOptical": "Optik",
+        "GlassesMask": "Masker",
+        "GlassesCateyeRed": "Mata Kucing Merah",
+        "GlassesCateyeWhite": "Mata Kucing Putih",
+        "GlassesHeartshaped": "Bentuk Hati",
+        "GlassesGolden": "Keemasan"
+      },
+      "Tattoo": {
+        "TattooNone": "Tidak ada",
+        "TattooMaleFace": "Muka",
+        "TattooFemaleFace": "Muka",
+        "TattooPiercing": "Tindikan",
+        "TattooFull": "Penuh"
+      }
+    }
+  }
+}
