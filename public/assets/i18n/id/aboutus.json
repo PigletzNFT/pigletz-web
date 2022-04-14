@@ -1,0 +1,35 @@
+{
+  "title": "Tentang kami",
+  "description": "Pigletz.com adalah kolaborasi antara dua perusahaan (Blockchain Technology Bulgaria dan Aff Media) dengan gabungan pengalaman selama puluhan tahun di bidang pengembangan game seluler, pembuatan web, dan pemasaran, serta teknologi blockchain. Tim kami secara eksklusif terdiri dari para profesional, beberapa di antaranya telah bekerja di industri TI selama lebih dari 20 tahun.",
+  "team": [
+    {
+      "name": "Galin alias MasterPig",
+      "title": "The Visionary",
+      "description": "Galin adalah Master of Engineering dalam ilmu komputer dan pengusaha dengan lebih dari 20 tahun dalam bisnis. Sebagai pendiri beberapa perusahaan pengembang game, dia telah menghasilkan game yang sukses dengan jutaan pemain. 5 tahun terakhir ia mengembangkan perusahaan di bidang blockchain dan DeFi."
+    },
+    {
+      "name": "Vicho",
+      "description": "Vicho juga memiliki gelar Master di bidang Ilmu Komputer dan telah mengembangkan situs web dan aplikasi web secara profesional sejak sebelum Uni, ketika ia masih di Sekolah Menengah. Dia meninggalkan pekerjaan sebagai perekayasa perangkat lunak untuk memulai perusahaannya sendiri 11 tahun yang lalu. Ia membuat ratusan situs web dan memberi peringkat dengan sangat baik di beberapa vertikal di Google."
+    },
+    {
+      "description": "Membangun proyek web dari nol di industri iGaming dan FX. Salah satu pemilik TradingPedia.com"
+    },
+    {
+      "title": "Kontrak",
+      "description": "Seorang jenius di bidang perangkat lunak dengan pengalaman selama 3 dekade"
+    },
+    {
+      "name": "Yan alias Piglet_Z",
+      "description": "Yan telah menjadi spesialis pemasaran online profesional dan koordinator media sosial selama hampir 10 tahun. Dia juga seorang pengagum NFT dan penjahit otodidak. Profil pribadinya sangat berkonspirasi dan jarang ditemukan di media sosial mana pun. Namun dia tetap merespons di Discord kami hampir setiap hari."
+    },
+    {
+      "description": "Niko adalah seorang desainer grafis dan 3D dengan pengalaman hampir 10 tahun di bidangnya. Dia telah tertarik pada NFT dan dunia crypto selama beberapa waktu. Ketika dia tidak aktif di internet, dia dapat ditemukan di galeri seni kota."
+    },
+    {
+      "description": "Eve adalah seniman otodidak dengan pemikiran terbuka, yang telah bereksperimen dengan seni digital untuk beberapa waktu hingga sekarang. Dia mencoba untuk menggali rasa ingin tahunya melalui seni apapun bentuknya."
+    },
+    {
+      "description": "Pengembang front-end yang energik dengan pengalaman merancang, mengembangkan, dan mengelola situs web. Dia suka berkeliling dunia dan mengumpulkan batu permata dan kristal dan membuat perhiasan dari itu."
+    }
+  ]
+}
