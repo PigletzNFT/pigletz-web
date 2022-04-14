@@ -1,0 +1,413 @@
+{
+  "seo": {
+    "title": "Pigletz - NFT pertama yang terwujud!",
+    "description": "Pigletz adalah game NFT unik yang bisa dikoleksi, juga yang memperkenalkan: anak babi (piglet) lucu 3D yang unik; celengan digital yang menyimpan token anda; NFT yang dapat diupgrade dengan level; DeFi - token sendiri, staking, pinjaman; Sosok babi 3D nyata"
+  },
+  "nav": {
+    "home": "Beranda",
+    "gallery": "Galeri",
+    "aboutus": "Tentang kami",
+    "pigletz": "Pigletzku",
+    "mystery": "Kotakku",
+    "connect": "Hubungkan dompet",
+    "buypiglets": "Cetak Pigletz",
+    "back": "Kembali",
+    "languages": {
+    }
+  },
+  "banner": {
+    "presale": {
+      "text": "Presale selesai dalam {{time}}",
+      "second": "{{count}} detik",
+      "second_other": "{{count}} detik",
+      "minute": "{{count}} menit",
+      "minute_other": "{{count}} menit",
+      "hour": "{{count}} jam",
+      "hour_other": "{{count}} jam",
+      "day": "{{count}} hari",
+      "day_other": "{{count}} hari"
+    },
+    "public": {
+      "text": "Bergabunglah dengan komunitas Discord kami untuk penawaran spesial!",
+      "mintNow": "Cetak Sekarang"
+    },
+    "binance": {
+      "text": "Pigletz sekarang tersedia di Binance NFT",
+      "buy": "Beli dari Binance"
+    }
+  },
+  "footer": {
+    "terms": "Syarat dan ketentuan",
+    "privacy": "Kebijakan pribadi",
+    "contracts": {
+      "title": "Kontrak:",
+      "salesManager": "Penjualan"
+    }
+  },
+  "presale": {
+    "title": "Presale Pigletz",
+    "description": "Selamat datang anda yang terpilih! Anda terpilih untuk berpartisipasi dalam presale kami dan di sini anda memiliki kesempatan untuk mencetak Piglet unik dengan harga serendah mungkin. Anda juga dapat mencetak bundel 5, 10 atau 20 dalam transaksi yang sama. Kode diskon anda akan diterapkan ke semuanya. Selamat menikmati!",
+    "tiersDescription": "Kami mencetak koleksi dengan jumlah dan harga yang berbeda. Harga akan meningkat seiring berjalannya waktu dan pada akhirnya akan mencapai 8 BNB. Namun dengan harga yang lebih tinggi juga ada peluang yang lebih tinggi untuk mendapatkan booster spesial.",
+    "checkTiers": "periksa kelas di bawah ini"
+  },
+  "mint": {
+    "title": "Percetakan Pigletz",
+    "description": "Selamat datang! Di sini anda dapat mencetak Piglet baru anda. Ini akan dipilih menggunakan algoritma acak yang telah terbukti adil. Jika anda ingin menerima kode diskon, bergabunglah dengan komunitas kami di Discord, Telegram, dan Twitter dan tanyakan pilihannya. Selamat menikmati!",
+    "tiersDescription": "Kami mencetak koleksi dengan jumlah dan harga yang berbeda. Harga meningkat seiring berjalannya waktu dan pada akhirnya akan mencapai 8 BNB. Namun dengan harga yang lebih tinggi juga ada peluang yang lebih tinggi untuk mendapatkan booster spesial.",
+    "checkTiers": "periksa kelas di bawah ini"
+  },
+  "pigletzList": {
+    "title": "Koleksi Pigletz",
+    "description": "Koleksi cantik dari {{address}}",
+    "my": {
+      "description": "Koleksi cantikmu"
+    },
+    "seo": {
+      "title": "Koleksi Pigletz",
+      "description": "Koleksi berharga dari {{count}} piglet",
+      "description_other": "Koleksi berharga dari {{count}} pigletz"
+    },
+    "boostersOfferTitle": "Apakah anda membutuhkan <b>boosters?</b>",
+    "boostersOfferCaption": "Investasikan pada Piglet anda dan itu akan menghasilkan lebih untuk anda",
+    "levelReachedCaption": "Saya mencapai <b>level {{level}}</b>"
+  },
+  "mysteryBoxList": {
+    "title": "Kotak Misteri",
+    "description": "Daftar kotak yang dimiliki oleh {{address}}",
+    "my": {
+      "description": "Kotak misteri anda. Buka untuk melihat Pigletz di dalamnya!"
+    },
+    "seo": {
+      "title": "Kotak Misteri Pigletz",
+      "description": "Koleksi berharga dari {{count}} kotak misteri penuh Pigletz",
+      "description_other": "Koleksi berharga dari {{count}} kotak misteri penuh Pigletz"
+    },
+    "boostersOfferTitle": "Apakah anda memerlukan <b>boosters?</b>",
+    "boostersOfferCaption": "Investasikan pada Piglet anda dan itu akan menghasilkan lebih untuk anda",
+    "levelReachedCaption": "Saya mencapai <b>level {{level}}</b>"
+  },
+  "connect": {
+    "title": "Hubungkan dompet",
+    "disconnect": "Putus",
+    "providers": {
+    },
+    "howtoTitle": "Anda tidak puya dompet kripto?",
+    "howtoButton": "Pelajari cara menghubungkan"
+  },
+  "actions": {
+    "levelUp": {
+      "pending": "Ke level {{level}}",
+      "success": "Selamat!",
+      "error": "Maaf, ada yang salah"
+    },
+    "boosterUp": {
+      "pending": "Mengaktifkan booster",
+      "success": "Selamat!",
+      "errors": {
+        "default": "Maaf, ada yang salah",
+        "some piglets dont have the same sign": "Beberapa pigletz tidak memiliki tanda yang sama",
+        "wrong number of piglets": "Jumlah pigletz salah",
+        "not all piglets are owned by the same owner": "Tidak semua pigletz dimiliki oleh pemilik yang sama",
+        "some piglets have already been boosted": "Beberapa pigletz telah diboost",
+        "some piglets are celebrities": "Beberapa pigletz adalah selebriti",
+        "some piglets are not of the correct level": "Beberapa pigletz tidak memiliki level yang benar",
+        "some piglets have not been boosted": "Beberapa pigletz belum dibooster",
+        "some piglets are not boostable": "Beberapa pigletz tidak dapat dibooster",
+        "duplicate tokens": "Token duplikat",
+        "sll piglets must have different signs": "Semua pigletz pasti memiliki tanda yang berbeda"
+      }
+    },
+    "checkDiscount": {
+      "pending": "Memeriksa kode",
+      "success": "Kodenya valid",
+      "error": "Kode salah atau kadaluarsa"
+    },
+    "purchasePiglet": {
+      "pending": "Mencetak {{count}} piglet",
+      "pending_other": "Mencetak {{count}} pigletz",
+      "success": "{{count}} piglet berhasil dicetak",
+      "success_other": "{{count}} pigletz berhasil dicetak",
+      "error": "Maaf, ada yang salah"
+    },
+    "approveToken": {
+      "pending": "Menyetujui {{amount}} {{symbol}}",
+      "success": "Selesai",
+      "error": "Maaf, ada yang salah"
+    },
+    "openBox": {
+      "pending": "Membuka kotak dengan {{count}} piglet",
+      "pending_other": "Membuka kotak dengan {{count}} pigletz",
+      "success": "Selamat!",
+      "error": "Maaf, ada yang salah"
+    },
+    "depositToken": {
+      "pending": "Menyetor {{amount}} {{symbol}}",
+      "success": "Selamat!",
+      "error": "Maaf, ada yang salah"
+    },
+    "registerDeposit": {
+      "pending": "Mendaftarkan {{amount}} {{symbol}}",
+      "success": "Sukses!",
+      "error": "Maaf, ada yang salah"
+    },
+    "destroy": {
+      "pending": "Menghancurkan Piglet #{{tokenId}}",
+      "success": "Selesai",
+      "error": "Maaf, ada yang salah"
+    },
+    "transfer": {
+      "pending": "Mentransfer Piglet #{{tokenId}} to {{recipient}}",
+      "success": "Terkirim",
+      "error": "Maaf, ada yang salah"
+    },
+    "materialize": {
+      "pending": "Mewujudkan Piglet #{{tokenId}}",
+      "success": "Terkirim",
+      "error": "Maaf, ada yang salah"
+    }
+  },
+  "buy": {
+    "saleAddress": "Kontrak Penjualan: {{address}}",
+    "promoCodeCaption": "Diskon:",
+    "promoCodeCheckButton": "Memeriksa",
+    "promoCodePlaceholder": "SALIN KODE DI SINI...",
+    "quantityCaption": "Jumlah:",
+    "buyNowButton": "Cetak",
+    "tiersTitle": "Tingkatan",
+    "tierIndex": "Tingkat {{index}}",
+    "itemsInColletionLeft": "sisa {{amountLeft}}",
+    "howto": {
+      "mobile": {
+        "button": "Tidak yakin? Pelajari cara membeli ↓",
+        "youNeed": "Anda membutuhkan",
+        "bscTitle": "Anda perlu mengonfigurasi MetaMask untuk menggunakan Binance Smart Chain Mainnet.",
+        "bscGuide": "Ikuti panduan ini",
+        "bscBalance": "Anda membutuhkan Saldo BNB yang cukup di akun MetaMask anda untuk membeli Piglet. Gunakan Crypto Exchange favorit anda untuk mentransfer BNB ke alamat publik MetaMask anda.",
+        "bscFindAddress": "Bagaimana cara menemukan Alamat Wallet Public anda?",
+        "bscFindAddressStep1": "1. Di bagian Wallet, klik Alamat.",
+        "bscFindAddressStep2": "2. Alamat tersalin ke clipboard.",
+        "openMetamaskCaption": "Gunakan tombol di bawah untuk membuka <strong>dApp Sale Page</strong> kami langsung di Browser MetaMask:",
+        "openMetamaskButton": "Buka MetaMask"
+      },
+      "desktop": {
+        "button": "Tidak yakin? Pelajari cara membeli di Desktop ↓",
+        "youNeed": "Anda membutuhkan",
+        "extension": "Ekstensi Browser untuk Chrome atau Firefox.",
+        "bscTitle": "Anda perlu mengonfigurasi MetaMask untuk menggunakan Binance Smart Chain Mainnet.",
+        "bscGuide": "Ikuti panduan ini",
+        "bscVideo": "Tonton video ini",
+        "bscBalance": "Anda membutuhkan Saldo BNB yang cukup di Akun MetaMask anda untuk membeli Piglet. Gunakan Crypto Exchange favorit anda untuk mentransfer BNB ke Alamat Publik MetaMask anda.",
+        "bscFindAddress": "Bagaimana cara menemukan Alamat Wallet Public anda?",
+        "bscFindAddressStep1": "1. Di Ekstensi MetaMask Browser anda, klik nama akun anda.",
+        "bscFindAddressStep2": "2. Alamat tersalin ke clipboard.",
+        "connectWalletCaption1": "Ketika Anda memiliki dana yang cukup di dompet anda, anda perlu menghubungkannya dengan situs web kami, dengan cara klik \"Hubungkan Dompet\" di navigasi situs web.",
+        "connectWalletCaption2": "Setelah terhubung, anda dapat <strong>menggunakan formulir di bawah</strong> untuk melakukan pembelian.",
+        "watchVideoCaption1": "Tonton video ini",
+        "watchVideoCaption2": "untuk petunjuk langkah demi langkah:"
+      }
+    }
+  },
+  "piglet": {
+    "boost": "{{boost}}% boost",
+    "level": "Level {{level}}",
+    "dailyMint": "{{dailyMint}} PiFi Harian",
+    "walletDescription": "Ini adalah dompet Piglet anda. Ini adalah non-penahanan dan hanya Piglet, masing-masing pemiliknya dapat berinteraksi dengannya - menyimpan token atau menghancurkannya dan menarik semua yang ada di dalamnya",
+    "walletTitle": "Dompet",
+    "depositButton": "Setor ({{invested}}/{{total}})",
+    "totalValue": "Nilai total:",
+    "pifiToNextLevel": "{{pifi}} PiFi ke Level {{nextLevel}}",
+    "reachedLevelCaption": "Saya mencapai <b>Level {{level}}</b>",
+    "gotoLevelButton": "Naik ke Level {{level}}",
+    "goToCollection": "Koleksi",
+    "traitsTitle": "Sifat dan karakteristik Piglet",
+    "quickInfoTitle": "Info Kilat",
+    "destroyButton": "Hancurkan",
+    "materializeButton": "Mewujudkan",
+    "dematerializeButton": "Digitalisasi",
+    "transferButton": "Transfer",
+    "investments": {
+      "amount": "JUMLAH",
+      "nothing": "Anda belum memiliki investasi"
+    },
+    "pifiLPDeclaration": "Nilai PiFi akan diperkirakan setelah LP dibuat di PancakeSwap. Ini akan terjadi hanya SEKALI selama penjualan.",
+    "destroy": {
+      "title": "Hancurkan Piglet Anda",
+      "description": "Menghahncurkan Piglet anda akan menarik semua token di dalamnya dengan nilai total ${{balanceInUSD}} USD ke alamat anda {{recipient}}. Namun Piglet anda akan hancur dan hilang selamanya. Jadi pikirkan dua kali, lihat matanya dan buat keputusan.",
+      "lesserLevel": "Anda harus setidaknya Level 2 untuk dapat menghancurkan Piglet anda!",
+      "button": "Menghancurkan",
+      "confirmation": "Apakah anda yakin ingin menghancurkan Piglet anda?",
+      "confirm": "Ya, tarik uangnya",
+      "decline": "Tidak, saya tidak bisa"
+    },
+    "deposit": {
+      "tokenNotFound": "Token tidak ditemukan",
+      "title": "Setor Kripto",
+      "selectToken": "Silakan pilih token",
+      "inputAddress": "atau ketik alamat Token dibawah",
+      "inputAmount": "Tentukan jumlah untuk setoran",
+      "availableBalance": "Tersedia:",
+      "depositButton": "Setor sekarang",
+      "unregisteredDeposit": "Anda memiliki {{balance}} {{symbol}} $({{balanceUSD}}) yang tidak terdaftar",
+      "reisteredDeposit": "Daftar sekarang"
+    },
+    "boosters": {
+      "requiresLevel": "Membutuhkan Level {{level}}",
+      "activateButton": "Aktifkan Booster",
+      "activated": "Diaktifkan",
+      "title": "Boosters",
+      "tokenSelect": {
+        "title": "Pilih {{count}} Pigletz"
+      },
+      "names": {
+        "Invest $100": "Nilai $100",
+        "Invest $500": "Nilai $500",
+        "Invest $2000": "Nilai $2000",
+        "Collect 3": "Kumpulkan 3",
+        "Collect 7": "Kumpulkan 7",
+        "Invest 3 tokens": "Investasikan 3 Token",
+        "Invest 7 tokens": "Investasikan 7 Token",
+        "3 Similar": "3 Mirip",
+        "12 Different": "12 Berbeda",
+        "Staked": "Dipertaruhkan",
+        "Special": "Spesial"
+      },
+      "descriptions": {
+        "Invest tokens with value of at least $100 USD": "Dapatkan nilai piglet anda di atas $100 USD",
+        "Invest tokens with value of at least $500 USD": "Dapatkan nilai piglet anda di atas $500 USD",
+        "Invest tokens with value of at least $2000 USD": "Dapatkan nilai piglet anda di atas $2000 USD",
+        "Collect 3 piglets": "Kumpulkan 3 Pigletz",
+        "Collect 7 piglets": "Kumpulkan 7 Pigletz",
+        "Invest 3 different tokens": "Investasikan 3 token bernilai yang berbeda, tidak termasuk PiFi",
+        "Invest 7 different tokens": "Investasikan 7 token bernilai yang berbeda, tidak termasuk PiFi",
+        "Collect 3 with the same zodiac sign": "Kumpulkan 3 pigletz dengan zodiak yang sama",
+        "Collect 12 piglets with different zodiac signs": "Kumpulkan 12 pigletz dengan zodiak yang berbeda",
+        "Stake it in the Staking Contract": "Taruhan di kontrak taruhan",
+        "It is born like this": "Terlahir seperti ini"
+      },
+      "tips": {
+        "Invest tokens with value of at least $100 USD": "Anda dapat melakukannya dengan menginvestasikan token",
+        "Invest tokens with value of at least $500 USD": "Anda dapat melakukannya dengan menginvestasikan token",
+        "Invest tokens with value of at least $2000 USD": "Anda dapat melakukannya dengan menginvestasikan token",
+        "Collect 3 piglets": "Hanya cetak 3",
+        "Collect 7 piglets": "Hanya cetak 7",
+        "Invest 3 different tokens": "Token harus terdaftar di PancakeSwap",
+        "Invest 7 different tokens": "Token harus terdaftar di PancakeSwap",
+        "Collect 3 with the same zodiac sign": "Booster akan mempengaruhi semua 3",
+        "Collect 12 piglets with different zodiac signs": "Booster akan mempengaruhi semua 12",
+        "Stake it in the Staking Contract": "Akan segera datang",
+        "It is born like this": "Terlahir seperti ini"
+      }
+    }
+  },
+  "home": {
+    "subtitle": "NFT pertama yang terwujud!",
+    "howitworks": "Lihat cara kerjanya",
+    "videoModalTitle": "Bagaimana cara bekerjanya",
+    "nft": {
+      "title": "Ini adalah NFT",
+      "features": [
+        "12.345 Pigletz edisi terbatas unik dengan karakteristik acak yang dapat dibuktikan dari berbagai kelangkaan",
+        "100% kerajinan tangan dengan model 3d",
+        "Total lebih dari 2 miliar kombinasi yang memungkinkan",
+        "Dicetak secara acak saat pembelian",
+        "Karakteristik terungkap saat Piglet anda tumbuh",
+        "Tambahan 5 selebriti NTF akan diamalkan."
+      ]
+    },
+    "token": {
+      "learnMore": "Pelajari lebih lanjut",
+      "caption1": "Setiap Piglet mulai menambang token PiFi sejak anda membelinya.",
+      "caption2": "Anda dapat menyimpan token di Piglet anda seperti anda menyimpan koin di celengan.",
+      "caption3": "Hancurkan Piglet anda untuk mengakses semua token yang disimpan, ditambah semua token PiFi yang sudah ditambang."
+    },
+    "game": {
+      "learnMore": "Pelajari lebih lanjut",
+      "caption1": "Naikkan level untuk mengungkapkan sifat dan karakteristik Piglet dan meningkatkan tingkat penambangan dasar.",
+      "caption2": "Kumpulkan dan terapkan booster untuk meningkatkan kecepatan produksi token lebih lagi.",
+      "caption3": "Pantau dan kelola Pigletz anda melalui Dapp kami."
+    },
+    "boosters": {
+      "description": "Booster meningkatkan kecepatan penambangan token PiFi dari pigletz Anda. Jumlahnya ada 9."
+    },
+    "defi": {
+      "learnMore": "Pelajari lebih lanjut",
+      "description": "Anda dapat mengunci piglet anda untuk waktu tertentu untuk mempercepat proses penambangan.",
+      "steaking": {
+        "title": "Taruhan Piglet",
+        "description": "Kunci Piglet anda untuk menambang lebih cepat"
+      },
+      "lending": {
+        "title": "Pinjaman",
+        "description": "Dapatkan batas kredit PiFi dengan menggadaikan Piglet anda."
+      }
+    },
+    "3dprint": {
+      "title": "Perwujudan",
+      "learnMore": "Pelajari lebih lanjut",
+      "description1": "Anda dapat menggunakan token PiFi untuk membeli cetakan 3D NFT anda, yang mewakilinya di dunia nyata. Saat anda memesan celengan cetak 3D, NFT terkunci di dalam Kontrak Cerdas. Objek fisik memiliki kode buka kunci di dalamnya, tetapi anda harus memecahkan Piglet untuk mendapatkan sandi. Ini memastikan item berfungsi hanya dalam satu realitas pada titik waktu tertentu, selalu mempertahankan karakteristik NFT-nya.",
+      "description2": "Terlebih, status material Piglet dianggap sebagai Level 4 terakhir, yang memiliki tingkat penambangan dasar tertinggi."
+    },
+    "roadmap": {
+      "title": "Peta jalan",
+      "stages": [
+        {
+          "description": "<b>Terlahirnya ide</b> di awal tahun 2021",
+          "status": "✓ Selesai"
+        },
+        {
+          "description": "<b>Tim dibentuk</b> dan mulai bekerja (Q2 2021)",
+          "status": "✓ Selesai"
+        },
+        {
+          "description": "<b>Mengkonseptualisasikan dan memodelkan</b> sifat dan karakteristik Pigletz (Q3 2021)",
+          "status": "✓ Selesai"
+        },
+        {
+          "description": "Pengembangan <b>Smart Contracts dan Dapps</b> (Q4 2021)",
+          "status": "✓ Selesai"
+        },
+        {
+          "description": "<b>Peluncuran secara berantai</b><br />(Desember 2021)",
+          "status": "✓ Selesai"
+        },
+        {
+          "description": "<b>Pre-sale pertama</b><br />(18 Desember 2021)",
+          "status": "✓ Selesai"
+        },
+        {
+          "description": "Meluncurkan daftar di Binance NFT<br />(Januari 2022)",
+          "status": "✓ Selesai"
+        },
+        {
+          "description": "<b>Membuat kumpulan likuiditas PiFi di PancakeSwap</b><br />(Setelah penjualan)",
+          "status": "Akan datang"
+        },
+        {
+          "description": "<b>Cetakan 3D Pertama</b> dikirimkan<br />(Q1 2022)",
+          "status": "Bekerja..."
+        },
+        {
+          "description": "<b>DeFi Staking</b> dirilis <br /> (Q2 2022)",
+          "status": "Bekerja..."
+        },
+        {
+          "description": " <b>Game Seluler</b> dirilis <br /> (Q3 2022)",
+          "status": "Bekerja..."
+        },
+        {
+          "status": "Bekerja..."
+        }
+      ]
+    },
+    "joinUs": {
+      "announcement": "Pigletz sekarang aktif di Binance Smart Chain",
+      "description": "Ikuti kami untuk info lebih lanjut, tanggal pre-sale dan tanggal penjualan dan juga diskon",
+      "twitter": "Ikuti kami di Twitter",
+      "discord": "Bergabunglah ke server Discord kami",
+      "telegram": "Bergabunglah dengan channel Telegram kami"
+    },
+    "marketplaces": {
+      "title": "Juga tersedia di:"
+    }
+  }
+}
