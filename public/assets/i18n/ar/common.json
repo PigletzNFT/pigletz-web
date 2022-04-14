@@ -1,468 +1,469 @@
 {
-  "seo": {
-    "url": "https://pigletz.com ",
-    "title": "Piglets -  في الأول يتحقق NFT",
-    "description": "Pigletz هي لعبة NFT فريدة من نوعها قابلة للتحصيل تقدم: خنازير لطيفة ثلاثية الأبعاد فريدة من نوعها ؛ بنك أصبع رقمي يحمل الرموز المميزة الخاصة بك ؛ NFTs قابلة للترقية مع المستويات ؛ DeFi - رمز خاص ، رهينة ، إقراض ؛ حقيقي خنزير صغيرثلاثي الابعاد من ناحية الشكل.",
-    "image": "https://pigletz.com/assets/images/social-banner.jpg "
-  },
-  "nav": {
-    "website": "Pigletz.com ",
-    "home": "الصفحة الرئيسية",
-    "gallery": "صالة عرض",
-    "aboutus": "معلومات عنا",
-    "pigletz": " Pigletz الخاص بي",
-    "mystery": "مربعاتي",
-    "connect": "ربط المحفظة",
-    "buypiglets": "النعناع Pigletz",
-    "menu": "قائمة",
-    "back": "رجوع للخلف",
-    "languages": {
-      "en": "English",
-      "bg": "Български",
-      "de": "Deutsch",
-      "es": "Español",
-      "tr": "Türkçe",
-      "tl": "Filipino",
-      "ar": "العربية",
-      "ru": "Русский"
-    }
-  },
-  "banner": {
-    "presale": {
-      "text": "ينتهي ما قبل البيع في {{time}}",
-      "mintNow": "النعناع الآن",
-      "second": "{{count}} ثانية",
-      "second_other": "{{count}} ثواني",
-      "minute": "{{count}} دقيقة",
-      "minute_other": "{{count}} دقائق",
-      "hour": "{{count}} ساعة",
-      "hour_other": "{{count}} ساعات",
-      "day": "{{count}} يوم",
-      "day_other": "{{count}} ايام"
-    },
-    "public": {
-      "text": "انضم إلى مجتمع التنافس لدينا للحصول على عروض خاصة!",
-      "mintNow": "النعناع الآن"
-    },
-    "binance": {
-      "text": "Pigletz متاح الآن على Binance NFT",
-      "buy": "شراء من  Binance"
-    }
-  },
-  "footer": {
-    "copyright": "© 2021-2022 Pigletz ",
-    "terms": "الأحكام والشروط",
-    "privacy": "سياسة الخصوصية",
-    "contracts": {
-      "title": "العقود:",
-      "pigletz": "Pigletz (BEP721) ",
-      "pifi": "PiFi (BEP20) ",
-      "salesManager": "مبيعات",
-      "mysteryBox": "MysteryBox (BEP721) "
-    }
-  },
-  "presale": {
-    "title": "Pigletz Presale ",
-    "description": "مرحبا بكم المختار! لقد تم اختيارك للمشاركة في العرض التقديمي الخاص بنا وهنا لديك فرصة لنعناع خنزير صغير فريد من نوعه بأقل سعر ممكن. يمكنك أيضًا سك حزمة من 5 أو 10 أو 20 في نفس المعاملة. سيتم تطبيق الرمز الخصم الخاص بك على كل منهم. استمتع!",
-    "tiersDescription": "نحن نسك مجموعات بمبالغ وأسعار مختلفة. يرتفع السعر مع مرور الوقت ويصل في النهاية إلى 8 مليار دولار أمريكي. ولكن مع ارتفاع السعر ، هناك أيضًا فرصة أكبر للحصول على المعزز الخاص.",
-    "checkTiers": "تحقق من المستويات أدناه"
-  },
-  "mint": {
-    "title": "Pigletz Minting ",
-    "description": "أهلا بك! هنا يمكنك سك الخنزير الجديد الخاص بك. سيتم اختياره باستخدام خوارزمية عشوائية عادلة. إذا كنت ترغب في الحصول على أكواد خصم ، فقم بالانضمام إلى مجتمعاتنا في Discord و Telegram و Twitter واطلب الخيارات. استمتع!",
-    "tiersDescription": "نحن نسك مجموعات بمبالغ وأسعار مختلفة. يرتفع السعر مع مرور الوقت ويصل في النهاية إلى 8 مليار دولار أمريكي. ولكن مع ارتفاع السعر ، هناك أيضًا فرصة أكبر للحصول على المعزز الخاص.",
-    "checkTiers": "تحقق من المستويات أدناه"
-  },
-  "pigletzList": {
-    "title": "مجموعة Pigletz ",
-    "description": "مجموعة رائعة من {{address}}",
-    "my": {
-      "description": "مجموعتك الجميلة"
-    },
     "seo": {
-      "title": "مجموعة Pigletz  ",
-      "description": "مجموعة قيمة من {{count}} خنزير صغير",
-      "description_other": "مجموعة قيّمة من {{count}}  pigletz"
+        "url": "https://pigletz.com ",
+        "title": "Piglets -  في الأول يتحقق NFT",
+        "description": "Pigletz هي لعبة NFT فريدة من نوعها قابلة للتحصيل تقدم: خنازير لطيفة ثلاثية الأبعاد فريدة من نوعها ؛ بنك أصبع رقمي يحمل الرموز المميزة الخاصة بك ؛ NFTs قابلة للترقية مع المستويات ؛ DeFi - رمز خاص ، رهينة ، إقراض ؛ حقيقي خنزير صغيرثلاثي الابعاد من ناحية الشكل.",
+        "image": "https://pigletz.com/assets/images/social-banner.jpg "
     },
-    "boostersOfferTitle": "هل تحتاج إلى <b> معززات؟ </ b>",
-    "boostersOfferCaption": "استثمر في Piglet الخاص بك وسوف ينتج عنه قيمة أكبر لك",
-    "levelReachedCaption": "لقد وصلت إلى <b> المستوى {{level}} </b>"
-  },
-  "mysteryBoxList": {
-    "title": "صناديق الغموض",
-    "description": "قائمة الصناديق التي يملكها {{address}}",
-    "my": {
-      "description": "صناديق الغموض الخاصة بك. افتح لرؤية Pigletz بالداخل!"
-    },
-    "seo": {
-      "title": "مربعات لغز Pigletz",
-      "description": "مجموعة قيّمة من {{count}} صندوق الغموض المليء بـ Pigletz",
-      "description_other": "مجموعة قيّمة من {{count}} الصناديق الغامضة المليئة بـ Pigletz"
-    },
-    "boostersOfferTitle": "هل تحتاج إلى <b> التعزيزات </ b>",
-    "boostersOfferCaption": "استثمر في Piglet الخاص بك وسوف ينتج عنه قيمة أكبر لك",
-    "levelReachedCaption": "لقد وصلت إلى <b> المستوى {{المستوى}} </b>"
-  },
-  "connect": {
-    "title": "ربط المحفظة",
-    "balance": "{{balance}} BNB",
-    "disconnect": "قطع الاتصال",
-    "providers": {
-      "metamask": "ميتامسك",
-      "trustwallet": "محفظة الثقة",
-      "binancewallet": " محفظة Binance",
-      "walletconnect": "توصيل المحفظة"
-    },
-    "howtoTitle": "ليس لديك أي محفظة تشفير؟",
-    "howtoButton": "تعرف على كيفية الاتصال"
-  },
-  "actions": {
-    "levelUp": {
-      "pending": "الذهاب إلى المستوى {{level}}",
-      "success": "تهاني!",
-      "error": "عذرا، هناك خطأ ما"
-    },
-    "boosterUp": {
-      "pending": "تنشيط الداعم",
-      "success": "تهاني!",
-      "errors": {
-        "default": "عذرا، هناك خطأ ما",
-        "some piglets dont have the same sign": "بعض الخنازير لا تحمل نفس العلامة",
-        "wrong number of piglets": "عدد خاطئ من الخنازير",
-        "not all piglets are owned by the same owner": "ليست كل Pigletz مملوكة لنفس المالك",
-        "some piglets have already been boosted": "تم بالفعل تعزيز بعض الخنازير",
-        "some piglets are celebrities": "بعض Pigletz من المشاهير",
-        "some piglets are not of the correct level": "بعض الخنازير ليست من المستوى الصحيح",
-        "some piglets have not been boosted": "لم يتم تعزيز بعض الخنازير",
-        "some piglets are not boostable": "بعض الخنازير ليست قابلة للدفع",
-        "duplicate tokens": "الرموز المكررة",
-        "sll piglets must have different signs": "يجب أن يكون لكل Pigletz علامات مختلفة"
-      }
-    },
-    "checkDiscount": {
-      "pending": "التحقق من الكود",
-      "success": "الكود صالح",
-      "error": "هذا رمز خاطئ أو منتهي الصلاحية"
-    },
-    "purchasePiglet": {
-      "pending": "سك {{count}} خنزير صغير",
-      "pending_other": "سك {{عدد}} خنزير",
-      "success": "تم سك {{عدد}} خنزير صغير بنجاح",
-      "success_other": "تم سك {{count}} خنزير صغير بنجاح",
-      "error": "عذرا، هناك خطأ ما"
-    },
-    "approveToken": {
-      "pending": "الموافقة على {{amount}} {{symbol}}",
-      "success": "منجز",
-      "error": "عذرا، هناك خطأ ما"
-    },
-    "openBox": {
-      "pending": "فتح مربع مع {{count}} خنزير صغير",
-      "pending_other": "فتح مربع مع {{count}} خنزير صغير",
-      "success": "تهانينا!",
-      "error": "عذرا، هناك خطأ ما"
-    },
-    "depositToken": {
-      "pending": "إيداع {{amount}} {{symbol}}",
-      "success": "تهانينا!",
-      "error": "عذرا، هناك خطأ ما"
-    },
-    "registerDeposit": {
-      "pending": "تسجيل {{amount}} {{symbol}}",
-      "success": "نجاح!",
-      "error": "عذرا، هناك خطأ ما"
-    },
-    "destroy": {
-      "pending": "كسر خنزير صغير # {{tokenId}}",
-      "success": "انتهى",
-      "error": "عذرا، هناك خطأ ما"
-    },
-    "transfer": {
-      "pending": "نقل Piglet # {{token Id}} إلى {{recipient}}",
-      "success": "أرسلت",
-      "error": "عذرا، هناك خطأ ما"
-    },
-    "materialize": {
-      "pending": "تجسيد Piglet # {{tokenId}}",
-      "success": "أرسلت",
-      "error": "عذرا، هناك خطأ ما"
-    }
-  },
-  "buy": {
-    "saleAddress": "عقد البيع: {{address}}",
-    "promoCodeCaption": "خصم:",
-    "promoCodeCheckButton": "يفحص",
-    "promoCodePlaceholder": "لصق الكود هنا ...",
-    "quantityCaption": "كمية:",
-    "buyNowButton": "نعناع",
-    "discountedPrice": "{{price}} BNB",
-    "totalCaption": "المجموع:",
-    "tiersTitle": "المستويات",
-    "tierIndex": "المستوى {{index}}",
-    "tierPrice": "{{price}} BNB",
-    "itemsInColletionLeft": "بقي {{amountLeft}}",
-    "howto": {
-      "mobile": {
-        "button": "غير متأكد؟ تعلم كيفية الشراء ↓",
-        "youNeed": "أنت بحاجة إلى",
-        "metamask": "MetaMask ",
-        "walletApp": "تطبيق المحفظة",
-        "android": "Android ",
-        "ios": "iOS ",
-        "bscTitle": "تحتاج إلى تكوين MetaMask لاستخدام الشبكة الرئيسية للسلسلة الذكية Binance.",
-        "bscGuide": "اتبع هذا الدليل",
-        "bscBalance": "أنت بحاجة إلى رصيد BNB كافٍ في حساب MetaMask الخاص بك لشراء Piglet. استخدم Crypto Exchange المفضل لديك لتحويل BNB إلى عنوان MetaMask العام الخاص بك.",
-        "bscFindAddress": "كيف تجد عنوان المحفظة العام الخاص بك؟",
-        "bscFindAddressStep1": "1.  اضغط على حبة العنوان في محفظتك.",
-        "bscFindAddressStep2": "2. يتم نسخ العنوان إلى الحافظة الخاصة بك.",
-        "openMetamaskCaption": "استخدم الزر أدناه لفتح <strong> صفحة بيع <dApp </strong> مباشرة في متصفح MetaMask:",
-        "openMetamaskButton": "افتح MetaMask"
-      },
-      "desktop": {
-        "button": "غير متأكد؟ تعرف على كيفية الشراء على سطح المكتب ↓",
-        "youNeed": "أنت بحاجة إلى",
-        "metamask": "MetaMask ",
-        "extension": "ملحق المتصفح لمتصفح Chrome أو Firefox.",
-        "chrome": "Google Chrome ",
-        "firefox": "Mozilla Firefox ",
-        "bscTitle": "تحتاج إلى تكوين MetaMask لاستخدام الشبكة الرئيسية للسلسلة الذكية Binance.",
-        "bscGuide": "اتبع هذا الدليل",
-        "bscVideo": "شاهد هذا الفيديو",
-        "bscBalance": "أنت بحاجة إلى رصيد BNB كافٍ في حساب MetaMask الخاص بك لشراء Piglet. استخدم Crypto Exchange المفضل لديك لتحويل BNB إلى عنوان MetaMask العام الخاص بك.",
-        "bscFindAddress": "كيف تجد عنوان المحفظة العام الخاص بك؟",
-        "bscFindAddressStep1": "1. في ملحق MetaMask بالمستعرض الخاص بك ، انقر فوق اسم حسابك.",
-        "bscFindAddressStep2": "2. يتم نسخ العنوان إلى الحافظة الخاصة بك.",
-        "connectWalletCaption1": "عندما يكون لديك أموال كافية في محفظتك ، فأنت بحاجة إلى ربطها بموقعنا على الويب ، والنقر فوق \"Connect Wallet\" في التنقل في موقع الويب.",
-        "connectWalletCaption2": "عندما تكون متصلاً يمكنك <strong> استخدام النموذج أدناه </ strong> لإجراء عملية شراء.",
-        "watchVideoCaption1": "شاهد هذا الفيديو",
-        "watchVideoCaption2": "للحصول على إرشادات خطوة بخطوة:"
-      }
-    }
-  },
-  "piglet": {
-    "boost": "{{boost}}٪ دفعة",
-    "level": "المستوى {{level}}",
-    "dailyMint": "{{dailyMint}} PiFi اليومي",
-    "pifi": "PiFi: ",
-    "walletDescription": "هذه هي محفظة Piglet الخاصة بك. إنه غير أمني وفقط Piglet ، على التوالي يمكن لمالكه التفاعل معه - إيداع الرموز المميزة أو كسرها وسحب كل ما يحتويه",
-    "walletTitle": "محفظة نقود",
-    "depositButton": "الإيداع ({{invested}} / {{total}})",
-    "totalValue": "المجموع",
-    "pifiToNextLevel": "{{pifi}} PiFi إلى المستوى {{nextLevel}}",
-    "reachedLevelCaption": "لقد وصلت إلى <b> المستوى {{المستوى}} </b>",
-    "gotoLevelButton": "انتقل إلى المستوى {{level}}",
-    "goToCollection": "مجموعة",
-    "traitsTitle": "سمات الخنزير الصغير",
-    "quickInfoTitle": "معلومات سريعة",
-    "destroyButton": "هدم",
-    "materializeButton": "تجسد",
-    "dematerializeButton": "رقمنة",
-    "transferButton": "تحويل",
-    "investments": {
-      "symbol": "رمز",
-      "amount": "مقدار",
-      "usd": "دولار أمريكي",
-      "nothing": "ليس لديك أي استثمارات حتى الآن"
-    },
-    "pifiLPDeclaration": "سيتم تقدير قيمة PiFi بعد إنشاء LP في PancakeSwap. سيحدث هذا مرة واحدة فقط أثناء البيع.",
-    "destroy": {
-      "title": "كسر خنزير صغير الخاص بك",
-      "description": "سيؤدي كسر Piglet إلى سحب جميع الرموز المميزة بداخله بقيمة إجمالية قدرها $ {BalanceInUSD}} USD إلى عنوانك {{recipient}}. ومع ذلك سيتم تدمير الخنزير الصغير الخاص بك ويضيع إلى الأبد. لذا فكر مرتين ، انظر إلى عينيه وقرر.",
-      "lesserLevel": "يجب أن تكون في المستوى 2 على الأقل حتى يُسمح لك بكسر الخنزير الصغير!",
-      "button": "استراحة",
-      "confirmation": "هل أنت متأكد أنك تريد كسر الخنزير الصغير الخاص بك؟",
-      "confirm": "نعم ، صرف النقود",
-      "decline": "لا ، لا أستطيع"
-    },
-    "deposit": {
-      "balance": "{{balance}} {{symbol}} (${{usd}})",
-      "tokenNotFound": "لم يتم العثور على الرمز",
-      "title": "إيداع العملات المشفرة",
-      "selectToken": "الرجاء تحديد رمز مميز",
-      "defaultToken": "فطيرة تبديل الرموز ...",
-      "inputAddress": "أو اكتب عنوان الرمز أدناه",
-      "inputAmount": "اختر المبلغ المراد إيداعه",
-      "maxButton": "الأعلى",
-      "availableBalance": "متاح:",
-      "depositButton": "إيداع الآن",
-      "unregisteredDeposit": "لديك {{balance}} {{symbol}} $ ({{balanceUSD}}) غير مسجل",
-      "reisteredDeposit": "سجل الان"
-    },
-    "boosters": {
-      "requiresLevel": "يتطلب المستوى {{level}}",
-      "activateButton": "تفعيل الداعم",
-      "activated": "مفعل",
-      "title": "التعزيز",
-      "tokenSelect": {
-        "title": "حدد {{count}} Pigletz"
-      },
-      "names": {
-        "Invest $100": "القيمة 100 دولار",
-        "Invest $500": "القيمة 500 دولار",
-        "Invest $2000": "القيمة 2000 دولار",
-        "Collect 3": "اجمع 3",
-        "Collect 7": "اجمع 7",
-        "Invest 3 tokens": "استثمر 3 Tokens",
-        "Invest 7 tokens": "استثمر 7 Tokens",
-        "3 Similar": "3 مماثل",
-        "12 Different": "12 مختلفة",
-        "Staked": "راهن",
-        "Special": "خاص"
-      },
-      "descriptions": {
-        "Invest tokens with value of at least $100 USD": "احصل على تقييم خنزير صغير أعلى من 100 دولار أمريكي",
-        "Invest tokens with value of at least $500 USD": "احصل على تقييم خنزير صغير أعلى من 500 دولار أمريكي",
-        "Invest tokens with value of at least $2000 USD": "احصل على تقييم خنزير صغير أعلى من 2000 دولار أمريكي",
-        "Collect 3 piglets": "اجمع 3 Pigletz",
-        "Collect 7 piglets": "اجمع 7 Pigletz",
-        "Invest 3 different tokens": "استثمر 3 رموز مختلفة غير صفرية ، باستثناء PiFi",
-        "Invest 7 different tokens": "استثمر 7 رموز مختلفة غير صفرية ، باستثناء PiFi",
-        "Collect 3 with the same zodiac sign": "اجمع 3 خنازير بنفس علامة البروج",
-        "Collect 12 piglets with different zodiac signs": "اجمع 12 خنزيرًا بعلامات زودياك مختلفة",
-        "Stake it in the Staking Contract": "رهانه في عقد الرهان",
-        "It is born like this": "ولد هكذا"
-      },
-      "tips": {
-        "Invest tokens with value of at least $100 USD": "يمكنك القيام بذلك عن طريق الاستثمار في الرموز",
-        "Invest tokens with value of at least $500 USD": "يمكنك القيام بذلك عن طريق الاستثمار في الرموز",
-        "Invest tokens with value of at least $2000 USD": "يمكنك القيام بذلك عن طريق الاستثمار في الرموز",
-        "Collect 3 piglets": "فقط نعناع 3",
-        "Collect 7 piglets": "فقط نعناع 7",
-        "Invest 3 different tokens": "يجب إدراج الرموز في مقايضة الفطيرة",
-        "Invest 7 different tokens": "يجب إدراج الرموز في مقايضة الفطيرة",
-        "Collect 3 with the same zodiac sign": "سوف يؤثر الداعم على كل 3",
-        "Collect 12 piglets with different zodiac signs": "سوف يؤثر الداعم على كل 12",
-        "Stake it in the Staking Contract": "قريبا",
-        "It is born like this": "ولد هكذا"
-      }
-    }
-  },
-  "home": {
-    "subtitle": "أول NFT يتحقق!",
-    "howitworks": "انظر كيف يعمل",
-    "videoModalTitle": "كيف تعمل",
-    "nft": {
-      "title": "إنها NFT",
-      "features": [
-        "12،345 إصدارًا محدودًا فريدًا من Pigletz مع خصائص عشوائية يمكن إثباتها وندرة مختلفة",
-        "100٪ نماذج ثلاثية الأبعاد مصنوعة يدويًا",
-        "ما مجموعه أكثر من 2 مليار مجموعة ممكنة",
-        "يتم سكها بشكل عشوائي عند الشراء",
-        "يتم الكشف عن الخصائص مع نمو Piglet الخاص بك",
-        "5 من المشاهير الإضافيين يذهبون إلى مؤسسة خيرية"
-      ]
-    },
-    "token": {
-      "title": "الرموز",
-      "learnMore": "تعلم أكثر",
-      "caption1": "يبدأ كل خنزير صغير في استخراج رموز PiFi منذ يوم شرائه.",
-      "caption2": "يمكنك إيداع الرموز في خنزير صغيرك بالطريقة التي تودع بها العملات في بنك أصبع.",
-      "caption3": "اكسر خنزير صغير للوصول إلى جميع الرموز المودعة بالإضافة إلى رموز PiFi الملغومة."
-    },
-    "game": {
-      "title": "التلعيب",
-      "learnMore": "تعلم أكثر",
-      "caption1": "يصل المستوى للكشف عن سمات Piglet وتحسين معدل التعدين الأساسي.",
-      "caption2": "اجمع المعززات واستخدمها لزيادة سرعة إنتاج الرمز المميز بشكل أكبر.",
-      "caption3": "مراقبة وإدارة Pigletz الخاص بك من خلال Dapp المريح."
-    },
-    "boosters": {
-      "title": "التعزيز",
-      "description": "تعمل التعزيزات على زيادة سرعة تعدين رمز PiFi في خنزير صغيرك. هناك 9 منهم في المجموع."
-    },
-    "defi": {
-      "title": "DeFi ",
-      "learnMore": "تعلم أكثر",
-      "description": "يمكنك قفل الخنزير الصغير الخاص بك لفترة محددة من أجل تسريع عملية التعدين.",
-      "steaking": {
-        "title": "ماسك الخنزير الصغير",
-        "description": "قفل الخنزير الصغير الخاص بك للتعدين بشكل أسرع"
-      },
-      "lending": {
-        "title": "الإقراض",
-        "description": "احصل على حد ائتمان PiFi عن طريق رهن خنزير صغيرك."
-      }
-    },
-    "3dprint": {
-      "title": "التجسيد",
-      "learnMore": "تعلم أكثر",
-      "description1": "يمكنك استخدام رموز PiFi لشراء نسخة ثلاثية الأبعاد من NFT ، والتي تمثلها في العالم الحقيقي. عندما تطلب حصالة مطبوعة ثلاثية الأبعاد ، يتم قفل NFT في عقد ذكي. يحتوي الكائن المادي على رمز فتح بالداخل ، ولكن عليك كسر Piglet للحصول على الشفرة. هذا يضمن وظائف العنصر في واقع واحد فقط في وقت معين ، مع الاحتفاظ دائمًا بخصائص NFT.",
-      "description2": "علاوة على ذلك ، تعتبر الحالة المادية للخنزير الصغير المستوى 4 الأخير ، الذي يحتوي على أعلى معدل تعدين أساسي."
-    },
-    "roadmap": {
-      "title": "خريطة الطريق",
-      "stages": [
-        {
-          "description": "<b> ولدت الفكرة </ b> في بداية عام 2021",
-          "progress": 100,
-          "status": "✓ مكتمل"
-        },
-        {
-          "description": "<b> تم تشكيل الفريق </ b> وبدأ العمل (الربع الثاني 2021)",
-          "progress": 100,
-          "status": "✓ مكتمل"
-        },
-        {
-          "description": "<b> وضع المفاهيم والنمذجة </ b> سمات سمات Pigletz (الربع الثالث 2021)",
-          "progress": 100,
-          "status": "✓ مكتمل"
-        },
-        {
-          "description": "تطوير <b> العقود الذكية والتطبيقات Dapps </ b> (الربع الرابع 2021)",
-          "progress": 100,
-          "status": "✓ مكتمل"
-        },
-        {
-          "description": "<b> الإطلاق في السلسلة </ b> <br /> (كانون الأول (ديسمبر) 2021)",
-          "progress": 100,
-          "status": "✓ مكتمل"
-        },
-        {
-          "description": "<b> أول بيع مسبق </ b> <br /> (18 كانون الأول (ديسمبر) 2021)",
-          "progress": 100,
-          "status": "✓ مكتمل"
-        },
-        {
-          "description": "إطلاق قائمة على Binance NFT <br /> (يناير 2022)",
-          "progress": 100,
-          "status": "✓ مكتمل"
-        },
-        {
-          "description": "<b> أنشئ تجمع سيولة PiFi على PancakeSwap </b> <br /> (بعد البيع)",
-          "progress": 0,
-          "status": "القادمة"
-        },
-        {
-          "description": "<b> تسليم أول مطبوعات ثلاثية الأبعاد </ b> <br /> (الربع الأول من عام 2022)",
-          "progress": 0,
-          "status": "عمل..."
-        },
-        {
-          "description": "تم إصدار <b> DeFi Staking </b> <br /> (الربع الثاني من عام 2022)",
-          "progress": 0,
-          "status": "عمل..."
-        },
-        {
-          "description": "تم إصدار <b> لعبة الجوال </ b> <br /> (الربع الثالث 2022)",
-          "progress": 0,
-          "status": "عمل..."
-        },
-        {
-          "description": "  <b>DAO</b><br /> (Q4 2022)",
-          "progress": 0,
-          "status": "عمل..."
+    "nav": {
+        "website": "Pigletz.com ",
+        "home": "الصفحة الرئيسية",
+        "gallery": "صالة عرض",
+        "aboutus": "معلومات عنا",
+        "pigletz": " Pigletz الخاص بي",
+        "mystery": "مربعاتي",
+        "connect": "ربط المحفظة",
+        "buypiglets": "النعناع Pigletz",
+        "menu": "قائمة",
+        "back": "رجوع للخلف",
+        "languages": {
+            "en": "English",
+            "bg": "Български",
+            "de": "Deutsch",
+            "es": "Español",
+            "tr": "Türkçe",
+            "tl": "Filipino",
+            "ar": "العربية",
+            "ru": "Русский",
+            "id": "Bahasa Indonesia"
         }
-      ]
     },
-    "joinUs": {
-      "announcement": "Pigletz متوفر الآن على Binance Smart Chain",
-      "description": "تابعنا للحصول على مزيد من المعلومات ، وتواريخ ما قبل البيع والبيع والخصومات",
-      "twitter": "تابعنا على تويتر",
-      "discord": "انضم إلى خادم Discord الخاص بنا",
-      "telegram": "انضم إلى قناة Telegram الخاصة بنا"
+    "banner": {
+        "presale": {
+            "text": "ينتهي ما قبل البيع في {{time}}",
+            "mintNow": "النعناع الآن",
+            "second": "{{count}} ثانية",
+            "second_other": "{{count}} ثواني",
+            "minute": "{{count}} دقيقة",
+            "minute_other": "{{count}} دقائق",
+            "hour": "{{count}} ساعة",
+            "hour_other": "{{count}} ساعات",
+            "day": "{{count}} يوم",
+            "day_other": "{{count}} ايام"
+        },
+        "public": {
+            "text": "انضم إلى مجتمع التنافس لدينا للحصول على عروض خاصة!",
+            "mintNow": "النعناع الآن"
+        },
+        "binance": {
+            "text": "Pigletz متاح الآن على Binance NFT",
+            "buy": "شراء من  Binance"
+        }
     },
-    "marketplaces": {
-      "title": "متاح أيضًا على:"
+    "footer": {
+        "copyright": "© 2021-2022 Pigletz ",
+        "terms": "الأحكام والشروط",
+        "privacy": "سياسة الخصوصية",
+        "contracts": {
+            "title": "العقود:",
+            "pigletz": "Pigletz (BEP721) ",
+            "pifi": "PiFi (BEP20) ",
+            "salesManager": "مبيعات",
+            "mysteryBox": "MysteryBox (BEP721) "
+        }
+    },
+    "presale": {
+        "title": "Pigletz Presale ",
+        "description": "مرحبا بكم المختار! لقد تم اختيارك للمشاركة في العرض التقديمي الخاص بنا وهنا لديك فرصة لنعناع خنزير صغير فريد من نوعه بأقل سعر ممكن. يمكنك أيضًا سك حزمة من 5 أو 10 أو 20 في نفس المعاملة. سيتم تطبيق الرمز الخصم الخاص بك على كل منهم. استمتع!",
+        "tiersDescription": "نحن نسك مجموعات بمبالغ وأسعار مختلفة. يرتفع السعر مع مرور الوقت ويصل في النهاية إلى 8 مليار دولار أمريكي. ولكن مع ارتفاع السعر ، هناك أيضًا فرصة أكبر للحصول على المعزز الخاص.",
+        "checkTiers": "تحقق من المستويات أدناه"
+    },
+    "mint": {
+        "title": "Pigletz Minting ",
+        "description": "أهلا بك! هنا يمكنك سك الخنزير الجديد الخاص بك. سيتم اختياره باستخدام خوارزمية عشوائية عادلة. إذا كنت ترغب في الحصول على أكواد خصم ، فقم بالانضمام إلى مجتمعاتنا في Discord و Telegram و Twitter واطلب الخيارات. استمتع!",
+        "tiersDescription": "نحن نسك مجموعات بمبالغ وأسعار مختلفة. يرتفع السعر مع مرور الوقت ويصل في النهاية إلى 8 مليار دولار أمريكي. ولكن مع ارتفاع السعر ، هناك أيضًا فرصة أكبر للحصول على المعزز الخاص.",
+        "checkTiers": "تحقق من المستويات أدناه"
+    },
+    "pigletzList": {
+        "title": "مجموعة Pigletz ",
+        "description": "مجموعة رائعة من {{address}}",
+        "my": {
+            "description": "مجموعتك الجميلة"
+        },
+        "seo": {
+            "title": "مجموعة Pigletz  ",
+            "description": "مجموعة قيمة من {{count}} خنزير صغير",
+            "description_other": "مجموعة قيّمة من {{count}}  pigletz"
+        },
+        "boostersOfferTitle": "هل تحتاج إلى <b> معززات؟ </ b>",
+        "boostersOfferCaption": "استثمر في Piglet الخاص بك وسوف ينتج عنه قيمة أكبر لك",
+        "levelReachedCaption": "لقد وصلت إلى <b> المستوى {{level}} </b>"
+    },
+    "mysteryBoxList": {
+        "title": "صناديق الغموض",
+        "description": "قائمة الصناديق التي يملكها {{address}}",
+        "my": {
+            "description": "صناديق الغموض الخاصة بك. افتح لرؤية Pigletz بالداخل!"
+        },
+        "seo": {
+            "title": "مربعات لغز Pigletz",
+            "description": "مجموعة قيّمة من {{count}} صندوق الغموض المليء بـ Pigletz",
+            "description_other": "مجموعة قيّمة من {{count}} الصناديق الغامضة المليئة بـ Pigletz"
+        },
+        "boostersOfferTitle": "هل تحتاج إلى <b> التعزيزات </ b>",
+        "boostersOfferCaption": "استثمر في Piglet الخاص بك وسوف ينتج عنه قيمة أكبر لك",
+        "levelReachedCaption": "لقد وصلت إلى <b> المستوى {{المستوى}} </b>"
+    },
+    "connect": {
+        "title": "ربط المحفظة",
+        "balance": "{{balance}} BNB",
+        "disconnect": "قطع الاتصال",
+        "providers": {
+            "metamask": "ميتامسك",
+            "trustwallet": "محفظة الثقة",
+            "binancewallet": " محفظة Binance",
+            "walletconnect": "توصيل المحفظة"
+        },
+        "howtoTitle": "ليس لديك أي محفظة تشفير؟",
+        "howtoButton": "تعرف على كيفية الاتصال"
+    },
+    "actions": {
+        "levelUp": {
+            "pending": "الذهاب إلى المستوى {{level}}",
+            "success": "تهاني!",
+            "error": "عذرا، هناك خطأ ما"
+        },
+        "boosterUp": {
+            "pending": "تنشيط الداعم",
+            "success": "تهاني!",
+            "errors": {
+                "default": "عذرا، هناك خطأ ما",
+                "some piglets dont have the same sign": "بعض الخنازير لا تحمل نفس العلامة",
+                "wrong number of piglets": "عدد خاطئ من الخنازير",
+                "not all piglets are owned by the same owner": "ليست كل Pigletz مملوكة لنفس المالك",
+                "some piglets have already been boosted": "تم بالفعل تعزيز بعض الخنازير",
+                "some piglets are celebrities": "بعض Pigletz من المشاهير",
+                "some piglets are not of the correct level": "بعض الخنازير ليست من المستوى الصحيح",
+                "some piglets have not been boosted": "لم يتم تعزيز بعض الخنازير",
+                "some piglets are not boostable": "بعض الخنازير ليست قابلة للدفع",
+                "duplicate tokens": "الرموز المكررة",
+                "sll piglets must have different signs": "يجب أن يكون لكل Pigletz علامات مختلفة"
+            }
+        },
+        "checkDiscount": {
+            "pending": "التحقق من الكود",
+            "success": "الكود صالح",
+            "error": "هذا رمز خاطئ أو منتهي الصلاحية"
+        },
+        "purchasePiglet": {
+            "pending": "سك {{count}} خنزير صغير",
+            "pending_other": "سك {{عدد}} خنزير",
+            "success": "تم سك {{عدد}} خنزير صغير بنجاح",
+            "success_other": "تم سك {{count}} خنزير صغير بنجاح",
+            "error": "عذرا، هناك خطأ ما"
+        },
+        "approveToken": {
+            "pending": "الموافقة على {{amount}} {{symbol}}",
+            "success": "منجز",
+            "error": "عذرا، هناك خطأ ما"
+        },
+        "openBox": {
+            "pending": "فتح مربع مع {{count}} خنزير صغير",
+            "pending_other": "فتح مربع مع {{count}} خنزير صغير",
+            "success": "تهانينا!",
+            "error": "عذرا، هناك خطأ ما"
+        },
+        "depositToken": {
+            "pending": "إيداع {{amount}} {{symbol}}",
+            "success": "تهانينا!",
+            "error": "عذرا، هناك خطأ ما"
+        },
+        "registerDeposit": {
+            "pending": "تسجيل {{amount}} {{symbol}}",
+            "success": "نجاح!",
+            "error": "عذرا، هناك خطأ ما"
+        },
+        "destroy": {
+            "pending": "كسر خنزير صغير # {{tokenId}}",
+            "success": "انتهى",
+            "error": "عذرا، هناك خطأ ما"
+        },
+        "transfer": {
+            "pending": "نقل Piglet # {{token Id}} إلى {{recipient}}",
+            "success": "أرسلت",
+            "error": "عذرا، هناك خطأ ما"
+        },
+        "materialize": {
+            "pending": "تجسيد Piglet # {{tokenId}}",
+            "success": "أرسلت",
+            "error": "عذرا، هناك خطأ ما"
+        }
+    },
+    "buy": {
+        "saleAddress": "عقد البيع: {{address}}",
+        "promoCodeCaption": "خصم:",
+        "promoCodeCheckButton": "يفحص",
+        "promoCodePlaceholder": "لصق الكود هنا ...",
+        "quantityCaption": "كمية:",
+        "buyNowButton": "نعناع",
+        "discountedPrice": "{{price}} BNB",
+        "totalCaption": "المجموع:",
+        "tiersTitle": "المستويات",
+        "tierIndex": "المستوى {{index}}",
+        "tierPrice": "{{price}} BNB",
+        "itemsInColletionLeft": "بقي {{amountLeft}}",
+        "howto": {
+            "mobile": {
+                "button": "غير متأكد؟ تعلم كيفية الشراء ↓",
+                "youNeed": "أنت بحاجة إلى",
+                "metamask": "MetaMask ",
+                "walletApp": "تطبيق المحفظة",
+                "android": "Android ",
+                "ios": "iOS ",
+                "bscTitle": "تحتاج إلى تكوين MetaMask لاستخدام الشبكة الرئيسية للسلسلة الذكية Binance.",
+                "bscGuide": "اتبع هذا الدليل",
+                "bscBalance": "أنت بحاجة إلى رصيد BNB كافٍ في حساب MetaMask الخاص بك لشراء Piglet. استخدم Crypto Exchange المفضل لديك لتحويل BNB إلى عنوان MetaMask العام الخاص بك.",
+                "bscFindAddress": "كيف تجد عنوان المحفظة العام الخاص بك؟",
+                "bscFindAddressStep1": "1.  اضغط على حبة العنوان في محفظتك.",
+                "bscFindAddressStep2": "2. يتم نسخ العنوان إلى الحافظة الخاصة بك.",
+                "openMetamaskCaption": "استخدم الزر أدناه لفتح <strong> صفحة بيع <dApp </strong> مباشرة في متصفح MetaMask:",
+                "openMetamaskButton": "افتح MetaMask"
+            },
+            "desktop": {
+                "button": "غير متأكد؟ تعرف على كيفية الشراء على سطح المكتب ↓",
+                "youNeed": "أنت بحاجة إلى",
+                "metamask": "MetaMask ",
+                "extension": "ملحق المتصفح لمتصفح Chrome أو Firefox.",
+                "chrome": "Google Chrome ",
+                "firefox": "Mozilla Firefox ",
+                "bscTitle": "تحتاج إلى تكوين MetaMask لاستخدام الشبكة الرئيسية للسلسلة الذكية Binance.",
+                "bscGuide": "اتبع هذا الدليل",
+                "bscVideo": "شاهد هذا الفيديو",
+                "bscBalance": "أنت بحاجة إلى رصيد BNB كافٍ في حساب MetaMask الخاص بك لشراء Piglet. استخدم Crypto Exchange المفضل لديك لتحويل BNB إلى عنوان MetaMask العام الخاص بك.",
+                "bscFindAddress": "كيف تجد عنوان المحفظة العام الخاص بك؟",
+                "bscFindAddressStep1": "1. في ملحق MetaMask بالمستعرض الخاص بك ، انقر فوق اسم حسابك.",
+                "bscFindAddressStep2": "2. يتم نسخ العنوان إلى الحافظة الخاصة بك.",
+                "connectWalletCaption1": "عندما يكون لديك أموال كافية في محفظتك ، فأنت بحاجة إلى ربطها بموقعنا على الويب ، والنقر فوق \"Connect Wallet\" في التنقل في موقع الويب.",
+                "connectWalletCaption2": "عندما تكون متصلاً يمكنك <strong> استخدام النموذج أدناه </ strong> لإجراء عملية شراء.",
+                "watchVideoCaption1": "شاهد هذا الفيديو",
+                "watchVideoCaption2": "للحصول على إرشادات خطوة بخطوة:"
+            }
+        }
+    },
+    "piglet": {
+        "boost": "{{boost}}٪ دفعة",
+        "level": "المستوى {{level}}",
+        "dailyMint": "{{dailyMint}} PiFi اليومي",
+        "pifi": "PiFi: ",
+        "walletDescription": "هذه هي محفظة Piglet الخاصة بك. إنه غير أمني وفقط Piglet ، على التوالي يمكن لمالكه التفاعل معه - إيداع الرموز المميزة أو كسرها وسحب كل ما يحتويه",
+        "walletTitle": "محفظة نقود",
+        "depositButton": "الإيداع ({{invested}} / {{total}})",
+        "totalValue": "المجموع",
+        "pifiToNextLevel": "{{pifi}} PiFi إلى المستوى {{nextLevel}}",
+        "reachedLevelCaption": "لقد وصلت إلى <b> المستوى {{المستوى}} </b>",
+        "gotoLevelButton": "انتقل إلى المستوى {{level}}",
+        "goToCollection": "مجموعة",
+        "traitsTitle": "سمات الخنزير الصغير",
+        "quickInfoTitle": "معلومات سريعة",
+        "destroyButton": "هدم",
+        "materializeButton": "تجسد",
+        "dematerializeButton": "رقمنة",
+        "transferButton": "تحويل",
+        "investments": {
+            "symbol": "رمز",
+            "amount": "مقدار",
+            "usd": "دولار أمريكي",
+            "nothing": "ليس لديك أي استثمارات حتى الآن"
+        },
+        "pifiLPDeclaration": "سيتم تقدير قيمة PiFi بعد إنشاء LP في PancakeSwap. سيحدث هذا مرة واحدة فقط أثناء البيع.",
+        "destroy": {
+            "title": "كسر خنزير صغير الخاص بك",
+            "description": "سيؤدي كسر Piglet إلى سحب جميع الرموز المميزة بداخله بقيمة إجمالية قدرها $ {BalanceInUSD}} USD إلى عنوانك {{recipient}}. ومع ذلك سيتم تدمير الخنزير الصغير الخاص بك ويضيع إلى الأبد. لذا فكر مرتين ، انظر إلى عينيه وقرر.",
+            "lesserLevel": "يجب أن تكون في المستوى 2 على الأقل حتى يُسمح لك بكسر الخنزير الصغير!",
+            "button": "استراحة",
+            "confirmation": "هل أنت متأكد أنك تريد كسر الخنزير الصغير الخاص بك؟",
+            "confirm": "نعم ، صرف النقود",
+            "decline": "لا ، لا أستطيع"
+        },
+        "deposit": {
+            "balance": "{{balance}} {{symbol}} (${{usd}})",
+            "tokenNotFound": "لم يتم العثور على الرمز",
+            "title": "إيداع العملات المشفرة",
+            "selectToken": "الرجاء تحديد رمز مميز",
+            "defaultToken": "فطيرة تبديل الرموز ...",
+            "inputAddress": "أو اكتب عنوان الرمز أدناه",
+            "inputAmount": "اختر المبلغ المراد إيداعه",
+            "maxButton": "الأعلى",
+            "availableBalance": "متاح:",
+            "depositButton": "إيداع الآن",
+            "unregisteredDeposit": "لديك {{balance}} {{symbol}} $ ({{balanceUSD}}) غير مسجل",
+            "reisteredDeposit": "سجل الان"
+        },
+        "boosters": {
+            "requiresLevel": "يتطلب المستوى {{level}}",
+            "activateButton": "تفعيل الداعم",
+            "activated": "مفعل",
+            "title": "التعزيز",
+            "tokenSelect": {
+                "title": "حدد {{count}} Pigletz"
+            },
+            "names": {
+                "Invest $100": "القيمة 100 دولار",
+                "Invest $500": "القيمة 500 دولار",
+                "Invest $2000": "القيمة 2000 دولار",
+                "Collect 3": "اجمع 3",
+                "Collect 7": "اجمع 7",
+                "Invest 3 tokens": "استثمر 3 Tokens",
+                "Invest 7 tokens": "استثمر 7 Tokens",
+                "3 Similar": "3 مماثل",
+                "12 Different": "12 مختلفة",
+                "Staked": "راهن",
+                "Special": "خاص"
+            },
+            "descriptions": {
+                "Invest tokens with value of at least $100 USD": "احصل على تقييم خنزير صغير أعلى من 100 دولار أمريكي",
+                "Invest tokens with value of at least $500 USD": "احصل على تقييم خنزير صغير أعلى من 500 دولار أمريكي",
+                "Invest tokens with value of at least $2000 USD": "احصل على تقييم خنزير صغير أعلى من 2000 دولار أمريكي",
+                "Collect 3 piglets": "اجمع 3 Pigletz",
+                "Collect 7 piglets": "اجمع 7 Pigletz",
+                "Invest 3 different tokens": "استثمر 3 رموز مختلفة غير صفرية ، باستثناء PiFi",
+                "Invest 7 different tokens": "استثمر 7 رموز مختلفة غير صفرية ، باستثناء PiFi",
+                "Collect 3 with the same zodiac sign": "اجمع 3 خنازير بنفس علامة البروج",
+                "Collect 12 piglets with different zodiac signs": "اجمع 12 خنزيرًا بعلامات زودياك مختلفة",
+                "Stake it in the Staking Contract": "رهانه في عقد الرهان",
+                "It is born like this": "ولد هكذا"
+            },
+            "tips": {
+                "Invest tokens with value of at least $100 USD": "يمكنك القيام بذلك عن طريق الاستثمار في الرموز",
+                "Invest tokens with value of at least $500 USD": "يمكنك القيام بذلك عن طريق الاستثمار في الرموز",
+                "Invest tokens with value of at least $2000 USD": "يمكنك القيام بذلك عن طريق الاستثمار في الرموز",
+                "Collect 3 piglets": "فقط نعناع 3",
+                "Collect 7 piglets": "فقط نعناع 7",
+                "Invest 3 different tokens": "يجب إدراج الرموز في مقايضة الفطيرة",
+                "Invest 7 different tokens": "يجب إدراج الرموز في مقايضة الفطيرة",
+                "Collect 3 with the same zodiac sign": "سوف يؤثر الداعم على كل 3",
+                "Collect 12 piglets with different zodiac signs": "سوف يؤثر الداعم على كل 12",
+                "Stake it in the Staking Contract": "قريبا",
+                "It is born like this": "ولد هكذا"
+            }
+        }
+    },
+    "home": {
+        "subtitle": "أول NFT يتحقق!",
+        "howitworks": "انظر كيف يعمل",
+        "videoModalTitle": "كيف تعمل",
+        "nft": {
+            "title": "إنها NFT",
+            "features": [
+                "12،345 إصدارًا محدودًا فريدًا من Pigletz مع خصائص عشوائية يمكن إثباتها وندرة مختلفة",
+                "100٪ نماذج ثلاثية الأبعاد مصنوعة يدويًا",
+                "ما مجموعه أكثر من 2 مليار مجموعة ممكنة",
+                "يتم سكها بشكل عشوائي عند الشراء",
+                "يتم الكشف عن الخصائص مع نمو Piglet الخاص بك",
+                "5 من المشاهير الإضافيين يذهبون إلى مؤسسة خيرية"
+            ]
+        },
+        "token": {
+            "title": "الرموز",
+            "learnMore": "تعلم أكثر",
+            "caption1": "يبدأ كل خنزير صغير في استخراج رموز PiFi منذ يوم شرائه.",
+            "caption2": "يمكنك إيداع الرموز في خنزير صغيرك بالطريقة التي تودع بها العملات في بنك أصبع.",
+            "caption3": "اكسر خنزير صغير للوصول إلى جميع الرموز المودعة بالإضافة إلى رموز PiFi الملغومة."
+        },
+        "game": {
+            "title": "التلعيب",
+            "learnMore": "تعلم أكثر",
+            "caption1": "يصل المستوى للكشف عن سمات Piglet وتحسين معدل التعدين الأساسي.",
+            "caption2": "اجمع المعززات واستخدمها لزيادة سرعة إنتاج الرمز المميز بشكل أكبر.",
+            "caption3": "مراقبة وإدارة Pigletz الخاص بك من خلال Dapp المريح."
+        },
+        "boosters": {
+            "title": "التعزيز",
+            "description": "تعمل التعزيزات على زيادة سرعة تعدين رمز PiFi في خنزير صغيرك. هناك 9 منهم في المجموع."
+        },
+        "defi": {
+            "title": "DeFi ",
+            "learnMore": "تعلم أكثر",
+            "description": "يمكنك قفل الخنزير الصغير الخاص بك لفترة محددة من أجل تسريع عملية التعدين.",
+            "steaking": {
+                "title": "ماسك الخنزير الصغير",
+                "description": "قفل الخنزير الصغير الخاص بك للتعدين بشكل أسرع"
+            },
+            "lending": {
+                "title": "الإقراض",
+                "description": "احصل على حد ائتمان PiFi عن طريق رهن خنزير صغيرك."
+            }
+        },
+        "3dprint": {
+            "title": "التجسيد",
+            "learnMore": "تعلم أكثر",
+            "description1": "يمكنك استخدام رموز PiFi لشراء نسخة ثلاثية الأبعاد من NFT ، والتي تمثلها في العالم الحقيقي. عندما تطلب حصالة مطبوعة ثلاثية الأبعاد ، يتم قفل NFT في عقد ذكي. يحتوي الكائن المادي على رمز فتح بالداخل ، ولكن عليك كسر Piglet للحصول على الشفرة. هذا يضمن وظائف العنصر في واقع واحد فقط في وقت معين ، مع الاحتفاظ دائمًا بخصائص NFT.",
+            "description2": "علاوة على ذلك ، تعتبر الحالة المادية للخنزير الصغير المستوى 4 الأخير ، الذي يحتوي على أعلى معدل تعدين أساسي."
+        },
+        "roadmap": {
+            "title": "خريطة الطريق",
+            "stages": [
+                {
+                    "description": "<b> ولدت الفكرة </ b> في بداية عام 2021",
+                    "progress": 100,
+                    "status": "✓ مكتمل"
+                },
+                {
+                    "description": "<b> تم تشكيل الفريق </ b> وبدأ العمل (الربع الثاني 2021)",
+                    "progress": 100,
+                    "status": "✓ مكتمل"
+                },
+                {
+                    "description": "<b> وضع المفاهيم والنمذجة </ b> سمات سمات Pigletz (الربع الثالث 2021)",
+                    "progress": 100,
+                    "status": "✓ مكتمل"
+                },
+                {
+                    "description": "تطوير <b> العقود الذكية والتطبيقات Dapps </ b> (الربع الرابع 2021)",
+                    "progress": 100,
+                    "status": "✓ مكتمل"
+                },
+                {
+                    "description": "<b> الإطلاق في السلسلة </ b> <br /> (كانون الأول (ديسمبر) 2021)",
+                    "progress": 100,
+                    "status": "✓ مكتمل"
+                },
+                {
+                    "description": "<b> أول بيع مسبق </ b> <br /> (18 كانون الأول (ديسمبر) 2021)",
+                    "progress": 100,
+                    "status": "✓ مكتمل"
+                },
+                {
+                    "description": "إطلاق قائمة على Binance NFT <br /> (يناير 2022)",
+                    "progress": 100,
+                    "status": "✓ مكتمل"
+                },
+                {
+                    "description": "<b> أنشئ تجمع سيولة PiFi على PancakeSwap </b> <br /> (بعد البيع)",
+                    "progress": 0,
+                    "status": "القادمة"
+                },
+                {
+                    "description": "<b> تسليم أول مطبوعات ثلاثية الأبعاد </ b> <br /> (الربع الأول من عام 2022)",
+                    "progress": 0,
+                    "status": "عمل..."
+                },
+                {
+                    "description": "تم إصدار <b> DeFi Staking </b> <br /> (الربع الثاني من عام 2022)",
+                    "progress": 0,
+                    "status": "عمل..."
+                },
+                {
+                    "description": "تم إصدار <b> لعبة الجوال </ b> <br /> (الربع الثالث 2022)",
+                    "progress": 0,
+                    "status": "عمل..."
+                },
+                {
+                    "description": "  <b>DAO</b><br /> (Q4 2022)",
+                    "progress": 0,
+                    "status": "عمل..."
+                }
+            ]
+        },
+        "joinUs": {
+            "announcement": "Pigletz متوفر الآن على Binance Smart Chain",
+            "description": "تابعنا للحصول على مزيد من المعلومات ، وتواريخ ما قبل البيع والبيع والخصومات",
+            "twitter": "تابعنا على تويتر",
+            "discord": "انضم إلى خادم Discord الخاص بنا",
+            "telegram": "انضم إلى قناة Telegram الخاصة بنا"
+        },
+        "marketplaces": {
+            "title": "متاح أيضًا على:"
+        }
     }
-  }
 }
