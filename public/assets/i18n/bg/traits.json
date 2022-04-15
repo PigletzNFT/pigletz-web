@@ -1,11 +1,11 @@
 {
   "trait": {
-    "description": "Това е {{level}} ниво {{body}} прасенце от {{gender}} пол - едно от of 12 345 уникални Pigletz. То ще ти копае по {{dailyMint}} PiFi токени на ден. Счупи го за да вземем токените в него! Или пък си го поръчай като уникална 3D фигурка. Ти решаваш.",
+    "description": "Това е {{level}} ниво {{body}} прасенце от {{gender}} пол - едно от 12 345 уникални прасенца. То ще ти копае по {{dailyMint}} PiFi токени на ден. Счупи го за да вземеш токените в него или пък си го поръчай като уникална 3D фигурка ! Ти решаваш !",
     "category": {
       "Level": "Ниво",
-      "Base PiFi/Day": "Базово PiFi/Ден",
+      "Base PiFi/Day": "PiFi/Ден",
       "Gender": "Пол",
-      "Zodiac": "Знак",
+      "Zodiac": "Зодиак",
       "Body": "Тяло",
       "Mouth": "Уста",
       "Eyes": "Очи",
@@ -18,9 +18,9 @@
     },
     "value": {
       "Level": {
-        "1": "1во",
-        "2": "2ро",
-        "3": "3то",
+        "1": "Първо",
+        "2": "Второ",
+        "3": "Трето",
         "4": "Материализирано"
       },
       "Base PiFi/Day": {
@@ -30,8 +30,8 @@
         "500": "500"
       },
       "Gender": {
-        "GenderMale": "Мъж",
-        "GenderFemale": "Жена",
+        "GenderMale": "Мъжки",
+        "GenderFemale": "Женски",
         "GenderOther": "Друг"
       },
       "Zodiac": {
@@ -64,17 +64,17 @@
       },
       "Mouth": {
         "MouthMaleBubblegum": "Дъвка",
-        "MouthSmoking": "Пушещ",
-        "MouthAngry": "Ядосан",
-        "MouthMaleSmiling": "Усмихнат",
+        "MouthSmoking": "Пушещо",
+        "MouthAngry": "Ядосано",
+        "MouthMaleSmiling": "Усмихнато",
         "MouthMaleTongue": "Език",
-        "MouthDrooling": "Слюнка",
+        "MouthDrooling": "Лигавещо",
         "MouthMaleVampire": "Вампир",
         "MouthGoldTooth": "Златна уста",
-        "MouthStandard": "Стандартен",
-        "MouthHalfOpen": "Полуотворен",
-        "MouthFemaleSmiling": "Усмихнат",
-        "MouthSad": "Тъжен",
+        "MouthStandard": "Стандартна",
+        "MouthHalfOpen": "Полуотворена",
+        "MouthFemaleSmiling": "Усмихнато",
+        "MouthSad": "Тъжно",
         "MouthFemaleBubblegum": "Дъвка",
         "MouthKiss": "Целувка",
         "MouthFemaleTongue": "Език",
@@ -87,26 +87,26 @@
         "EyesTired": "Изморени",
         "EyesBitcoin": "Биткойн",
         "EyesInlove": "Влюбени",
-        "EyesScared": "Изплашен",
-        "EyesMaleAngry": "Ядосан",
-        "EyesCrying": "Плачещ",
-        "EyesSeductive": "Съблазнителен",
+        "EyesScared": "Изплашено",
+        "EyesMaleAngry": "Ядосано",
+        "EyesCrying": "Плачещо",
+        "EyesSeductive": "Съблазнително",
         "EyesFemaleGreen": "Зелени",
         "EyesFemaleBlue": "Сини",
         "EyesFemaleBrown": "Кафеви",
         "EyesFemaleBitcoin": "Биткойн",
         "EyesBlinking": "Мигащи",
-        "EyesFemaleAngry": "Ядосан"
+        "EyesFemaleAngry": "Ядосано"
       },
       "Hairstyle": {
-        "HairstyleBald": "Плешив",
+        "HairstyleBald": "Плешиво",
         "HairstyleManbunBlack": "Черен мъжки кок",
         "HairstyleRasta": "Раста",
-        "HairstyleEmoBlonde": "Рус Емо",
-        "HairstyleEmoBrown": "Кафяв Емо",
-        "HairstyleEmoBlack": "Чернен Емо",
+        "HairstyleEmoBlonde": "Русо Емо",
+        "HairstyleEmoBrown": "Кафяво Емо",
+        "HairstyleEmoBlack": "Черно Емо",
         "HairstyleSpikedBrown": "Кафеви шипове",
-        "HairstyleEyesMaleAngry": "Ядосан",
+        "HairstyleEyesMaleAngry": "Ядосано",
         "HairstyleSpikedBlonde": "Руси шипове",
         "HairstyleChild": "Дете",
         "HairstylePunk": "Пънк",
@@ -127,14 +127,14 @@
       },
       "Beardstyle": {
         "BeardstyleNone": "Нищо",
-        "BeardstyleFull": "Пълен",
-        "BeardstyleThin": "Тънка",
+        "BeardstyleFull": "Цяла",
+        "BeardstyleThin": "Къса",
         "BeardstyleStandard": "Стандартна",
         "BeardstyleMario": "Марио",
         "BeardstyleDali": "Дали"
       },
       "Earrings": {
-        "EarringsNone": "Никакъв",
+        "EarringsNone": "Никакви",
         "EarringsMaleRingsSilver": "Сребърни пръстени",
         "EarringsMaleRingsGold": "Златни пръстени",
         "EarringsManiac": "Маниак",
@@ -154,10 +154,10 @@
         "NoseBooger": "Сопол"
       },
       "Glasses": {
-        "GlassesNone": "Никакъв",
+        "GlassesNone": "Никакви",
         "GlassesJohn": "Джон",
         "GlassesHalf": "Половина",
-        "GlassesEyepatch": "Превръзка",
+        "GlassesEyepatch": "Пират",
         "GlassesOptical": "Оптичен",
         "GlassesMask": "Маска",
         "GlassesRetro": "Ретро",
@@ -167,13 +167,13 @@
         "GlassesGolden": "Златен"
       },
       "Tattoo": {
-        "TattooNone": "Никакъв",
+        "TattooNone": "Никаква",
         "TattooTyson": "Тайсън",
         "TattooRapper": "Рапър",
         "TattooMaleFace": "Лице",
         "TattooFemaleFace": "Лице",
         "TattooPiercing": "Пиерсинг",
-        "TattooFull": "Пълен"
+        "TattooFull": "Цяла"
       }
     }
   }
