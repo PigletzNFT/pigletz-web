@@ -196,9 +196,11 @@
     "promoCodePlaceholder": "Сложете кода тук...",
     "quantityCaption": "Количество:",
     "buyNowButton": "Минтни сега",
+    "discountedPrice": "{{price}} BNB",
     "totalCaption": "Сумарно:",
     "tiersTitle": "Нива",
     "tierIndex": "Ниво {{index}}",
+    "tierPrice": "{{price}} BNB",
     "itemsInColletionLeft": "Остават {{amountLeft}}",
     "howto": {
       "mobile": {
