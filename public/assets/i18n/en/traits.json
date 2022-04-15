@@ -123,7 +123,8 @@
                 "HairstyleBunsBrown": "Brown Buns",
                 "HairstyleBanks": "Banks",
                 "HairstylePonytails": "Ponytails",
-                "HairstylePonytail": "Ponytail"
+                "HairstylePonytail": "Ponytail",
+                "HairstyleHeadband": "Headband"
             },
             "Beardstyle": {
                 "BeardstyleNone": "None",
