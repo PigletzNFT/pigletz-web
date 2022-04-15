@@ -390,6 +390,9 @@
             "description1": "You can use PiFi tokens to purchase a 3D print of your NFT, which represents it in the real world. When you order your 3D-printed piggy bank, the NFT is locked in a Smart Contract. The physical object has an unlock code inside, but you have to break the Piglet to get a hold of the cipher. This ensures the item functions in only one reality at a given point in time, always retaining its NFT characteristics.",
             "description2": "Furthermore, the material state of the Piglet is considered the last Level 4, that has the highest base mining rate."
         },
+        "ourPigletz": {
+            "title": "Gallery"
+        },
         "roadmap": {
             "title": "Roadmap",
             "stages": [
