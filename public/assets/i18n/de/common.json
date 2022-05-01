@@ -214,6 +214,7 @@
                 "walletApp": "Wallet App",
                 "android": "Android",
                 "ios": "iOS",
+                "or": " oder ",
                 "bscTitle": "Du sollst MetaMask konfigurieren, um das Binance Smart Chain Mainnet zu nutzen.",
                 "bscGuide": "Dieser Anleitung folgen",
                 "bscBalance": "Du brauchst ausreichendes BNB-Guthaben auf Deinem MetaMask-Konto, um ein Piglet zu kaufen. Nutze Deine bevorzugte Krypto-Börse, um BNB an Deine MetaMask Public Adresse zu überweisen.",
@@ -430,17 +431,17 @@
                 {
                     "description": "Auflistung im Binance-NFT<br />(December 2021 - Januar 2022)",
                     "progress": 0,
-                    "status": "Anstehend"
-                },
-                {
-                    "description": "<b>PiFi-Liquidity Pool auf PancakeSwap erstellen</b><br />(After the sale)",
-                    "progress": 0,
-                    "status": "Anstehend"
+                    "status": "✓ Erledigt"
                 },
                 {
                     "description": "<b>Erste 3D-Drucke</b> sind geliefert<br />(Q1 2022)",
+                    "progress": 100,
+                    "status": "✓ Erledigt"
+                },
+                {
+                    "description": "<b>PiFi-Liquidity Pool auf PancakeSwap erstellen</b><br />(Mai 2022)",
                     "progress": 0,
-                    "status": "In Vorbereitung..."
+                    "status": "Anstehend"
                 },
                 {
                     "description": "<b>DeFi-Staking</b> wird veröffentlicht <br /> (Q2 2022)",

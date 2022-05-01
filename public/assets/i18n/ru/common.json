@@ -429,14 +429,14 @@
                     "status": "✓ Выполнено"
                 },
                 {
-                    "description": "<b>Создай пул ликвидности PiFi на PancakeSwap</b><br />(После продажи)",
-                    "progress": 0,
-                    "status": "В разработке"
+                    "description": "<b>Доставка первых 3D-моделей</b><br />(1 квартал 2022 г.)",
+                    "progress": 100,
+                    "status": "✓ Выполнено"
                 },
                 {
-                    "description": "<b>Доставка первых 3D-моделей</b><br />(1 квартал 2022 г.)",
+                    "description": "<b>Создай пул ликвидности PiFi на PancakeSwap</b><br />(Май, 2022)",
                     "progress": 0,
-                    "status": "В процессе..."
+                    "status": "В разработке"
                 },
                 {
                     "description": "Выпуск <b>DeFi Staking</b> <br /> (второй квартал 2022 г.)",

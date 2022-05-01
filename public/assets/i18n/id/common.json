@@ -360,49 +360,57 @@
             "stages": [
                 {
                     "description": "<b>Terlahirnya ide</b> di awal tahun 2021",
+                    "progress": 100,
                     "status": "✓ Selesai"
                 },
                 {
                     "description": "<b>Tim dibentuk</b> dan mulai bekerja (Q2 2021)",
+                    "progress": 100,
                     "status": "✓ Selesai"
                 },
                 {
                     "description": "<b>Mengkonseptualisasikan dan memodelkan</b> sifat dan karakteristik Pigletz (Q3 2021)",
+                    "progress": 100,
                     "status": "✓ Selesai"
                 },
                 {
                     "description": "Pengembangan <b>Smart Contracts dan Dapps</b> (Q4 2021)",
+                    "progress": 100,
                     "status": "✓ Selesai"
                 },
                 {
                     "description": "<b>Peluncuran secara berantai</b><br />(Desember 2021)",
+                    "progress": 100,
                     "status": "✓ Selesai"
                 },
                 {
                     "description": "<b>Pre-sale pertama</b><br />(18 Desember 2021)",
+                    "progress": 100,
                     "status": "✓ Selesai"
                 },
                 {
                     "description": "Meluncurkan daftar di Binance NFT<br />(Januari 2022)",
+                    "progress": 100,
+                    "status": "✓ Selesai"
+                },
+                {
+                    "description": "<b>Cetakan 3D Pertama</b> dikirimkan<br />(Q1 2022)",
+                    "progress": 100,
                     "status": "✓ Selesai"
                 },
                 {
                     "description": "<b>Membuat kumpulan likuiditas PiFi di PancakeSwap</b><br />(Setelah penjualan)",
-                    "status": "Akan datang"
-                },
-                {
-                    "description": "<b>Cetakan 3D Pertama</b> dikirimkan<br />(Q1 2022)",
+                    "progress": 0,
                     "status": "Bekerja..."
                 },
                 {
                     "description": "<b>DeFi Staking</b> dirilis <br /> (Q2 2022)",
+                    "progress": 0,
                     "status": "Bekerja..."
                 },
                 {
                     "description": " <b>Game Seluler</b> dirilis <br /> (Q3 2022)",
-                    "status": "Bekerja..."
-                },
-                {
+                    "progress": 0,
                     "status": "Bekerja..."
                 }
             ]
