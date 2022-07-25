@@ -429,7 +429,7 @@
                 },
                 {
                     "description": "Lanzamiento en Binance NFT<br />(diciembre de 2021 - enero de 2022)",
-                    "progress": 0,
+                    "progress": 100,
                     "status": "✓ Realizado"
                 },
                 {
@@ -439,8 +439,8 @@
                 },
                 {
                     "description": "<b>Agrega liquidez PiFi en PancakeSwap</b><br />(Después de la venta)",
-                    "progress": 0,
-                    "status": "Próximamente"
+                    "progress": 100,
+                    "status": "✓ Realizado"
                 },
                 {
                     "description": "<b>DeFi Staking</b> es realizado <br /> (segundo trimestre de 2022)",

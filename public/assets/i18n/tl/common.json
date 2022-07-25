@@ -430,13 +430,13 @@
                 },
                 {
                     "description": "Ang <b>Mga Unang 3D Print</b> ay inihatid<br />(Q1 2022)",
-                    "progress": 0,
+                    "progress": 100,
                     "status": "✓ Nakumpleto"
                 },
                 {
                     "description": "<b>Gumawa ng PiFi Liquidity Pool sa PancakeSwap</b><br />(Pagkatapos ng sale)",
-                    "progress": 0,
-                    "status": "Paparating"
+                    "progress": 100,
+                    "status": "✓ Nakumpleto"
                 },
                 {
                     "description": "Ang <b>DeFi Staking</b> ay inilabas <br /> (Q2 2022)",

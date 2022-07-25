@@ -434,13 +434,13 @@
                 },
                 {
                     "description": "<b>Ilk 3D baskıların</b> teslimi <br />(1.Ç 2022)",
-                    "progress": 0,
+                    "progress": 100,
                     "status": "✓ Tamamlandı"
                 },
                 {
                     "description": "<b>PancakeSwap'ta bir PiFi Likidite Havuzu Oluşturma</b><br />(Satıştan sonra)",
-                    "progress": 0,
-                    "status": "Çok yakında"
+                    "progress": 100,
+                    "status": "✓ Tamamlandı"
                 },
                 {
                     "description": "<b>DeFi kilitlemenin</b> açılması <br /> (2.Ç 2022)",

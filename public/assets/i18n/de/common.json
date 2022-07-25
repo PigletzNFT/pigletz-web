@@ -440,8 +440,8 @@
                 },
                 {
                     "description": "<b>PiFi-Liquidity Pool auf PancakeSwap erstellen</b><br />(Mai 2022)",
-                    "progress": 0,
-                    "status": "Anstehend"
+                    "progress": 100,
+                    "status": "✓ Erledigt"
                 },
                 {
                     "description": "<b>DeFi-Staking</b> wird veröffentlicht <br /> (Q2 2022)",

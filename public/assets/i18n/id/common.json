@@ -400,8 +400,8 @@
                 },
                 {
                     "description": "<b>Membuat kumpulan likuiditas PiFi di PancakeSwap</b><br />(Setelah penjualan)",
-                    "progress": 0,
-                    "status": "Bekerja..."
+                    "progress": 100,
+                    "status": "✓ Selesai"
                 },
                 {
                     "description": "<b>DeFi Staking</b> dirilis <br /> (Q2 2022)",

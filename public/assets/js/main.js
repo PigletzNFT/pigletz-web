@@ -12,26 +12,7 @@ jQuery.event.special.touchmove = {
     },
 };
 
-jQuery(document).ready(function ($) {
-    // Mobile navigation
-    $(".nav-burger").on("click", function () {
-        $("body").toggleClass("nav-opened");
-        $(this).toggleClass("active");
-        $(".main-nav ul li.inactive a").removeClass("clicked");
-    });
-
-    if ($(window).width() < 992) {
-        $(".main-nav ul li.inactive a").on("click", function () {
-            $(this).addClass("clicked");
-            $(this).parent().siblings().find("a").removeClass("clicked");
-        });
-
-        $(".main-nav ul li a").on("click", function () {
-            $("body").removeClass("nav-opened");
-            $(".nav-burger").removeClass("active");
-        });
-    }
-
+jQuery(function ($) {
     // Main Navigation Active link
     var path = window.location.href;
     $(".main-nav ul li a").each(function () {
@@ -39,6 +20,17 @@ jQuery(document).ready(function ($) {
         if (this.href === path || path.indexOf(link) > -1) {
             $(this).parent().addClass("active");
         }
+    });
+
+    $("nav.spin-nav a").click(function(){
+        var $href = $(this).attr('href');
+        var $anchor = $('#'+$href).offset();
+        window.scrollTo({
+          top: $anchor.top,
+          left: $anchor.left,
+          behavior: 'smooth'
+        });
+        return false;
     });
 
     if (path.indexOf("product") > -1) {

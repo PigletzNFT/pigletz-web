@@ -435,8 +435,8 @@
                 },
                 {
                     "description": "<b> أنشئ تجمع سيولة PiFi على PancakeSwap </b> <br /> (بعد البيع)",
-                    "progress": 0,
-                    "status": "القادمة"
+                    "progress": 100,
+                    "status": "✓ مكتمل"
                 },
                 {
                     "description": "تم إصدار <b> DeFi Staking </b> <br /> (الربع الثاني من عام 2022)",

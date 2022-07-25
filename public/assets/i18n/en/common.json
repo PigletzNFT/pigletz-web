@@ -163,6 +163,11 @@
             "success": "Congratz!",
             "error": "Sorry, something went wrong"
         },
+        "updateTokenBalance": {
+            "pending": "Fetching data",
+            "success": null,
+            "error": "Sorry, something went wrong"
+        },
         "depositToken": {
             "pending": "Depositing {{amount}} {{symbol}}",
             "success": "Congratz!",
@@ -250,6 +255,7 @@
         "walletTitle": "Wallet",
         "depositButton": "Deposit ({{invested}}/{{total}})",
         "totalValue": "Total value:",
+        "usdValueTip": "Market value is ${{market}}<br />Absolute value is ${{absolute}}",
         "pifiToNextLevel": "{{pifi}} PiFi to Level {{nextLevel}}",
         "reachedLevelCaption": "I reached <b>Level {{level}}</b>",
         "gotoLevelButton": "Go to Level {{level}}",
@@ -266,7 +272,7 @@
             "usd": "USD",
             "nothing": "You don't have any investments yet"
         },
-        "pifiLPDeclaration": "PiFi value will be estimated after the LP is created at PancakeSwap. This will happen only ONE TIME during the sale.",
+        "pifiLPDeclaration": "* Market value is the USD price returned by PancakeSwap. Absolute value is the unit USD price (USD for 1 token) multiplied by the token amount.",
         "destroy": {
             "title": "Break Your Piglet",
             "description": "Breaking your Piglet will withdraw all the tokens inside of it with a total value of ${{balanceInUSD}} USD to your address {{recipient}}. However your Piglet will be destroyed and lost forever. So think twice, look at its eyes and decide.",
@@ -278,7 +284,6 @@
         },
         "deposit": {
             "balance": "{{balance}} {{symbol}} (${{usd}})",
-            "tokenNotFound": "Token not found",
             "title": "Deposit Crypto",
             "selectToken": "Please select a token",
             "defaultToken": "PancakeSwap tokens ...",
@@ -337,6 +342,9 @@
                 "Stake it in the Staking Contract": "Coming soon",
                 "It is born like this": "It is born like this"
             }
+        },
+        "staking": {
+            "description": "Staking enables Pigletz to boost their PiFi minting power with 50%. It doesn't require anything but just to lock your Piglet into the staking contract for a specified amount of time. Before that time to pass you cannot use that Piglet. After the time period expires you can unstake the Piglet and use it agian. However this will deactivate the 50% booster. All other boosters are unaffected by the staking."
         }
     },
     "home": {
@@ -439,8 +447,8 @@
                 },
                 {
                     "description": "<b>Creat a PiFi Liquidity Pool on PancakeSwap</b><br />(May, 2022)",
-                    "progress": 0,
-                    "status": "Upcoming"
+                    "progress": 100,
+                    "status": "✓ Completed"
                 },
                 {
                     "description": "<b>DeFi Staking</b> is released <br /> (Q2 2022)",

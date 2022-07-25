@@ -6,7 +6,7 @@
             "name": "Galin الملقب MasterPig",
             "title": "البصيرة ",
             "description": "Galin حاصل على ماجستير في الهندسة في علوم الكمبيوتر و هو ورائد أعمال وله أكثر من 20 عامًا في مجال الأعمال. بصفته مؤسسًا للعديد من شركات تطوير الألعاب ، فقد أنتج ألعابًا ناجحة مع ملايين اللاعبين. خلال السنوات الخمس الماضية قام بتطوير شركات في مجالات blockchain و DeFi",
-            "photo": "/assets/images/masterpig.png",
+            "photo": "/assets/images/team/masterpig.png",
             "linkedin": "https://www.linkedin.com/in/galindinkov",
             "twitter": "https://twitter.com/_galinDinkov "
         },
@@ -14,27 +14,27 @@
             "name": "Vicho ",
             "title": "رئيس الويب ",
             "description": "حصل Vicho أيضًا على درجة الماجستير في علوم الكمبيوتر وقام بتطوير مواقع الويب وتطبيقات الويب بشكل احترافي منذ ما قبل الجامعة ، عندما كان في المدرسة الثانوية. ترك وظيفته في هندسة البرمجيات ليبدأ شركته الخاصة منذ 11 عامًا. لقد أنشأ المئات من مواقع الويب وصنفها جيدًا عبر قطاعات متعددة على Google.",
-            "photo": "/assets/images/vicho.png"
+            "photo": "/assets/images/team/vicho.png"
         },
         {
             "name": "Miro ",
             "title": "المسوق  ",
             "description": "بناء مشاريع الويب من البداية في صناعات iGaming و FX. الشريك في ملكية TradingPedia.com ",
-            "photo": "/assets/images/miro.png",
+            "photo": "/assets/images/team/miro.png",
             "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/ "
         },
         {
             "name": "Miró ",
             "title": "العقود ",
             "description": "عبقرية البرمجيات مع 3 عقود من الخبرة.",
-            "photo": "/assets/images/miro2.png",
+            "photo": "/assets/images/team/miro2.png",
             "linkedin": "https://www.linkedin.com /in/miroslavln"
         },
         {
             "name": "Yan الملقب Piglet_Z",
             "title": "The Community Builder ",
             "description": "كانت Yan متخصصة محترفة في التسويق عبر الإنترنت ومنسقة لوسائل التواصل الاجتماعي لما يقرب من 10 سنوات. وهي أيضًا من المعجبين بـ NFT وخياطة الملابس التي تعلمتها بالاعتماد على بنفسها بنفسها. ملفات تعريفها الشخصية معقدة للغاية ونادراً ما يمكن العثور عليها على أي وسائط اجتماعية. ومع ذلك فهي تستجيب في مختلف الامور لدينا تقريبًا على مدار الساعة طوال أيام الأسبوع.",
-            "photo": "/assets/images/yan.png",
+            "photo": "/assets/images/team/yan.png",
             "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/ ",
             "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/ "
         },
@@ -42,20 +42,20 @@
             "name": "Niko",
             "title": "ثلاثي الأبعاد ",
             "description": "Niko مصمم جرافيك وثلاثي الأبعاد يتمتع بخبرة 10 سنوات تقريبًا في هذا المجال. كان لديه اهتمام بـ NFT وعالم التشفير لبعض الوقت. عندما لا يكون على الإنترنت يمكن العثور عليه في معرض الفنون بالمدينة.",
-            "photo": "/assets/images/niko.png"
+            "photo": "/assets/images/team/niko.png"
         },
         {
             "name": " Eve",
             "title": "مفهوم الفن ",
             "description": "Eve هي فنانة منفتحة الذهن وعلمت نفسها بنفسها ، والتي كانت تجرب الفن الرقمي لفترة من الوقت. الآن تحاول إثارة فضولها من خلال الفن بجميع أشكاله.",
-            "photo": "/assets/images/eve.png",
+            "photo": "/assets/images/team/eve.png",
             "instagram": "https://www.instagram.com /evesserpent/"
         },
         {
             "name": "Veronica ",
             "title": "الواجهة ",
             "description": "مطور أمامي نشط يتمتع بخبرة في تصميم مواقع الويب وتطويرها وإدارتها. تحب السفر حول العالم وجمع الأحجار الكريمة والبلورات وصنع المجوهرات منها.",
-            "photo": "/assets/images/vicky.png",
+            "photo": "/assets/images/team/vicky.png",
             "instagram": "https://www.instagram.com/vikkinbd/ ",
             "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
         }

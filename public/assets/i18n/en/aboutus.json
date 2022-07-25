@@ -1,12 +1,18 @@
 {
     "title": "About us",
     "description": "Pigletz.com is a collaboration between two companies (Blockchain Technology Bulgaria and Aff Media) with decades of combined experience in the fields of mobile game develoment, web authoring and marketing and blockchain technology. Our team consists exclusively of professionals, some of whom have worked in the IT industry for over 20 years.",
+    "jobs": {
+        "title": "Work with us",
+        "description": "If you are experienced developer, marketing or community manager, influencer, investor or just want to get in touch with us click below",
+        "button": "Get in touch",
+        "callToAction": "mailto:j0bz@pigletz.com"
+    },
     "team": [
         {
             "name": "Galin a.k.a. MasterPig",
             "title": "The Visionary",
             "description": "Galin is a Master of Engineering in computer sciences and entrepreneur with more than 20 years in the business. As a founder of several game-dev companies he has produced successful games with millions of players. Last 5 years he develops companies in the blockchain and DeFi fields.",
-            "photo": "/assets/images/masterpig.png",
+            "photo": "/assets/images/team/masterpig.png",
             "linkedin": "https://www.linkedin.com/in/galindinkov/",
             "twitter": "https://twitter.com/_galinDinkov"
         },
@@ -14,27 +20,27 @@
             "name": "Vicho",
             "title": "The Web Master",
             "description": "Vicho also has a Master's Degree in Computer Sciences and has been developing websites and web apps professionally since before Uni, when he was in High School. He left his software engineering job to co-start his own company 11 years ago. It built hundreds of websites and ranked them very well across multiple verticals on Google.",
-            "photo": "/assets/images/vicho.png"
+            "photo": "/assets/images/team/vicho.png"
         },
         {
             "name": "Miro",
-            "title": "The Market[ing] Maker",
-            "description": "Building web projects from scratch in the iGaming and FX industries. Co-owner of TradingPedia.com",
-            "photo": "/assets/images/miro.png",
+            "title": "The Market Maker",
+            "description": "Building web projects from scratch in the iGaming and FX industries. Co-owner of TradingPedia.com. Miro is doing the ads management and SEO.",
+            "photo": "/assets/images/team/miro.png",
             "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
         },
         {
             "name": "Miró",
             "title": "The Contracts",
-            "description": "Software genius with 3 decades of experience",
-            "photo": "/assets/images/miro2.png",
+            "description": "Software genius with 3 decades of experience. He leads the smart contract development as well as cloud and backend development.",
+            "photo": "/assets/images/team/miro2.png",
             "linkedin": "https://www.linkedin.com/in/miroslavln"
         },
         {
             "name": "Yan a.k.a Piglet_Z",
             "title": "The Community Builder",
             "description": "Yan has been a professional Online Marketing specialist and a Social Media Coordinator for almost 10 years. She is also an NFT admirer and self-taught dressmaker. Her personal profiles are deeply conspired and can rarely be found on any social media. However she responds in our Discord almost 24/7.",
-            "photo": "/assets/images/yan.png",
+            "photo": "/assets/images/team/yan.png",
             "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
             "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
         },
@@ -42,22 +48,118 @@
             "name": "Niko",
             "title": "The 3D",
             "description": "Niko is a graphic and 3D designer with almost 10 years of experience in the field. He has had an interest in NFT's and the world of crypto for some time. When he is not on the internet he can be found in the city art gallery.",
-            "photo": "/assets/images/niko.png"
+            "photo": "/assets/images/team/niko.png"
         },
         {
             "name": "Eve",
             "title": "The Concept Art",
             "description": "Eve is an open-minded, self-taught artist, that has been experimenting with digital art for a while now. She is trying to ignite her curiosity through art in all of its forms.",
-            "photo": "/assets/images/eve.png",
+            "photo": "/assets/images/team/eve.png",
             "instagram": "https://www.instagram.com/evesserpent/"
         },
         {
             "name": "Veronica",
             "title": "The Frontender",
             "description": "Energetic front-end developer with experience of designing, developing, and managing websites. She loves traveling around the world and collecting gem stones and crystals and making jewelry from them.",
-            "photo": "/assets/images/vicky.png",
-            "instagram": "https://www.instagram.com/vikkinbd/",
+            "photo": "/assets/images/team/vicky.png",
             "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
+        }
+    ],
+    "moreTeam": [
+        {
+            "name": "Sha",
+            "title": "Marketing & BizDev",
+            "description": "Sha is a software development student, a crypto enthusiast, and a creative soul with innovative marketing visions. He spends his free time doing photography, music production, or research on crypto.",
+            "photo": "/assets/images/team/sha.png",
+            "instagram": "https://instagram.com/oktay.shakirov",
+            "linkedin": "https://www.linkedin.com/in/oktayshakirov"
+        },
+        {
+            "name": "Jewelrey",
+            "title": "Content Creator",
+            "description": "Jewelrey is a neophyte in regards to nfts and crypto, but helps with making content for Pigletz’s YouTube channel. Outside the metaverse, she is currently a psychology student and a baker.",
+            "photo": "/assets/images/team/jewelrey.png",
+            "instagram": "https://www.instagram.com/jewl.rey"
+        },
+        {
+            "name": "Edi",
+            "title": "Marketing",
+            "description": "Edi is the friendly face everyone in the Pigletz's community would recognise. When he's not busy building and moderating the Pigletz's community, he would be seen studying, figuring out how certain JavaScripts work.",
+            "photo": "/assets/images/team/edi.png",
+            "instagram": "https://instagram.com/eddie.mustanski"
+        },
+        {
+            "name": "Dr4g0",
+            "title": "Blockchain Dev",
+            "description": "Game and smart contract developer who likes to dive deep into the EVM. Dr4g0 develops and audits smart contracts and writes APIs and middlewares.",
+            "photo": "/assets/images/team/dr4g0.png",
+            "nolinks": true
+        },
+        {
+            "name": "Michal",
+            "title": "Game Development",
+            "description": "Game developer with long experience on different platforms. Also a geeky tinkerer and an uncurable perfectionist. Programming since early 2000s.",
+            "photo": "/assets/images/team/michal.png",
+            "linkedin": "https://www.linkedin.com/in/michal-fiala-004b1b4/"
+        },
+        {
+            "name": "Skachkov",
+            "title": "Web Design",
+            "description": "Skachkov is an artist with more than 20 years of experience in web and graphical design. He works also on his original art NFT collections.",
+            "photo": "/assets/images/team/skachkov.png",
+            "twitter": "https://twitter.com/@_sasho",
+            "instagram": "https://www.instagram.com/aoskachkov/"
+        },
+        {
+            "name": "S1m0",
+            "title": "Backend Dev",
+            "description": "S1m0 is responsible for the backend and the cloud development. His work is hidden but without it nothing can be seen.",
+            "photo": "/assets/images/team/s1m0.png",
+            "nolinks": true
+        },
+        {
+            "name": "100j40",
+            "title": "Android Dev",
+            "description": "A Master in Computer Sciences he is experienced mobile developer with 7 years experience in building and improving mobile applications for different types of businesses with million users.",
+            "photo": "/assets/images/team/100j40.png",
+            "linkedin": "https://www.linkedin.com/in/stoycho-petrov-57a03112b/"
+        },
+        {
+            "name": "Dorje",
+            "title": "iOS Dev",
+            "description": "Dorje is a mobile engineer with 10 year of experience in iOS development and more than 15 years in software development. Worked on world class apps in his career, he beleives the future belongs to blockchain, Web3 and NFTs.",
+            "photo": "/assets/images/team/dorje.png",
+            "linkedin": "https://www.linkedin.com/in/deyan-zhekov-35ba34b"
+        },
+        {
+            "name": "Jana",
+            "title": "Events and Fairs",
+            "description": "Jana organizes our presentation at various events around the globe. She's native in 5 languages and feels in all continents.",
+            "photo": "/assets/images/team/jana.png",
+            "linkedin": "https://www.linkedin.com/in/jana-alexandrova-4636576/"
+        },
+        {
+            "name": "Vladika",
+            "title": "German Market Ops",
+            "description": "Business development and marketing operations on the German market. He owns a successful marketing agency in Berlin and is a pationate football player.",
+            "photo": "/assets/images/team/vladika.png",
+            "linkedin": "https://www.linkedin.com/in/vladimirboyanov"
+        },
+        {
+            "name": "Mimi",
+            "title": "Spanish Market Ops",
+            "description": "Mimi runs our spanish market operations, translations and sales. She has over 17 years of international sales and team management experience. She loves crafts, contemporary art and oil painting.",
+            "photo": "/assets/images/team/mimisim.png",
+            "instagram": "https://www.instagram.com/fitmamasenpijamas",
+            "linkedin": "https://www.linkedin.com/in/mimi-sim%C3%B3n-348028135/"
+        },
+        {
+            "name": "Darwin",
+            "title": "Asian Market Ops",
+            "description": "Darwin is a SEO/SEA guru and represents Pigletz for the South-Asian markets.",
+            "photo": "/assets/images/team/darwin.png",
+            "instagram": "https://instagram.com/oktay.shakirov",
+            "linkedin": "https://www.linkedin.com/in/oktayshakirov"
         }
     ]
 }
