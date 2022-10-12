@@ -443,19 +443,9 @@
                     "status": "✓ Tamamlandı"
                 },
                 {
-                    "description": "<b>DeFi kilitlemenin</b> açılması <br /> (2.Ç 2022)",
-                    "progress": 0,
-                    "status": "Çalışıyoruz..."
-                },
-                {
-                    "description": " <b>Mobil Oyunun</b> yayınlanması<br /> (3.Ç 2022)",
-                    "progress": 0,
-                    "status": "Çalışıyoruz..."
-                },
-                {
-                    "description": " <b>DAO</b> (Merkezi Olmayan Otonom Organizasyon) <br /> (4Ç 2022)",
-                    "progress": 0,
-                    "status": "Çalışıyoruz..."
+                    "description": "<b>DeFi kilitlemenin</b> açılması <br /> (3.Ç 2022)",
+                    "progress": 100,
+                    "status": "✓ Tamamlandı"
                 }
             ]
         },

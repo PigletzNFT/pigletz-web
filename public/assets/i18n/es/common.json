@@ -443,19 +443,9 @@
                     "status": "✓ Realizado"
                 },
                 {
-                    "description": "<b>DeFi Staking</b> es realizado <br /> (segundo trimestre de 2022)",
-                    "progress": 0,
-                    "status": "Trabajando..."
-                },
-                {
-                    "description": "Lanzamiento del <b>juego para dispositivos móviles</b> <br /> (tercer trimestre de 2022)",
-                    "progress": 0,
-                    "status": "Trabajando..."
-                },
-                {
-                    "description": " <b>DAO</b><br /> (cuarto trimestre de 2022)",
-                    "progress": 0,
-                    "status": "Trabajando..."
+                    "description": "<b>DeFi Staking</b> es realizado <br /> (tercer trimestre de 2022)",
+                    "progress": 100,
+                    "status": "✓ Realizado"
                 }
             ]
         },

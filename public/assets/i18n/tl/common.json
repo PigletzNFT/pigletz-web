@@ -439,19 +439,9 @@
                     "status": "✓ Nakumpleto"
                 },
                 {
-                    "description": "Ang <b>DeFi Staking</b> ay inilabas <br /> (Q2 2022)",
-                    "progress": 0,
-                    "status": "Nagtatrabaho..."
-                },
-                {
-                    "description": " Ang <b>Mobile Game</b> ay inilabas <br /> (Q3 2022)",
-                    "progress": 0,
-                    "status": "Nagtatrabaho..."
-                },
-                {
-                    "description": " <b>DAO</b><br /> (Q4 2022)",
-                    "progress": 0,
-                    "status": "Nagtatrabaho..."
+                    "description": "Ang <b>DeFi Staking</b> ay inilabas <br /> (Q3 2022)",
+                    "progress": 100,
+                    "status": "✓ Nakumpleto"
                 }
             ]
         },

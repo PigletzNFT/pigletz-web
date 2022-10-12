@@ -444,19 +444,9 @@
                     "status": "✓ Erledigt"
                 },
                 {
-                    "description": "<b>DeFi-Staking</b> wird veröffentlicht <br /> (Q2 2022)",
-                    "progress": 0,
-                    "status": "In Vorbereitung..."
-                },
-                {
-                    "description": " <b>Mobiles-Game</b> wird veröffentlicht <br /> (Q3 2022)",
-                    "progress": 0,
-                    "status": "In Vorbereitung..."
-                },
-                {
-                    "description": " <b>DAO</b><br /> (Q4 2022)",
-                    "progress": 0,
-                    "status": "In Vorbereitung..."
+                    "description": "<b>DeFi-Staking</b> wird veröffentlicht <br /> (Q3 2022)",
+                    "progress": 100,
+                    "status": "✓ Erledigt"
                 }
             ]
         },

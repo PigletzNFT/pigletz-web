@@ -440,18 +440,8 @@
                 },
                 {
                     "description": "تم إصدار <b> DeFi Staking </b> <br /> (الربع الثاني من عام 2022)",
-                    "progress": 0,
-                    "status": "عمل..."
-                },
-                {
-                    "description": "تم إصدار <b> لعبة الجوال </ b> <br /> (الربع الثالث 2022)",
-                    "progress": 0,
-                    "status": "عمل..."
-                },
-                {
-                    "description": "  <b>DAO</b><br /> (Q4 2022)",
-                    "progress": 0,
-                    "status": "عمل..."
+                    "progress": 100,
+                    "status": "✓ مكتمل"
                 }
             ]
         },

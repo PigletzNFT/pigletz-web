@@ -439,19 +439,9 @@
                     "status": "✓ Выполнено"
                 },
                 {
-                    "description": "Выпуск <b>DeFi Staking</b> <br /> (второй квартал 2022 г.)",
-                    "progress": 0,
-                    "status": "В процессе..."
-                },
-                {
-                    "description": " <b>Мобильная игра</b> выпущена в <br /> (Q3 2022)",
-                    "progress": 0,
-                    "status": "В процессе..."
-                },
-                {
-                    "description": " <b>DAO</b><br /> (Q4 2022)",
-                    "progress": 0,
-                    "status": "В процессе..."
+                    "description": "Выпуск <b>DeFi Staking</b> <br /> (3 квартал 2022 г.)",
+                    "progress": 100,
+                    "status": "✓ Выполнено"
                 }
             ]
         },

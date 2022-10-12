@@ -11,6 +11,7 @@
         "gallery": "Gallery",
         "aboutus": "About us",
         "pigletz": "My Pigletz",
+        "staked": "My Staked",
         "mystery": "My Boxes",
         "connect": "Connect Wallet",
         "buypiglets": "Mint Pigletz",
@@ -29,7 +30,7 @@
         }
     },
     "banner": {
-        "presale": {
+        "countdown": {
             "text": "Presale ends in {{time}}",
             "mintNow": "Mint Now",
             "second": "{{count}} second",
@@ -48,6 +49,9 @@
         "binance": {
             "text": "Pigletz is now available on Binance NFT",
             "buy": "Buy from Binance"
+        },
+        "staking": {
+            "text": "Pigletz staking coming in {{time}}"
         }
     },
     "footer": {
@@ -77,6 +81,7 @@
     "pigletzList": {
         "title": "Pigletz Collection",
         "description": "The beautiful collection of {{address}}",
+        "noPigletzError": "This account doesn't have any pigletz",
         "my": {
             "description": "Your beautiful collection"
         },
@@ -85,9 +90,26 @@
             "description": "A valuable collection of {{count}} piglet",
             "description_other": "A valuable collection of {{count}} pigletz"
         },
+        "viewStakedButton": "View Staked",
         "boostersOfferTitle": "Do you need <b>boosters?</b>",
         "boostersOfferCaption": "Invest in your Piglet and it will produce more value for you",
-        "levelReachedCaption": "I reached <b>Level {{level}}</b>"
+        "levelReachedCaption": "I reached <b>Level {{level}}</b>",
+        "item": {
+            "pifiBalance": "{{balance}} PiFi",
+            "level": "Level {{level}}"
+        }
+    },
+    "pigletzStakedList": {
+        "title": "Staked Pigletz",
+        "description": "The staked pigletz owned by {{address}}",
+        "noPigletzError": "This account doesn't have any pigletz staked",
+        "my": {
+            "description": "Your staked pigletz"
+        },
+        "seo": {
+            "title": "Staked Pigletz",
+            "description": "List of the staked pigletz owned by this account"
+        }
     },
     "mysteryBoxList": {
         "title": "Mystery Boxes",
@@ -116,6 +138,27 @@
         },
         "howtoTitle": "You don't have any crypto wallet?",
         "howtoButton": "Learn how to connect"
+    },
+    "wof": {
+        "title": "Spin to Win",
+        "description": "With the Wheel of Fortune we give you the chance to win free Pigletz. No payment is required. Just be active in our <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">discord channels</a> and you will receive credits. Each spin will cost you {{creditsToSpin}} credits. You can spin the wheel as many times as you like. If you win the Jackpot you can claim a mystery box with a Piglet inside. Open it to reveal your brand new unique Piglet. Good luck!",
+        "discordLoginButton": "Login to Discord",
+        "logoutButton": "Logout",
+        "spinButton": "Spin to Win",
+        "welcomeText": "Welcome {{username}}",
+        "claimRewardButton": "Claim {{count}} Piglet",
+        "claimRewardButton_other": "Claim {{count}} Pigletz",
+        "availableCredits": "You have <span className=\"wheel-credits\">{{count}}</span> credit",
+        "availableCredits_other": "You have <span className=\"wheel-credits\">{{count}}</span> credits",
+        "connectWalletToClaim": "You have {{count}} Piglet to claim. In order to do that you need to connect your wallet first.",
+        "connectWalletToClaim_other": "You have {{count}} Pigletz to claim. In order to do that you need to connect your wallet first.",
+        "rewardNotification": {
+            "5_credits": "You have won 5 credits",
+            "10_credits": "You have won 10 credits",
+            "20_credits": "You have won 20 credits",
+            "100_credits": "You have won 100 credits",
+            "jackpot": "You have won a Piglet"
+        }
     },
     "actions": {
         "levelUp": {
@@ -192,6 +235,22 @@
             "pending": "Materializing Piglet #{{tokenId}}",
             "success": "Sent",
             "error": "Sorry, something went wrong"
+        },
+        "stakePiglet": {
+            "pending": "Staking Piglet #{{tokenId}} for {{period}}",
+            "success": "Staked!",
+            "error": "Sorry, something went wrong"
+        },
+        "unstakePiglet": {
+            "pending": "Unstaking Piglet #{{tokenId}}",
+            "success": "You got it!",
+            "error": "Sorry, something went wrong"
+        },
+        "claimReward": {
+            "pending": "Claiming {{count}} Piglet",
+            "pending_other": "Claiming {{count}} Pigletz",
+            "success": "You got it!",
+            "error": "Sorry, something went wrong"
         }
     },
     "buy": {
@@ -266,6 +325,12 @@
         "materializeButton": "Materialize",
         "dematerializeButton": "Digitalize",
         "transferButton": "Transfer",
+        "pigletNotFoundError": "Piglet {{tokenId}} not found",
+        "levels": {
+            "level1": "1",
+            "level2": "2",
+            "level3": "3"
+        },
         "investments": {
             "symbol": "TOKEN",
             "amount": "AMOUNT",
@@ -344,7 +409,42 @@
             }
         },
         "staking": {
-            "description": "Staking enables Pigletz to boost their PiFi minting power with 50%. It doesn't require anything but just to lock your Piglet into the staking contract for a specified amount of time. Before that time to pass you cannot use that Piglet. After the time period expires you can unstake the Piglet and use it agian. However this will deactivate the 50% booster. All other boosters are unaffected by the staking."
+            "title": "Staking",
+            "description": "Staking enables Pigletz to boost their PiFi minting power with 50%. It doesn't require anything but just to lock your Piglet into the staking contract for a specified amount of time. Before that time to pass you cannot use that Piglet. After the time period expires you can unstake the Piglet and use it agian. However this will deactivate the 50% booster. All other boosters are unaffected by the staking.",
+            "stakedOnDate": "Staked on",
+            "stakeDurationTitle": "Stake duration",
+            "stakeDuration": "{{count}} day",
+            "stakeDuration_other": "{{count}} days",
+            "stakeButton": "Stake",
+            "unstakeButton": "Unstake",
+            "stakedBadge": "Staked",
+            "expired": "Expired",
+            "alreadyStaked": "This piglet has been staked already on {{stakedOnDate}} for {{days}} days",
+            "neverStaked": "This piglet has never been staked",
+            "periods": ["3 months", "6 months", "1 year", "2 years"],
+            "timeLeft": {
+                "year": "year left",
+                "year_other": "years left",
+                "month": "month left",
+                "month_other": "months left",
+                "day": "day left",
+                "day_other": "days left"
+            },
+            "periodFormatted": {
+                "year": "{{count}} year",
+                "year_other": "{{count}} years",
+                "month": "{{count}} month",
+                "month_other": "{{count}} months",
+                "day": "{{count}} day",
+                "day_other": "{{count}} days"
+            },
+            "dialog": {
+                "title": "Stake",
+                "subtitle": "Choose a staking period",
+                "description": "Once staked the piglet cannot be used until the period expires",
+                "confirmButton": "Stake",
+                "declineButton": "Cancel"
+            }
         }
     },
     "home": {
@@ -359,7 +459,7 @@
                 "A total of over 2 billion combinations possible",
                 "Randomly minted on purchase",
                 "Characteristics get revealed as your Piglet grows",
-                "Additional 5 celebrity NTF's going to charity"
+                "Additional 5 celebrity NFTs are going to charity"
             ]
         },
         "token": {
@@ -451,19 +551,29 @@
                     "status": "✓ Completed"
                 },
                 {
-                    "description": "<b>DeFi Staking</b> is released <br /> (Q2 2022)",
-                    "progress": 0,
+                    "description": "<b>DeFi Staking</b> is released <br /> (Q3 2022)",
+                    "progress": 100,
+                    "status": "✓ Completed"
+                },
+                {
+                    "description": " <b>Mobile Wallet</b> is released <br /> (Q4 2022)",
+                    "progress": 80,
                     "status": "Working..."
                 },
                 {
-                    "description": " <b>Mobile Game</b> is released <br /> (Q3 2022)",
-                    "progress": 0,
+                    "description": " <b>Wheel of Fortune</b> rewards <br /> (Q4 2022)",
+                    "progress": 90,
                     "status": "Working..."
                 },
                 {
-                    "description": " <b>DAO</b><br /> (Q4 2022)",
-                    "progress": 0,
+                    "description": " <b>Cross-chain</b> coming soon<br />",
+                    "progress": 10,
                     "status": "Working..."
+                },
+                {
+                    "description": " <b>Metaverse Integration</b> coming soon<br />",
+                    "progress": 0,
+                    "status": "Upcoming"
                 }
             ]
         },
