@@ -1,6 +1,6 @@
 {
   "trait": {
-    "description": "Bu, {{level}}. seviye ve {{gender}} cinsiyetinde bir Pigletz, 12.345 eşsiz Pigletz'den biri. Sizin için madencilikle her gün {{dailyMint}} PiFi token'ı kazacak. Token'ları almak için onu kırabilir ya da 3 boyutlu bir kumbara olarak adresinize gönderilmesini isteyebilirsiniz. Karar sizin.",
+    "description": "Bu, {{level}}. seviye ve {{gender}} cinsiyetinde bir Piglet, 12.345 eşsiz Pigletz'den biri. Sizin için madencilikle her gün {{dailyMint}} PiFi token'ı kazacak. Token'ları almak için onu kırabilir ya da 3 boyutlu bir kumbara olarak adresinize gönderilmesini isteyebilirsiniz. Karar sizin.",
     "category": {
       "Level": "Seviye",
       "Base PiFi/Day": "Temel PiFi/Gün",
@@ -18,9 +18,9 @@
     },
     "value": {
       "Level": {
-        "1": "1. Seviye",
-        "2": "2. Seviye",
-        "3": "3. Seviye",
+        "1": "Birinci",
+        "2": "İkinci",
+        "3": "Üçüncü",
         "4": "Gerçek Halde"
       },
       "Base PiFi/Day": {
@@ -121,9 +121,10 @@
         "HairstyleBunsBlack": "Siyah Topuz",
         "HairstyleBunsBlonde": "Sarı Topuz",
         "HairstyleBunsBrown": "Kahve Topuz",
-        "HairstyleBanks": "Banks",
+        "HairstyleBanks": "Kâkül",
         "HairstylePonytails": "Ikili At Kuyruğu",
-        "HairstylePonytail": "At Kuyruğu"
+        "HairstylePonytail": "At Kuyruğu",
+        "HairstyleHeadband": "Kafa bandı"
       },
       "Beardstyle": {
         "BeardstyleNone": "Yok",
