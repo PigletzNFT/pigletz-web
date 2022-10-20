@@ -561,11 +561,13 @@
         },
         {
           "description": " <b>Ang Mobile Wallet</b> ay  narito na <br /> (Q4 2022)",
-          "progress": 80
+          "progress": 80,
+          "status": "Nagtatrabaho..."
         },
         {
           "description": " <b>Wheel of Fortune</b> rewards <br /> (Q4 2022)",
-          "progress": 90
+          "progress": 90,
+          "status": "Nagtatrabaho..."
         },
         {
           "description": " <b>Cross-chain</b> parating na<br />",
