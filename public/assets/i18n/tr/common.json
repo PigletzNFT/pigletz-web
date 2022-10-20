@@ -565,7 +565,8 @@
         },
         {
           "description": " <b>Mobile Wallet</b> serbest bırakıldı <br /> (Q4 2022)",
-          "progress": 80
+          "progress": 80,
+          "status": "Çalışıyoruz..."
         },
         {
           "description": " <b>Döndür ve Kazan Pigletz</b> ödüller <br /> (Q4 2022)",
