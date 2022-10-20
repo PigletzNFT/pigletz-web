@@ -2,6 +2,7 @@
   "seo": {
     "url": "https://pigletz.com",
     "title": "Pigletz - първото NFT, което се материализира!",
+    "description": "Pigletz е уникална NFT колекционерска игра, която включва: уникални 3D прасенца; дигитална прасенце-касичка, която съхранява твоите крипто токени; NFT-та, които могат да бъдат подобрявани; DeFi – собсвтен токен, стейкинг и заемане на токени; истинска физическа 3D Pigletz фигурка. ",
     "image": "https://pigletz.com/assets/images/social-banner.jpg"
   },
   "nav": {
@@ -10,6 +11,7 @@
     "gallery": "Галерия",
     "aboutus": "Относно нас",
     "pigletz": "Моите прасенца",
+    "staked": "Стейкнати",
     "mystery": "Моите кутии",
     "connect": "Свържи крипто-портфейл",
     "buypiglets": "Минтни Прасенце",
@@ -72,7 +74,9 @@
   },
   "mint": {
     "title": "Минтване на Pigletz",
-    "description": "Добре дошъл! Тук ти можеш да минтнеш твоето ново прасенце. То ще бъде избрано използвайки алгоритъм, който е честен и случаен. Ако искаш да получиш кодове за намаление може да се присъединиш в нашите общности в Discord, Telegram, също и Twitter, там можеш да попиташ за опциите. Забавлявай се! "
+    "description": "Добре дошъл! Тук ти можеш да минтнеш твоето ново прасенце. То ще бъде избрано използвайки алгоритъм, който е честен и случаен. Ако искаш да получиш кодове за намаление може да се присъединиш в нашите общности в Discord, Telegram, също и Twitter, там можеш да попиташ за опциите. Забавлявай се! ",
+    "tiersDescription": "Ние минтваме серии с различен брой прасенца и цени. Цената се вдига с времето и на края ще достигне 8 BNB. Въпреки това, с по-високата цена ще имаш по-голям шанс да получиш специален бустер.",
+    "checkTiers": "Виж сериите по-долу"
   },
   "pigletzList": {
     "title": "Pigletz колекция",
@@ -115,6 +119,7 @@
     },
     "seo": {
       "title": "Pigletz мистериозни кутии",
+      "description": "Ценна колекция от {{count}} кутия-изненада пълна с Pigletz",
       "description_other": "Ценна колекция от {{count}} мистериозни кутии с прасенца"
     },
     "boostersOfferTitle": "Имаш ли нужда от <b>бустери</b>",
@@ -122,16 +127,21 @@
     "levelReachedCaption": "Аз достигнах <b>Ниво {{level}}</b>"
   },
   "connect": {
+    "title": "Свържи се",
     "balance": "{{balance}} BNB",
+    "disconnect": "Изход",
     "providers": {
       "metamask": "MetaMask",
-      "trustwallet": "Trust Wallet"
+      "trustwallet": "Trust Wallet",
+      "binancewallet": "Binance Wallet",
+      "walletconnect": "Wallet Connect"
     },
     "howtoTitle": "Нямаш крипто-портфейл?",
     "howtoButton": "Научи как да се свържеш"
   },
   "wof": {
     "title": "Завърти и спечели ",
+    "description": "Със \"Завърти и спечели Pigletz\" ти даваме възможността да спечелиш безплатни Pigletz. Не се изисква плащане. Просто бъди активен в нашите <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">discord канали</a> и ще получиш кредити в замяна. Всяко завъртане ще ти струва {{creditsToSpin}} кредита. Можеш да завъртиш колелото толкова пъти, колкото пожелаеш. Ако спечелиш джакпота, можеш да поискаш мистериозна кутия с прасенце вътре. Отвори я, за да откриеш своето съвсем ново уникално прасенце. Успех!",
     "discordLoginButton": "Влез в Discord",
     "logoutButton": "Излез от профила си",
     "spinButton": "Завърти и спечели",
@@ -157,9 +167,11 @@
       "error": "Извиняваме се, нещо се обърка"
     },
     "boosterUp": {
+      "pending": "Активиране на бустер",
       "success": "Поздравления!",
       "errors": {
         "default": "Извиняваме се, нещо се обърка",
+        "some piglets dont have the same sign": "Някои прасенца не са същата  зодия",
         "wrong number of piglets": "Грешен номер на прасенца",
         "not all piglets are owned by the same owner": "Не всички прасенца са притежавани от същия човек",
         "some piglets have already been boosted": "Някои прасенца вече са били бустнати",
@@ -173,11 +185,13 @@
     },
     "checkDiscount": {
       "pending": "Проверка на кода",
-      "success": "Кодът е валиден"
+      "success": "Кодът е валиден",
+      "error": "Кодът е грешен или изтекъл"
     },
     "purchasePiglet": {
       "pending": "Минтване на {{count}} прасенце",
       "pending_other": "Минтване на {{count}} прасенца",
+      "success": "{{count}} прасенцe беше минтнато успешно",
       "success_other": "{{count}} прасенца бяха успешно минтнати",
       "error": "Извиняваме се, нещо се обърка"
     },
@@ -342,7 +356,8 @@
       "maxButton": "МАКС",
       "availableBalance": "Свободно:",
       "depositButton": "Депозирай сега",
-      "unregisteredDeposit": "Имаш {{balance}} {{symbol}} $({{balanceUSD}}), които не са регистрирани"
+      "unregisteredDeposit": "Имаш {{balance}} {{symbol}} $({{balanceUSD}}), които не са регистрирани",
+      "reisteredDeposit": "Регистрирай"
     },
     "boosters": {
       "requiresLevel": "Изисква ниво {{level}}",
@@ -374,6 +389,7 @@
         "Invest 3 different tokens": "Инвестирай 3 различни токена със стойност различна от 0, изключвайки Pifi",
         "Invest 7 different tokens": "Инвестирай 7 различни токена със стойност различна от 0, изключвайки Pifi",
         "Collect 3 with the same zodiac sign": "Събери 3 прасенца със същият зодиакален знак",
+        "Collect 12 piglets with different zodiac signs": "Събери 12 прасенца със същият зодиакален знак",
         "Stake it in the Staking Contract": "Заключи го в договора за стейкване",
         "It is born like this": "То е родено така"
       },
@@ -469,6 +485,7 @@
       "description": "Бустерите увеличават бързината на копаене на PiFi токени от твоето прасенце. Има общо 9 бустера."
     },
     "defi": {
+      "title": "DeFi",
       "learnMore": "Научи повече",
       "description": "Можеш да заключиш твоето прасенце за специфичен период от време за да ускориш процеса на копаене.",
       "steaking": {
@@ -493,6 +510,7 @@
       "title": "План",
       "stages": [
         {
+          "description": "<b>Идеята се роди</b> в началото на 2021",
           "progress": 100,
           "status": "✓ Свършено"
         },
@@ -507,10 +525,12 @@
           "status": "✓ Свършено"
         },
         {
+          "description": "Разработка на <b>умни договори и приложения</b> (Q4 2021)",
           "progress": 100,
           "status": "✓ Свършено"
         },
         {
+          "description": "<b>Качване в блокчейна</b><br />(December 2021)",
           "progress": 100,
           "status": "✓ Свършено"
         },
@@ -520,10 +540,12 @@
           "status": "✓ Свършено"
         },
         {
+          "description": "Излизане в Binance NFT<br />(Януари 2022)",
           "progress": 100,
           "status": "✓ Свършено"
         },
         {
+          "description": "<b>Първите 3D принта</b> са произведени<br />(Q1 2022)",
           "progress": 100,
           "status": "✓ Свършено"
         },
