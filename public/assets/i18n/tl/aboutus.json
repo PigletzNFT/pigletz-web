@@ -1,63 +1,164 @@
 {
-    "title": "Tungkol sa amin",
-    "description": "Ang Pigletz.com ay isang pakikipagtulungan sa pagitan ng dalawang kumpanya (Blockchain Technology Bulgaria at Aff Media) na may mga dekada ng pinagsamang karanasan sa mga larangan ng mobile game development, web authoring, marketing at blockchain technology. Ang aming team ay eksklusibong binubuo ng mga propesyonal, ang ilan sa kanila ay nagtatrabaho sa industriya ng IT sa loob ng mahigit 20 taon.",
-    "team": [
-        {
-            "name": "Galin a.k.a. MasterPig",
-            "title": "Ang Visionary",
-            "description": "Si Galin ay isang Master of Engineering sa computer science at entrepreneur na may higit sa 20 taong karanasan sa negosyo. Bilang tagapagtatag ng iba-ibang kumpanya ng game-dev, nakagawa siya ng mga maunlad na laro kasama ang milyun-milyong manlalaro. Noong nakaraang 5 taon, bumuo siya ng mga kumpanya sa larangan ng blockchain at DeFi.",
-            "photo": "/assets/images/team/masterpig.png",
-            "linkedin": "https://www.linkedin.com/in/galindinkov/",
-            "twitter": "https://twitter.com/_galinDinkov"
-        },
-        {
-            "name": "Vicho",
-            "title": "Ang Web Master",
-            "description": "Si Vicho ay mayroon ding Master's Degree sa Computer Sciences at propesyonal na nagde-develop ng mga website at web app mula noong  High School pa lang sya. Iniwan niya ang kanyang trabaho sa software engineering para mag co-start ng sarili niyang kumpanya 11 taon na ang nakakaraan. Nakagawa ito ng daan-daang mga website at niraranggo ang mga ito sa Google.",
-            "photo": "/assets/images/team/vicho.png"
-        },
-        {
-            "name": "Miro",
-            "title": "Ang Market[ing] Maker",
-            "description": "Bumubuo ng mga web projects mula sa simula sa industriya ng iGaming at FX. Co-owner ng TradingPedia.com",
-            "photo": "/assets/images/team/miro.png",
-            "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
-        },
-        {
-            "name": "Miró",
-            "title": "Ang Contracts",
-            "description": "Henyo ng software na may 3 dekada ng karanasan",
-            "photo": "/assets/images/team/miro2.png",
-            "linkedin": "https://www.linkedin.com/in/miroslavln"
-        },
-        {
-            "name": "Yan a.k.a Piglet_Z",
-            "title": "Ang Tagabuo ng Komunidad",
-            "description": "Si Yan ay naging isang propesyonal na espesyalista sa Online Marketing at isang Social Media Coordinator sa loob ng halos 10 taon. Siya rin ay isang NFT admirer at self-taught dressmaker. Ang kanyang mga personal na profile naman ay bihirang makikita sa anumang social media. Gayunpaman, 24/7 siyang aktibo  sa aming Discord.",
-            "photo": "/assets/images/team/yan.png",
-            "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
-            "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
-        },
-        {
-            "name": "Niko",
-            "title": "Ang 3D",
-            "description": "Si Niko ay isang graphic at 3D designer na may halos 10 taong karanasan sa larangan. Siya ay may interes sa NFT's at sa mundo ng crypto. Kapag wala siya sa internet ay makikita siya sa city art gallery.",
-            "photo": "/assets/images/team/niko.png"
-        },
-        {
-            "name": "Eve",
-            "title": "Ang Concept Art",
-            "description": "Si Eve ay isang open-minded, self-taught na artist, na matagal nang nag-eeksperimento sa digital art. Sinusubukan niyang pag-alab ang kanyang pagkamausisa sa pamamagitan ng sining sa lahat ng anyo nito.",
-            "photo": "/assets/images/team/eve.png",
-            "instagram": "https://www.instagram.com/evesserpent/"
-        },
-        {
-            "name": "Veronica",
-            "title": "Ang Frontender",
-            "description": "Energetic na front-end developer na may karanasan sa pagdidisenyo, pagbuo, at pamamahala ng mga website. Mahilig siyang maglibot sa  iba't ibang  dako ng mundo at mangolekta ng mga hiyas na bato at kristal at gumawa ng alahas mula sa mga ito.",
-            "photo": "/assets/images/team/vicky.png",
-            "instagram": "https://www.instagram.com/vikkinbd/",
-            "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
-        }
-    ]
+  "title": "Tungkol sa amin",
+  "description": "Ang Pigletz.com ay isang pakikipagtulungan sa pagitan ng dalawang kumpanya (Blockchain Technology Bulgaria at Aff Media) na may mga dekada ng pinagsamang karanasan sa mga larangan ng mobile game development, web authoring, marketing at blockchain technology. Ang aming team ay eksklusibong binubuo ng mga propesyonal, ang ilan sa kanila ay nagtatrabaho sa industriya ng IT sa loob ng mahigit 20 taon.",
+  "jobs": {
+    "title": "Magtrabaho sa amin",
+    "description": "Kung ikaw ay may karanasang developer, marketing o community manager, influencer, investor o gusto mo lang makipag-ugnayan sa amin i-click sa ibaba",
+    "button": "Makipag-ugnayan",
+    "callToAction": "mailto:j0bz@pigletz.com"
+  },
+  "team": [
+    {
+      "name": "Galin a.k.a. MasterPig",
+      "title": "Ang Visionary",
+      "description": "Si Galin ay isang Master of Engineering sa computer science at entrepreneur na may higit sa 20 taong karanasan sa negosyo. Bilang tagapagtatag ng iba-ibang kumpanya ng game-dev, nakagawa siya ng mga maunlad na laro kasama ang milyun-milyong manlalaro. Noong nakaraang 5 taon, bumuo siya ng mga kumpanya sa larangan ng blockchain at DeFi.",
+      "photo": "/assets/images/team/masterpig.png",
+      "linkedin": "https://www.linkedin.com/in/galindinkov/",
+      "twitter": "https://twitter.com/_galinDinkov"
+    },
+    {
+      "name": "Vicho",
+      "title": "Ang Web Master",
+      "description": "Si Vicho ay mayroong Master's Degree sa Computer Sciences at propesyonal na nagde-develop ng mga website at web app mula noong  High School pa lang sya. Iniwan niya ang kanyang trabaho sa software engineering para mag co-start ng sarili niyang kumpanya 11 taon na ang nakakaraan. Nakagawa ito ng daan-daang mga website at niraranggo ang mga ito sa Google.",
+      "photo": "/assets/images/team/vicho.png"
+    },
+    {
+      "name": "Miro",
+      "title": "Ang Market[ing] Maker",
+      "description": "Bumubuo ng mga web projects mula sa simula sa industriya ng iGaming at FX. Co-owner ng TradingPedia.com",
+      "photo": "/assets/images/team/miro.png",
+      "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+    },
+    {
+      "name": "Miró",
+      "title": "Ang Contracts",
+      "description": "Henyo ng software na may 3 dekada ng karanasan",
+      "photo": "/assets/images/team/miro2.png",
+      "linkedin": "https://www.linkedin.com/in/miroslavln"
+    },
+    {
+      "name": "Yan a.k.a Piglet_Z",
+      "title": "Ang Tagabuo ng Komunidad",
+      "description": "Si Yan ay naging isang propesyonal na espesyalista sa Online Marketing at isang Social Media Coordinator sa loob ng halos 10 taon. Siya rin ay isang NFT admirer at self-taught dressmaker. Ang kanyang mga personal na profile naman ay bihirang makikita sa anumang social media. Gayunpaman, 24/7 siyang aktibo  sa aming Discord.",
+      "photo": "/assets/images/team/yan.png",
+      "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
+      "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+    },
+    {
+      "name": "Niko",
+      "title": "Ang 3D",
+      "description": "Si Niko ay isang graphic at 3D designer na may halos 10 taong karanasan sa larangan. Siya ay may interes sa NFT's at sa mundo ng crypto. Kapag wala siya sa internet ay makikita siya sa city art gallery.",
+      "photo": "/assets/images/team/niko.png"
+    },
+    {
+      "name": "Eve",
+      "title": "Ang Concept Art",
+      "description": "Si Eve ay isang bukang-isip na tao na nag turo sa kanyang sarili na artist, matagal narin syang nag-eeksperimento sa digital art. Sinusubukan niyang pag-alab ang kanyang pagkamausisa sa pamamagitan ng sining sa lahat ng anyo nito.",
+      "photo": "/assets/images/team/eve.png",
+      "instagram": "https://www.instagram.com/evesserpent/"
+    },
+    {
+      "name": "Veronica",
+      "title": "Ang Frontender",
+      "description": "Masigla na front-end developer na may karanasan sa pagdidisenyo, pagbuo, at pamamahala ng mga website. Mahilig siyang maglibot sa  iba't ibang  dako ng mundo at mangolekta ng mga hiyas na bato at kristal at gumawa ng alahas mula sa mga ito.",
+      "photo": "/assets/images/team/vicky.png",
+      "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
+    }
+  ],
+  "moreTeam": [
+    {
+      "name": "Sha",
+      "title": "Marketing & BizDev",
+      "description": "Si Sha ay isang software development student, isang crypto enthusiast, at isang malikhaing kaluluwa na may mga makabagong pananaw sa marketing. Ginugugol niya ang kanyang libreng oras sa pagkuha ng litrato, paggawa ng musika, o pananaliksik sa crypto.",
+      "photo": "/assets/images/team/sha.png",
+      "instagram": "https://instagram.com/oktay.shakirov",
+      "linkedin": "https://www.linkedin.com/in/oktayshakirov"
+    },
+    {
+      "name": "Jewelrey",
+      "title": "Content Creator",
+      "description": "Si Jewelrey ay isang neophyte tungkol sa nfts at crypto, ngunit tumutulong sya sa paggawa ng content para sa YouTube channel ng Pigletz. Sa labas ng metaverse, siya ay kasalukuyang isang studyante ng sikolohiya at isang panadero na gumagawa ng mga keyk.",
+      "photo": "/assets/images/team/jewelrey.png",
+      "instagram": "https://www.instagram.com/jewl.rey"
+    },
+    {
+      "name": "Edi",
+      "title": "Marketing",
+      "description": "Si Edi ang magiliw na mukha na kilala ng lahat sa komunidad ng Pigletz. Kapag hindi siya abala sa pagbuo at pagmo-moderate sa komunidad ng Pigletz, makikita siyang nag-aaral at inaalam kung paano gumagana ang ilang mga JavaScript.",
+      "photo": "/assets/images/team/edi.png",
+      "instagram": "https://instagram.com/eddie.mustanski"
+    },
+    {
+      "name": "Dr4g0",
+      "title": "Blockchain Dev",
+      "description": "Game at smart contract developer na gustong sumisid nang malalim sa EVM. Si Dr4g0 ay bumubuo at nag-audit ng mga smart contract at nagsusulat ng mga API at middleware.",
+      "photo": "/assets/images/team/dr4g0.png",
+      "nolinks": true
+    },
+    {
+      "name": "Michal",
+      "title": "Game Development",
+      "description": "Game developer na may mahabang karanasan sa iba't ibang platform. Isa ring geeky tinkerer at isang uncurable perfectionist. Programming mula noong unang bahagi ng 2000s.",
+      "photo": "/assets/images/team/michal.png",
+      "linkedin": "https://www.linkedin.com/in/michal-fiala-004b1b4/"
+    },
+    {
+      "name": "Skachkov",
+      "title": "Web Design",
+      "description": "Si Skachkov ay isang artist na may higit sa 20 taong karanasan sa web at graphical na disenyo. Gumagawa din siya sa kanyang orihinal na mga koleksyon ng art NFT.",
+      "photo": "/assets/images/team/skachkov.png",
+      "twitter": "https://twitter.com/@_sasho",
+      "instagram": "https://www.instagram.com/aoskachkov/"
+    },
+    {
+      "name": "S1m0",
+      "title": "Backend Dev",
+      "description": "Responsable si S1m0 para sa backend at pagbuo ng cloud. Nakatago ang kanyang ginagawa ngunit kung wala ito ay walang makikita.",
+      "photo": "/assets/images/team/s1m0.png",
+      "nolinks": true
+    },
+    {
+      "name": "100j40",
+      "title": "Android Dev",
+      "description": "Isang Master sa Computer Sciences siya ay nakaranas ng mobile developer na may 7 taong karanasan sa pagbuo at pagpapahusay ng mga mobile application para sa iba't ibang uri ng negosyo na may milyong user.",
+      "photo": "/assets/images/team/100j40.png",
+      "linkedin": "https://www.linkedin.com/in/stoycho-petrov-57a03112b/"
+    },
+    {
+      "name": "Dorje",
+      "title": "iOS Dev",
+      "description": "Si Dorje ay isang mobile engineer na may 10 taong karanasan sa pagpapaunlad ng iOS at higit sa 15 taon sa pagbuo ng software. Nagtatrabaho sya sa mga world class na app sa kanyang karera, naniniwala siyang ang hinaharap ay pag-aari ng blockchain, Web3 at NFTs.",
+      "photo": "/assets/images/team/dorje.png",
+      "linkedin": "https://www.linkedin.com/in/deyan-zhekov-35ba34b"
+    },
+    {
+      "name": "Jana",
+      "title": "Mga Kaganapan at Fair",
+      "description": "Inorganisa ni Jana ang aming presentasyon sa iba't ibang mga kaganapan sa buong mundo. Siya ay matatas sa 5 wika at nararamdaman sa lahat ng kontinente.",
+      "photo": "/assets/images/team/jana.png",
+      "linkedin": "https://www.linkedin.com/in/jana-alexandrova-4636576/"
+    },
+    {
+      "name": "Vladika",
+      "title": "German Market Ops",
+      "description": "Pag-unlad ng negosyo at mga operasyon sa marketing sa merkado ng Germany. Siya ay nagmamay-ari ng isang matagumpay na ahensya sa marketing sa Berlin at isang passionate na manlalaro ng football.",
+      "photo": "/assets/images/team/vladika.png",
+      "linkedin": "https://www.linkedin.com/in/vladimirboyanov"
+    },
+    {
+      "name": "Mimi",
+      "title": "Spanish Market Ops",
+      "description": "Pinapatakbo ni Mimi ang aming mga operasyon, pagsasalin at pagbebenta ng Spanish market. Siya ay may higit sa 17 taon ng internasyonal na pagbebenta at karanasan sa pamamahala ng koponan. Mahilig siya sa crafts, contemporary art at oil painting.",
+      "photo": "/assets/images/team/mimisim.png",
+      "instagram": "https://www.instagram.com/fitmamasenpijamas",
+      "linkedin": "https://www.linkedin.com/in/mimi-sim%C3%B3n-348028135/"
+    },
+    {
+      "name": "Darwin",
+      "title": "Asian Market Ops",
+      "description": "Si Darwin ay isang SEO/SEA guru at kumakatawan sa Pigletz para sa mga pamilihan sa Timog-Asya.",
+      "photo": "/assets/images/team/darwin.png",
+      "linkedin": "https://www.linkedin.com/in/darwin-wiranda/"
+    }
+  ]
 }
