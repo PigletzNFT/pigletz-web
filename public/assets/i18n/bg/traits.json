@@ -123,7 +123,8 @@
         "HairstyleBunsBrown": "Кафеви кокчета",
         "HairstyleBanks": "Бретон",
         "HairstylePonytails": "Конски опашки",
-        "HairstylePonytail": "Конска опашка"
+        "HairstylePonytail": "Конска опашка",
+        "HairstyleHeadband": "Бандана"
       },
       "Beardstyle": {
         "BeardstyleNone": "Нищо",
@@ -143,7 +144,7 @@
         "EarringsBigRings": "Големи пръстени",
         "EarringsStones": "Камъни",
         "EarringsFemaleRings": "Пръстени",
-        "EarringsBalls": "Топки"
+        "EarringsBalls": "Кръгли"
       },
       "Nose": {
         "NoseNone": "Никакъв",
@@ -163,7 +164,7 @@
         "GlassesRetro": "Ретро",
         "GlassesCateyeRed": "Червено котешко око",
         "GlassesCateyeWhite": "Бяло котешко око",
-        "GlassesHeartshaped": "Форма на сърце",
+        "GlassesHeartshaped": "Сърцевидни",
         "GlassesGolden": "Златен"
       },
       "Tattoo": {
@@ -172,7 +173,7 @@
         "TattooRapper": "Рапър",
         "TattooMaleFace": "Лице",
         "TattooFemaleFace": "Лице",
-        "TattooPiercing": "Пиерсинг",
+        "TattooPiercing": "Пиърсинг",
         "TattooFull": "Цяла"
       }
     }
