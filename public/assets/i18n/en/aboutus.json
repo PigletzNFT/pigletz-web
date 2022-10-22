@@ -1,6 +1,6 @@
 {
     "title": "About us",
-    "description": "Pigletz.com is a collaboration between two companies (Blockchain Technology Bulgaria and Aff Media) with decades of combined experience in the fields of mobile game develoment, web authoring and marketing and blockchain technology. Our team consists exclusively of professionals, some of whom have worked in the IT industry for over 20 years.",
+    "description": "Pigletz.com is a collaboration between two companies (Blockchain Technology Bulgaria and Aff Media) with decades of combined experience in the fields of mobile game development, web authoring and marketing and blockchain technology. Our team consists exclusively of professionals, some of whom have worked in the IT industry for over 20 years.",
     "jobs": {
         "title": "Work with us",
         "description": "If you are experienced developer, marketing or community manager, influencer, investor or just want to get in touch with us click below",
@@ -141,7 +141,7 @@
         {
             "name": "Vladika",
             "title": "German Market Ops",
-            "description": "Business development and marketing operations on the German market. He owns a successful marketing agency in Berlin and is a pationate football player.",
+            "description": "Business development and marketing operations on the German market. He owns a successful marketing agency in Berlin and is a passionate football player.",
             "photo": "/assets/images/team/vladika.png",
             "linkedin": "https://www.linkedin.com/in/vladimirboyanov"
         },

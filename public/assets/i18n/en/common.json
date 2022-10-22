@@ -439,7 +439,12 @@
             "expired": "Expired",
             "alreadyStaked": "This piglet has been staked already on {{stakedOnDate}} for {{days}} days",
             "neverStaked": "This piglet has never been staked",
-            "periods": ["3 months", "6 months", "1 year", "2 years"],
+            "periods": [
+                "3 months",
+                "6 months",
+                "1 year",
+                "2 years"
+            ],
             "timeLeft": {
                 "year": "year left",
                 "year_other": "years left",
@@ -564,7 +569,7 @@
                     "status": "✓ Completed"
                 },
                 {
-                    "description": "<b>Creat a PiFi Liquidity Pool on PancakeSwap</b><br />(May, 2022)",
+                    "description": "<b>Create a PiFi Liquidity Pool on PancakeSwap</b><br />(May, 2022)",
                     "progress": 100,
                     "status": "✓ Completed"
                 },
