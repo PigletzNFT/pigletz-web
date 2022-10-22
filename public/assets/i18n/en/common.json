@@ -124,7 +124,23 @@
         },
         "boostersOfferTitle": "Do you need <b>boosters</b>",
         "boostersOfferCaption": "Invest in your Piglet and it will produce more value for you",
-        "levelReachedCaption": "I reached <b>Level {{level}}</b>"
+        "levelReachedCaption": "I reached <b>Level {{level}}</b>",
+        "lockedUntilDateText": "This box cannot be opened before {{date}}",
+        "readyLabel": "Click to open",
+        "timeLeft": {
+            "year": "{{count}} year to open",
+            "year_other": "{{count}} years to open",
+            "month": "{{count}} month to open",
+            "month_other": "{{count}} months to open",
+            "day": "{{count}} day to open",
+            "day_other": "{{count}} days to open",
+            "hour": "{{count}} hour to open",
+            "hour_other": "{{count}} hours to open",
+            "minute": "{{count}} minute to open",
+            "minute_other": "{{count}} minutes to open",
+            "second": "{{count}} second to open",
+            "second_other": "{{count}} seconds to open"
+        }
     },
     "connect": {
         "title": "Connect Wallet",
@@ -140,12 +156,14 @@
         "howtoButton": "Learn how to connect"
     },
     "wof": {
-        "title": "Spin to Win",
-        "description": "With the Wheel of Fortune we give you the chance to win free Pigletz. No payment is required. Just be active in our <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">discord channels</a> and you will receive credits. Each spin will cost you {{creditsToSpin}} credits. You can spin the wheel as many times as you like. If you win the Jackpot you can claim a mystery box with a Piglet inside. Open it to reveal your brand new unique Piglet. Good luck!",
+        "title": "Spin and Win Pigletz",
+        "description": "Here you can spin the wheel and have the chance to win free Pigletz. No payment is required. Just be active in our <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">discord channels</a> and you will receive credits. Each spin will cost you {{creditsToSpin}} credits. You can spin the wheel as many times as you like. If you win the Jackpot you can claim a mystery box with a Piglet inside. Open it to reveal your brand new unique Piglet. Good luck!",
         "discordLoginButton": "Login to Discord",
         "logoutButton": "Logout",
-        "spinButton": "Spin to Win",
-        "welcomeText": "Welcome {{username}}",
+        "spinButton": "Spin",
+        "welcomeToast": "Welcome {{username}}",
+        "welcomeText": "Welcome {{username}},",
+        "checkTheRulesText": "Checkout the detailed rules here →",
         "claimRewardButton": "Claim {{count}} Piglet",
         "claimRewardButton_other": "Claim {{count}} Pigletz",
         "availableCredits": "You have <span className=\"wheel-credits\">{{count}}</span> credit",
