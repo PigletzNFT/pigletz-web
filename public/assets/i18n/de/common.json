@@ -31,7 +31,7 @@
   },
   "banner": {
     "countdown": {
-      "text": "Der Vorverkauf endet in {{time}}",
+      "text": "Dreh am Glücksrad und gewinne Pigletz beginnt in {{time}}",
       "mintNow": "Jetzt kaufen",
       "second": "{{count}} Sekunde",
       "second_other": "{{count}} Sekunden",
@@ -93,7 +93,7 @@
     "viewStakedButton": "Staked anzeigen",
     "boostersOfferTitle": "Brauchst du <b>boosters?</b>",
     "boostersOfferCaption": "Investiere in dein Piglet und es wird mehr Wert für dich generieren",
-    "levelReachedCaption": "Ich habe <b>Level {{level}}</b> erreicht",
+    "levelReachedCaption": "<b>Level {{level}}</b> erreicht",
     "item": {
       "pifiBalance": "{{balance}} PiFi",
       "level": "Level {{level}}"
@@ -124,7 +124,23 @@
     },
     "boostersOfferTitle": "Brauchst Du <b>boosters</b>",
     "boostersOfferCaption": "Investiere in deinem Piglet und es wird Mehrwert für Dich schaffen",
-    "levelReachedCaption": "Ich habe <b>Level {{level}}</b> erreicht."
+    "levelReachedCaption": "<b>Level {{level}}</b> erreicht.",
+    "lockedUntilDateText": "Diese Box darf nicht geöffnet werden, bevor {{date}}",
+    "readyLabel": "Zum Öffnen klicken",
+    "timeLeft": {
+      "year": "{{count}} Jahr zu öffnen",
+      "year_other": "{{count}} Jahre zu öffnen",
+      "month": "{{count}} Monat zu öffnen",
+      "month_other": "{{count}} Monate zu öffnen",
+      "day": "{{count}} Tag zu öffnen",
+      "day_other": "{{count}} Tage zu öffnen",
+      "hour": "{{count}} Stunde zu öffnen",
+      "hour_other": "{{count}} Stunden zu öffnen",
+      "minute": "{{count}} Minute zu öffnen",
+      "minute_other": "{{count}} Minuten zu öffnen",
+      "second": "{{count}} Sekunde zu öffnen",
+      "second_other": "{{count}} Sekunden zu öffnen"
+    }
   },
   "connect": {
     "title": "Wallet verbinden",
@@ -145,7 +161,9 @@
     "discordLoginButton": "Anmeldung bei Discord",
     "logoutButton": "Ausloggen",
     "spinButton": "Dreh am Glücksrad und gewinne",
+    "welcomeToast": "Willkommen {{username}}",
     "welcomeText": "Willkommen {{username}}",
+    "checkTheRulesText": "Die detaillierten Regeln findest du hier →",
     "claimRewardButton": "{{count}} Piglet beanspruchen",
     "claimRewardButton_other": "{{count}} Pigletz beanspruchen",
     "availableCredits": "Du hast <span className=\"wheel-credits\">{{count}}</span> credit",
@@ -319,7 +337,7 @@
     "totalValue": "Gesamtwert:",
     "usdValueTip": "Marktwert ist ${{market}}<br />Absoluter Wert ist ${{absolute}}",
     "pifiToNextLevel": "{{pifi}} PiFi bis Level {{nextLevel}}",
-    "reachedLevelCaption": "Ich habe <b>Level {{level}} erreicht</b>",
+    "reachedLevelCaption": "<b>Level {{level}} erreicht</b>",
     "gotoLevelButton": "Gehe zu Level {{level}}",
     "goToCollection": "Sammlung",
     "traitsTitle": "Piglet-Eigenschaften",
@@ -457,7 +475,7 @@
   },
   "home": {
     "subtitle": "Das erste NFT, das sich materialisiert!",
-    "howitworks": "Schau mal, wie funktioniert's",
+    "howitworks": "Schau mal, wie es funktioniert",
     "videoModalTitle": "Wie funktioniert's",
     "nft": {
       "title": "Es ist ein NFT",
