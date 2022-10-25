@@ -63,7 +63,7 @@
         "BodyStoneFemale": "Каменно"
       },
       "Mouth": {
-        "MouthMaleBubblegum": "Дъвка",
+        "MouthMaleBubblegum": "С дъвка",
         "MouthSmoking": "Пушещо",
         "MouthAngry": "Ядосано",
         "MouthMaleSmiling": "Усмихнато",
@@ -75,9 +75,9 @@
         "MouthHalfOpen": "Полуотворена",
         "MouthFemaleSmiling": "Усмихнато",
         "MouthSad": "Тъжно",
-        "MouthFemaleBubblegum": "Дъвка",
+        "MouthFemaleBubblegum": "С дъвка",
         "MouthKiss": "Целувка",
-        "MouthFemaleTongue": "Език",
+        "MouthFemaleTongue": "Изплезено",
         "MouthFemaleVampire": "Вампир"
       },
       "Eyes": {
@@ -95,7 +95,7 @@
         "EyesFemaleBlue": "Сини",
         "EyesFemaleBrown": "Кафеви",
         "EyesFemaleBitcoin": "Биткойн",
-        "EyesBlinking": "Мигащи",
+        "EyesBlinking": "Намигащи",
         "EyesFemaleAngry": "Ядосано"
       },
       "Hairstyle": {
@@ -127,7 +127,6 @@
         "HairstyleHeadband": "Бандана"
       },
       "Beardstyle": {
-        "BeardstyleNone": "Нищо",
         "BeardstyleFull": "Цяла",
         "BeardstyleThin": "Къса",
         "BeardstyleStandard": "Стандартна",
@@ -141,9 +140,9 @@
         "EarringsManiac": "Маниак",
         "EarringsDrop": "Капка",
         "EarringsFancy": "Луксозен",
-        "EarringsBigRings": "Големи пръстени",
+        "EarringsBigRings": "Големи халки",
         "EarringsStones": "Камъни",
-        "EarringsFemaleRings": "Пръстени",
+        "EarringsFemaleRings": "Халки",
         "EarringsBalls": "Кръгли"
       },
       "Nose": {
@@ -162,13 +161,13 @@
         "GlassesOptical": "Оптичен",
         "GlassesMask": "Маска",
         "GlassesRetro": "Ретро",
-        "GlassesCateyeRed": "Червено котешко око",
-        "GlassesCateyeWhite": "Бяло котешко око",
+        "GlassesCateyeRed": "Червени, котешко око",
+        "GlassesCateyeWhite": "Бели, котешко око",
         "GlassesHeartshaped": "Сърцевидни",
         "GlassesGolden": "Златен"
       },
       "Tattoo": {
-        "TattooNone": "Никаква",
+        "TattooNone": "Без",
         "TattooTyson": "Тайсън",
         "TattooRapper": "Рапър",
         "TattooMaleFace": "Лице",
