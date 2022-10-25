@@ -127,6 +127,7 @@
         "HairstyleHeadband": "Бандана"
       },
       "Beardstyle": {
+        "BeardstyleNone": "Без",
         "BeardstyleFull": "Цяла",
         "BeardstyleThin": "Къса",
         "BeardstyleStandard": "Стандартна",
