@@ -31,7 +31,7 @@
     },
     "banner": {
         "countdown": {
-            "text": "Presale ends in {{time}}",
+            "text": "Spin and Win Pigletz comes in {{time}}",
             "mintNow": "Mint Now",
             "second": "{{count}} second",
             "second_other": "{{count}} seconds",
