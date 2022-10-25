@@ -31,7 +31,7 @@
   },
   "banner": {
     "countdown": {
-      "text": "Ön satış şu tarihte sona eriyor {{time}}",
+      "text": "Döndür ve Kazan Pigletz başlıyor {{time}}",
       "mintNow": "Şimdi üret",
       "second": "{{count}} saniye",
       "second_other": "{{count}} saniye",
@@ -96,7 +96,7 @@
     "levelReachedCaption": "<b>Seviye {{level}}</b>'e ulaştım",
     "item": {
       "pifiBalance": "{{balance}} PiFi",
-      "level": "Seviye {{seviye}}"
+      "level": "Seviye {{level}}"
     }
   },
   "pigletzStakedList": {
@@ -124,7 +124,23 @@
     },
     "boostersOfferTitle": "<b>Takviyeye</b> ihtiyacın var mı?",
     "boostersOfferCaption": "Piglet'ine yatırım yap, senin için daha fazla değer üretsin.",
-    "levelReachedCaption": "Ulaştığım seviye: <b>{{level}}</b>"
+    "levelReachedCaption": "Ulaştığım seviye: <b>{{level}}</b>",
+    "lockedUntilDateText": "Bu kutu şu tarihten önce açılamaz {{date}}",
+    "readyLabel": "Açmak için tıkla",
+    "timeLeft": {
+      "year": "Açılışa {{count}} yıl kaldı",
+      "year_other": "Açılışa {{count}} yıl kaldı",
+      "month": "Açılışa {{count}} ay kaldı",
+      "month_other": "Açılışa {{count}} ay kaldı",
+      "day": "Açılışa {{count}} gün kaldı",
+      "day_other": "Açılışa {{count}} gün kaldı",
+      "hour": "Açılışa {{count}} saat kaldı",
+      "hour_other": "Açılışa {{count}} saat kaldı",
+      "minute": "Açılışa {{count}} dakika kaldı",
+      "minute_other": "Açılışa {{count}} dakika kaldı",
+      "second": "Açılışa {{count}} saniye kaldı",
+      "second_other": "Açılışa {{count}} saniye kaldı"
+    }
   },
   "connect": {
     "title": "Cüzdan Bağla",
@@ -145,7 +161,9 @@
     "discordLoginButton": "Discord'a giriş yap",
     "logoutButton": "Çıkış Yap",
     "spinButton": "Döndür ve Kazan ",
+    "welcomeToast": "Hoş geldin {{kullanıcı adı}}",
     "welcomeText": "Hoş geldin {{kullanıcı adı}}",
+    "checkTheRulesText": "Ayrıntılı kuralları buradan kontrol et →",
     "claimRewardButton": "Iddia {{count}} Piglet",
     "claimRewardButton_other": "Iddia {{count}} Pigletz",
     "availableCredits": "Toplam <span className=\"wheel-credits\">{{count}}</span> kredin var",
