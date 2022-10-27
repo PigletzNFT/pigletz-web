@@ -345,7 +345,6 @@
     "destroyButton": "Kır",
     "materializeButton": "Gerçeğe Dönüştür",
     "dematerializeButton": "Dijitalleştir",
-    "transferButton": "Aktar",
     "pigletNotFoundError": "Piglet {{tokenId}} bulunamadı",
     "levels": {
       "level1": "1",
@@ -367,6 +366,11 @@
       "confirmation": "Piglet' ini kırmak istediğine emin misin?",
       "confirm": "Evet, parayı çek",
       "decline": "Hayır, yapamam"
+    },
+    "transfer": {
+      "recipientPrompt": "Lütfen alıcının adresini yaz. Bir BSC Mainnet adresi olduğundan emin ol!",
+      "confirmText": "Piglet #{{tokenId}} transfer etmek şu adrese {{recipient}} istediğine emin misin? ",
+      "transferButton": "Transfer"
     },
     "deposit": {
       "balance": "{{balance}} {{symbol}}",
