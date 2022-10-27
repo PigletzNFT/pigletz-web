@@ -341,7 +341,6 @@
     "destroyButton": "Унищожи",
     "materializeButton": "Материализирай",
     "dematerializeButton": "Дигитализирай",
-    "transferButton": "Трансферирай",
     "pigletNotFoundError": "Piglet {{tokenId}} не беше намерен",
     "levels": {
       "level1": "1",
@@ -363,6 +362,11 @@
       "confirmation": "Сигурен ли си че искаш да счупиш твоето прасенце?",
       "confirm": "Да, убий го",
       "decline": "Не, не мога"
+    },
+    "transfer": {
+      "recipientPrompt": "Моля, въведи адреса на получателя. Провери дали е адрес на BSC Mainnet!",
+      "confirmText": "Сигурен ли си, че искаш да прехвърлиш Piglet #{{tokenId}} на {{recipient}}?",
+      "transferButton": "Трансфер"
     },
     "deposit": {
       "balance": "{{balance}} {{symbol}} (${{usd}})",
