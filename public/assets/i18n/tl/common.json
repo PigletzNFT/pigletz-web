@@ -31,7 +31,7 @@
   },
   "banner": {
     "countdown": {
-      "text": "Presale matatapos sa {{time}}",
+      "text": "Ang Spin at Win Pigletz ay darating sa {{time}}",
       "mintNow": "Mint Ngayon",
       "second": "{{count}} segundo",
       "second_other": "{{count}} segundo",
@@ -124,7 +124,23 @@
     },
     "boostersOfferTitle": "Kailangan mo ba ng <b>mga booster</b>",
     "boostersOfferCaption": "Mamuhunan sa iyong Piglet at ito ay magbubunga ng higit na halaga para sa iyo",
-    "levelReachedCaption": "Naabot ko ang <b>Level {{level}}</b>"
+    "levelReachedCaption": "Naabot ko ang <b>Level {{level}}</b>",
+    "lockedUntilDateText": "Hindi mabubuksan ang kahong ito bago ang {{date}}",
+    "readyLabel": "I-click para buksan",
+    "timeLeft": {
+      "year": "{{count}} taon upang buksan",
+      "year_other": "{{count}} taon upang mabubuksan",
+      "month": "{{count}} buwan upang mabubuksan",
+      "month_other": "{{count}} na buwan upang mabubuksan",
+      "day": "{{count}} araw upang mabubuksan",
+      "day_other": "{{count}} na araw upang mabubuksan",
+      "hour": "{{count}} oras upang mabubuksan",
+      "hour_other": "{{count}} na oras upang mabubuksan",
+      "minute": "{{count}} minuto upang mabubuksan",
+      "minute_other": "{{count}} minuto upang mabubuksan",
+      "second": "{{count}} segundo bago mabubuksan",
+      "second_other": "{{count}} segundo upang mabubuksan"
+    }
   },
   "connect": {
     "title": "Ikonekta ang Wallet",
@@ -145,7 +161,9 @@
     "discordLoginButton": "Mag-login sa Discord",
     "logoutButton": "Mag-logout",
     "spinButton": "Ikutin para manalo",
+    "welcomeToast": "Maligayang pagdating {{username}}",
     "welcomeText": "Maligayang pagdating {{username}}",
+    "checkTheRulesText": "Tingnan ang mga detalyadong panuntunan dito →",
     "claimRewardButton": "Angkinin ang {{count}} Piglet",
     "claimRewardButton_other": "Angkinin ang {{count}} Pigletz",
     "availableCredits": "Mayroon kang <span className=\"wheel-credits\">{{count}}</span> kredito.",
@@ -323,7 +341,6 @@
     "destroyButton": "sirain",
     "materializeButton": "magpakatotoo",
     "dematerializeButton": "I-digitize",
-    "transferButton": "Paglipat",
     "pigletNotFoundError": "Piglet {{tokenId}} hindi mahanap",
     "levels": {
       "level1": "1",
@@ -345,6 +362,11 @@
       "confirmation": "Sigurado ka bang gusto mong basagin ang iyong biik?",
       "confirm": "Oo, cash out",
       "decline": "Hindi, hindi ko kaya"
+    },
+    "transfer": {
+      "recipientPrompt": "Itaka po dito ang address ng tatanggap. Tiyaking ito ay BSC Mainnet address!",
+      "confirmText": "Sigurado ka bang gusto mong ilipat ang Piglet #{{tokenId}} sa {{recipient}}?",
+      "transferButton": "Ilipat"
     },
     "deposit": {
       "balance": "{{balance}} {{symbol}} (${{usd}})",
@@ -565,7 +587,7 @@
           "status": "Nagtatrabaho..."
         },
         {
-          "description": " <b>Wheel of Fortune</b> rewards <br /> (Q4 2022)",
+          "description": " <b>Spin at Win </b> Pigletz <br /> (Q4 2022)",
           "progress": 90,
           "status": "Nagtatrabaho..."
         },
