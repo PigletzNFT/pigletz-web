@@ -345,7 +345,6 @@
     "destroyButton": "Brechen",
     "materializeButton": "Materialisieren",
     "dematerializeButton": "Digitalisieren",
-    "transferButton": "Transferieren",
     "pigletNotFoundError": "Piglet {{tokenId}} nicht gefunden",
     "levels": {
       "level1": "1",
@@ -367,6 +366,11 @@
       "confirmation": "Bist Du sicher, dass Du Dein Piglet brechen willst?",
       "confirm": "Ja, auszahlen",
       "decline": "Nein, ich kann es nicht"
+    },
+    "transfer": {
+      "recipientPrompt": "Bitte gib die Adresse des Empfängers ein. Achte darauf, dass es sich um eine BSC Mainnet-Adresse handelt!",
+      "confirmText": "Bist du sicher, dass du Piglet #{{tokenId}} nach {{recipient}} transferieren willst?",
+      "transferButton": "Transfer"
     },
     "deposit": {
       "balance": "{{balance}} {{symbol}}",
