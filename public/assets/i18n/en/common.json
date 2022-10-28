@@ -17,6 +17,7 @@
         "buypiglets": "Mint Pigletz",
         "menu": "Menu",
         "back": "Back",
+        "language": "Language",
         "languages": {
             "en": "English",
             "bg": "Български",
@@ -28,6 +29,9 @@
             "ru": "Русский",
             "id": "Bahasa Indonesia"
         }
+    },
+    "buttons": {
+        "close": "Close"
     },
     "banner": {
         "countdown": {
@@ -443,12 +447,7 @@
             "expired": "Expired",
             "alreadyStaked": "This piglet has been staked already on {{stakedOnDate}} for {{days}} days",
             "neverStaked": "This piglet has never been staked",
-            "periods": [
-                "3 months",
-                "6 months",
-                "1 year",
-                "2 years"
-            ],
+            "periods": ["3 months", "6 months", "1 year", "2 years"],
             "timeLeft": {
                 "year": "year left",
                 "year_other": "years left",
