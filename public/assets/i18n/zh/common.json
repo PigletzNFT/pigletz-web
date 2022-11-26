@@ -70,7 +70,7 @@
     "checkTiers": "查看以下阶段"
   },
   "pigletzList": {
-    "title": "小猪收藏",
+    "title": "小猪收藏集",
     "description": "{{address}} 的精美收藏",
     "noPigletzError": "该账号没有小猪",
     "my": {
@@ -145,13 +145,13 @@
   },
   "wof": {
     "title": "旋转赢小猪",
-    "description": "您可以旋转转盘并有机会赢取免费的小猪。无需付款。只需活跃在我们的 <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">discord 频道</a>，获得积分。每次旋转将花费您 {{creditsToSpin}} 积分。您可以任意多次旋转转盘。如果您中了头彩，就可以领取一个装有小猪的盲盒。打开它就是全新的独特小猪。好运！",
-    "discordLoginButton": "登录Discord",
+    "description": "您可以旋转转盘并有机会赢取免费的小猪。无需付款。只需活跃在我们的 <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">Discord 频道</a>，获得积分。每次旋转将花费您 {{creditsToSpin}} 积分。您可以任意多次旋转转盘。如果您中了头彩，就可以领取一个装有小猪的盲盒。打开盲盒就可以获得全新的独特小猪。祝你好运！",
+    "discordLoginButton": "Discord登录",
     "logoutButton": "登出",
     "spinButton": "旋转",
     "welcomeToast": "欢迎{{用户名}}",
     "welcomeText": "欢迎{{用户名}}，",
-    "checkTheRulesText": "在这里查看详细规则→",
+    "checkTheRulesText": "查看详细规则→",
     "claimRewardButton": "领取 {{count}} 只小猪",
     "claimRewardButton_other": "领取 {{count}} 只小猪",
     "availableCredits": "您有 <span className=\"wheel-credits\">{{count}}</span> 积分",
@@ -321,7 +321,7 @@
     "reachedLevelCaption": "我达到了<b>等级{{level}}</b>",
     "gotoLevelButton": "前往等级{{level}}",
     "goToCollection": "收藏",
-    "traitsTitle": "小组特征",
+    "traitsTitle": "小猪特征",
     "quickInfoTitle": "简要介绍",
     "destroyButton": "打破",
     "materializeButton": "实物制作",
@@ -335,10 +335,10 @@
     "investments": {
       "symbol": "代币",
       "amount": "数量",
-      "usd": "美元",
+      "usd": "市场价(USD)",
       "nothing": "您还没有任何投资"
     },
-    "pifiLPDeclaration": "* 市场价值是 PancakeSwap 上显示的美元价格。绝对值是单位美元价格（1 个代币的美元）乘以代币数量。",
+    "pifiLPDeclaration": "* 市场价是 PancakeSwap 上显示的美元价格。绝对值是单位美元价格（1 个代币的美元价格）乘以代币数量。",
     "destroy": {
       "title": "打破你的小猪",
       "description": "打破小猪可以将其中的所有代币提取到您的地址 {{recipient}}，总价值为 ${{balanceInUSD}} 美元。然而，您的小猪将被摧毁并无法恢复。所以三思而后行，看着它的眼睛做决定。",
@@ -382,7 +382,7 @@
         "Collect 7": "收藏 7",
         "Invest 3 tokens": "投资 3 个代币",
         "Invest 7 tokens": "投资 7 个代币",
-        "3 Similar": "三只同星座",
+        "3 Similar": "集齐3只同星座",
         "12 Different": "集齐12星座",
         "Staked": "质押",
         "Special": "与众不同"
@@ -395,8 +395,8 @@
         "Collect 7 piglets": "收集 7 只小猪",
         "Invest 3 different tokens": "投资 3 个不同的非零价值代币，不包括 PiFi",
         "Invest 7 different tokens": "投资 7 种不同的非零价值代币，不包括 PiFi",
-        "Collect 3 with the same zodiac sign": "收集3只相同星座的小猪",
-        "Collect 12 piglets with different zodiac signs": "收集12只不同星座的小猪",
+        "Collect 3 with the same zodiac sign": "集齐3只相同星座的小猪",
+        "Collect 12 piglets with different zodiac signs": "集齐12只不同星座的小猪",
         "Stake it in the Staking Contract": "质押在合约中",
         "It is born like this": "它是这样诞生的"
       },
@@ -416,7 +416,7 @@
     },
     "staking": {
       "title": "质押",
-      "description": "通过质押可以将小猪的PiFi 铸造能力提高 50%。只需将你的小猪锁定在质押合约中一段指定的时间。在此期间你不能使用那只小猪。合约到期后，您可以取消质押并再次使用它。然而，停用就不会享受50% 的助力。所有其他助力均不受质押影响。",
+      "description": "通过质押可以将小猪的PiFi 铸造能力提高 50%。只需将你的小猪锁定在质押合约中一段指定的时间。在此期间你不能使用那只小猪。合约到期后，您可以取消质押并再次使用它。然而停用后50%的助力将不再发挥作用。所有其他助力均不受质押影响。",
       "stakedOnDate": "质押在",
       "stakeDurationTitle": "质押期限",
       "stakeDuration": "{{count}} 天",
@@ -466,7 +466,7 @@
       "title": "这是一个NFT",
       "features": [
         "12,345 只独特的限量版小猪，具有各种可证明随机稀缺性的特征",
-        "100% 手工制作的 3d 模型",
+        "100% 手工制作的 3D 模型",
         "总共可能有超过 20 亿种组合",
         "购买时随机铸造",
         "随着小猪成长，它的特征也会显露出来",
@@ -478,14 +478,14 @@
       "learnMore": "了解更多",
       "caption1": "每只小猪从您购买之日起就开始开采 PiFi 代币。",
       "caption2": "您可以像将硬币存入存钱罐一样将代币存入您的小猪。",
-      "caption3": "打破你的小猪，访问所有存入的代币以及所有开采的 PiFi 代币。"
+      "caption3": "打破你的小猪，获取所有存入的代币以及所有开采的 PiFi 代币。"
     },
     "game": {
       "title": "游戏",
       "learnMore": "了解更多",
-      "caption1": "升级小猪，看看它有哪些特征以提高基础挖矿效率。",
-      "caption2": "收集并应用助力以进一步提高代币生产速度。",
-      "caption3": "可以使用我们的 Dapp 便捷监控和管理您的小猪。"
+      "caption1": "升级小猪，看看有哪些提高基础挖矿效率的特征",
+      "caption2": "收集并应用助力以进一步提高代币生产速度",
+      "caption3": "可以使用我们的 Dapp 便捷监控和管理您的小猪"
     },
     "boosters": {
       "title": "助力",
@@ -495,7 +495,7 @@
       "learnMore": "了解更多",
       "description": "您可以将您的小猪锁定特定时间，以加速挖矿过程。",
       "steaking": {
-        "title": "抵押小猪",
+        "title": "存入小猪",
         "description": "锁定你的小猪，加快挖矿速度"
       },
       "lending": {
@@ -506,8 +506,8 @@
     "3dprint": {
       "title": "做成实物",
       "learnMore": "了解更多",
-      "description1": "您可以使用 PiFi 代币购买您的 NFT 的 3D 打印件，以在现实世界中呈现它。当您订购 3D 打印的小猪存钱罐时，NFT 将被锁定在智能合约中。物理对象内部有一个解锁代码，您必须打破小猪存钱罐才能获得密码。这确保了物品在给定时间点仅在一个场景中发挥作用，使其始终保持 NFT 特征。",
-      "description2": "此外，小猪的物质状态被认为是最高等级 4 级，具有最高的基础采矿率。"
+      "description1": "您可以使用 PiFi 代币购买您的 NFT 的 3D 打印件，在现实世界中呈现它。当您订购 3D 打印的小猪存钱罐时，NFT 将被锁定在智能合约中。物理对象内部有一个解锁代码，您必须打破小猪存钱罐才能获得密码。这确保了物品在给定时间点仅在一个场景中发挥作用，使其始终保持 NFT 特性。",
+      "description2": "此外，小猪以实物状态呈现即是最高等级 4 级，具有最高的基础挖矿效率。"
     },
     "ourPigletz": {
       "title": "画廊"
