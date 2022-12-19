@@ -9,7 +9,7 @@
         "website": "Pigletz.com",
         "home": "Home",
         "gallery": "Gallery",
-        "aboutus": "About us",
+        "about": "About",
         "pigletz": "My Pigletz",
         "staked": "My Staked",
         "mystery": "My Boxes",
@@ -27,15 +27,21 @@
             "tl": "Filipino",
             "ar": "العربية",
             "ru": "Русский",
-            "id": "Bahasa Indonesia"
+            "id": "Bahasa Indonesia",
+            "zh": "简体中文"
         }
     },
     "buttons": {
         "close": "Close"
     },
+    "marketing": {
+        "notifications": {
+            "subscribeToast": "🐽 Subscribe for updates"
+        }
+    },
     "banner": {
         "countdown": {
-            "text": "Spin and Win Pigletz comes in {{time}}",
+            "text": "Podcast starts in {{time}}",
             "mintNow": "Mint Now",
             "second": "{{count}} second",
             "second_other": "{{count}} seconds",
@@ -56,6 +62,9 @@
         },
         "staking": {
             "text": "Pigletz staking coming in {{time}}"
+        },
+        "blackFriday": {
+            "text": "BLACK FRIDAY deal will be over in {{time}}"
         }
     },
     "footer": {
@@ -81,6 +90,10 @@
         "description": "Welcome! Here you can mint your new Piglet. It will be selected using provably fair random algorithm. If you want to receive discount codes join our communities in Discord, Telegram and Twitter and ask for the options. Enjoy!",
         "tiersDescription": "We are minting collections with different amounts and prices. The price increases with time and at the end will reach 8 BNB. However with the higher price there is also a higher chance to get the special booster.",
         "checkTiers": "check the tiers below"
+    },
+    "blackFridayMint": {
+        "title": "BLACK FRIDAY DEAL!",
+        "description": "Only for a limited time you can mint your piglet here with 50% discount. Don't miss your chance."
     },
     "pigletzList": {
         "title": "Pigletz Collection",
@@ -347,6 +360,7 @@
         "materializeButton": "Materialize",
         "dematerializeButton": "Digitalize",
         "pigletNotFoundError": "Piglet {{tokenId}} not found",
+        "traitToolTip": "{{percents}}% Pigletz have this trait",
         "levels": {
             "level1": "1",
             "level2": "2",
@@ -430,7 +444,7 @@
                 "Invest 7 different tokens": "Tokens need to be listed on PancakeSwap",
                 "Collect 3 with the same zodiac sign": "Booster will affect all 3",
                 "Collect 12 piglets with different zodiac signs": "Booster will affect all 12",
-                "Stake it in the Staking Contract": "Coming soon",
+                "Stake it in the Staking Contract": "Stake your Piglet to activate",
                 "It is born like this": "It is born like this"
             }
         },
@@ -473,10 +487,39 @@
             }
         }
     },
+    "about": {
+        "title": "About Pigletz"
+    },
     "home": {
         "subtitle": "The first NFT that materializes!",
         "howitworks": "See how it works",
         "videoModalTitle": "How it works",
+        "intro": {
+            "whitepaper": "Whitepaper"
+        },
+        "stats": {
+            "title": "Pigletz Stats"
+        },
+        "latestNews": {
+            "title": "Latest News",
+            "seeMoreNewsButton": "See more news"
+        },
+        "latestVideos": {
+            "title": "Latest Videos"
+        },
+        "about": {
+            "title": "What is Pigletz?",
+            "features": [
+                "A collection of 12,345 Piglet NFTs",
+                "Each having a utility of a Piggy Bank",
+                "You can save your crypto tokens in it",
+                "Every Piglet is mining for you PiFi tokens every day",
+                "Pigletz NFT is upgradable in 3 levels",
+                "The only NFT that can be materialized in the real world",
+                "You can withdraw your funds only by breaking the Piglet"
+            ],
+            "learnMore": "Learn more"
+        },
         "nft": {
             "title": "It's an NFT",
             "features": [
@@ -613,5 +656,18 @@
         "marketplaces": {
             "title": "Also available on:"
         }
+    },
+    "errors": {
+        "privacyPolicy": "Cannot load the Privacy Policy now",
+        "termsOfUse": "Cannot load the Terms of Use now",
+        "newsArticle": "Cannot load that article",
+        "newsArticlesList": "Cannot load the news"
+    },
+    "newsList": {
+        "title": "News",
+        "readMore": "Read More"
+    },
+    "videoList": {
+        "watch": "Watch now"
     }
 }
