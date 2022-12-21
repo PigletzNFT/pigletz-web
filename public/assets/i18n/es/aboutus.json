@@ -1,63 +1,164 @@
 {
-    "title": "Sobre nosotros",
-    "description": "Pigletz.com es una colaboración entre dos empresas (Blockchain Technology Bulgaria y Aff Media) con décadas de experiencia combinada en los campos del desarrollo de juegos para dispositivos móviles, la creación de páginas web, el web marketing y la tecnología blockchain. Nuestro equipo está formado exclusivamente por profesionales, algunos de los cuales llevan trabajando en la industria de IT más de 20 años",
-    "team": [
-        {
-            "name": "Galin t.c.c. MasterPig",
-            "title": "El visionario",
-            "description": "Galin es Magíster en Ingeniería y Ciencias de la Computación y emprendedor con más de 20 años de experiencia internacional. Como fundador de varias empresas de desarrollo de juegos móviles, ha creado juegos exitosos con millones de jugadores. Los últimos 5 años desarrolla empresas en los campos de blockchain y DeFi.",
-            "photo": "/assets/images/team/masterpig.png",
-            "linkedin": "https://www.linkedin.com/in/galindinkov/",
-            "twitter": "https://twitter.com/_galinDinkov"
-        },
-        {
-            "name": "Vicho",
-            "title": "El webmáster",
-            "description": "Vicho también tiene una Maestría en Ciencias de la Computación y lleva desarrollando sitios web y aplicaciones web desde cuando estaba en la ESO. Dejó su trabajo de ingeniero de software para fundar su propia empresa hace 11 años. Creó cientos de sitios web y los posicionó muy bien en múltiples verticales en Google.",
-            "photo": "/assets/images/team/vicho.png"
-        },
-        {
-            "name": "Miro",
-            "title": "The Market[ing] Maker ",
-            "description": "Crea proyectos web desde cero en las industrias iGaming y FX. Copropietario de TradingPedia.com.",
-            "photo": "/assets/images/team/miro.png",
-            "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
-        },
-        {
-            "name": "Miró",
-            "title": "Los contratos",
-            "description": "Genio del software con 3 décadas de experiencia.",
-            "photo": "/assets/images/team/miro2.png",
-            "linkedin": "https://www.linkedin.com/in/miroslavln"
-        },
-        {
-            "name": "Yan t.c.c Piglet_Z",
-            "title": "Creación de comunidades",
-            "description": "Yan es especialista en marketing digital y coordinadora de redes sociales con casi 10 años de experiencia. Le encanta el mundo de los NFT y también es modista autodidacta. Su perfil profesional y personal es tan extenso que rara vez se puede encontrar en ninguna red social. Ella responde en nuestro Discord casi 24/7.",
-            "photo": "/assets/images/team/yan.png",
-            "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
-            "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
-        },
-        {
-            "name": "Niko",
-            "title": "El 3D",
-            "description": "Niko es un diseñador gráfico y 3D con casi 10 años de experiencia en el campo. Ha tenido interés en los NFT y en el mundo de la criptografía durante algún tiempo. Cuando no navega por Internet, se le puede encontrar en las galerías de arte de la ciudad.",
-            "photo": "/assets/images/team/niko.png"
-        },
-        {
-            "name": "Eve",
-            "title": "El arte conceptual",
-            "description": "Eve es una artista autodidacta y de mente abierta, que ha estado experimentando con el arte digital desde hace un tiempo. Ella trata de encender su curiosidad a través del arte en todas sus formas.",
-            "photo": "/assets/images/team/eve.png",
-            "instagram": "https://www.instagram.com/evesserpent/"
-        },
-        {
-            "name": "Veronica",
-            "title": "Desarrolladora Front-end",
-            "description": "Desarrolladora Front-end enérgica con experiencia en diseño, desarrollo y administración de sitios web. Le encanta viajar por el mundo, coleccionar piedras preciosas y cristales y hacer joyas con ellos.",
-            "photo": "/assets/images/team/vicky.png",
-            "instagram": "https://www.instagram.com/vikkinbd/",
-            "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
-        }
-    ]
+  "title": "Sobre nosotros",
+  "description": "Pigletz.com es una colaboración entre dos empresas (Blockchain Technology Bulgaria y Aff Media) con décadas de experiencia combinada en los campos del desarrollo de juegos para dispositivos móviles, la creación de páginas web, el web marketing y la tecnología blockchain. Nuestro equipo está formado exclusivamente por profesionales, algunos de los cuales llevan trabajando en la industria de IT más de 20 años",
+  "jobs": {
+    "title": "Trabaja con nosotros",
+    "description": "Si tiene experiencia como desarrollador, gerente de marketing o comunitario, influenciador, inversionista o simplemente desea ponerse en contacto con nosotros, haga clic a continuación.",
+    "button": "Ponerse en contacto",
+    "callToAction": "mailto:j0bz@pigletz.com"
+  },
+  "team": [
+    {
+      "name": "Galin t.c.c. MasterPig",
+      "title": "El visionario",
+      "description": "Galin es Magíster en Ingeniería y Ciencias de la Computación y emprendedor con más de 20 años de experiencia internacional. Como fundador de varias empresas de desarrollo de juegos móviles, ha creado juegos exitosos con millones de jugadores. Los últimos 5 años desarrolla empresas en los campos de blockchain y DeFi.",
+      "photo": "/assets/images/team/masterpig.png",
+      "linkedin": "https://www.linkedin.com/in/galindinkov/",
+      "twitter": "https://twitter.com/_galinDinkov"
+    },
+    {
+      "name": "Vicho",
+      "title": "El webmáster",
+      "description": "Vicho también tiene una Maestría en Ciencias de la Computación y lleva desarrollando sitios web y aplicaciones web desde cuando estaba en la ESO. Dejó su trabajo de ingeniero de software para fundar su propia empresa hace 11 años. Creó cientos de sitios web y los posicionó muy bien en múltiples verticales en Google.",
+      "photo": "/assets/images/team/vicho.png"
+    },
+    {
+      "name": "Miro",
+      "title": "The Market[ing] Maker ",
+      "description": "Crea proyectos web desde cero en las industrias iGaming y FX. Copropietario de TradingPedia.com.",
+      "photo": "/assets/images/team/miro.png",
+      "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+    },
+    {
+      "name": "Miró",
+      "title": "Los contratos",
+      "description": "Genio del software con 3 décadas de experiencia.",
+      "photo": "/assets/images/team/miro2.png",
+      "linkedin": "https://www.linkedin.com/in/miroslavln"
+    },
+    {
+      "name": "Yan t.c.c Piglet_Z",
+      "title": "Creación de comunidades",
+      "description": "Yan es especialista en marketing digital y coordinadora de redes sociales con casi 10 años de experiencia. Le encanta el mundo de los NFT y también es modista autodidacta. Su perfil profesional y personal es tan extenso que rara vez se puede encontrar en ninguna red social. Ella responde en nuestro Discord casi 24/7.",
+      "photo": "/assets/images/team/yan.png",
+      "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
+      "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+    },
+    {
+      "name": "Niko",
+      "title": "El 3D",
+      "description": "Niko es un diseñador gráfico y 3D con casi 10 años de experiencia en el campo. Ha tenido interés en los NFT y en el mundo de la criptografía durante algún tiempo. Cuando no navega por Internet, se le puede encontrar en las galerías de arte de la ciudad.",
+      "photo": "/assets/images/team/niko.png"
+    },
+    {
+      "name": "Eve",
+      "title": "El arte conceptual",
+      "description": "Eve es una artista autodidacta y de mente abierta, que ha estado experimentando con el arte digital desde hace un tiempo. Ella trata de encender su curiosidad a través del arte en todas sus formas.",
+      "photo": "/assets/images/team/eve.png",
+      "instagram": "https://www.instagram.com/evesserpent/"
+    },
+    {
+      "name": "Veronica",
+      "title": "Desarrolladora Front-end",
+      "description": "Desarrolladora Front-end enérgica con experiencia en diseño, desarrollo y administración de sitios web. Le encanta viajar por el mundo, coleccionar piedras preciosas y cristales y hacer joyas con ellos.",
+      "photo": "/assets/images/team/vicky.png",
+      "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
+    }
+  ],
+  "moreTeam": [
+    {
+      "name": "Sha",
+      "title": "Marketing & BizDev",
+      "description": "Sha es estudiante de desarrollo de software, entusiasta de las criptomonedas y un alma creativa con visiones de marketing innovadoras. Pasa su tiempo libre haciendo fotografía, producción musical o investigando sobre criptografía.",
+      "photo": "/assets/images/team/sha.png",
+      "instagram": "https://instagram.com/oktay.shakirov",
+      "linkedin": "https://www.linkedin.com/in/oktayshakirov"
+    },
+    {
+      "name": "Jewelrey",
+      "title": "Creador de contenido",
+      "description": "Jewelrey es un neófito en lo que respecta a nfts y criptografía, pero ayuda a crear contenido para el canal de YouTube de Pigletz. Fuera del metaverso, actualmente es estudiante de psicología y panadera.",
+      "photo": "/assets/images/team/jewelrey.png",
+      "instagram": "https://www.instagram.com/jewl.rey"
+    },
+    {
+      "name": "Edi",
+      "title": "Marketing",
+      "description": "Edi es la cara amigable que todos en la comunidad de Pigletz reconocerían. Cuando no está ocupado construyendo y moderando la comunidad de Pigletz, se lo ve estudiando, averiguando cómo funcionan ciertos JavaScripts.",
+      "photo": "/assets/images/team/edi.png",
+      "instagram": "https://instagram.com/eddie.mustanski"
+    },
+    {
+      "name": "Dr4g0",
+      "title": "Blockchain Dev",
+      "description": "Desarrollador de juegos y contratos inteligentes al que le gusta profundizar en el EVM. Dr4g0 desarrolla y audita contratos inteligentes y escribe API y middleware.",
+      "photo": "/assets/images/team/dr4g0.png",
+      "nolinks": true
+    },
+    {
+      "name": "Michal",
+      "title": "Desarrollo de juegos",
+      "description": "Desarrollador de juegos con larga experiencia en diferentes plataformas. También un geek manitas y un perfeccionista incurable. Programación desde principios de los 2000.",
+      "photo": "/assets/images/team/michal.png",
+      "linkedin": "https://www.linkedin.com/in/michal-fiala-004b1b4/"
+    },
+    {
+      "name": "Skachkov",
+      "title": "Diseño web",
+      "description": "Skachkov es un artista con más de 20 años de experiencia en diseño web y gráfico. También trabaja en sus colecciones originales de arte NFT.",
+      "photo": "/assets/images/team/skachkov.png",
+      "twitter": "https://twitter.com/@_sasho",
+      "instagram": "https://www.instagram.com/aoskachkov/"
+    },
+    {
+      "name": "S1m0",
+      "title": "Desarrollador back-end",
+      "description": "S1m0 es responsable del backend y el desarrollo de la nube. Su obra está oculta pero sin ella no se ve nada.",
+      "photo": "/assets/images/team/s1m0.png",
+      "nolinks": true
+    },
+    {
+      "name": "100j40",
+      "title": "Android Dev",
+      "description": "Con Maestría en Ciencias de la Computación, es un desarrollador móvil experimentado con 7 años de experiencia en la creación y mejora de aplicaciones móviles para diferentes tipos de empresas con millones de usuarios.",
+      "photo": "/assets/images/team/100j40.png",
+      "linkedin": "https://www.linkedin.com/in/stoycho-petrov-57a03112b/"
+    },
+    {
+      "name": "Dorje",
+      "title": "iOS Dev",
+      "description": "Dorje es un ingeniero móvil con 10 años de experiencia en el desarrollo de iOS y más de 15 años en el desarrollo de software. Trabajó en aplicaciones de clase mundial en su carrera, cree que el futuro pertenece a blockchain, Web3 y NFT.",
+      "photo": "/assets/images/team/dorje.png",
+      "linkedin": "https://www.linkedin.com/in/deyan-zhekov-35ba34b"
+    },
+    {
+      "name": "Jana",
+      "title": "Eventos y Ferias",
+      "description": "Jana organiza nuestra presentación en varios eventos alrededor del mundo. Es nativa en 5 idiomas y se siente en todos los continentes.",
+      "photo": "/assets/images/team/jana.png",
+      "linkedin": "https://www.linkedin.com/in/jana-alexandrova-4636576/"
+    },
+    {
+      "name": "Vladika",
+      "title": "Operaciones de mercado alemanas",
+      "description": "Desarrollo de negocio y operaciones de marketing en el mercado alemán. Es propietario de una exitosa agencia de marketing en Berlín y es un apasionado del fútbol.",
+      "photo": "/assets/images/team/vladika.png",
+      "linkedin": "https://www.linkedin.com/in/vladimirboyanov"
+    },
+    {
+      "name": "Mimi",
+      "title": "Operaciones de mercado español",
+      "description": "Mimi dirige nuestras operaciones, traducciones y ventas en el mercado español. Tiene más de 17 años de experiencia en ventas internacionales y gestión de equipos. Le encanta la artesanía, el arte contemporáneo y la pintura al óleo.",
+      "photo": "/assets/images/team/mimisim.png",
+      "instagram": "https://www.instagram.com/fitmamasenpijamas",
+      "linkedin": "https://www.linkedin.com/in/mimi-sim%C3%B3n-348028135/"
+    },
+    {
+      "name": "Darwin",
+      "title": "Operaciones de mercado asiático",
+      "description": "Darwin es un gurú de SEO/SEA y representa a Pigletz para los mercados del sur de Asia.",
+      "photo": "/assets/images/team/darwin.png",
+      "linkedin": "https://www.linkedin.com/in/darwin-wiranda/"
+    }
+  ]
 }
