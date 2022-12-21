@@ -630,11 +630,13 @@
         },
         {
           "description": " <b>Mobile Wallet</b> dirilis <br /> (Q4 2022)",
-          "progress": 80
+          "progress": 80,
+          "status": "Bekerja..."
         },
         {
           "description": " <b>Putar dan Menangkan</b> Pigletz <br /> (Q4 2022)",
-          "progress": 90
+          "progress": 90,
+          "status": "Bekerja..."
         },
         {
           "description": " <b>Cross-chain</b> segera hadir<br />",
