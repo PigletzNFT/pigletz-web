@@ -9,7 +9,7 @@
     "website": "Pigletz.com",
     "home": "Startseite",
     "gallery": "Galerie",
-    "aboutus": "Über Uns",
+    "about": "Über",
     "pigletz": "Meine Pigletz",
     "staked": "Staked",
     "mystery": "Meine Boxen",
@@ -17,6 +17,7 @@
     "buypiglets": "Pigletz Minten",
     "menu": "Menü",
     "back": "Zurück",
+    "language": "Sprache",
     "languages": {
       "en": "English",
       "bg": "Български",
@@ -26,7 +27,16 @@
       "tl": "Filipino",
       "ar": "العربية",
       "ru": "Русский",
-      "id": "Bahasa Indonesia"
+      "id": "Bahasa Indonesia",
+      "zh": "简体中文"
+    }
+  },
+  "buttons": {
+    "close": "Schließen"
+  },
+  "marketing": {
+    "notifications": {
+      "subscribeToast": "🐽 Updates abonnieren"
     }
   },
   "banner": {
@@ -52,6 +62,9 @@
     },
     "staking": {
       "text": "Pigletz staking kommt in {{time}}"
+    },
+    "blackFriday": {
+      "text": "Der BLACK FRIDAY-Deal endet in {{time}}"
     }
   },
   "footer": {
@@ -77,6 +90,10 @@
     "description": "Herzlich willkommen! Hier kannst du dein neues Piglet minten. Es wird mit einem nachweislich fairen Zufallsalgorithmus ausgewählt. Wenn du Rabattcodes erhalten möchtest, melde dich bei unseren Communities bei Discord, Telegram und Twitter an und frage nach den Optionen. Viel Spaß!",
     "tiersDescription": "Wir minten Sammlungen mit unterschiedlichen Beträgen und Preisen. Der Preis steigt mit der Zeit und wird am Ende 8 BNB erreichen. Aber mit dem höheren Preis gibt es auch eine höhere Chance, den speziellen Booster zu bekommen.",
     "checkTiers": "Die unterschiedlichen Ebenen unten anschauen"
+  },
+  "blackFridayMint": {
+    "title": "BLACK FRIDAY ANGEBOT!",
+    "description": "Nur für eine begrenzte Zeit kannst du hier dein Ferkel mit 50% Rabatt kaufen. Verpasse nicht deine Chance."
   },
   "pigletzList": {
     "title": "Pigletz Sammlung",
@@ -346,6 +363,7 @@
     "materializeButton": "Materialisieren",
     "dematerializeButton": "Digitalisieren",
     "pigletNotFoundError": "Piglet {{tokenId}} nicht gefunden",
+    "traitToolTip": "{{percents}} % Pigletz haben diese Eigenschaft",
     "levels": {
       "level1": "1",
       "level2": "2",
@@ -477,10 +495,39 @@
       }
     }
   },
+  "about": {
+    "title": "Über Pigletz"
+  },
   "home": {
     "subtitle": "Das erste NFT, das sich materialisiert!",
     "howitworks": "Schau mal, wie es funktioniert",
     "videoModalTitle": "Wie funktioniert's",
+    "intro": {
+      "whitepaper": "Whitepaper"
+    },
+    "stats": {
+      "title": "Pigletz-Statistiken"
+    },
+    "latestNews": {
+      "title": "Neuesten Nachrichten",
+      "seeMoreNewsButton": "Weitere Nachrichten anzeigen"
+    },
+    "latestVideos": {
+      "title": "Neueste Videos"
+    },
+    "about": {
+      "title": "Was ist Pigletz?",
+      "features": [
+        "Eine Sammlung von 12,345 Piglet-NFTs",
+        "Jeder hat einen Nutzwert eines Sparschweins",
+        "Darin kannst du deine Krypto-Tokens sammeln",
+        "Jedes Piglet schürft jeden Tag PiFi-Token für dich",
+        "Pigletz NFT ist in 3 Stufen upgradefähig",
+        "Die einzige NFT, die in der realen Welt materialisiert werden kann",
+        "Du kannst dein Guthaben nur abheben, wenn du das Sparschwein aufbrichst."
+      ],
+      "learnMore": "Mehr erfahren"
+    },
     "nft": {
       "title": "Es ist ein NFT",
       "features": [
@@ -617,5 +664,18 @@
     "marketplaces": {
       "title": "Auch verfügbar auf:"
     }
+  },
+  "errors": {
+    "privacyPolicy": "Die Datenschutzrichtlinie kann jetzt nicht geladen werden",
+    "termsOfUse": "Die Nutzungsbedingungen können jetzt nicht geladen werden",
+    "newsArticle": "Dieser Artikel kann nicht geladen werden",
+    "newsArticlesList": "Nachrichten können nicht geladen werden"
+  },
+  "newsList": {
+    "title": "Nachrichten",
+    "readMore": "Weiterlesen"
+  },
+  "videoList": {
+    "watch": "Jetzt anschauen"
   }
 }
