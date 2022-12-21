@@ -498,7 +498,14 @@
             "whitepaper": "Whitepaper"
         },
         "stats": {
-            "title": "Pigletz Stats"
+            "title": "Pigletz Stats",
+            "mintedPigletz": "Minted Pigletz",
+            "brokenPigletz": "Broken Pigletz",
+            "stakedPigletz": "Staked Pigletz",
+            "holders": "Holders",
+            "circulatingPifi": "Circulating PiFi",
+            "pifiInPigletz": "PiFi in Pigletz",
+            "totalValueInPigletz": "Total Value in Pigletz"
         },
         "latestNews": {
             "title": "Latest News",
