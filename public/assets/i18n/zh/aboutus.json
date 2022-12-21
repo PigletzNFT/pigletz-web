@@ -1,0 +1,164 @@
+{
+  "title": "团队",
+  "description": "Pigletz.com 是两家公司（Blockchain Technology Bulgaria 和 Aff Media）的合作，在移动游戏开发、网络创作和营销以及区块链技术领域拥有数十年的综合经验。我们的团队完全由专业人士组成，其中一些人在 IT 行业工作了 20 多年。",
+  "jobs": {
+    "title": "跟我们工作",
+    "description": "如果您是经验丰富的开发人员、营销或社区经理、影响者、投资者，或者只是想与我们取得联系，请点击下方",
+    "button": "保持联系",
+    "callToAction": "邮箱：j0bz@pigletz.com"
+  },
+  "team": [
+    {
+      "name": "Galin a.k.a. MasterPig",
+      "title": "有远见的人",
+      "description": "Galin 是计算机科学工程硕士和企业家，在该行业拥有 20 多年的经验。作为几家游戏开发公司的创始人，他制作了拥有数百万玩家的成功游戏。在过去的 5 年里，他在区块链和 DeFi 领域开发了公司。",
+      "photo": "/assets/images/team/masterpig.png",
+      "linkedin": "https://www.linkedin.com/in/galindinkov/",
+      "twitter": "https://twitter.com/_galinDinkov"
+    },
+    {
+      "name": "维乔",
+      "title": "网络大师",
+      "description": "Vicho 还拥有计算机科学硕士学位，并且在上大学之前就开始专业开发网站和网络应用程序，当时他还在读高中。 11 年前，他辞去了软件工程工作，共同创办了自己的公司。它建立了数百个网站，并在谷歌的多个垂直领域对它们进行了很好的排名。",
+      "photo": "/assets/images/team/vicho.png"
+    },
+    {
+      "name": "米罗",
+      "title": "做市商",
+      "description": "在 iGaming 和 FX 行业从头开始构建 Web 项目。 TradingPedia.com 的共同所有人。 Miro 负责广告管理和 SEO。",
+      "photo": "/assets/images/team/miro.png",
+      "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+    },
+    {
+      "name": "米罗",
+      "title": "合约",
+      "description": "拥有 3 年经验的软件天才。他领导智能合约开发以及云和后端开发。",
+      "photo": "/assets/images/team/miro2.png",
+      "linkedin": "https://www.linkedin.com/in/miroslavln"
+    },
+    {
+      "name": "Yan a.k.a Piglet_Z",
+      "title": "社区建设者",
+      "description": "Yan 近 10 年来一直是专业的在线营销专家和社交媒体协调员。她也是 NFT 的崇拜者和自学成才的裁缝师。她的个人资料深陷阴谋，很少能在任何社交媒体上找到。然而，她几乎 24/7 全天候在我们的 Discord 中做出回应。",
+      "photo": "/assets/images/team/yan.png",
+      "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
+      "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+    },
+    {
+      "name": "妮可",
+      "title": "3D",
+      "description": "Niko 是一位图形和 3D 设计师，在该领域拥有近 10 年的经验。一段时间以来，他一直对 NFT 和加密货币世界感兴趣。当他不上网时，可以在城市美术馆找到他。",
+      "photo": "/assets/images/team/niko.png"
+    },
+    {
+      "name": "前夕",
+      "title": "概念艺术",
+      "description": "Eve 是一位思想开放、自学成才的艺术家，她已经尝试数字艺术一段时间了。她正试图通过各种形式的艺术来激发她的好奇心。",
+      "photo": "/assets/images/team/eve.png",
+      "instagram": "https://www.instagram.com/evesserpent/"
+    },
+    {
+      "name": "维罗妮卡",
+      "title": "前端",
+      "description": "充满活力的前端开发人员，具有设计、开发和管理网站的经验。她喜欢环游世界，收集宝石和水晶并用它们制作珠宝。",
+      "photo": "/assets/images/team/vicky.png",
+      "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
+    }
+  ],
+  "moreTeam": [
+    {
+      "name": "沙",
+      "title": "营销与业务开发",
+      "description": "Sha 是一名软件开发专业的学生，一名加密货币爱好者，以及具有创新营销眼光的创意灵魂。他将空闲时间用于摄影、音乐制作或加密货币研究。",
+      "photo": "/assets/images/team/sha.png",
+      "instagram": "https://instagram.com/oktay.shakirov",
+      "linkedin": "https://www.linkedin.com/in/oktayshakirov"
+    },
+    {
+      "name": "珠宝首饰",
+      "title": "内容创建者",
+      "description": "Jewelrey 是 nfts 和加密方面的新手，但帮助为 Pigletz 的 YouTube 频道制作内容。在虚拟宇宙之外，她目前是一名心理学学生和一名面包师。",
+      "photo": "/assets/images/team/jewelrey.png",
+      "instagram": "https://www.instagram.com/jewl.rey"
+    },
+    {
+      "name": "埃迪",
+      "title": "营销",
+      "description": "Edi 是 Pigletz 社区中每个人都会认出的友善面孔。当他不忙于建立和管理 Pigletz 的社区时，人们会看到他在学习，弄清楚某些 JavaScript 是如何工作的。",
+      "photo": "/assets/images/team/edi.png",
+      "instagram": "https://instagram.com/eddie.mustanski"
+    },
+    {
+      "name": "Dr4g0",
+      "title": "区块链开发",
+      "description": "喜欢深入研究 EVM 的游戏和智能合约开发者。 Dr4g0 开发和审计智能合约并编写 API 和中间件。",
+      "photo": "/assets/images/team/dr4g0.png",
+      "nolinks": "真的"
+    },
+    {
+      "name": "迈克尔",
+      "title": "游戏开发",
+      "description": "在不同平台上拥有丰富经验的游戏开发者。也是一个令人讨厌的修补匠和一个无法治愈的完美主义者。自 2000 年代初开始编程。",
+      "photo": "/assets/images/team/michal.png",
+      "linkedin": "https://www.linkedin.com/in/michal-fiala-004b1b4/"
+    },
+    {
+      "name": "斯卡奇科夫",
+      "title": "网页设计",
+      "description": "Skachkov 是一位在网页和图形设计方面拥有 20 多年经验的艺术家。他还从事原创艺术 NFT 收藏。",
+      "photo": "/assets/images/team/skachkov.png",
+      "twitter": "https://twitter.com/@_sasho",
+      "instagram": "https://www.instagram.com/aoskachkov/"
+    },
+    {
+      "name": "S1m0",
+      "title": "后端开发",
+      "description": "S1m0 负责后端和云开发。他的作品是隐藏的，但没有它就什么也看不见。",
+      "photo": "/assets/images/team/s1m0.png",
+      "nolinks": "真的"
+    },
+    {
+      "name": "100j40",
+      "title": "安卓开发",
+      "description": "作为计算机科学硕士，他是一位经验丰富的移动开发人员，在为拥有数百万用户的不同类型的企业构建和改进移动应用程序方面拥有 7 年的经验。",
+      "photo": "/assets/images/team/100j40.png",
+      "linkedin": "https://www.linkedin.com/in/stoycho-petrov-57a03112b/"
+    },
+    {
+      "name": "多杰",
+      "title": "开发者",
+      "description": "Dorje 是一名移动工程师，拥有 10 年的 iOS 开发经验和超过 15 年的软件开发经验。在他的职业生涯中从事世界级应用程序的工作，他相信未来属于区块链、Web3 和 NFT。",
+      "photo": "/assets/images/team/dorje.png",
+      "linkedin": "https://www.linkedin.com/in/deyan-zhekov-35ba34b"
+    },
+    {
+      "name": "亚娜",
+      "title": "活动和展览会",
+      "description": "Jana 在全球各地的各种活动中组织我们的演讲。她精通 5 种语言，感觉遍及各大洲。",
+      "photo": "/assets/images/team/jana.png",
+      "linkedin": "https://www.linkedin.com/in/jana-alexandrova-4636576/"
+    },
+    {
+      "name": "弗拉迪卡",
+      "title": "德国市场运营",
+      "description": "德国市场的业务开发和营销运营。他在柏林拥有一家成功的营销机构，并且是一名充满激情的足球运动员。",
+      "photo": "/assets/images/team/vladika.png",
+      "linkedin": "https://www.linkedin.com/in/vladimirboyanov"
+    },
+    {
+      "name": "咪咪",
+      "title": "西班牙市场行动",
+      "description": "Mimi 负责我们的西班牙市场运营、翻译和销售。她拥有超过 17 年的国际销售和团队管理经验。她热爱手工艺、当代艺术和油画。",
+      "photo": "/assets/images/team/mimisim.png",
+      "instagram": "https://www.instagram.com/fitmamasenpijamas",
+      "linkedin": "https://www.linkedin.com/in/mimi-sim%C3%B3n-348028135/"
+    },
+    {
+      "name": "达尔文",
+      "title": "亚洲市场运营",
+      "description": "Darwin 是一位 SEO/SEA 大师，代表 Pigletz 进入南亚市场。",
+      "photo": "/assets/images/team/darwin.png",
+      "linkedin": "https://www.linkedin.com/in/darwin-wiranda/"
+    }
+  ]
+}

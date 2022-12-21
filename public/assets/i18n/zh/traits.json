@@ -1,0 +1,181 @@
+{
+  "trait": {
+    "description": "这是一只 {{level}} 级 {{body}} 小猪，性别为 {{gender}} - 12,345 只独特的 Pigletz 中的一员。它会每天为您挖掘 {{dailyMint}} PiFi 代币。打破它以获得硬币！或者将其作为真正的 3D 打印存钱罐运送。你决定。",
+    "category": {
+      "Level": "等级",
+      "Base PiFi/Day": "基础 PiFi/天",
+      "Gender": "性别",
+      "Zodiac": "符号",
+      "Body": "身体",
+      "Mouth": "嘴",
+      "Eyes": "眼睛",
+      "Hairstyle": "发型",
+      "Beardstyle": "胡子造型",
+      "Earrings": "耳环",
+      "Nose": "鼻子样式",
+      "Glasses": "眼镜",
+      "Tattoo": "纹身"
+    },
+    "value": {
+      "Level": {
+        "1": "第一的",
+        "2": "第二",
+        "3": "第三",
+        "4": "实体化"
+      },
+      "Base PiFi/Day": {
+        "167": "167",
+        "250": "250",
+        "417": "417",
+        "500": "500"
+      },
+      "Gender": {
+        "GenderMale": "男性",
+        "GenderFemale": "女性",
+        "GenderOther": "未指定"
+      },
+      "Zodiac": {
+        "ZodiacAries": "白羊座",
+        "ZodiacTaurus": "金牛座",
+        "ZodiacGemini": "双子座",
+        "ZodiacCancer": "癌症",
+        "ZodiacLeo": "狮子座",
+        "ZodiacVirgo": "处女座",
+        "ZodiacLibra": "天秤座",
+        "ZodiacScorpio": "天蝎座",
+        "ZodiacSagittarius": "射手座",
+        "ZodiacCapricorn": "摩羯座",
+        "ZodiacAquarius": "水瓶座",
+        "ZodiacPisces": "双鱼座"
+      },
+      "Body": {
+        "BodyPinkMale": "粉色的",
+        "BodyBrownMale": "棕色的",
+        "BodyBlackMale": "黑色的",
+        "BodyAlbinoMale": "白化病",
+        "BodyGoldMale": "金子",
+        "BodyStoneMale": "石头",
+        "BodyPinkFemale": "粉色的",
+        "BodyBrownFemale": "棕色的",
+        "BodyBlackFemale": "黑色的",
+        "BodyAlbinoFemale": "白化病",
+        "BodyGoldFemale": "金子",
+        "BodyStoneFemale": "石头"
+      },
+      "Mouth": {
+        "MouthMaleBubblegum": "泡泡糖",
+        "MouthSmoking": "抽烟",
+        "MouthAngry": "生气的",
+        "MouthMaleSmiling": "微笑",
+        "MouthMaleTongue": "舌头",
+        "MouthDrooling": "流口水",
+        "MouthMaleVampire": "吸血鬼",
+        "MouthGoldTooth": "金牙",
+        "MouthStandard": "标准",
+        "MouthHalfOpen": "半开",
+        "MouthFemaleSmiling": "微笑",
+        "MouthSad": "伤心",
+        "MouthFemaleBubblegum": "泡泡糖",
+        "MouthKiss": "吻",
+        "MouthFemaleTongue": "舌头",
+        "MouthFemaleVampire": "吸血鬼"
+      },
+      "Eyes": {
+        "EyesMaleBrown": "棕色的",
+        "EyesMaleGreen": "绿色的",
+        "EyesMaleBlue": "蓝色的",
+        "EyesTired": "疲劳的",
+        "EyesBitcoin": "比特币",
+        "EyesInlove": "恋爱",
+        "EyesScared": "害怕的",
+        "EyesMaleAngry": "生气的",
+        "EyesCrying": "哭泣",
+        "EyesSeductive": "诱人的",
+        "EyesFemaleGreen": "绿色的",
+        "EyesFemaleBlue": "蓝色的",
+        "EyesFemaleBrown": "棕色的",
+        "EyesFemaleBitcoin": "比特币",
+        "EyesBlinking": "闪烁",
+        "EyesFemaleAngry": "生气的"
+      },
+      "Hairstyle": {
+        "HairstyleBald": "秃",
+        "HairstyleManbunBlack": "黑满分",
+        "HairstyleRasta": "拉斯塔",
+        "HairstyleEmoBlonde": "金发女郎",
+        "HairstyleEmoBrown": "棕色情绪",
+        "HairstyleEmoBlack": "黑色情绪",
+        "HairstyleSpikedBrown": "棕色尖刺",
+        "HairstyleEyesMaleAngry": "生气的",
+        "HairstyleSpikedBlonde": "金发女郎",
+        "HairstyleChild": "孩子",
+        "HairstylePunk": "朋克",
+        "HairstyleFedora": "软呢帽",
+        "HairstyleSummerHat": "凉帽",
+        "HairstyleShort": "短的",
+        "HairstyleBraid": "编织",
+        "HairstyleAfro": "爆炸头",
+        "HairstyleStraight": "直的",
+        "HairstyleCurlyBanksBlonde": "金发卷刘海",
+        "HairstyleCurlyBanksRed": "红色卷刘海",
+        "HairstyleBunsBlack": "黑面包",
+        "HairstyleBunsBlonde": "金发包子",
+        "HairstyleBunsBrown": "棕色面包",
+        "HairstyleBanks": "刘海",
+        "HairstylePonytails": "马尾辫",
+        "HairstylePonytail": "马尾辫",
+        "HairstyleHeadband": "头巾"
+      },
+      "Beardstyle": {
+        "BeardstyleNone": "没有任何",
+        "BeardstyleFull": "满的",
+        "BeardstyleThin": "薄的",
+        "BeardstyleStandard": "标准",
+        "BeardstyleMario": "马里奥",
+        "BeardstyleDali": "大理"
+      },
+      "Earrings": {
+        "EarringsNone": "没有任何",
+        "EarringsMaleRingsSilver": "银戒指",
+        "EarringsMaleRingsGold": "金戒指",
+        "EarringsManiac": "疯子",
+        "EarringsDrop": "降低",
+        "EarringsFancy": "想要",
+        "EarringsBigRings": "大戒指",
+        "EarringsStones": "石头",
+        "EarringsFemaleRings": "戒指",
+        "EarringsBalls": "球"
+      },
+      "Nose": {
+        "NoseNone": "没有任何",
+        "NoseTribal": "部落的",
+        "NoseHorseshoe": "马蹄铁",
+        "NoseRing": "戒指",
+        "NoseSeptum": "隔膜",
+        "NoseBooger": "鼻屎"
+      },
+      "Glasses": {
+        "GlassesNone": "没有任何",
+        "GlassesJohn": "约翰",
+        "GlassesHalf": "一半",
+        "GlassesEyepatch": "眼罩",
+        "GlassesOptical": "光学的",
+        "GlassesMask": "面具",
+        "GlassesRetro": "复古的",
+        "GlassesCateyeRed": "红猫眼",
+        "GlassesCateyeWhite": "白猫眼",
+        "GlassesHeartshaped": "心形",
+        "GlassesGolden": "金的"
+      },
+      "Tattoo": {
+        "TattooNone": "没有任何",
+        "TattooTyson": "泰森",
+        "TattooRapper": "说唱歌手",
+        "TattooMaleFace": "脸",
+        "TattooFemaleFace": "脸",
+        "TattooPiercing": "冲孔",
+        "TattooFull": "满的"
+      }
+    }
+  }
+}
