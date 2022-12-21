@@ -667,12 +667,14 @@
     "errors": {
         "privacyPolicy": "Cannot load the Privacy Policy now",
         "termsOfUse": "Cannot load the Terms of Use now",
+        "wofRules": "Cannot load the rules",
         "newsArticle": "Cannot load that article",
         "newsArticlesList": "Cannot load the news"
     },
     "newsList": {
         "title": "News",
-        "readMore": "Read More"
+        "readMore": "Read More",
+        "allNews": "All News"
     },
     "videoList": {
         "watch": "Watch now"
