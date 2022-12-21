@@ -9,7 +9,7 @@
     "website": "Pigletz.com",
     "home": "Anasayfa",
     "gallery": "Galeri",
-    "aboutus": "Hakkımızda",
+    "about": "Hakkında",
     "pigletz": "Pigletz'lerim",
     "staked": "Benim Stake",
     "mystery": "Kutularım",
@@ -17,6 +17,7 @@
     "buypiglets": "Pigletz NFT üret",
     "menu": "Menü",
     "back": "Geri",
+    "language": "Dil",
     "languages": {
       "en": "English",
       "bg": "Български",
@@ -26,7 +27,16 @@
       "tl": "Filipino",
       "ar": "العربية",
       "ru": "Русский",
-      "id": "Bahasa Indonesia"
+      "id": "Bahasa Indonesia",
+      "zh": "简体中文"
+    }
+  },
+  "buttons": {
+    "close": "Kapat"
+  },
+  "marketing": {
+    "notifications": {
+      "subscribeToast": "🐽 Güncellemeler için abone ol"
     }
   },
   "banner": {
@@ -52,6 +62,9 @@
     },
     "staking": {
       "text": "Pigletz Staking {{time}} içinde geliyor"
+    },
+    "blackFriday": {
+      "text": "BLACK FRIDAY anlaşması {{time}} içinde bitecek"
     }
   },
   "footer": {
@@ -77,6 +90,10 @@
     "description": "Hoş geldin! Burada yeni Piglet'ini basabilirsin. Kanıtlanabilir adil rastgele algoritma kullanılarak seçilecektir. İndirim kodları almak istiyorsan Discord, Telegram ve Twitter'daki topluluklarımıza katıl ve seçenekleri sor. İyi eğlenceler!",
     "tiersDescription": "Farklı miktar ve fiyatlarda koleksiyonlar basıyoruz. Fiyat zamanla artmaktadır ve sonunda 8 BNB'ye ulaşacaktır. Ancak fiyat arttığında, özel takviyeyi elde etme şansınız da artmaktadır.",
     "checkTiers": "aşağıdaki kademeleri kontrol et"
+  },
+  "blackFridayMint": {
+    "title": "BLACK FRIDAY FIRSATLARI!",
+    "description": "Sadece kısa bir süre için domuz yavrunu buradan %50 indirimle alabilirsin. Şansını kaçırma."
   },
   "pigletzList": {
     "title": "Pigletz Koleksiyonu",
@@ -346,6 +363,7 @@
     "materializeButton": "Gerçeğe Dönüştür",
     "dematerializeButton": "Dijitalleştir",
     "pigletNotFoundError": "Piglet {{tokenId}} bulunamadı",
+    "traitToolTip": "{{percents}}% Pigletz bu özelliğe sahiptir",
     "levels": {
       "level1": "1",
       "level2": "2",
@@ -477,10 +495,39 @@
       }
     }
   },
+  "about": {
+    "title": "Pigletz Hakkında"
+  },
   "home": {
     "subtitle": "Gerçeğe dönüşen ilk NFT!",
     "howitworks": "Nasıl çalıştığını gör",
     "videoModalTitle": "Nasıl çalışıyor",
+    "intro": {
+      "whitepaper": "Whitepaper"
+    },
+    "stats": {
+      "title": "Pigletz İstatistikleri"
+    },
+    "latestNews": {
+      "title": "Son Haberler",
+      "seeMoreNewsButton": "Daha fazla haber gör"
+    },
+    "latestVideos": {
+      "title": "Son videolar"
+    },
+    "about": {
+      "title": "Pigletz nedir?",
+      "features": [
+        "12.345 Piglet NFT koleksiyonu",
+        "Her birinin bir Kumbara kullanımına sahip olması",
+        "Kripto tokenlerini içinde kaydedebilirsin",
+        "Her Piglet her gün senin için PiFi token madenciliği yapıyor",
+        "Pigletz NFT, 3 seviyede yükseltilebilir",
+        "Gerçek dünyada hayata geçirilebilen tek NFT",
+        "Sadece Piglet'i kırarak parayı çekebilirsin"
+      ],
+      "learnMore": "Daha fazla bilgi"
+    },
     "nft": {
       "title": "Bu bir NFT",
       "features": [
@@ -617,5 +664,18 @@
     "marketplaces": {
       "title": "Ulaşabileceğin diğer yerler:"
     }
+  },
+  "errors": {
+    "privacyPolicy": "Gizlilik Politikası şimdi yüklenemiyor",
+    "termsOfUse": "Kullanım Koşulları şimdi yüklenemiyor",
+    "newsArticle": "Bu makale yüklenemiyor",
+    "newsArticlesList": "Haberler yüklenemiyor"
+  },
+  "newsList": {
+    "title": "Haberler",
+    "readMore": "Devamını oku"
+  },
+  "videoList": {
+    "watch": "Şimdi izle"
   }
 }
