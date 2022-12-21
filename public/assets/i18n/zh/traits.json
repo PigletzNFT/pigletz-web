@@ -1,5 +1,6 @@
 {
   "trait": {
+    "description": "这是一只 {{level}} 级 {{body}} 小猪，性别为 {{gender}} - 12,345 只独特的 Pigletz 中的一员。它会每天为您挖掘 {{dailyMint}} PiFi 代币。打破它以获得硬币！或者将其作为真正的 3D 打印存钱罐运送。你决定。",
     "category": {
       "Level": "等级",
       "Base PiFi/Day": "基础 PiFi/天",
