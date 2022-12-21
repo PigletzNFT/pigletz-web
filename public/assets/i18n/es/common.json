@@ -640,11 +640,13 @@
         },
         {
           "description": " Lanzamiento de <b>Mobile Wallet</b> <br /> (cuarto trimestre de 2022)",
-          "progress": 80
+          "progress": 80,
+          "status": "Trabajando..."
         },
         {
           "description": " <b>Gira y gana</b> Pigletz <br /> (cuarto trimestre de 2022)",
-          "progress": 90
+          "progress": 90,
+          "status": "Trabajando..."
         },
         {
           "description": " <b>Cross-chain</b> próximamente<br />",
