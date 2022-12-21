@@ -502,7 +502,14 @@
       "whitepaper": "白皮书"
     },
     "stats": {
-      "title": "Pigletz 统计"
+      "title": "Pigletz 统计",
+      "mintedPigletz": "铸币小猪",
+      "brokenPigletz": "破碎的小猪",
+      "stakedPigletz": "赌注小猪",
+      "holders": "持有人",
+      "circulatingPifi": "循环PiFi",
+      "pifiInPigletz": "Pigletz 中的 PiFi",
+      "totalValueInPigletz": "Pigletz 的总价值"
     },
     "latestNews": {
       "title": "最新消息",
@@ -664,12 +671,14 @@
   "errors": {
     "privacyPolicy": "现在无法加载隐私政策",
     "termsOfUse": "现在无法加载使用条款",
+    "wofRules": "无法加载规则",
     "newsArticle": "无法加载该文章",
     "newsArticlesList": "无法加载新闻"
   },
   "newsList": {
     "title": "消息",
-    "readMore": "阅读更多"
+    "readMore": "阅读更多",
+    "allNews": "所有新闻"
   },
   "videoList": {
     "watch": "立即观看"
