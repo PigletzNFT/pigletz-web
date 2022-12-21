@@ -27,7 +27,8 @@
       "tl": "Filipino",
       "ar": "العربية",
       "ru": "Русский",
-      "id": "Bahasa Indonesia"
+      "id": "Bahasa Indonesia",
+      "zh": "简体中文"
     }
   },
   "buttons": {
@@ -358,6 +359,7 @@
     "materializeButton": "实物制作",
     "dematerializeButton": "数字化",
     "pigletNotFoundError": "找不到小猪 {{tokenId}}",
+    "traitToolTip": "{{percents}}% Pigletz 有这个特性",
     "levels": {
       "level1": "1级",
       "level2": "2级",
@@ -490,14 +492,17 @@
     }
   },
   "about": {
+    "title": "关于 Pigletz"
   },
   "home": {
     "subtitle": "第一个与现实连接的 NFT！",
     "howitworks": "看看它如何运作",
     "videoModalTitle": "这个如何运作",
     "intro": {
+      "whitepaper": "白皮书"
     },
     "stats": {
+      "title": "Pigletz 统计"
     },
     "latestNews": {
       "title": "最新消息",
@@ -507,15 +512,17 @@
       "title": "最新影片"
     },
     "about": {
+      "title": "什么是 Pigletz？",
       "features": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
+        "合集 12,345 个 Piglet NFT",
+        "每个人都有存钱罐的效用",
+        "您可以在其中保存您的加密令牌",
+        "每个小猪每天都在为你挖 PiFi 代币",
+        "Pigletz NFT 可升级为 3 个级别",
+        "唯一可以在现实世界中实现的 NFT",
+        "您只能通过破坏 Piglet 来提取您的资金"
+      ],
+      "learnMore": "学到更多"
     },
     "nft": {
       "title": "这是一个NFT",
