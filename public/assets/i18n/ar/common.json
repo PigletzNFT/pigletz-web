@@ -630,11 +630,13 @@
         },
         {
           "description": " تم إصدار <b> محفظة الجوال </ b> <br /> (الربع الرابع 2022)",
-          "progress": 80
+          "progress": 80,
+          "status": "عمل..."
         },
         {
           "description": " <b> أدر واربح </ b> Pigletz <br /> (الربع الرابع 2022)",
-          "progress": 90
+          "progress": 90,
+          "status": "عمل..."
         },
         {
           "description": " <b> سلسلة متقاطعة </ b> قريبًا <br />",
