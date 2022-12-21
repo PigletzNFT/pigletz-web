@@ -49,7 +49,7 @@
       "minute_other": "{{count}} menit",
       "hour": "{{count}} jam",
       "hour_other": "{{count}} jam",
-      "day": "{{hitung}} hari",
+      "day": "{{count}} hari",
       "day_other": "{{count}} hari"
     },
     "public": {
@@ -161,7 +161,7 @@
   },
   "connect": {
     "title": "Hubungkan dompet",
-    "balance": "{{saldo}} BNB",
+    "balance": "{{balance}} BNB",
     "disconnect": "Putus",
     "providers": {
       "metamask": "MetaMask",
@@ -499,10 +499,17 @@
     "howitworks": "Lihat cara kerjanya",
     "videoModalTitle": "Bagaimana cara bekerjanya",
     "intro": {
-      "whitepaper": "Kertas putih"
+      "whitepaper": "Whitepaper"
     },
     "stats": {
-      "title": "Statistik Pigletz"
+      "title": "Statistik Pigletz",
+      "mintedPigletz": "Pigletz yang dicetak",
+      "brokenPigletz": "Pigletz yang rusak",
+      "stakedPigletz": "Pigletz yang dipertaruhkan",
+      "holders": "Pemegang",
+      "circulatingPifi": "Beredar PiFi",
+      "pifiInPigletz": "PiFi di Pigletz",
+      "totalValueInPigletz": "Nilai Total dalam Pigletz"
     },
     "latestNews": {
       "title": "Berita Terbaru",
