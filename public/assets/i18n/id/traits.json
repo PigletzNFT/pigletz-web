@@ -2,8 +2,10 @@
   "trait": {
     "description": "Ini adalah Piglet {{level}} level {{body}} dengan jenis kelamin {{gender}} - salah satu dari 12.345 Pigletz unik. Ini akan menambang {{dailyMint}} token PiFi untuk anda setiap hari. Hancurkan untuk mendapatkan koin! Atau kirimkan sebagai celengan cetak 3D asli. Kamu tentukan.",
     "category": {
+      "Level": "Tingkat",
       "Base PiFi/Day": "basis PiFi per Hari",
       "Gender": "Jenis Kelamin",
+      "Zodiac": "Tanda",
       "Body": "Badan",
       "Mouth": "Mulut",
       "Eyes": "Mata",
@@ -22,6 +24,7 @@
         "4": "Terwujud"
       },
       "Base PiFi/Day": {
+        "500": "500"
       },
       "Gender": {
         "GenderMale": "Pria",
@@ -29,13 +32,31 @@
         "GenderOther": "Tidak terdefinisi"
       },
       "Zodiac": {
+        "ZodiacAries": "Aries",
+        "ZodiacTaurus": "Taurus",
+        "ZodiacGemini": "Gemini",
+        "ZodiacCancer": "Cancer",
+        "ZodiacLeo": "Leo",
+        "ZodiacVirgo": "Virgo",
+        "ZodiacLibra": "Libra",
+        "ZodiacScorpio": "Scorpio",
+        "ZodiacSagittarius": "Sagittarius",
+        "ZodiacCapricorn": "Capricorn",
+        "ZodiacAquarius": "Aquarius",
+        "ZodiacPisces": "Pisces"
       },
       "Body": {
+        "BodyPinkMale": "Merah Jambu",
         "BodyBrownMale": "Coklat",
         "BodyBlackMale": "Hitam",
+        "BodyAlbinoMale": "Albino",
         "BodyGoldMale": "Emas",
         "BodyStoneMale": "Batu",
+        "BodyPinkFemale": "Merah Jambu",
+        "BodyBrownFemale": "Cokelat",
         "BodyBlackFemale": "Hitam",
+        "BodyAlbinoFemale": "Albino",
+        "BodyGoldFemale": "Emas",
         "BodyStoneFemale": "Batu"
       },
       "Mouth": {
