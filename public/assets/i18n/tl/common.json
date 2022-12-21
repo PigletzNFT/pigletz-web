@@ -9,7 +9,7 @@
     "website": "Pigletz.com",
     "home": "Bahay",
     "gallery": "Galleria",
-    "aboutus": "Tungkol sa amin",
+    "about": "Tungkol sa",
     "pigletz": "Ang Pigletz ko",
     "staked": "Aking Staked",
     "mystery": "Aking Mga Kahon",
@@ -17,6 +17,7 @@
     "buypiglets": "Mint Pigletz",
     "menu": "Menu",
     "back": "Bumalik",
+    "language": "Wika",
     "languages": {
       "en": "English",
       "bg": "Български",
@@ -26,7 +27,16 @@
       "tl": "Filipino",
       "ar": "العربية",
       "ru": "Русский",
-      "id": "Bahasa Indonesia"
+      "id": "Bahasa Indonesia",
+      "zh": "简体中文"
+    }
+  },
+  "buttons": {
+    "close": "Isara"
+  },
+  "marketing": {
+    "notifications": {
+      "subscribeToast": "🐽 Mag-subscribe para sa mga update"
     }
   },
   "banner": {
@@ -52,6 +62,9 @@
     },
     "staking": {
       "text": "Papasok ang Pigletz Staking {{time}}"
+    },
+    "blackFriday": {
+      "text": "Ang deal sa BLACK FRIDAY ay matatapos sa {{time}}"
     }
   },
   "footer": {
@@ -77,6 +90,10 @@
     "description": "Maligayang pagdating! Dito maaari mong i-mint ang iyong bagong Piglet. Pipiliin ito gamit ang provably fair random algorithm. Kung gusto mong makatanggap ng mga discount code sumali sa aming mga komunidad sa Discord, Telegram at Twitter at hilingin ang mga opsyon. Enjoy!",
     "tiersDescription": "Kami ay gumagawa ng mga koleksyon na may iba't ibang halaga at presyo. Ang pagtaas ng presyo sa paglipas ng panahon at sa dulo ay aabot sa 8 BNB. Gayunpaman sa mas mataas na presyo mayroon ding mas mataas na pagkakataon na makuha ang espesyal na booster.",
     "checkTiers": "suriin ang mga tier sa ibaba"
+  },
+  "blackFridayMint": {
+    "title": "BLACK FRIDAY DEAL!",
+    "description": "Sa limitadong panahon lamang ay maaari mong i-mint ang iyong biik dito na may 50% na diskwento. Huwag palampasin ang iyong pagkakataon."
   },
   "pigletzList": {
     "title": "Pigletz Collection",
@@ -342,6 +359,7 @@
     "materializeButton": "magpakatotoo",
     "dematerializeButton": "I-digitize",
     "pigletNotFoundError": "Piglet {{tokenId}} hindi mahanap",
+    "traitToolTip": "{{percents}}% Pigletz ay may ganitong katangian",
     "levels": {
       "level1": "1",
       "level2": "2",
@@ -473,10 +491,39 @@
       }
     }
   },
+  "about": {
+    "title": "Tungkol sa Pigletz"
+  },
   "home": {
-    "subtitle": "Ang unang NFT na naganap!",
+    "subtitle": "Ang unang NFT na nagkakatotoo!",
     "howitworks": "Tingnan kung paano ito gumagana",
     "videoModalTitle": "Paano ito gumagana",
+    "intro": {
+      "whitepaper": "Whitepaper"
+    },
+    "stats": {
+      "title": "Pigletz Stats"
+    },
+    "latestNews": {
+      "title": "Pinakabagong Balita",
+      "seeMoreNewsButton": "Tingnan ang higit pang balita"
+    },
+    "latestVideos": {
+      "title": "Pinakabagong Video"
+    },
+    "about": {
+      "title": "Ano ang Pigletz?",
+      "features": [
+        "Isang koleksyon ng 12,345 Piglet NFT",
+        "Ang bawat isa ay may utility ng isang Alkansya",
+        "Maaari mong i-save ang iyong mga crypto token dito",
+        "Ang bawat Piglet ay nagmimina para sa iyo ng mga token ng PiFi araw-araw",
+        "Ang Pigletz NFT ay naa-upgrade sa 3 antas",
+        "Ang tanging NFT na maaaring ma-materialize sa totoong mundo",
+        "Maaari mong bawiin ang iyong mga pondo sa pamamagitan lamang ng pagsira sa Piglet"
+      ],
+      "learnMore": "Matuto pa"
+    },
     "nft": {
       "title": "Ito ay isang NFT",
       "features": [
@@ -613,5 +660,18 @@
     "marketplaces": {
       "title": "Available din sa:"
     }
+  },
+  "errors": {
+    "privacyPolicy": "Hindi ma-load ang Patakaran sa Privacy ngayon",
+    "termsOfUse": "Hindi ma-load ang Mga Tuntunin ng Paggamit ngayon",
+    "newsArticle": "Hindi ma-load ang artikulong iyon",
+    "newsArticlesList": "Hindi ma-load ang balita"
+  },
+  "newsList": {
+    "title": "Balita",
+    "readMore": "Magbasa pa"
+  },
+  "videoList": {
+    "watch": "Manood ngayon"
   }
 }
