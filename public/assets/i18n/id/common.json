@@ -174,9 +174,12 @@
   },
   "wof": {
     "title": "Putar dan Menangkan Pigletz",
+    "description": "Di sini Anda dapat memutar roda dan berkesempatan memenangkan Pigletz gratis. Tidak diperlukan pembayaran. Cukup aktif di <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">saluran discord</a> kami dan Anda akan menerima kredit. Setiap putaran akan dikenakan biaya {{creditsToSpin}} kredit. Anda dapat memutar roda sebanyak yang Anda suka. Jika Anda memenangkan Jackpot, Anda dapat mengklaim kotak misteri dengan Piglet di dalamnya. Buka untuk mengungkapkan Piglet unik baru Anda. Semoga beruntung!",
     "discordLoginButton": "Masuk ke Perselisihan",
     "logoutButton": "Keluar",
     "spinButton": "Putaran",
+    "welcomeToast": "Selamat datang {{username}}",
+    "welcomeText": "Selamat datang {{username}},",
     "checkTheRulesText": "Lihat aturan terperinci di sini →",
     "claimRewardButton": "Klaim {{count}} Piglet",
     "claimRewardButton_other": "Klaim {{count}} Pigletz",
@@ -291,9 +294,11 @@
     "promoCodePlaceholder": "SALIN KODE DI SINI...",
     "quantityCaption": "Jumlah:",
     "buyNowButton": "Cetak",
+    "discountedPrice": "{{price}} BNB",
     "totalCaption": "Total:",
     "tiersTitle": "Tingkatan",
     "tierIndex": "Tingkat {{index}}",
+    "tierPrice": "{{price}} BNB",
     "itemsInColletionLeft": "sisa {{amountLeft}}",
     "howto": {
       "mobile": {
@@ -382,6 +387,7 @@
       "transferButton": "Transfer"
     },
     "deposit": {
+      "balance": "{{balance}} {{symbol}} (${{usd}})",
       "title": "Setor Kripto",
       "selectToken": "Silakan pilih token",
       "defaultToken": "Token PancakeSwap ...",
@@ -446,6 +452,7 @@
       "description": "Staking memungkinkan Pigletz untuk meningkatkan kekuatan pencetakan PiFi mereka hingga 50%. Tidak diperlukan apa pun selain mengunci Piglet Anda ke dalam kontrak taruhan untuk jangka waktu tertentu. Sebelum waktu itu berlalu, Anda tidak dapat menggunakan Piglet itu. Setelah periode waktu berakhir, Anda dapat melepaskan Piglet dan menggunakannya lagi. Namun ini akan menonaktifkan penguat 50%. Semua booster lainnya tidak terpengaruh oleh staking.",
       "stakedOnDate": "Dipertaruhkan",
       "stakeDurationTitle": "Durasi taruhan",
+      "stakeDuration": "{{count}} hari",
       "stakeDuration_other": "{{count}} hari",
       "stakeButton": "Mempertaruhkan",
       "unstakeButton": "Lepas pasak",
@@ -468,8 +475,11 @@
         "day_other": "hari tersisa"
       },
       "periodFormatted": {
+        "year": "{{count}} tahun",
         "year_other": "{{count}} tahun",
+        "month": "{{count}} bulan",
         "month_other": "{{count}} bulan",
+        "day": "{{count}} hari",
         "day_other": "{{count}} hari"
       },
       "dialog": {
@@ -609,6 +619,7 @@
           "status": "✓ Selesai"
         },
         {
+          "description": "<b>Membuat kumpulan likuiditas PiFi di PancakeSwap</b><br />(May, 2022)",
           "progress": 100,
           "status": "✓ Selesai"
         },
