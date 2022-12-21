@@ -19,10 +19,15 @@
     "back": "后退",
     "language": "语言",
     "languages": {
+      "en": "English",
       "bg": "Български",
       "de": "Deutsch",
+      "es": "Español",
+      "tr": "Türkçe",
+      "tl": "Filipino",
       "ar": "العربية",
-      "ru": "Русский"
+      "ru": "Русский",
+      "id": "Bahasa Indonesia"
     }
   },
   "buttons": {
@@ -315,8 +320,10 @@
       "desktop": {
         "button": "没有把握？了解如何在桌面上购买 ↓",
         "youNeed": "你需要",
+        "metamask": "MetaMask",
         "extension": "Chrome 或 Firefox 的浏览器扩展插件。",
         "chrome": "谷歌浏览器",
+        "firefox": "Mozilla Firefox",
         "bscTitle": "您需要配置 MetaMask 才能使用BSC主网。",
         "bscGuide": "操作指南",
         "bscVideo": "观看视频",
@@ -540,6 +547,7 @@
       "description": "助力可提高小猪的 PiFi 代币挖矿速度。一共有9种助力。"
     },
     "defi": {
+      "title": "DeFi",
       "learnMore": "了解更多",
       "description": "您可以将您的小猪锁定特定时间，以加速挖矿过程。",
       "steaking": {
