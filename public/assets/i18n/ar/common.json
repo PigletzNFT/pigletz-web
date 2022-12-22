@@ -14,7 +14,7 @@
     "staked": "رصدي",
     "mystery": "مربعاتي",
     "connect": "ربط المحفظة",
-    "buypiglets": "النعناع Pigletz",
+    "buypiglets": "يشترى Pigletz",
     "menu": "قائمة",
     "back": "رجوع للخلف",
     "language": "لغة",
@@ -42,7 +42,7 @@
   "banner": {
     "countdown": {
       "text": "يبدأ البودكاست في {{time}}",
-      "mintNow": "النعناع الآن",
+      "mintNow": "اشتري الآن",
       "second": "{{count}} ثانية",
       "second_other": "{{count}} ثانية",
       "minute": "{{count}} دقيقة",
@@ -54,7 +54,7 @@
     },
     "public": {
       "text": "انضم إلى مجتمع التنافس لدينا للحصول على عروض خاصة!",
-      "mintNow": "النعناع الآن"
+      "mintNow": "اشتري الآن"
     },
     "binance": {
       "text": "Pigletz متاح الآن على Binance NFT",
@@ -502,7 +502,14 @@
       "whitepaper": "Whitepaper"
     },
     "stats": {
-      "title": "احصائيات Pigletz"
+      "title": "احصائيات Pigletz",
+      "mintedPigletz": "النعناع Pigletz",
+      "brokenPigletz": "كسر بيجليتز",
+      "stakedPigletz": "ستاكيد بيجليتز",
+      "holders": "حوامل",
+      "circulatingPifi": "تعميم PiFi",
+      "pifiInPigletz": "PiFi في Pigletz",
+      "totalValueInPigletz": "القيمة الإجمالية في Pigletz"
     },
     "latestNews": {
       "title": "أحدث الأخبار",
@@ -664,12 +671,14 @@
   "errors": {
     "privacyPolicy": "لا يمكن تحميل سياسة الخصوصية الآن",
     "termsOfUse": "لا يمكن تحميل شروط الاستخدام الآن",
+    "wofRules": "لا يمكن تحميل القواعد",
     "newsArticle": "لا يمكن تحميل هذا المقال",
     "newsArticlesList": "لا يمكن تحميل الأخبار"
   },
   "newsList": {
     "title": "أخبار",
-    "readMore": "قراءة المزيد"
+    "readMore": "قراءة المزيد",
+    "allNews": "جميع الأخبار"
   },
   "videoList": {
     "watch": "شاهد الآن"
