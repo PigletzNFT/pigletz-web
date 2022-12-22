@@ -193,6 +193,12 @@
             "20_credits": "You have won 20 credits",
             "100_credits": "You have won 100 credits",
             "jackpot": "You have won a Piglet"
+        },
+        "stats": {
+            "players": "Players",
+            "spins": "Spins",
+            "creditsWon": "Credits Won",
+            "pigletzWon": "Pigletz Won"
         }
     },
     "actions": {
