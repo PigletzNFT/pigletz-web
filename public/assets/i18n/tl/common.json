@@ -502,7 +502,14 @@
       "whitepaper": "Whitepaper"
     },
     "stats": {
-      "title": "Pigletz Stats"
+      "title": "Pigletz Stats",
+      "mintedPigletz": "Minted Pigletz",
+      "brokenPigletz": "Sirang Pigletz",
+      "stakedPigletz": "Tinaya na Pigletz",
+      "holders": "Holders",
+      "circulatingPifi": "Umiikot na PiFi",
+      "pifiInPigletz": "PiFi sa Pigletz",
+      "totalValueInPigletz": "Kabuuang Halaga sa Pigletz"
     },
     "latestNews": {
       "title": "Pinakabagong Balita",
@@ -664,12 +671,14 @@
   "errors": {
     "privacyPolicy": "Hindi ma-load ang Patakaran sa Privacy ngayon",
     "termsOfUse": "Hindi ma-load ang Mga Tuntunin ng Paggamit ngayon",
+    "wofRules": "Hindi ma-load ang mga panuntunan",
     "newsArticle": "Hindi ma-load ang artikulong iyon",
     "newsArticlesList": "Hindi ma-load ang balita"
   },
   "newsList": {
     "title": "Balita",
-    "readMore": "Magbasa pa"
+    "readMore": "Magbasa pa",
+    "allNews": "Lahat ng Balita"
   },
   "videoList": {
     "watch": "Manood ngayon"
