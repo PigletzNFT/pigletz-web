@@ -506,7 +506,14 @@
       "whitepaper": "Whitepaper"
     },
     "stats": {
-      "title": "Pigletz-Statistiken"
+      "title": "Pigletz-Statistiken",
+      "mintedPigletz": "Gekaufte Pigletz",
+      "brokenPigletz": "Gebrochene Pigletz",
+      "stakedPigletz": "Gestaked Pigletz",
+      "holders": "Inhaber",
+      "circulatingPifi": "Zirkulierendes PiFi",
+      "pifiInPigletz": "PiFi in Pigletz",
+      "totalValueInPigletz": "Gesamtwert in Pigletz"
     },
     "latestNews": {
       "title": "Neuesten Nachrichten",
@@ -668,12 +675,14 @@
   "errors": {
     "privacyPolicy": "Die Datenschutzrichtlinie kann jetzt nicht geladen werden",
     "termsOfUse": "Die Nutzungsbedingungen können jetzt nicht geladen werden",
+    "wofRules": "Die Regeln können nicht geladen werden",
     "newsArticle": "Dieser Artikel kann nicht geladen werden",
     "newsArticlesList": "Nachrichten können nicht geladen werden"
   },
   "newsList": {
     "title": "Nachrichten",
-    "readMore": "Weiterlesen"
+    "readMore": "Weiterlesen",
+    "allNews": "Alle Nachrichten"
   },
   "videoList": {
     "watch": "Jetzt anschauen"
