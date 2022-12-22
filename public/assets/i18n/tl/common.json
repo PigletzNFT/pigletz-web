@@ -193,6 +193,12 @@
       "20_credits": "Nanalo ka ng 20 credits",
       "100_credits": "Nanalo ka ng 100 credits",
       "jackpot": "Nanalo ka ng Piglet"
+    },
+    "stats": {
+      "players": "Mga manlalaro",
+      "spins": "Umiikot",
+      "creditsWon": "Nanalo ang Credits",
+      "pigletzWon": "Nanalo ng Pigletz"
     }
   },
   "actions": {
