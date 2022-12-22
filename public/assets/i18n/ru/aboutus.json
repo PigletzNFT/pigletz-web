@@ -92,7 +92,8 @@
       "name": "Dr4g0",
       "title": "Блокчейн-разработчик",
       "description": "Разработчик игр и смарт-контрактов, который любит глубоко погружаться в EVM. Dr4g0 разрабатывает и проводит аудит смарт-контрактов, пишет API и middlewares.",
-      "photo": "/assets/images/team/dr4g0.png"
+      "photo": "/assets/images/team/dr4g0.png",
+      "nolinks": true
     },
     {
       "name": "Michal",
@@ -113,7 +114,8 @@
       "name": "S1m0",
       "title": "Бэкэнд-разработчик",
       "description": "S1m0 отвечает за бэкенд и разработку облака. Его работа скрыта, но без нее ничего не видно.",
-      "photo": "/assets/images/team/s1m0.png"
+      "photo": "/assets/images/team/s1m0.png",
+      "nolinks": true
     },
     {
       "name": "100j40",
