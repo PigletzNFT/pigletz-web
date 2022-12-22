@@ -112,7 +112,7 @@
     "boostersOfferCaption": "استثمر في Piglet الخاص بك وسوف ينتج عنه قيمة أكبر لك",
     "levelReachedCaption": "لقد وصلت إلى <b> المستوى {{level}} </b>",
     "item": {
-      "pifiBalance": "{{Balance}} PiFi",
+      "pifiBalance": "{{balance}} PiFi",
       "level": "المستوى {{level}}"
     }
   },
@@ -225,8 +225,8 @@
     },
     "purchasePiglet": {
       "pending": "سك {{count}} خنزير صغير",
-      "pending_other": "سك {{عدد}} خنزير",
-      "success": "تم سك {{عدد}} خنزير صغير بنجاح",
+      "pending_other": "سك {{count}} خنزير",
+      "success": "تم سك {{count}} خنزير صغير بنجاح",
       "success_other": "تم سك {{count}} خنزير صغير بنجاح",
       "error": "عذرا، هناك خطأ ما"
     },
@@ -261,7 +261,7 @@
       "error": "عذرا، هناك خطأ ما"
     },
     "transfer": {
-      "pending": "نقل Piglet # {{token Id}} إلى {{recipient}}",
+      "pending": "نقل Piglet # {{tokenId}} إلى {{recipient}}",
       "success": "أرسلت",
       "error": "عذرا، هناك خطأ ما"
     },
@@ -348,9 +348,9 @@
     "walletTitle": "محفظة نقود",
     "depositButton": "الإيداع ({{invested}} / {{total}})",
     "totalValue": "المجموع",
-    "usdValueTip": "القيمة السوقية هي ${{market}} القيمة المطلقة هي ${{مطلق}}",
+    "usdValueTip": "القيمة السوقية هي ${{market}} القيمة المطلقة هي ${{absolute}}",
     "pifiToNextLevel": "{{pifi}} PiFi إلى المستوى {{nextLevel}}",
-    "reachedLevelCaption": "لقد وصلت إلى <b> المستوى {{المستوى}} </b>",
+    "reachedLevelCaption": "لقد وصلت إلى <b> المستوى {{level}} </b>",
     "gotoLevelButton": "انتقل إلى المستوى {{level}}",
     "goToCollection": "مجموعة",
     "traitsTitle": "سمات الخنزير الصغير",
@@ -374,7 +374,7 @@
     "pifiLPDeclaration": "سيتم تقدير قيمة PiFi بعد إنشاء LP في PancakeSwap. سيحدث هذا مرة واحدة فقط أثناء البيع.",
     "destroy": {
       "title": "كسر خنزير صغير الخاص بك",
-      "description": "سيؤدي كسر Piglet إلى سحب جميع الرموز المميزة بداخله بقيمة إجمالية قدرها $ {BalanceInUSD}} USD إلى عنوانك {{recipient}}. ومع ذلك سيتم تدمير الخنزير الصغير الخاص بك ويضيع إلى الأبد. لذا فكر مرتين ، انظر إلى عينيه وقرر.",
+      "description": "سيؤدي كسر Piglet إلى سحب جميع الرموز المميزة بداخله بقيمة إجمالية قدرها $ {balanceInUSD}} USD إلى عنوانك {{recipient}}. ومع ذلك سيتم تدمير الخنزير الصغير الخاص بك ويضيع إلى الأبد. لذا فكر مرتين ، انظر إلى عينيه وقرر.",
       "lesserLevel": "يجب أن تكون في المستوى 2 على الأقل حتى يُسمح لك بكسر الخنزير الصغير!",
       "button": "استراحة",
       "confirmation": "هل أنت متأكد أنك تريد كسر الخنزير الصغير الخاص بك؟",
@@ -458,7 +458,7 @@
       "unstakeButton": "نزع",
       "stakedBadge": "راهن",
       "expired": "منتهي الصلاحية",
-      "alreadyStaked": "تم تخزين هذا الخنزير الصغير بالفعل على {{stakedOnDate}} لمدة {{أيام}} أيام",
+      "alreadyStaked": "تم تخزين هذا الخنزير الصغير بالفعل على {{stakedOnDate}} لمدة {{days}} أيام",
       "neverStaked": "هذا الخنزير الصغير لم يعلق أبدًا",
       "periods": [
         "3 اشهر",
