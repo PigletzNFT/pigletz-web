@@ -169,7 +169,7 @@
       "walletconnect": "Conectar billetera"
     },
     "howtoTitle": "¿Todavía no tienes billetera para criptomonedas?",
-    "howtoButton": "¡Aprende a conectar tu billetera!"
+    "howtoButton": "¡Aprende cómo!"
   },
   "wof": {
     "title": "Gira y gana Pigletz",
@@ -192,6 +192,12 @@
       "20_credits": "Has ganado 20 créditos.",
       "100_credits": "Has ganado 100 créditos.",
       "jackpot": "Has ganado un Piglet"
+    },
+    "stats": {
+      "players": "Jugadores",
+      "spins": "Giros",
+      "creditsWon": "Créditos Ganados",
+      "pigletzWon": "Pigletz ganó"
     }
   },
   "actions": {
@@ -538,7 +544,7 @@
       "title": "Es un NFT",
       "features": [
         "12,345 Pigletz únicos de edición limitada con rasgos aleatorios comprobables de varias rarezas",
-        "Modelos 3d hechos a mano 100% ",
+        "Modelos 3D hechos a mano 100% ",
         "Un total de más de 2 mil millones de combinaciones posibles",
         "Acuñado al azar en el momento de la compra",
         "Las características se revelan a medida que crece tu Piglet",
