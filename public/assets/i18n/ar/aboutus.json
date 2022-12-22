@@ -92,7 +92,8 @@
       "name": "Dr4g0",
       "title": "Blockchain Dev",
       "description": "مطور ألعاب وعقود ذكي يحب الغوص في أعماق EVM. يطور Dr4g0 العقود الذكية ويراجعها ويكتب واجهات برمجة التطبيقات والبرمجيات الوسيطة.",
-      "photo": "/assets/images/team/dr4g0.png"
+      "photo": "/assets/images/team/dr4g0.png",
+      "nolinks": true
     },
     {
       "name": "Michal",
@@ -113,7 +114,8 @@
       "name": "S1m0",
       "title": "Backend Dev",
       "description": "S1m0 مسؤول عن الخلفية وتطوير السحابة. عمله مخفي ولكن بدونه لا يمكن رؤية شيء.",
-      "photo": "/assets/images/team/s1m0.png"
+      "photo": "/assets/images/team/s1m0.png",
+      "nolinks": true
     },
     {
       "name": "100j40",
