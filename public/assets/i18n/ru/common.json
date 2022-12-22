@@ -502,7 +502,14 @@
       "whitepaper": "Whitepaper"
     },
     "stats": {
-      "title": "Pigletz Статистика"
+      "title": "Pigletz Статистика",
+      "mintedPigletz": "Купил Pigletz",
+      "brokenPigletz": "Сломанный Pigletz",
+      "stakedPigletz": "Стейкнутый Pigletz",
+      "holders": "Держатели",
+      "circulatingPifi": "Распространение PiFi",
+      "pifiInPigletz": "PiFi в Pigletz",
+      "totalValueInPigletz": "Общая стоимость в Pigletz"
     },
     "latestNews": {
       "title": "Последние новости",
@@ -664,12 +671,14 @@
   "errors": {
     "privacyPolicy": "Не удается загрузить Политику конфиденциальности сейчас",
     "termsOfUse": "Не удается загрузить Условия использования сейчас",
+    "wofRules": "Не могу загрузить правила",
     "newsArticle": "Не удается загрузить эту статью",
     "newsArticlesList": "Не могу загрузить новость"
   },
   "newsList": {
     "title": "Новости",
-    "readMore": "Прочитайте больше"
+    "readMore": "Прочитайте больше",
+    "allNews": "Все новости"
   },
   "videoList": {
     "watch": "Смотри"
