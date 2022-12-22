@@ -193,6 +193,12 @@
       "20_credits": "您已获得 20 积分",
       "100_credits": "您已获得 100 积分",
       "jackpot": "你赢了一只小猪"
+    },
+    "stats": {
+      "players": "球员",
+      "spins": "旋转",
+      "creditsWon": "赢得学分",
+      "pigletzWon": "小猪赢了"
     }
   },
   "actions": {
