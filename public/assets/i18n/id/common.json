@@ -193,6 +193,8 @@
       "20_credits": "Anda telah memenangkan 20 kredit",
       "100_credits": "Anda telah memenangkan 100 kredit",
       "jackpot": "Anda telah memenangkan Piglet"
+    },
+    "stats": {
     }
   },
   "actions": {
@@ -671,12 +673,14 @@
   "errors": {
     "privacyPolicy": "Tidak dapat memuat Kebijakan Privasi sekarang",
     "termsOfUse": "Tidak dapat memuat Ketentuan Penggunaan sekarang",
+    "wofRules": "Tidak dapat memuat aturan",
     "newsArticle": "Tidak dapat memuat artikel itu",
     "newsArticlesList": "Tidak dapat memuat berita"
   },
   "newsList": {
     "title": "Berita",
-    "readMore": "Baca selengkapnya"
+    "readMore": "Baca selengkapnya",
+    "allNews": "Semua Berita"
   },
   "videoList": {
     "watch": "Menonton sekarang"
