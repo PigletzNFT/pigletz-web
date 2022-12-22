@@ -193,6 +193,12 @@
       "20_credits": "Du hast 20 Credits gewonnen",
       "100_credits": "Du hast 100 Credits gewonnen",
       "jackpot": "Du hast ein Piglet gewonnen"
+    },
+    "stats": {
+      "players": "Spieler",
+      "spins": "Drehungen",
+      "creditsWon": "Credits gewonnen",
+      "pigletzWon": "Pigletz gewonnen"
     }
   },
   "actions": {
