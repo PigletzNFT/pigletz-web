@@ -506,7 +506,14 @@
       "whitepaper": "Whitepaper"
     },
     "stats": {
-      "title": "Pigletz İstatistikleri"
+      "title": "Pigletz İstatistikleri",
+      "mintedPigletz": "Satın alınan domuzcuk",
+      "brokenPigletz": "Kırık Domuzcuk",
+      "stakedPigletz": "Kilitli Pigletz",
+      "holders": "Sahipleri",
+      "circulatingPifi": "Dolaşımdaki PiFi",
+      "pifiInPigletz": "Pigletz'de PiFi",
+      "totalValueInPigletz": "Pigletz'deki Toplam Değer"
     },
     "latestNews": {
       "title": "Son Haberler",
@@ -668,12 +675,14 @@
   "errors": {
     "privacyPolicy": "Gizlilik Politikası şimdi yüklenemiyor",
     "termsOfUse": "Kullanım Koşulları şimdi yüklenemiyor",
+    "wofRules": "Kurallar yüklenemiyor",
     "newsArticle": "Bu makale yüklenemiyor",
     "newsArticlesList": "Haberler yüklenemiyor"
   },
   "newsList": {
     "title": "Haberler",
-    "readMore": "Devamını oku"
+    "readMore": "Devamını oku",
+    "allNews": "Bütün haberler"
   },
   "videoList": {
     "watch": "Şimdi izle"
