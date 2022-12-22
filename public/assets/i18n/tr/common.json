@@ -193,6 +193,12 @@
       "20_credits": "20 kredi kazandın",
       "100_credits": "100 kredi kazandın",
       "jackpot": "Bir Piglet kazandın"
+    },
+    "stats": {
+      "players": "Oyuncular",
+      "spins": "Döndürme",
+      "creditsWon": "Kazanılan Krediler",
+      "pigletzWon": "Pigletz kazandı"
     }
   },
   "actions": {
