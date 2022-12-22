@@ -193,6 +193,12 @@
       "20_credits": "Ти спечели 20 кредита",
       "100_credits": "Ти спечели 100 кредита",
       "jackpot": "Ти спечели Прасенце"
+    },
+    "stats": {
+      "players": "Играчи",
+      "spins": "Завъртания",
+      "creditsWon": "Спечелени кредити",
+      "pigletzWon": "Спечелени Pigletz"
     }
   },
   "actions": {
@@ -340,7 +346,7 @@
     }
   },
   "piglet": {
-    "boost": "{{boost}}% бууст",
+    "boost": "{{boost}}% буст",
     "level": "Ниво {{level}}",
     "dailyMint": "{{dailyMint}} PiFi дневно",
     "pifi": "PiFi:",
