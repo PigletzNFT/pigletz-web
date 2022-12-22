@@ -195,6 +195,10 @@
       "jackpot": "Anda telah memenangkan Piglet"
     },
     "stats": {
+      "players": "Pemain",
+      "spins": "Berputar",
+      "creditsWon": "Kredit Dimenangkan",
+      "pigletzWon": "Pigletz Menang"
     }
   },
   "actions": {
