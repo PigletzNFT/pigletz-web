@@ -349,6 +349,7 @@
     "boost": "{{boost}}% 助力",
     "level": "等级 {{level}}",
     "dailyMint": "{{dailyMint}} PiFi 日报",
+    "viewMore": "查看更多",
     "pifi": "PiFi",
     "walletDescription": "这是您的 Piglet 的钱包。它是非托管钱包，因此只有Piglet的主人才可以与其交互 - 存入代币或打破它并提取其中所有的",
     "walletTitle": "钱包",
