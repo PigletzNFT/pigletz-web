@@ -349,6 +349,7 @@
     "boost": "{{boost}}% boost",
     "level": "Antas {{level}}",
     "dailyMint": "{{dailyMint}} PiFi Daily",
+    "viewMore": "Tingnan ang Higit Pa",
     "pifi": "PiFi:",
     "walletDescription": "Ito ang pitaka ng Piglet mo. Ito ay hindi custodial at tanging ang Piglet, ayon sa pagkakabanggit, ang may-ari nito ay maaaring makipag-ugnayan dito - magdeposito ng mga token o masira ito at mag-withdraw ng lahat ng nilalaman nito",
     "walletTitle": "wallet",
