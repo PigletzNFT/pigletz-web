@@ -350,6 +350,7 @@
         "boost": "{{boost}}% boost",
         "level": "Level {{level}}",
         "dailyMint": "{{dailyMint}} PiFi Daily",
+        "viewMore": "View More",
         "pifi": "PiFi:",
         "walletDescription": "This is your Piglet's wallet. It is non-custodial and only the Piglet, respectively its owner can interact with it - deposit tokens or break it and withdraw everything it contains",
         "walletTitle": "Wallet",
