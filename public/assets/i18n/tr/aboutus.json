@@ -1,164 +1,157 @@
 {
-  "title": "Hakkımızda",
-  "description": "Pigletz.com, birlikte mobil oyun geliştirme, web geliştirme ve pazarlama ve blok zinciri teknolojisi alanlarında onlarca yıllık deneyime sahip iki şirket (Blockchain Technology Bulgaria ve Aff Media) arasındaki bir işbirliğidir. Ekibimiz, bazıları 20 yılı aşkın süredir BT sektöründe çalışan profesyonellerden oluşmaktadır.",
-  "jobs": {
-    "title": "Bizimle çalış",
-    "description": "Deneyimli bir geliştirici, pazarlama veya topluluk yöneticisi, influencer, yatırımcı iseniz veya sadece bizimle iletişime geçmek istiyorsanız aşağıya tıklayın",
-    "button": "İletişime geçin",
-    "callToAction": "mailto:j0bz@pigletz.com"
-  },
-  "team": [
-    {
-      "name": "Galin ya da namı diğer MasterPig",
-      "title": "Vizyoner",
-      "description": "Galin, bilgisayar bilimlerinde mühendislik yüksek lisansına sahip olan ve 20 yıldan uzun bir süredir iş hayatında yer alan bir girişimcidir. Birkaç oyun geliştirme şirketinin kurucusu olarak milyonlarca oyuncu tarafından oynanan başarılı oyunlar yaratmıştır. Son 5 yıldır blok zinciri ve DeFi (merkeziyetsiz finans) alanlarında şirketler geliştirmektedir.",
-      "photo": "/assets/images/team/masterpig.png",
-      "linkedin": "https://www.linkedin.com/in/galindinkov/",
-      "twitter": "https://twitter.com/_galinDinkov"
+    "title": "Hakkımızda",
+    "description": "Pigletz.com, birlikte mobil oyun geliştirme, web geliştirme ve pazarlama ve blok zinciri teknolojisi alanlarında onlarca yıllık deneyime sahip iki şirket (Blockchain Technology Bulgaria ve Aff Media) arasındaki bir işbirliğidir. Ekibimiz, bazıları 20 yılı aşkın süredir BT sektöründe çalışan profesyonellerden oluşmaktadır.",
+    "jobs": {
+        "title": "Bizimle çalış",
+        "description": "Deneyimli bir geliştirici, pazarlama veya topluluk yöneticisi, influencer, yatırımcı iseniz veya sadece bizimle iletişime geçmek istiyorsanız aşağıya tıklayın",
+        "button": "İletişime geçin",
+        "callToAction": "mailto:j0bz@pigletz.com"
     },
-    {
-      "name": "Vicho",
-      "title": "Web Master",
-      "description": "Vicho da bilgisayar bilimleri alanında yüksek lisans derecesine sahiptir ve üniversiteden önce, henüz lisedeyken profesyonel olarak web siteleri ve web uygulamaları geliştirmeye başlamıştır. 11 yıl önce kendi şirketini kurmak için yazılım mühendisliği alanındaki işini bırakmıştır. Şirketi yüzlerce web sitesi kurmuş ve bunları Google'un çeşitli arama motorlarında son derece iyi sıralara çıkarmıştır. ",
-      "photo": "/assets/images/team/vicho.png"
-    },
-    {
-      "name": "Miro",
-      "title": "Piyasa Yapıcı",
-      "description": "iGaming ve FX endüstrilerinde sıfırdan web projeleri oluşturmaktadır. TradingPedia.com'un müşterek maliklerindendir.",
-      "photo": "/assets/images/team/miro.png",
-      "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
-    },
-    {
-      "name": "Miró",
-      "title": "Kontratlar",
-      "description": "30 yıllık deneyime sahip bir yazılım dehasıdır.",
-      "photo": "/assets/images/team/miro2.png",
-      "linkedin": "https://www.linkedin.com/in/miroslavln"
-    },
-    {
-      "name": "Yan ya da namı diğer Piglet_Z",
-      "title": "Topluluk Kurucusu",
-      "description": "Yan, yaklaşık 10 yıldır profesyonel bir çevrimiçi pazarlama uzmanı ve sosyal medya koordinatörüdür. Aynı zamanda bir NFT hayranı ve kendi kendini yetiştirmiş bir terzidir. Kişisel profilleri son derece gizlidir ve herhangi bir sosyal medyada sitesinde nadiren bulunabilir. Ancak Discord'umuzda neredeyse 7/24 mesajlara yanıt vermektedir.",
-      "photo": "/assets/images/team/yan.png",
-      "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
-      "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
-    },
-    {
-      "name": "Niko",
-      "title": "3D",
-      "description": "Niko, alanında yaklaşık 10 yıllık deneyime sahip bir grafik ve 3D tasarımcıdır. Bir süredir NFT ve kripto dünyasına ilgi duymaktadır. İnternette olmadığı zamanlarda şehrin sanat galerisinde bulunabilir.",
-      "photo": "/assets/images/team/niko.png"
-    },
-    {
-      "name": "Eve",
-      "title": "Konsept Sanatı",
-      "description": "Eve, bir süredir dijital sanatla deneyler yapan, açık fikirli, kendi kendini yetiştirmiş bir sanatçıdır. Sanatın tüm biçimleriyle merakını kışkırtmaya çalışmaktadır.",
-      "photo": "/assets/images/team/eve.png",
-      "instagram": "https://www.instagram.com/evesserpent/"
-    },
-    {
-      "name": "Veronica",
-      "title": "Frontender",
-      "description": "Web siteleri tasarlama, geliştirme ve yönetme deneyimine sahip enerjik ön uç geliştirici. Dünyayı dolaşmayı, değerli taşlar ve kristaller toplamayı ve onlardan mücevher yapmayı çok seviyor.",
-      "photo": "/assets/images/team/vicky.png",
-      "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
-    }
-  ],
-  "moreTeam": [
-    {
-      "name": "Sha",
-      "title": "Marketing & BizDev",
-      "description": "Sha bir yazılım geliştirme öğrencisi, bir kripto meraklısı ve yenilikçi pazarlama vizyonlarına sahip yaratıcı bir ruhtur. Boş zamanlarını fotoğrafçılık, müzik prodüksiyonu veya kripto üzerine araştırma yaparak geçiriyor.",
-      "photo": "/assets/images/team/sha.png",
-      "instagram": "https://instagram.com/oktay.shakirov",
-      "linkedin": "https://www.linkedin.com/in/oktayshakirov"
-    },
-    {
-      "name": "Jewelrey",
-      "title": "Content Creator",
-      "description": "Jewelrey, nfts ve kripto konusunda acemidir, ancak Pigletz'in YouTube kanalı için içerik oluşturmaya yardımcı olur. Metaverse dışında, şu anda bir psikoloji öğrencisi ve bir fırıncıdır.",
-      "photo": "/assets/images/team/jewelrey.png",
-      "instagram": "https://www.instagram.com/jewl.rey"
-    },
-    {
-      "name": "Edi",
-      "title": "Marketing",
-      "description": "Edi, Pigletz topluluğundaki herkesin tanıyacağı dost canlısı bir yüzdür. Pigletz topluluğunu inşa etmek ve yönetmekle meşgul olmadığı zamanlarda, belirli JavaScripts'in nasıl çalıştığını bulmak için çalışırken görülebilir.",
-      "photo": "/assets/images/team/edi.png",
-      "instagram": "https://instagram.com/eddie.mustanski"
-    },
-    {
-      "name": "Dr4g0",
-      "title": "Blockchain Dev",
-      "description": "EVM'nin derinliklerine dalmayı seven oyun ve akıllı sözleşme geliştiricisi. Dr4g0 akıllı sözleşmeler geliştirir ve denetler, API'ler ve ara yazılımlar yazar.",
-      "photo": "/assets/images/team/dr4g0.png",
-      "nolinks": true
-    },
-    {
-      "name": "Michal",
-      "title": "Oyun Geliştirme",
-      "description": "Farklı platformlarda uzun deneyime sahip oyun geliştiricisi. Aynı zamanda inek bir tamirci ve tedavi edilemez bir mükemmeliyetçi. 2000'lerin başından beri programlama.",
-      "photo": "/assets/images/team/michal.png",
-      "linkedin": "https://www.linkedin.com/in/michal-fiala-004b1b4/"
-    },
-    {
-      "name": "Skachkov",
-      "title": "Web Tasarım",
-      "description": "Skachkov, web ve grafik tasarım alanında 20 yılı aşkın deneyime sahip bir sanatçıdır. Ayrıca özgün sanat NFT koleksiyonları üzerinde çalışmaktadır.",
-      "photo": "/assets/images/team/skachkov.png",
-      "twitter": "https://twitter.com/@_sasho",
-      "instagram": "https://www.instagram.com/aoskachkov/"
-    },
-    {
-      "name": "S1m0",
-      "title": "Backend Dev",
-      "description": "S1m0 arka uç ve bulut geliştirmeden sorumludur. Çalışmaları gizlidir ancak onsuz hiçbir şey görülemez.",
-      "photo": "/assets/images/team/s1m0.png",
-      "nolinks": true
-    },
-    {
-      "name": "100j40",
-      "title": "Android Dev",
-      "description": "Bilgisayar Bilimleri alanında yüksek lisans yapmış olup, milyonlarca kullanıcısı olan farklı işletme türleri için mobil uygulamalar oluşturma ve geliştirme konusunda 7 yıllık deneyime sahip deneyimli bir mobil geliştiricidir.",
-      "photo": "/assets/images/team/100j40.png",
-      "linkedin": "https://www.linkedin.com/in/stoycho-petrov-57a03112b/"
-    },
-    {
-      "name": "Dorje",
-      "title": "iOS Dev",
-      "description": "Dorje, iOS geliştirme alanında 10 yıllık ve yazılım geliştirme alanında 15 yıldan fazla deneyime sahip bir mobil mühendistir. Kariyerinde dünya standartlarında uygulamalar üzerinde çalışan Dorje, geleceğin blockchain, Web3 ve NFT'lere ait olduğuna inanıyor.",
-      "photo": "/assets/images/team/dorje.png",
-      "linkedin": "https://www.linkedin.com/in/deyan-zhekov-35ba34b"
-    },
-    {
-      "name": "Jana",
-      "title": "Etkinlikler ve Organizasyonlar",
-      "description": "Jana dünya çapında çeşitli etkinliklerde sunumlarımızı organize ediyor. Kendisi 5 dil biliyor ve tüm kıtalarda hissediyor.",
-      "photo": "/assets/images/team/jana.png",
-      "linkedin": "https://www.linkedin.com/in/jana-alexandrova-4636576/"
-    },
-    {
-      "name": "Vladika",
-      "title": "Alman Pazar Operasyonları",
-      "description": "Almanya pazarında iş geliştirme ve pazarlama operasyonları. Berlin'de başarılı bir pazarlama ajansının sahibi ve profesyonel bir futbol oyuncusu.",
-      "photo": "/assets/images/team/vladika.png",
-      "linkedin": "https://www.linkedin.com/in/vladimirboyanov"
-    },
-    {
-      "name": "Mimi",
-      "title": "İspanya Pazar Operasyonları",
-      "description": "Mimi, İspanya pazarındaki operasyonlarımızı, çevirilerimizi ve satışlarımızı yönetiyor. 17 yılı aşkın uluslararası satış ve ekip yönetimi deneyimine sahiptir. El sanatlarını, çağdaş sanatı ve yağlı boya resim yapmayı seviyor.",
-      "photo": "/assets/images/team/mimisim.png",
-      "instagram": "https://www.instagram.com/fitmamasenpijamas",
-      "linkedin": "https://www.linkedin.com/in/mimi-sim%C3%B3n-348028135/"
-    },
-    {
-      "name": "Darwin",
-      "title": "Asya Pazar Operasyonları",
-      "description": "Darwin bir SEO/SEA gurusudur ve Pigletz'i Güney Asya pazarları için temsil etmektedir.",
-      "photo": "/assets/images/team/darwin.png",
-      "linkedin": "https://www.linkedin.com/in/darwin-wiranda/"
-    }
-  ]
+    "team": [
+        {
+            "name": "Galin ya da namı diğer MasterPig",
+            "title": "Vizyoner",
+            "description": "Galin, bilgisayar bilimlerinde mühendislik yüksek lisansına sahip olan ve 20 yıldan uzun bir süredir iş hayatında yer alan bir girişimcidir. Birkaç oyun geliştirme şirketinin kurucusu olarak milyonlarca oyuncu tarafından oynanan başarılı oyunlar yaratmıştır. Son 5 yıldır blok zinciri ve DeFi (merkeziyetsiz finans) alanlarında şirketler geliştirmektedir.",
+            "photo": "/assets/images/team/masterpig.png",
+            "linkedin": "https://www.linkedin.com/in/galindinkov/",
+            "twitter": "https://twitter.com/_galinDinkov"
+        },
+        {
+            "name": "Vicho",
+            "title": "Web Master",
+            "description": "Vicho da bilgisayar bilimleri alanında yüksek lisans derecesine sahiptir ve üniversiteden önce, henüz lisedeyken profesyonel olarak web siteleri ve web uygulamaları geliştirmeye başlamıştır. 11 yıl önce kendi şirketini kurmak için yazılım mühendisliği alanındaki işini bırakmıştır. Şirketi yüzlerce web sitesi kurmuş ve bunları Google'un çeşitli arama motorlarında son derece iyi sıralara çıkarmıştır. ",
+            "photo": "/assets/images/team/vicho.png"
+        },
+        {
+            "name": "Miro",
+            "title": "Piyasa Yapıcı",
+            "description": "iGaming ve FX endüstrilerinde sıfırdan web projeleri oluşturmaktadır. TradingPedia.com'un müşterek maliklerindendir.",
+            "photo": "/assets/images/team/miro.png",
+            "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+        },
+        {
+            "name": "Miró",
+            "title": "Kontratlar",
+            "description": "30 yıllık deneyime sahip bir yazılım dehasıdır.",
+            "photo": "/assets/images/team/miro2.png",
+            "linkedin": "https://www.linkedin.com/in/miroslavln"
+        },
+        {
+            "name": "Yan ya da namı diğer Piglet_Z",
+            "title": "Topluluk Kurucusu",
+            "description": "Yan, yaklaşık 10 yıldır profesyonel bir çevrimiçi pazarlama uzmanı ve sosyal medya koordinatörüdür. Aynı zamanda bir NFT hayranı ve kendi kendini yetiştirmiş bir terzidir. Kişisel profilleri son derece gizlidir ve herhangi bir sosyal medyada sitesinde nadiren bulunabilir. Ancak Discord'umuzda neredeyse 7/24 mesajlara yanıt vermektedir.",
+            "photo": "/assets/images/team/yan.png",
+            "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
+            "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+        },
+        {
+            "name": "Niko",
+            "title": "3D",
+            "description": "Niko, alanında yaklaşık 10 yıllık deneyime sahip bir grafik ve 3D tasarımcıdır. Bir süredir NFT ve kripto dünyasına ilgi duymaktadır. İnternette olmadığı zamanlarda şehrin sanat galerisinde bulunabilir.",
+            "photo": "/assets/images/team/niko.png"
+        },
+        {
+            "name": "Eve",
+            "title": "Konsept Sanatı",
+            "description": "Eve, bir süredir dijital sanatla deneyler yapan, açık fikirli, kendi kendini yetiştirmiş bir sanatçıdır. Sanatın tüm biçimleriyle merakını kışkırtmaya çalışmaktadır.",
+            "photo": "/assets/images/team/eve.png",
+            "instagram": "https://www.instagram.com/evesserpent/"
+        },
+        {
+            "name": "Veronica",
+            "title": "Frontender",
+            "description": "Web siteleri tasarlama, geliştirme ve yönetme deneyimine sahip enerjik ön uç geliştirici. Dünyayı dolaşmayı, değerli taşlar ve kristaller toplamayı ve onlardan mücevher yapmayı çok seviyor.",
+            "photo": "/assets/images/team/vicky.png",
+            "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
+        }
+    ],
+    "moreTeam": [
+        {
+            "name": "Sha",
+            "title": "Marketing & BizDev",
+            "description": "Sha bir yazılım geliştirme öğrencisi, bir kripto meraklısı ve yenilikçi pazarlama vizyonlarına sahip yaratıcı bir ruhtur. Boş zamanlarını fotoğrafçılık, müzik prodüksiyonu veya kripto üzerine araştırma yaparak geçiriyor.",
+            "photo": "/assets/images/team/sha.png",
+            "instagram": "https://instagram.com/oktay.shakirov",
+            "linkedin": "https://www.linkedin.com/in/oktayshakirov"
+        },
+        {
+            "name": "Jewelrey",
+            "title": "Content Creator",
+            "description": "Jewelrey, nfts ve kripto konusunda acemidir, ancak Pigletz'in YouTube kanalı için içerik oluşturmaya yardımcı olur. Metaverse dışında, şu anda bir psikoloji öğrencisi ve bir fırıncıdır.",
+            "photo": "/assets/images/team/jewelrey.png",
+            "instagram": "https://www.instagram.com/jewl.rey"
+        },
+        {
+            "name": "Dr4g0",
+            "title": "Blockchain Dev",
+            "description": "EVM'nin derinliklerine dalmayı seven oyun ve akıllı sözleşme geliştiricisi. Dr4g0 akıllı sözleşmeler geliştirir ve denetler, API'ler ve ara yazılımlar yazar.",
+            "photo": "/assets/images/team/dr4g0.png",
+            "nolinks": true
+        },
+        {
+            "name": "Michal",
+            "title": "Oyun Geliştirme",
+            "description": "Farklı platformlarda uzun deneyime sahip oyun geliştiricisi. Aynı zamanda inek bir tamirci ve tedavi edilemez bir mükemmeliyetçi. 2000'lerin başından beri programlama.",
+            "photo": "/assets/images/team/michal.png",
+            "linkedin": "https://www.linkedin.com/in/michal-fiala-004b1b4/"
+        },
+        {
+            "name": "Skachkov",
+            "title": "Web Tasarım",
+            "description": "Skachkov, web ve grafik tasarım alanında 20 yılı aşkın deneyime sahip bir sanatçıdır. Ayrıca özgün sanat NFT koleksiyonları üzerinde çalışmaktadır.",
+            "photo": "/assets/images/team/skachkov.png",
+            "twitter": "https://twitter.com/@_sasho",
+            "instagram": "https://www.instagram.com/aoskachkov/"
+        },
+        {
+            "name": "S1m0",
+            "title": "Backend Dev",
+            "description": "S1m0 arka uç ve bulut geliştirmeden sorumludur. Çalışmaları gizlidir ancak onsuz hiçbir şey görülemez.",
+            "photo": "/assets/images/team/s1m0.png",
+            "nolinks": true
+        },
+        {
+            "name": "100j40",
+            "title": "Android Dev",
+            "description": "Bilgisayar Bilimleri alanında yüksek lisans yapmış olup, milyonlarca kullanıcısı olan farklı işletme türleri için mobil uygulamalar oluşturma ve geliştirme konusunda 7 yıllık deneyime sahip deneyimli bir mobil geliştiricidir.",
+            "photo": "/assets/images/team/100j40.png",
+            "linkedin": "https://www.linkedin.com/in/stoycho-petrov-57a03112b/"
+        },
+        {
+            "name": "Dorje",
+            "title": "iOS Dev",
+            "description": "Dorje, iOS geliştirme alanında 10 yıllık ve yazılım geliştirme alanında 15 yıldan fazla deneyime sahip bir mobil mühendistir. Kariyerinde dünya standartlarında uygulamalar üzerinde çalışan Dorje, geleceğin blockchain, Web3 ve NFT'lere ait olduğuna inanıyor.",
+            "photo": "/assets/images/team/dorje.png",
+            "linkedin": "https://www.linkedin.com/in/deyan-zhekov-35ba34b"
+        },
+        {
+            "name": "Jana",
+            "title": "Etkinlikler ve Organizasyonlar",
+            "description": "Jana dünya çapında çeşitli etkinliklerde sunumlarımızı organize ediyor. Kendisi 5 dil biliyor ve tüm kıtalarda hissediyor.",
+            "photo": "/assets/images/team/jana.png",
+            "linkedin": "https://www.linkedin.com/in/jana-alexandrova-4636576/"
+        },
+        {
+            "name": "Vladika",
+            "title": "Alman Pazar Operasyonları",
+            "description": "Almanya pazarında iş geliştirme ve pazarlama operasyonları. Berlin'de başarılı bir pazarlama ajansının sahibi ve profesyonel bir futbol oyuncusu.",
+            "photo": "/assets/images/team/vladika.png",
+            "linkedin": "https://www.linkedin.com/in/vladimirboyanov"
+        },
+        {
+            "name": "Mimi",
+            "title": "İspanya Pazar Operasyonları",
+            "description": "Mimi, İspanya pazarındaki operasyonlarımızı, çevirilerimizi ve satışlarımızı yönetiyor. 17 yılı aşkın uluslararası satış ve ekip yönetimi deneyimine sahiptir. El sanatlarını, çağdaş sanatı ve yağlı boya resim yapmayı seviyor.",
+            "photo": "/assets/images/team/mimisim.png",
+            "instagram": "https://www.instagram.com/fitmamasenpijamas",
+            "linkedin": "https://www.linkedin.com/in/mimi-sim%C3%B3n-348028135/"
+        },
+        {
+            "name": "Darwin",
+            "title": "Asya Pazar Operasyonları",
+            "description": "Darwin bir SEO/SEA gurusudur ve Pigletz'i Güney Asya pazarları için temsil etmektedir.",
+            "photo": "/assets/images/team/darwin.png",
+            "linkedin": "https://www.linkedin.com/in/darwin-wiranda/"
+        }
+    ]
 }

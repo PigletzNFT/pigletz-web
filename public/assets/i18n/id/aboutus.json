@@ -1,164 +1,157 @@
 {
-  "title": "Tentang kami",
-  "description": "Pigletz.com adalah kolaborasi antara dua perusahaan (Blockchain Technology Bulgaria dan Aff Media) dengan gabungan pengalaman selama puluhan tahun di bidang pengembangan game seluler, pembuatan web, dan pemasaran, serta teknologi blockchain. Tim kami secara eksklusif terdiri dari para profesional, beberapa di antaranya telah bekerja di industri TI selama lebih dari 20 tahun.",
-  "jobs": {
-    "title": "Bekerja dengan kami",
-    "description": "Jika Anda adalah pengembang berpengalaman, manajer pemasaran atau komunitas, influencer, investor atau hanya ingin menghubungi kami, klik di bawah ini",
-    "button": "Berhubungan",
-    "callToAction": "mailto:j0bz@pigletz.com"
-  },
-  "team": [
-    {
-      "name": "Galin alias MasterPig",
-      "title": "The Visionary",
-      "description": "Galin adalah Master of Engineering dalam ilmu komputer dan pengusaha dengan lebih dari 20 tahun dalam bisnis. Sebagai pendiri beberapa perusahaan pengembang game, dia telah menghasilkan game yang sukses dengan jutaan pemain. 5 tahun terakhir ia mengembangkan perusahaan di bidang blockchain dan DeFi.",
-      "photo": "/assets/images/team/masterpig.png",
-      "linkedin": "https://www.linkedin.com/in/galindinkov/",
-      "twitter": "https://twitter.com/_galinDinkov"
+    "title": "Tentang kami",
+    "description": "Pigletz.com adalah kolaborasi antara dua perusahaan (Blockchain Technology Bulgaria dan Aff Media) dengan gabungan pengalaman selama puluhan tahun di bidang pengembangan game seluler, pembuatan web, dan pemasaran, serta teknologi blockchain. Tim kami secara eksklusif terdiri dari para profesional, beberapa di antaranya telah bekerja di industri TI selama lebih dari 20 tahun.",
+    "jobs": {
+        "title": "Bekerja dengan kami",
+        "description": "Jika Anda adalah pengembang berpengalaman, manajer pemasaran atau komunitas, influencer, investor atau hanya ingin menghubungi kami, klik di bawah ini",
+        "button": "Berhubungan",
+        "callToAction": "mailto:j0bz@pigletz.com"
     },
-    {
-      "name": "Vicho",
-      "title": "Master Web",
-      "description": "Vicho juga memiliki gelar Master di bidang Ilmu Komputer dan telah mengembangkan situs web dan aplikasi web secara profesional sejak sebelum Uni, ketika ia masih di Sekolah Menengah. Dia meninggalkan pekerjaan sebagai perekayasa perangkat lunak untuk memulai perusahaannya sendiri 11 tahun yang lalu. Ia membuat ratusan situs web dan memberi peringkat dengan sangat baik di beberapa vertikal di Google.",
-      "photo": "/assets/images/team/vicho.png"
-    },
-    {
-      "name": "Miro",
-      "title": "Pembuat Pasar",
-      "description": "Membangun proyek web dari nol di industri iGaming dan FX. Salah satu pemilik TradingPedia.com",
-      "photo": "/assets/images/team/miro.png",
-      "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
-    },
-    {
-      "name": "Miró",
-      "title": "Kontrak",
-      "description": "Seorang jenius di bidang perangkat lunak dengan pengalaman selama 3 dekade",
-      "photo": "/assets/images/team/miro2.png",
-      "linkedin": "https://www.linkedin.com/in/miroslavln"
-    },
-    {
-      "name": "Yan alias Piglet_Z",
-      "title": "Pembangun Komunitas",
-      "description": "Yan telah menjadi spesialis pemasaran online profesional dan koordinator media sosial selama hampir 10 tahun. Dia juga seorang pengagum NFT dan penjahit otodidak. Profil pribadinya sangat berkonspirasi dan jarang ditemukan di media sosial mana pun. Namun dia tetap merespons di Discord kami hampir setiap hari.",
-      "photo": "/assets/images/team/yan.png",
-      "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
-      "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
-    },
-    {
-      "name": "Niko",
-      "title": "3D",
-      "description": "Niko adalah seorang desainer grafis dan 3D dengan pengalaman hampir 10 tahun di bidangnya. Dia telah tertarik pada NFT dan dunia crypto selama beberapa waktu. Ketika dia tidak aktif di internet, dia dapat ditemukan di galeri seni kota.",
-      "photo": "/assets/images/team/niko.png"
-    },
-    {
-      "name": "Eve",
-      "title": "Seni Konsep",
-      "description": "Eve adalah seniman otodidak dengan pemikiran terbuka, yang telah bereksperimen dengan seni digital untuk beberapa waktu hingga sekarang. Dia mencoba untuk menggali rasa ingin tahunya melalui seni apapun bentuknya.",
-      "photo": "/assets/images/team/eve.png",
-      "instagram": "https://www.instagram.com/evesserpent/"
-    },
-    {
-      "name": "Veronica",
-      "title": "Frontender",
-      "description": "Pengembang front-end yang energik dengan pengalaman merancang, mengembangkan, dan mengelola situs web. Dia suka berkeliling dunia dan mengumpulkan batu permata dan kristal dan membuat perhiasan dari itu.",
-      "photo": "/assets/images/team/vicky.png",
-      "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
-    }
-  ],
-  "moreTeam": [
-    {
-      "name": "Sha",
-      "title": "Marketing & BizDev",
-      "description": "Sha adalah seorang mahasiswa pengembangan perangkat lunak, penggemar crypto, dan jiwa kreatif dengan visi pemasaran yang inovatif. Dia menghabiskan waktu luangnya untuk fotografi, produksi musik, atau penelitian tentang crypto.",
-      "photo": "/assets/images/team/sha.png",
-      "instagram": "https://instagram.com/oktay.shakirov",
-      "linkedin": "https://www.linkedin.com/in/oktayshakirov"
-    },
-    {
-      "name": "Jewelrey",
-      "title": "Content Creator",
-      "description": "Jewelrey adalah orang baru dalam hal nfts dan crypto, tetapi membantu membuat konten untuk saluran YouTube Pigletz. Di luar metaverse, dia saat ini adalah seorang mahasiswa psikologi dan pembuat roti.",
-      "photo": "/assets/images/team/jewelrey.png",
-      "instagram": "https://www.instagram.com/jewl.rey"
-    },
-    {
-      "name": "Edi",
-      "title": "Pemasaran",
-      "description": "Edi adalah wajah ramah yang dikenal semua orang di komunitas Pigletz. Saat dia tidak sibuk membangun dan memoderasi komunitas Pigletz, dia akan terlihat belajar, mencari tahu cara kerja JavaScripts tertentu.",
-      "photo": "/assets/images/team/edi.png",
-      "instagram": "https://instagram.com/eddie.mustanski"
-    },
-    {
-      "name": "Dr4g0",
-      "title": "Pengembang Blockchain",
-      "description": "Pengembang game dan smart contract yang suka mendalami EVM. Dr4g0 mengembangkan dan mengaudit smart contract dan menulis API dan middleware.",
-      "photo": "/assets/images/team/dr4g0.png",
-      "nolinks": "BENAR"
-    },
-    {
-      "name": "Michal",
-      "title": "Pengembangan Game",
-      "description": "Pengembang game dengan pengalaman panjang di berbagai platform. Juga pengotak culun dan perfeksionis yang tidak bisa disembuhkan. Pemrograman sejak awal 2000-an.",
-      "photo": "/assets/images/team/michal.png",
-      "linkedin": "https://www.linkedin.com/in/michal-fiala-004b1b4/"
-    },
-    {
-      "name": "Skachkov",
-      "title": "Desain web",
-      "description": "Skachkov adalah seniman dengan pengalaman lebih dari 20 tahun di bidang web dan desain grafis. Dia juga mengerjakan koleksi NFT seni aslinya.",
-      "photo": "/assets/images/team/skachkov.png",
-      "twitter": "https://twitter.com/@_sasho",
-      "instagram": "https://www.instagram.com/aoskachkov/"
-    },
-    {
-      "name": "S1m0",
-      "title": "Backend Dev",
-      "description": "S1m0 bertanggung jawab atas backend dan pengembangan cloud. Karyanya tersembunyi tetapi tanpanya tidak ada yang bisa dilihat.",
-      "photo": "/assets/images/team/s1m0.png",
-      "nolinks": "BENAR"
-    },
-    {
-      "name": "100j40",
-      "title": "Pengembang Android",
-      "description": "Magister Ilmu Komputer, dia adalah pengembang seluler berpengalaman dengan pengalaman 7 tahun dalam membangun dan meningkatkan aplikasi seluler untuk berbagai jenis bisnis dengan jutaan pengguna.",
-      "photo": "/assets/images/team/100j40.png",
-      "linkedin": "https://www.linkedin.com/in/stoycho-petrov-57a03112b/"
-    },
-    {
-      "name": "Dorje",
-      "title": "iOS Dev",
-      "description": "Dorje adalah seorang insinyur seluler dengan pengalaman 10 tahun dalam pengembangan iOS dan lebih dari 15 tahun dalam pengembangan perangkat lunak. Bekerja pada aplikasi kelas dunia dalam karirnya, dia yakin masa depan adalah milik blockchain, Web3, dan NFT.",
-      "photo": "/assets/images/team/dorje.png",
-      "linkedin": "https://www.linkedin.com/in/deyan-zhekov-35ba34b"
-    },
-    {
-      "name": "Jana",
-      "title": "Acara dan Pameran",
-      "description": "Jana mengatur presentasi kami di berbagai acara di seluruh dunia. Dia asli dalam 5 bahasa dan merasa di semua benua.",
-      "photo": "/assets/images/team/jana.png",
-      "linkedin": "https://www.linkedin.com/in/jana-alexandrova-4636576/"
-    },
-    {
-      "name": "Vladika",
-      "title": "Operasi Pasar Jerman",
-      "description": "Pengembangan bisnis dan operasi pemasaran di pasar Jerman. Dia memiliki agen pemasaran yang sukses di Berlin dan merupakan pemain sepak bola yang bersemangat.",
-      "photo": "/assets/images/team/vladika.png",
-      "linkedin": "https://www.linkedin.com/in/vladimirboyanov"
-    },
-    {
-      "name": "Mimi",
-      "title": "Operasi Pasar Spanyol",
-      "description": "Mimi menjalankan operasi, terjemahan, dan penjualan pasar Spanyol kami. Dia memiliki lebih dari 17 tahun penjualan internasional dan pengalaman manajemen tim. Dia menyukai kerajinan tangan, seni kontemporer, dan lukisan cat minyak.",
-      "photo": "/assets/images/team/mimisim.png",
-      "instagram": "https://www.instagram.com/fitmamasenpijamas",
-      "linkedin": "https://www.linkedin.com/in/mimi-sim%C3%B3n-348028135/"
-    },
-    {
-      "name": "Darwin",
-      "title": "Operasi Pasar Asia",
-      "description": "Darwin adalah pakar SEO/SEA dan mewakili Pigletz untuk pasar Asia Selatan.",
-      "photo": "/assets/images/team/darwin.png",
-      "linkedin": "https://www.linkedin.com/in/darwin-wiranda/"
-    }
-  ]
+    "team": [
+        {
+            "name": "Galin alias MasterPig",
+            "title": "The Visionary",
+            "description": "Galin adalah Master of Engineering dalam ilmu komputer dan pengusaha dengan lebih dari 20 tahun dalam bisnis. Sebagai pendiri beberapa perusahaan pengembang game, dia telah menghasilkan game yang sukses dengan jutaan pemain. 5 tahun terakhir ia mengembangkan perusahaan di bidang blockchain dan DeFi.",
+            "photo": "/assets/images/team/masterpig.png",
+            "linkedin": "https://www.linkedin.com/in/galindinkov/",
+            "twitter": "https://twitter.com/_galinDinkov"
+        },
+        {
+            "name": "Vicho",
+            "title": "Master Web",
+            "description": "Vicho juga memiliki gelar Master di bidang Ilmu Komputer dan telah mengembangkan situs web dan aplikasi web secara profesional sejak sebelum Uni, ketika ia masih di Sekolah Menengah. Dia meninggalkan pekerjaan sebagai perekayasa perangkat lunak untuk memulai perusahaannya sendiri 11 tahun yang lalu. Ia membuat ratusan situs web dan memberi peringkat dengan sangat baik di beberapa vertikal di Google.",
+            "photo": "/assets/images/team/vicho.png"
+        },
+        {
+            "name": "Miro",
+            "title": "Pembuat Pasar",
+            "description": "Membangun proyek web dari nol di industri iGaming dan FX. Salah satu pemilik TradingPedia.com",
+            "photo": "/assets/images/team/miro.png",
+            "linkedin": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+        },
+        {
+            "name": "Miró",
+            "title": "Kontrak",
+            "description": "Seorang jenius di bidang perangkat lunak dengan pengalaman selama 3 dekade",
+            "photo": "/assets/images/team/miro2.png",
+            "linkedin": "https://www.linkedin.com/in/miroslavln"
+        },
+        {
+            "name": "Yan alias Piglet_Z",
+            "title": "Pembangun Komunitas",
+            "description": "Yan telah menjadi spesialis pemasaran online profesional dan koordinator media sosial selama hampir 10 tahun. Dia juga seorang pengagum NFT dan penjahit otodidak. Profil pribadinya sangat berkonspirasi dan jarang ditemukan di media sosial mana pun. Namun dia tetap merespons di Discord kami hampir setiap hari.",
+            "photo": "/assets/images/team/yan.png",
+            "discord": "https://www.linkedin.com/in/miro-nikolov-1946b9141/",
+            "telegram": "https://www.linkedin.com/in/miro-nikolov-1946b9141/"
+        },
+        {
+            "name": "Niko",
+            "title": "3D",
+            "description": "Niko adalah seorang desainer grafis dan 3D dengan pengalaman hampir 10 tahun di bidangnya. Dia telah tertarik pada NFT dan dunia crypto selama beberapa waktu. Ketika dia tidak aktif di internet, dia dapat ditemukan di galeri seni kota.",
+            "photo": "/assets/images/team/niko.png"
+        },
+        {
+            "name": "Eve",
+            "title": "Seni Konsep",
+            "description": "Eve adalah seniman otodidak dengan pemikiran terbuka, yang telah bereksperimen dengan seni digital untuk beberapa waktu hingga sekarang. Dia mencoba untuk menggali rasa ingin tahunya melalui seni apapun bentuknya.",
+            "photo": "/assets/images/team/eve.png",
+            "instagram": "https://www.instagram.com/evesserpent/"
+        },
+        {
+            "name": "Veronica",
+            "title": "Frontender",
+            "description": "Pengembang front-end yang energik dengan pengalaman merancang, mengembangkan, dan mengelola situs web. Dia suka berkeliling dunia dan mengumpulkan batu permata dan kristal dan membuat perhiasan dari itu.",
+            "photo": "/assets/images/team/vicky.png",
+            "linkedin": "https://bg.linkedin.com/in/veronica-stefanova-4638841bb"
+        }
+    ],
+    "moreTeam": [
+        {
+            "name": "Sha",
+            "title": "Marketing & BizDev",
+            "description": "Sha adalah seorang mahasiswa pengembangan perangkat lunak, penggemar crypto, dan jiwa kreatif dengan visi pemasaran yang inovatif. Dia menghabiskan waktu luangnya untuk fotografi, produksi musik, atau penelitian tentang crypto.",
+            "photo": "/assets/images/team/sha.png",
+            "instagram": "https://instagram.com/oktay.shakirov",
+            "linkedin": "https://www.linkedin.com/in/oktayshakirov"
+        },
+        {
+            "name": "Jewelrey",
+            "title": "Content Creator",
+            "description": "Jewelrey adalah orang baru dalam hal nfts dan crypto, tetapi membantu membuat konten untuk saluran YouTube Pigletz. Di luar metaverse, dia saat ini adalah seorang mahasiswa psikologi dan pembuat roti.",
+            "photo": "/assets/images/team/jewelrey.png",
+            "instagram": "https://www.instagram.com/jewl.rey"
+        },
+        {
+            "name": "Dr4g0",
+            "title": "Pengembang Blockchain",
+            "description": "Pengembang game dan smart contract yang suka mendalami EVM. Dr4g0 mengembangkan dan mengaudit smart contract dan menulis API dan middleware.",
+            "photo": "/assets/images/team/dr4g0.png",
+            "nolinks": "BENAR"
+        },
+        {
+            "name": "Michal",
+            "title": "Pengembangan Game",
+            "description": "Pengembang game dengan pengalaman panjang di berbagai platform. Juga pengotak culun dan perfeksionis yang tidak bisa disembuhkan. Pemrograman sejak awal 2000-an.",
+            "photo": "/assets/images/team/michal.png",
+            "linkedin": "https://www.linkedin.com/in/michal-fiala-004b1b4/"
+        },
+        {
+            "name": "Skachkov",
+            "title": "Desain web",
+            "description": "Skachkov adalah seniman dengan pengalaman lebih dari 20 tahun di bidang web dan desain grafis. Dia juga mengerjakan koleksi NFT seni aslinya.",
+            "photo": "/assets/images/team/skachkov.png",
+            "twitter": "https://twitter.com/@_sasho",
+            "instagram": "https://www.instagram.com/aoskachkov/"
+        },
+        {
+            "name": "S1m0",
+            "title": "Backend Dev",
+            "description": "S1m0 bertanggung jawab atas backend dan pengembangan cloud. Karyanya tersembunyi tetapi tanpanya tidak ada yang bisa dilihat.",
+            "photo": "/assets/images/team/s1m0.png",
+            "nolinks": "BENAR"
+        },
+        {
+            "name": "100j40",
+            "title": "Pengembang Android",
+            "description": "Magister Ilmu Komputer, dia adalah pengembang seluler berpengalaman dengan pengalaman 7 tahun dalam membangun dan meningkatkan aplikasi seluler untuk berbagai jenis bisnis dengan jutaan pengguna.",
+            "photo": "/assets/images/team/100j40.png",
+            "linkedin": "https://www.linkedin.com/in/stoycho-petrov-57a03112b/"
+        },
+        {
+            "name": "Dorje",
+            "title": "iOS Dev",
+            "description": "Dorje adalah seorang insinyur seluler dengan pengalaman 10 tahun dalam pengembangan iOS dan lebih dari 15 tahun dalam pengembangan perangkat lunak. Bekerja pada aplikasi kelas dunia dalam karirnya, dia yakin masa depan adalah milik blockchain, Web3, dan NFT.",
+            "photo": "/assets/images/team/dorje.png",
+            "linkedin": "https://www.linkedin.com/in/deyan-zhekov-35ba34b"
+        },
+        {
+            "name": "Jana",
+            "title": "Acara dan Pameran",
+            "description": "Jana mengatur presentasi kami di berbagai acara di seluruh dunia. Dia asli dalam 5 bahasa dan merasa di semua benua.",
+            "photo": "/assets/images/team/jana.png",
+            "linkedin": "https://www.linkedin.com/in/jana-alexandrova-4636576/"
+        },
+        {
+            "name": "Vladika",
+            "title": "Operasi Pasar Jerman",
+            "description": "Pengembangan bisnis dan operasi pemasaran di pasar Jerman. Dia memiliki agen pemasaran yang sukses di Berlin dan merupakan pemain sepak bola yang bersemangat.",
+            "photo": "/assets/images/team/vladika.png",
+            "linkedin": "https://www.linkedin.com/in/vladimirboyanov"
+        },
+        {
+            "name": "Mimi",
+            "title": "Operasi Pasar Spanyol",
+            "description": "Mimi menjalankan operasi, terjemahan, dan penjualan pasar Spanyol kami. Dia memiliki lebih dari 17 tahun penjualan internasional dan pengalaman manajemen tim. Dia menyukai kerajinan tangan, seni kontemporer, dan lukisan cat minyak.",
+            "photo": "/assets/images/team/mimisim.png",
+            "instagram": "https://www.instagram.com/fitmamasenpijamas",
+            "linkedin": "https://www.linkedin.com/in/mimi-sim%C3%B3n-348028135/"
+        },
+        {
+            "name": "Darwin",
+            "title": "Operasi Pasar Asia",
+            "description": "Darwin adalah pakar SEO/SEA dan mewakili Pigletz untuk pasar Asia Selatan.",
+            "photo": "/assets/images/team/darwin.png",
+            "linkedin": "https://www.linkedin.com/in/darwin-wiranda/"
+        }
+    ]
 }
