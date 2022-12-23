@@ -27,7 +27,8 @@
       "tl": "Filipino",
       "ar": "العربية",
       "ru": "Русский",
-      "id": "Bahasa Indonesia"
+      "id": "Bahasa Indonesia",
+      "zh": "简体中文"
     }
   },
   "buttons": {
@@ -42,14 +43,14 @@
     "countdown": {
       "text": "El podcast comienza en {{time}}",
       "mintNow": "menta ahora",
-      "second": "{{cuenta}} segundo",
-      "second_other": "{{contar}} segundos",
-      "minute": "{{contar}} minuto",
-      "minute_other": "{{contar}} minutos",
-      "hour": "{{cuenta}} hora",
-      "hour_other": "{{contar}} horas",
-      "day": "{{contar}} día",
-      "day_other": "{{contar}} días"
+      "second": "{{count}} segundo",
+      "second_other": "{{count}} segundos",
+      "minute": "{{count}} minuto",
+      "minute_other": "{{count}} minutos",
+      "hour": "{{count}} hora",
+      "hour_other": "{{count}} horas",
+      "day": "{{count}} día",
+      "day_other": "{{count}} días"
     },
     "public": {
       "text": "¡Únete a nuestra comunidad de Discord para ofertas especiales!",
@@ -109,7 +110,7 @@
     "viewStakedButton": "Ver inversión",
     "boostersOfferTitle": "¿Necesitas <b>refuerzos?</b>",
     "boostersOfferCaption": "¡Invierte en tu Piglet para que aporte más valor para ti! ",
-    "levelReachedCaption": "He alcanzado <b>el nivel {{nivel}}</b>",
+    "levelReachedCaption": "He alcanzado <b>el nivel {{level}}</b>",
     "item": {
       "pifiBalance": "{{balance}} PiFi",
       "level": "Nivel {{level}}"
@@ -352,6 +353,7 @@
     "boost": "{{boost}}% refuerzo",
     "level": "Nivel {{level}}",
     "dailyMint": "{{dailyMint}} PiFi diario",
+    "viewMore": "Ver más",
     "pifi": "PiFi:",
     "walletDescription": "Esta es la billetera no custodiada de tu Piglet. Solo el Piglet, respectivamente, su propietario puede interactuar con ella: depositar tokens o romperlo y retirar todo lo que contiene",
     "walletTitle": "Billetera",
