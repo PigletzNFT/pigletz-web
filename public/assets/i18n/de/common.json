@@ -353,6 +353,7 @@
     "boost": "{{boost}}% boosten",
     "level": "Level {{level}}",
     "dailyMint": "{{dailyMint}} PiFi Täglich",
+    "viewMore": "Mehr sehen",
     "pifi": "PiFi:",
     "walletDescription": "Dies ist die Wallet deines Piglets. Sie ist nicht zugriffsberechtigt (non-custodial) und nur das Piglet bzw. sein Besitzer kann mit ihr interagieren - Token einzahlen oder sie aufbrechen und alles, was sie enthält, abheben",
     "walletTitle": "Wallet",
