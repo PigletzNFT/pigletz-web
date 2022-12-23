@@ -349,6 +349,7 @@
     "boost": "{{boost}}٪ دفعة",
     "level": "المستوى {{level}}",
     "dailyMint": "{{dailyMint}} PiFi اليومي",
+    "viewMore": "عرض المزيد",
     "pifi": "PiFi: ",
     "walletDescription": "هذه هي محفظة Piglet الخاصة بك. إنه غير أمني وفقط Piglet ، على التوالي يمكن لمالكه التفاعل معه - إيداع الرموز المميزة أو كسرها وسحب كل ما يحتويه",
     "walletTitle": "محفظة نقود",
