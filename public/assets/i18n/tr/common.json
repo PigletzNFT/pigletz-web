@@ -353,6 +353,7 @@
     "boost": "%{{boost}} takviye",
     "level": "Seviye {{level}}",
     "dailyMint": "Günlük {{dailyMint}} PiFi",
+    "viewMore": "Daha fazla göster",
     "pifi": "PiFi:",
     "walletDescription": "Bu senin Piglet'inin cüzdanı. Gözetim altında değildir ve yalnızca Piglet, sırasıyla sahibi onunla etkileşime girebilir - Token yatırabilir veya kırabilir ve içerdiği her şeyi çekebilir",
     "walletTitle": "Cüzdan",
