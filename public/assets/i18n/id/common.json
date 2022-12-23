@@ -349,6 +349,7 @@
     "boost": "{{boost}}% boost",
     "level": "Level {{level}}",
     "dailyMint": "{{dailyMint}} PiFi Harian",
+    "viewMore": "Lihat Lebih Banyak",
     "pifi": "PiFi:",
     "walletDescription": "Ini adalah dompet Piglet anda. Ini adalah non-penahanan dan hanya Piglet, masing-masing pemiliknya dapat berinteraksi dengannya - menyimpan token atau menghancurkannya dan menarik semua yang ada di dalamnya",
     "walletTitle": "Dompet",
