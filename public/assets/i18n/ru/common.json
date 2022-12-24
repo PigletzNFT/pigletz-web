@@ -306,7 +306,7 @@
     "promoCodeCheckButton": "Проверка",
     "promoCodePlaceholder": "ВСТАВИТЬ ПРОМОКОД СЮДА...",
     "quantityCaption": "Количество:",
-    "buyNowButton": "Чеканка",
+    "buyNowButton": "Минт",
     "discountedPrice": "{{price}} BNB",
     "totalCaption": "Сумма:",
     "tiersTitle": "Категории",
