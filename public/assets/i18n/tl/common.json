@@ -65,6 +65,9 @@
     },
     "blackFriday": {
       "text": "Ang deal sa BLACK FRIDAY ay matatapos sa {{time}}"
+    },
+    "christmas2022": {
+      "text": "Matatapos ang alok sa Pasko sa {{oras}}"
     }
   },
   "footer": {
@@ -94,6 +97,10 @@
   "blackFridayMint": {
     "title": "BLACK FRIDAY DEAL!",
     "description": "Sa limitadong panahon lamang ay maaari mong i-mint ang iyong biik dito na may 50% na diskwento. Huwag palampasin ang iyong pagkakataon."
+  },
+  "christmasMint": {
+    "title": "Alok na PASKO!",
+    "description": "Para lamang sa mga pista opisyal ng Pasko maaari mong i-mint ang iyong biik dito na may 50% na diskwento. Maligayang Pasko!"
   },
   "pigletzList": {
     "title": "Pigletz Collection",
