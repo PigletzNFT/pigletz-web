@@ -65,6 +65,9 @@
     },
     "blackFriday": {
       "text": "Der BLACK FRIDAY-Deal endet in {{time}}"
+    },
+    "christmas2022": {
+      "text": "Das Weihnachtsangebot läuft ab in {{time}}"
     }
   },
   "footer": {
@@ -94,6 +97,10 @@
   "blackFridayMint": {
     "title": "BLACK FRIDAY ANGEBOT!",
     "description": "Nur für eine begrenzte Zeit kannst du hier dein Ferkel mit 50% Rabatt kaufen. Verpasse nicht deine Chance."
+  },
+  "christmasMint": {
+    "title": "WEIHNACHTSANGEBOT!",
+    "description": "Nur für die Weihnachtsferien kannst du dein Piglet hier mit 50% Rabatt kaufen. Frohe Weihnachten!"
   },
   "pigletzList": {
     "title": "Pigletz Sammlung",
@@ -437,7 +444,7 @@
         "Invest tokens with value of at least $2000 USD": "Erreiche eine Wertschätzung für dein Piglet von über $2000 USD",
         "Collect 3 piglets": "3 Pigletz sammeln",
         "Collect 7 piglets": "7 Pigletz sammeln",
-        "Invest 3 different tokens": "Investiere 3 verschiedene Tokens mit einem Wert größer als Null, ausschließlich PiFi",
+        "Invest 3 different tokens": "Investiere 3 verschiedene Tokens, ausschließlich PiFi",
         "Invest 7 different tokens": "Investiere 7 verschiedene Tokens, ausgenommen PiFi",
         "Collect 3 with the same zodiac sign": "Sammle 3 Pigletz mit demselben Sternzeichen",
         "Collect 12 piglets with different zodiac signs": "Sammle 12 Pigletz mit demselben Sternzeichen",
