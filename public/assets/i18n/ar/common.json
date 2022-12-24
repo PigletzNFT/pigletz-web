@@ -65,6 +65,9 @@
     },
     "blackFriday": {
       "text": "تنتهي صفقة BLACK FRIDAY في {{time}}"
+    },
+    "christmas2022": {
+      "text": "سوف ينتهي عرض عيد الميلاد في {{time}}"
     }
   },
   "footer": {
@@ -94,6 +97,10 @@
   "blackFridayMint": {
     "title": "BLACK FRIDAY DEAL!",
     "description": "فقط لفترة محدودة يمكنك سك الخنزير الصغير الخاص بك بخصم 50٪. لا تفوت فرصتك."
+  },
+  "christmasMint": {
+    "title": "عرض عيد الميلاد!",
+    "description": "فقط في عطلة عيد الميلاد ، يمكنك سك الخنزير الصغير هنا بخصم 50٪. عيد ميلاد مجيد!"
   },
   "pigletzList": {
     "title": "مجموعة Pigletz ",
