@@ -7,10 +7,13 @@
   },
   "nav": {
     "website": "Pigletz.com",
+    "home": "Начало",
     "gallery": "Галерия",
     "about": "За нас",
     "pigletz": "Моите прасенца",
+    "staked": "Стейкнати",
     "mystery": "Моите кутии",
+    "connect": "Свържи крипто-портфейл",
     "buypiglets": "Минтни Прасенце",
     "menu": "Меню",
     "back": "Назад",
@@ -160,6 +163,7 @@
   "connect": {
     "title": "Свържи се",
     "balance": "{{balance}} BNB",
+    "disconnect": "Изход",
     "providers": {
       "metamask": "MetaMask",
       "trustwallet": "Trust Wallet",
@@ -205,6 +209,7 @@
       "error": "Извиняваме се, нещо се обърка"
     },
     "boosterUp": {
+      "pending": "Активиране на бустер",
       "success": "Поздравления!",
       "errors": {
         "default": "Извиняваме се, нещо се обърка",
@@ -222,11 +227,13 @@
     },
     "checkDiscount": {
       "pending": "Проверка на кода",
-      "success": "Кодът е валиден"
+      "success": "Кодът е валиден",
+      "error": "Кодът е грешен или изтекъл"
     },
     "purchasePiglet": {
       "pending": "Минтване на {{count}} прасенце",
       "pending_other": "Минтване на {{count}} прасенца",
+      "success": "{{count}} прасенцe беше минтнато успешно",
       "success_other": "{{count}} прасенца бяха успешно минтнати",
       "error": "Извиняваме се, нещо се обърка"
     },
@@ -294,7 +301,12 @@
     "promoCodePlaceholder": "Сложи кода тук...",
     "quantityCaption": "Количество:",
     "buyNowButton": "Минтни сега",
+    "discountedPrice": "{{price}} BNB",
     "totalCaption": "Общо:",
+    "tiersTitle": "Нива",
+    "tierIndex": "Ниво {{index}}",
+    "tierPrice": "{{price}} BNB",
+    "itemsInColletionLeft": "Остават {{amountLeft}}",
     "howto": {
       "mobile": {
         "button": "Не си сигурен? Научи как да купиш ↓",
@@ -392,7 +404,8 @@
       "maxButton": "МАКС",
       "availableBalance": "Баланс:",
       "depositButton": "Депозирай сега",
-      "unregisteredDeposit": "Имаш {{balance}} {{symbol}} $({{balanceUSD}}), които не са регистрирани"
+      "unregisteredDeposit": "Имаш {{balance}} {{symbol}} $({{balanceUSD}}), които не са регистрирани",
+      "reisteredDeposit": "Регистрирай"
     },
     "boosters": {
       "requiresLevel": "Изисква ниво {{level}}",
@@ -556,6 +569,7 @@
       "description": "Бустерите увеличават бързината на копаене на PiFi токени от твоето прасенце. Има общо 9 бустера."
     },
     "defi": {
+      "title": "DeFi",
       "learnMore": "Научи повече",
       "description": "Можеш да стейкнеш твоето прасенце за специфичен период от време за да ускориш процеса на копаене.",
       "steaking": {
@@ -580,6 +594,7 @@
       "title": "План",
       "stages": [
         {
+          "description": "<b>Идеята се роди</b> в началото на 2021",
           "progress": 100,
           "status": "✓ Свършено"
         },
