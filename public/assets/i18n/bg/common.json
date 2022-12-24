@@ -25,6 +25,9 @@
       "es": "Español",
       "tr": "Türkçe",
       "tl": "Filipino",
+      "ar": "العربية",
+      "ru": "Русский",
+      "id": "Bahasa Indonesia",
       "zh": "简体中文"
     }
   },
@@ -685,7 +688,8 @@
   },
   "newsList": {
     "title": "Новини",
-    "readMore": "Прочети повече"
+    "readMore": "Прочети повече",
+    "allNews": "Всички новини"
   },
   "videoList": {
     "watch": "Гледай"
