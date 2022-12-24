@@ -65,6 +65,9 @@
     },
     "blackFriday": {
       "text": "黑色星期五交易将在 {{time}} 结束"
+    },
+    "christmas2022": {
+      "text": "圣诞节优惠将在 {{time}} 结束"
     }
   },
   "footer": {
@@ -94,6 +97,10 @@
   "blackFridayMint": {
     "title": "黑色星期五特卖！",
     "description": "只有在有限的时间内，您才能在这里以 50% 的折扣铸造您的小猪。不要错过机会。"
+  },
+  "christmasMint": {
+    "title": "圣诞优惠！",
+    "description": "只有在圣诞节假期，您才能在这里以 50% 的折扣铸造您的小猪。圣诞节快乐！"
   },
   "pigletzList": {
     "title": "小猪收藏集",
@@ -178,8 +185,8 @@
     "discordLoginButton": "Discord登录",
     "logoutButton": "登出",
     "spinButton": "旋转",
-    "welcomeToast": "欢迎{{用户名}}",
-    "welcomeText": "欢迎{{用户名}}，",
+    "welcomeToast": "欢迎  {{username}}",
+    "welcomeText": "欢迎  {{username}}",
     "checkTheRulesText": "查看详细规则→",
     "claimRewardButton": "领取 {{count}} 只小猪",
     "claimRewardButton_other": "领取 {{count}} 只小猪",
