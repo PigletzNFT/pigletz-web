@@ -65,6 +65,9 @@
         },
         "blackFriday": {
             "text": "BLACK FRIDAY deal will be over in {{time}}"
+        },
+        "christmas2022": {
+            "text": "Christmass offer will over in {{time}}"
         }
     },
     "footer": {
@@ -94,6 +97,10 @@
     "blackFridayMint": {
         "title": "BLACK FRIDAY DEAL!",
         "description": "Only for a limited time you can mint your piglet here with 50% discount. Don't miss your chance."
+    },
+    "christmasMint": {
+        "title": "CHRISTMAS OFFER!",
+        "description": "Only for the Christmas holidays you can mint your piglet here with 50% discount. Merry Christmas!"
     },
     "pigletzList": {
         "title": "Pigletz Collection",
