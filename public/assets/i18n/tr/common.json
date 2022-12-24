@@ -65,6 +65,9 @@
     },
     "blackFriday": {
       "text": "BLACK FRIDAY anlaşması {{time}} içinde bitecek"
+    },
+    "christmas2022": {
+      "text": "Noel teklifi {{time}} içinde sona erecek"
     }
   },
   "footer": {
@@ -94,6 +97,10 @@
   "blackFridayMint": {
     "title": "BLACK FRIDAY FIRSATLARI!",
     "description": "Sadece kısa bir süre için domuz yavrunu buradan %50 indirimle alabilirsin. Şansını kaçırma."
+  },
+  "christmasMint": {
+    "title": "NOEL TEKLİFİ!",
+    "description": "Sadece Noel tatili için domuzcuğunuzu burada %50 indirimle darp edebilirsiniz. Mutlu Noeller!"
   },
   "pigletzList": {
     "title": "Pigletz Koleksiyonu",
