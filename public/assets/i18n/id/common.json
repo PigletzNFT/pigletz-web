@@ -65,6 +65,9 @@
     },
     "blackFriday": {
       "text": "Kesepakatan BLACK FRIDAY akan berakhir dalam {{time}}"
+    },
+    "christmas2022": {
+      "text": "Penawaran Natal akan berakhir dalam {{time}}"
     }
   },
   "footer": {
@@ -94,6 +97,8 @@
   "blackFridayMint": {
     "title": "DEAL HITAM JUMAT!",
     "description": "Hanya untuk waktu yang terbatas Anda dapat mencetak anak babi Anda di sini dengan diskon 50%. Jangan lewatkan kesempatan Anda."
+  },
+  "christmasMint": {
   },
   "pigletzList": {
     "title": "Koleksi Pigletz",
