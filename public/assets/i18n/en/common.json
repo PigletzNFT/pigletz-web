@@ -67,7 +67,7 @@
             "text": "BLACK FRIDAY deal will be over in {{time}}"
         },
         "christmas2022": {
-            "text": "Christmass offer will over in {{time}}"
+            "text": "Christmas offer will over in {{time}}"
         }
     },
     "footer": {
@@ -475,7 +475,12 @@
             "expired": "Expired",
             "alreadyStaked": "This piglet has been staked already on {{stakedOnDate}} for {{days}} days",
             "neverStaked": "This piglet has never been staked",
-            "periods": ["3 months", "6 months", "1 year", "2 years"],
+            "periods": [
+                "3 months",
+                "6 months",
+                "1 year",
+                "2 years"
+            ],
             "timeLeft": {
                 "year": "year left",
                 "year_other": "years left",
