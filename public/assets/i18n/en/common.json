@@ -185,6 +185,7 @@
         "discordLoginButton": "Login to Discord",
         "logoutButton": "Logout",
         "spinButton": "Spin",
+        "infoBox": "Christmas season has ended. We are preparing the next one. Be in touch",
         "welcomeToast": "Welcome {{username}}",
         "welcomeText": "Welcome {{username}},",
         "checkTheRulesText": "Checkout the detailed rules here →",
@@ -475,12 +476,7 @@
             "expired": "Expired",
             "alreadyStaked": "This piglet has been staked already on {{stakedOnDate}} for {{days}} days",
             "neverStaked": "This piglet has never been staked",
-            "periods": [
-                "3 months",
-                "6 months",
-                "1 year",
-                "2 years"
-            ],
+            "periods": ["3 months", "6 months", "1 year", "2 years"],
             "timeLeft": {
                 "year": "year left",
                 "year_other": "years left",
