@@ -185,6 +185,7 @@
     "discordLoginButton": "Войти в Discord",
     "logoutButton": "Выйти",
     "spinButton": "Вращаться",
+    "infoBox": "Рождественский сезон закончился. Мы готовим следующий. Будьте на связи",
     "welcomeToast": "Добро пожаловать {{username}}",
     "welcomeText": "Добро пожаловать {{username}},",
     "checkTheRulesText": "Ознакомьтесь с подробными правилами здесь →",
