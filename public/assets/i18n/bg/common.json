@@ -185,6 +185,7 @@
     "discordLoginButton": "Влез в Discord",
     "logoutButton": "Излез от профила си",
     "spinButton": "Завърти и спечели",
+    "infoBox": "Коледният сезон приключи. В момента подготвяме следващия. Следете за информация",
     "welcomeToast": "Добре дошъл, {{username}}",
     "welcomeText": "Добре дошъл {{username}}",
     "checkTheRulesText": "Виж подробно правилата тук →",
