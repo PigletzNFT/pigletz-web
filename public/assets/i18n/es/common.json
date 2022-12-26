@@ -67,6 +67,7 @@
       "text": "La oferta de BLACK FRIDAY terminará en {{time}}"
     },
     "christmas2022": {
+      "text": "La oferta de Navidad terminará en {{time}}"
     }
   },
   "footer": {
@@ -98,6 +99,8 @@
     "description": "Solo por tiempo limitado puedes acuñar aquí tu lechón con un 50% de descuento. No pierdas tu oportunidad."
   },
   "christmasMint": {
+    "title": "¡OFERTA DE NAVIDAD!",
+    "description": "Solo para las fiestas navideñas puedes acuñar aquí tu Piglet con un 50% de descuento. ¡Feliz navidad!"
   },
   "pigletzList": {
     "title": "Colección de Pigletz",
