@@ -185,6 +185,7 @@
     "discordLoginButton": "تسجيل الدخول إلى Discord",
     "logoutButton": "تسجيل خروج",
     "spinButton": "غزل",
+    "infoBox": "انتهى موسم عيد الميلاد. نحن نستعد للمرحلة التالية. كن على اتصال",
     "welcomeToast": "مرحبًا {{username}}",
     "welcomeText": "مرحبًا {{username}} ،",
     "checkTheRulesText": "تحقق من القواعد التفصيلية هنا →",
