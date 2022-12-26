@@ -185,6 +185,7 @@
     "discordLoginButton": "Anmeldung bei Discord",
     "logoutButton": "Ausloggen",
     "spinButton": "Dreh am Glücksrad und gewinne",
+    "infoBox": "Die Weihnachtszeit ist vorbei. Wir bereiten schon die nächste vor. Bleiben Sie in Verbindung",
     "welcomeToast": "Willkommen {{username}}",
     "welcomeText": "Willkommen {{username}}",
     "checkTheRulesText": "Die detaillierten Regeln findest du hier →",
