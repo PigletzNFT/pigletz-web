@@ -65,6 +65,8 @@
     },
     "blackFriday": {
       "text": "La oferta de BLACK FRIDAY terminará en {{time}}"
+    },
+    "christmas2022": {
     }
   },
   "footer": {
@@ -94,6 +96,8 @@
   "blackFridayMint": {
     "title": "OFERTA DE VIERNES NEGRO!",
     "description": "Solo por tiempo limitado puedes acuñar aquí tu lechón con un 50% de descuento. No pierdas tu oportunidad."
+  },
+  "christmasMint": {
   },
   "pigletzList": {
     "title": "Colección de Pigletz",
@@ -178,6 +182,7 @@
     "discordLoginButton": "Iniciar sesión en Discord",
     "logoutButton": "Cerrar sesión",
     "spinButton": "Girar",
+    "infoBox": "La temporada navideña ha terminado. Estamos preparando el siguiente. Estar en contacto",
     "welcomeToast": "Bienvenido {{username}}",
     "welcomeText": "Bienvenido {{username}},",
     "checkTheRulesText": "Consulte las reglas detalladas aquí →",
