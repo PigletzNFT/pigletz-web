@@ -53,7 +53,7 @@
             "day_other": "{{count}} days"
         },
         "public": {
-            "text": "Join our discord community for special offers!",
+            "text": "You can mint a Piglet with PiFi Tokens",
             "mintNow": "Mint Now"
         },
         "binance": {
@@ -185,7 +185,7 @@
         "discordLoginButton": "Login to Discord",
         "logoutButton": "Logout",
         "spinButton": "Spin",
-        "infoBox": "Christmas season has ended. We are preparing the next one. Be in touch",
+        "infoBox": "Season has ended. We are preparing the next one. Be in touch",
         "welcomeToast": "Welcome {{username}}",
         "welcomeText": "Welcome {{username}},",
         "checkTheRulesText": "Checkout the detailed rules here →",
@@ -307,9 +307,14 @@
         "promoCodeCaption": "Discount:",
         "promoCodeCheckButton": "Check",
         "promoCodePlaceholder": "PASTE CODE HERE...",
+        "howToBuyPiFi": "Learn how to buy PiFi",
         "quantityCaption": "Quantity:",
         "buyNowButton": "Mint",
+        "addToMetamaskButton": "Add PiFi to MetaMask",
         "discountedPrice": "{{price}} BNB",
+        "priceInPiFi": "{{price}} PiFi",
+        "balanceCaption": "Balance:",
+        "balanceInPiFi": "{{balance}} PiFi",
         "totalCaption": "Total:",
         "tiersTitle": "Tiers",
         "tierIndex": "Tier {{index}}",
@@ -360,6 +365,7 @@
         "dailyMint": "{{dailyMint}} PiFi Daily",
         "viewMore": "View More",
         "pifi": "PiFi:",
+        "addToMetamaskButton": "Add to MetaMask",
         "walletDescription": "This is your Piglet's wallet. It is non-custodial and only the Piglet, respectively its owner can interact with it - deposit tokens or break it and withdraw everything it contains",
         "walletTitle": "Wallet",
         "depositButton": "Deposit ({{invested}}/{{total}})",
@@ -676,7 +682,8 @@
             "telegram": "Join our Telegram Channel"
         },
         "marketplaces": {
-            "title": "Also available on:"
+            "title": "Also available on:",
+            "googlePlay": "Get it on Google Play"
         }
     },
     "errors": {
