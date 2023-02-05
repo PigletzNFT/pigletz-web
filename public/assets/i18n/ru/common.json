@@ -53,7 +53,7 @@
       "day_other": "{{count}} дней"
     },
     "public": {
-      "text": "Присоединяйся к нашему discord сообществу для спецпредложений!",
+      "text": "Ты можешь чеканить Piglet с помощью PiFi Tokens",
       "mintNow": "Купить сейчас"
     },
     "binance": {
@@ -185,7 +185,7 @@
     "discordLoginButton": "Войти в Discord",
     "logoutButton": "Выйти",
     "spinButton": "Вращаться",
-    "infoBox": "Рождественский сезон закончился. Мы готовим следующий. Будьте на связи",
+    "infoBox": "Сезон закончился. Мы готовим следующий. Буду на связи",
     "welcomeToast": "Добро пожаловать {{username}}",
     "welcomeText": "Добро пожаловать {{username}},",
     "checkTheRulesText": "Ознакомьтесь с подробными правилами здесь →",
@@ -306,9 +306,14 @@
     "promoCodeCaption": "Скидка:",
     "promoCodeCheckButton": "Проверка",
     "promoCodePlaceholder": "ВСТАВИТЬ ПРОМОКОД СЮДА...",
+    "howToBuyPiFi": "Узнай, как приобрести PiFi",
     "quantityCaption": "Количество:",
     "buyNowButton": "Минт",
+    "addToMetamaskButton": "Добавь PiFi в MetaMask",
     "discountedPrice": "{{price}} BNB",
+    "priceInPiFi": "{{price}} PiFi",
+    "balanceCaption": "Баланс:",
+    "balanceInPiFi": "{{balance}} PiFi",
     "totalCaption": "Сумма:",
     "tiersTitle": "Категории",
     "tierIndex": "Категория {{index}}",
@@ -359,6 +364,7 @@
     "dailyMint": "{{dailyMint}} PiFi ежедневно",
     "viewMore": "Посмотреть больше",
     "pifi": "PiFi:",
+    "addToMetamaskButton": "Добавь в MetaMask",
     "walletDescription": "Это кошелек вашей Поросёнка-копилку. Он не имеет расходов и только Поросенок-копилка, т.е.  её владелец может с ним взаимодействовать - внести токены или разбить её и вывести все, что в ней содержится.",
     "walletTitle": "Кошелёк",
     "depositButton": "Депозит ({{инвестировано}}/{{всего}})",
@@ -680,7 +686,8 @@
       "telegram": "Присоединиться к Telegram каналу"
     },
     "marketplaces": {
-      "title": "Также доступен на:"
+      "title": "Также доступен на:",
+      "googlePlay": "Скачать на Google Play"
     }
   },
   "errors": {
