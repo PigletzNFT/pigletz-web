@@ -53,7 +53,7 @@
       "day_other": "{{count}} días"
     },
     "public": {
-      "text": "¡Únete a nuestra comunidad de Discord para ofertas especiales!",
+      "text": "Puedes acuñar un Piglet con PiFi Tokens",
       "mintNow": "Acuñar ahora"
     },
     "binance": {
@@ -185,7 +185,7 @@
     "discordLoginButton": "Iniciar sesión en Discord",
     "logoutButton": "Cerrar sesión",
     "spinButton": "Girar",
-    "infoBox": "La temporada navideña ha terminado. Estamos preparando el siguiente. Estar en contacto",
+    "infoBox": "La temporada ha terminado. Estamos preparando el siguiente. Estar en contacto",
     "welcomeToast": "Bienvenido {{username}}",
     "welcomeText": "Bienvenido {{username}},",
     "checkTheRulesText": "Consulte las reglas detalladas aquí →",
@@ -310,9 +310,14 @@
     "promoCodeCaption": "Descuento:",
     "promoCodeCheckButton": "Verificar",
     "promoCodePlaceholder": "Copiar código aquí...",
+    "howToBuyPiFi": "Aprende a comprar PiFi",
     "quantityCaption": "Cantidad:",
     "buyNowButton": "Acuñar",
+    "addToMetamaskButton": "Agregar PiFi a MetaMask",
     "discountedPrice": "{{price}} BNB",
+    "priceInPiFi": "{{price}} PiFi",
+    "balanceCaption": "Balance:",
+    "balanceInPiFi": "{{balance}} PiFi",
     "totalCaption": "Total:",
     "tiersTitle": "Colecciones",
     "tierIndex": "Colección {{index}}",
@@ -363,6 +368,7 @@
     "dailyMint": "{{dailyMint}} PiFi diario",
     "viewMore": "Ver más",
     "pifi": "PiFi:",
+    "addToMetamaskButton": "Añadir a MetaMask",
     "walletDescription": "Esta es la billetera no custodiada de tu Piglet. Solo el Piglet, respectivamente, su propietario puede interactuar con ella: depositar tokens o romperlo y retirar todo lo que contiene",
     "walletTitle": "Billetera",
     "depositButton": "Depósito ({{invested}}/{{total}})",
@@ -684,7 +690,8 @@
       "telegram": "Únete a nuestro grupo de Telegram"
     },
     "marketplaces": {
-      "title": "También disponible en:"
+      "title": "También disponible en:",
+      "googlePlay": "Consiguelo en Google Play"
     }
   },
   "errors": {
