@@ -53,7 +53,7 @@
       "day_other": "{{count}} يوم"
     },
     "public": {
-      "text": "انضم إلى مجتمع التنافس لدينا للحصول على عروض خاصة!",
+      "text": "يمكنك سك Piglet مع رموز PiFi",
       "mintNow": "اشتري الآن"
     },
     "binance": {
@@ -185,7 +185,7 @@
     "discordLoginButton": "تسجيل الدخول إلى Discord",
     "logoutButton": "تسجيل خروج",
     "spinButton": "غزل",
-    "infoBox": "انتهى موسم عيد الميلاد. نحن نستعد للمرحلة التالية. كن على اتصال",
+    "infoBox": "انتهى الموسم. نحن نستعد للمرحلة التالية. كن على اتصال",
     "welcomeToast": "مرحبًا {{username}}",
     "welcomeText": "مرحبًا {{username}} ،",
     "checkTheRulesText": "تحقق من القواعد التفصيلية هنا →",
@@ -306,9 +306,14 @@
     "promoCodeCaption": "خصم:",
     "promoCodeCheckButton": "يفحص",
     "promoCodePlaceholder": "لصق الكود هنا ...",
+    "howToBuyPiFi": "تعرف على كيفية شراء PiFi",
     "quantityCaption": "كمية:",
     "buyNowButton": "نعناع",
+    "addToMetamaskButton": "أضف PiFi إلى MetaMask",
     "discountedPrice": "{{price}} BNB",
+    "priceInPiFi": "{{price}} PiFi",
+    "balanceCaption": "توازن:",
+    "balanceInPiFi": "{{balance}} PiFi",
     "totalCaption": "المجموع:",
     "tiersTitle": "المستويات",
     "tierIndex": "المستوى {{index}}",
@@ -359,6 +364,7 @@
     "dailyMint": "{{dailyMint}} PiFi اليومي",
     "viewMore": "عرض المزيد",
     "pifi": "PiFi: ",
+    "addToMetamaskButton": "أضف إلى MetaMask",
     "walletDescription": "هذه هي محفظة Piglet الخاصة بك. إنه غير أمني وفقط Piglet ، على التوالي يمكن لمالكه التفاعل معه - إيداع الرموز المميزة أو كسرها وسحب كل ما يحتويه",
     "walletTitle": "محفظة نقود",
     "depositButton": "الإيداع ({{invested}} / {{total}})",
@@ -680,7 +686,8 @@
       "telegram": "انضم إلى قناة Telegram الخاصة بنا"
     },
     "marketplaces": {
-      "title": "متاح أيضًا على:"
+      "title": "متاح أيضًا على:",
+      "googlePlay": "احصل عليه من متجر جوجل للتطبيقات"
     }
   },
   "errors": {
