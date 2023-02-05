@@ -53,7 +53,7 @@
       "day_other": "{{count}} hari"
     },
     "public": {
-      "text": "Bergabunglah dengan komunitas Discord kami untuk penawaran spesial!",
+      "text": "Anda dapat mencetak Piglet dengan Token PiFi",
       "mintNow": "Cetak Sekarang"
     },
     "binance": {
@@ -185,7 +185,7 @@
     "discordLoginButton": "Masuk ke Perselisihan",
     "logoutButton": "Keluar",
     "spinButton": "Putaran",
-    "infoBox": "Musim Natal telah berakhir. Kami sedang mempersiapkan yang berikutnya. Berhubunganlah dengan kami",
+    "infoBox": "Musim telah berakhir. Kami sedang mempersiapkan yang berikutnya. Tetaplah berhubungan.",
     "welcomeToast": "Selamat datang {{username}}",
     "welcomeText": "Selamat datang {{username}},",
     "checkTheRulesText": "Lihat aturan terperinci di sini →",
@@ -306,9 +306,14 @@
     "promoCodeCaption": "Diskon:",
     "promoCodeCheckButton": "Memeriksa",
     "promoCodePlaceholder": "SALIN KODE DI SINI...",
+    "howToBuyPiFi": "Pelajari cara membeli PiFi",
     "quantityCaption": "Jumlah:",
     "buyNowButton": "Cetak",
+    "addToMetamaskButton": "Tambahkan PiFi ke MetaMask",
     "discountedPrice": "{{price}} BNB",
+    "priceInPiFi": "{{price}} PiFi",
+    "balanceCaption": "Keseimbangan:",
+    "balanceInPiFi": "{{balance}} PiFi",
     "totalCaption": "Total:",
     "tiersTitle": "Tingkatan",
     "tierIndex": "Tingkat {{index}}",
@@ -359,6 +364,7 @@
     "dailyMint": "{{dailyMint}} PiFi Harian",
     "viewMore": "Lihat Lebih Banyak",
     "pifi": "PiFi:",
+    "addToMetamaskButton": "Tambahkan ke MetaMask",
     "walletDescription": "Ini adalah dompet Piglet anda. Ini adalah non-penahanan dan hanya Piglet, masing-masing pemiliknya dapat berinteraksi dengannya - menyimpan token atau menghancurkannya dan menarik semua yang ada di dalamnya",
     "walletTitle": "Dompet",
     "depositButton": "Setor ({{invested}}/{{total}})",
@@ -680,7 +686,8 @@
       "telegram": "Bergabunglah dengan channel Telegram kami"
     },
     "marketplaces": {
-      "title": "Juga tersedia di:"
+      "title": "Juga tersedia di:",
+      "googlePlay": "Dapatkan di Google Play"
     }
   },
   "errors": {
