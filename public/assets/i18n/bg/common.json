@@ -53,7 +53,7 @@
       "day_other": "{{count}} дни"
     },
     "public": {
-      "text": "Присъедини се към нашата общност в Discord за специални оферти",
+      "text": "Можеш да минтнеш прасенце с PiFi токени",
       "mintNow": "Минтни Сега"
     },
     "binance": {
@@ -185,7 +185,7 @@
     "discordLoginButton": "Влез в Discord",
     "logoutButton": "Излез от профила си",
     "spinButton": "Завърти и спечели",
-    "infoBox": "Коледният сезон приключи. В момента подготвяме следващия. Следете за информация",
+    "infoBox": "Сезонът приключи. Подготвяме следващия. Бъдете в контакт",
     "welcomeToast": "Добре дошъл, {{username}}",
     "welcomeText": "Добре дошъл {{username}}",
     "checkTheRulesText": "Виж подробно правилата тук →",
@@ -306,9 +306,14 @@
     "promoCodeCaption": "Намаление:",
     "promoCodeCheckButton": "Провери",
     "promoCodePlaceholder": "Сложи кода тук...",
+    "howToBuyPiFi": "Научи как да купиш PiFi",
     "quantityCaption": "Количество:",
     "buyNowButton": "Минтни",
+    "addToMetamaskButton": "Добави PiFi към MetaMask",
     "discountedPrice": "{{price}} BNB",
+    "priceInPiFi": "{{price}} PiFi",
+    "balanceCaption": "Баланс:",
+    "balanceInPiFi": "{{balance}} PiFi",
     "totalCaption": "Общо:",
     "tiersTitle": "Нива",
     "tierIndex": "Ниво {{index}}",
@@ -359,6 +364,7 @@
     "dailyMint": "{{dailyMint}} PiFi дневно",
     "viewMore": "Виж повече",
     "pifi": "PiFi:",
+    "addToMetamaskButton": "Добави към MetaMask",
     "walletDescription": "Това е твоят портфейл с прасенца. Той е децентрализиран и само прасенцето, респективно неговият притежател може да взаимодейства с него - да депозира токени или да го счупи и да изкара всичко което се е садържало в него.",
     "walletTitle": "Портфейл",
     "depositButton": "Депозит ({{invested}}/{{total}})",
@@ -680,7 +686,8 @@
       "telegram": "Ела в нашия Telegram канал"
     },
     "marketplaces": {
-      "title": "Също налично на:"
+      "title": "Също налично на:",
+      "googlePlay": "Изтегли от Google Play"
     }
   },
   "errors": {
