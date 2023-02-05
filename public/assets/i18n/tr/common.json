@@ -53,7 +53,7 @@
       "day_other": "{{count}} gün"
     },
     "public": {
-      "text": "Özel teklifler için Discord topluluğumuza katılın!",
+      "text": "PiFi Tokenları ile bir Piglet basabilirsin",
       "mintNow": "Şimdi üret"
     },
     "binance": {
@@ -185,7 +185,7 @@
     "discordLoginButton": "Discord'a giriş yap",
     "logoutButton": "Çıkış Yap",
     "spinButton": "Döndür ve Kazan ",
-    "infoBox": "Noel sezonu sona erdi. Bir sonrakini hazırlıyoruz. İletişimde kalın",
+    "infoBox": "Sezon sona erdi. Bir sonraki sezona hazırlanıyoruz. İletişimde kalın!",
     "welcomeToast": "Hoş geldin {{kullanıcı adı}}",
     "welcomeText": "Hoş geldin {{kullanıcı adı}}",
     "checkTheRulesText": "Ayrıntılı kuralları buradan kontrol et →",
@@ -310,9 +310,14 @@
     "promoCodeCaption": "Indirim:",
     "promoCodeCheckButton": "Kontrol",
     "promoCodePlaceholder": "KODU BURAYA YAPIŞTIR...",
+    "howToBuyPiFi": "PiFi'yi nasıl satın almayı öğrenin",
     "quantityCaption": "Adet:",
     "buyNowButton": "Üret",
+    "addToMetamaskButton": "PiFi'yi MetaMask'e ekle",
     "discountedPrice": "{{price}} BNB",
+    "priceInPiFi": "{{price}} PiFi",
+    "balanceCaption": "Balans:",
+    "balanceInPiFi": "{{balance}} PiFi",
     "totalCaption": "Toplam:",
     "tiersTitle": "Aşamalar",
     "tierIndex": "Aşama {{index}}",
@@ -363,6 +368,7 @@
     "dailyMint": "Günlük {{dailyMint}} PiFi",
     "viewMore": "Daha fazla göster",
     "pifi": "PiFi:",
+    "addToMetamaskButton": "MetaMask'e ekle",
     "walletDescription": "Bu senin Piglet'inin cüzdanı. Gözetim altında değildir ve yalnızca Piglet, sırasıyla sahibi onunla etkileşime girebilir - Token yatırabilir veya kırabilir ve içerdiği her şeyi çekebilir",
     "walletTitle": "Cüzdan",
     "depositButton": "Yatır ({{invested}}/{{total}})",
@@ -684,7 +690,8 @@
       "telegram": "Telegram kanalımıza katılın"
     },
     "marketplaces": {
-      "title": "Ulaşabileceğin diğer yerler:"
+      "title": "Ulaşabileceğin diğer yerler:",
+      "googlePlay": "Google Play'den al"
     }
   },
   "errors": {
