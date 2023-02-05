@@ -53,7 +53,7 @@
       "day_other": "{{count}} 天"
     },
     "public": {
-      "text": "加入我们的 Discord 社区，获取特别优惠！",
+      "text": "你可以用PiFi代币铸造一只小猪",
       "mintNow": "现在就铸造"
     },
     "binance": {
@@ -185,7 +185,7 @@
     "discordLoginButton": "Discord登录",
     "logoutButton": "登出",
     "spinButton": "旋转",
-    "infoBox": "圣诞季已经结束。我们正在准备下一个。保持联系",
+    "infoBox": "季节已经结束。我们正在准备下一次的活动。请与我们联系",
     "welcomeToast": "欢迎  {{username}}",
     "welcomeText": "欢迎  {{username}}",
     "checkTheRulesText": "查看详细规则→",
@@ -306,9 +306,14 @@
     "promoCodeCaption": "折扣：",
     "promoCodeCheckButton": "查看",
     "promoCodePlaceholder": "在此处粘贴代码...",
+    "howToBuyPiFi": "了解如何购买PiFi",
     "quantityCaption": "数量：",
     "buyNowButton": "铸造",
+    "addToMetamaskButton": "添加PiFi到MetaMask",
     "discountedPrice": "{{price}} BNB",
+    "priceInPiFi": "{{price}} PiFi",
+    "balanceCaption": "平衡：",
+    "balanceInPiFi": "{{balance}} PiFi",
     "totalCaption": "总计：",
     "tiersTitle": "阶段",
     "tierIndex": "阶段 {{index}}",
@@ -359,6 +364,7 @@
     "dailyMint": "{{dailyMint}} PiFi 日报",
     "viewMore": "查看更多",
     "pifi": "PiFi",
+    "addToMetamaskButton": "添加到 MetaMask",
     "walletDescription": "这是您的 Piglet 的钱包。它是非托管钱包，因此只有Piglet的主人才可以与其交互 - 存入代币或打破它并提取其中所有的",
     "walletTitle": "钱包",
     "depositButton": "存入（{{invested}}/{{total}}）",
@@ -680,7 +686,8 @@
       "telegram": "加入我们的电报群"
     },
     "marketplaces": {
-      "title": "可以访问："
+      "title": "可以访问：",
+      "googlePlay": "从 Google Play 下载"
     }
   },
   "errors": {
