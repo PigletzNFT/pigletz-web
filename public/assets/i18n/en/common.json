@@ -654,13 +654,13 @@
                 },
                 {
                     "description": " <b>Mobile Wallet</b> is released <br /> (Q4 2022)",
-                    "progress": 80,
-                    "status": "Working..."
+                    "progress": 100,
+                    "status": "✓ Completed"
                 },
                 {
                     "description": " <b>Spin and Win</b> Pigletz <br /> (Q4 2022)",
-                    "progress": 90,
-                    "status": "Working..."
+                    "progress": 100,
+                    "status": "✓ Completed"
                 },
                 {
                     "description": " <b>Cross-chain</b> coming soon<br />",
