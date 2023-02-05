@@ -53,7 +53,7 @@
       "day_other": "{{count}} araw"
     },
     "public": {
-      "text": "Sumali sa aming discord community para sa mga espesyal na alok!",
+      "text": "Maaari kang mag-mint ng Piglet na may PiFi Token",
       "mintNow": "Mint Ngayon"
     },
     "binance": {
@@ -185,7 +185,7 @@
     "discordLoginButton": "Mag-login sa Discord",
     "logoutButton": "Mag-logout",
     "spinButton": "Ikutin para manalo",
-    "infoBox": "Tapos na ang Christmas season. Inihahanda na namin ang susunod. Makipag-ugnayan",
+    "infoBox": "Natapos na ang season. Inihahanda na namin ang susunod. Makipag-ugnayan",
     "welcomeToast": "Maligayang pagdating {{username}}",
     "welcomeText": "Maligayang pagdating {{username}}",
     "checkTheRulesText": "Tingnan ang mga detalyadong panuntunan dito →",
@@ -306,9 +306,14 @@
     "promoCodeCaption": "diskwento:",
     "promoCodeCheckButton": "Suriin",
     "promoCodePlaceholder": "I-paste ang CODE DITO...",
+    "howToBuyPiFi": "Alamin kung paano bumili ng PiFi",
     "quantityCaption": "Dami:",
     "buyNowButton": "Mint",
+    "addToMetamaskButton": "Magdagdag ng PiFi sa MetaMask",
     "discountedPrice": "{{price}} BNB",
+    "priceInPiFi": "{{price}} PiFi",
+    "balanceCaption": "Balanse:",
+    "balanceInPiFi": "{{balance}} PiFi",
     "totalCaption": "Kabuuan:",
     "tiersTitle": "Mga Baitang",
     "tierIndex": "Baitang {{index}}",
@@ -359,6 +364,7 @@
     "dailyMint": "{{dailyMint}} PiFi Daily",
     "viewMore": "Tingnan ang Higit Pa",
     "pifi": "PiFi:",
+    "addToMetamaskButton": "Idagdag sa MetaMask",
     "walletDescription": "Ito ang pitaka ng Piglet mo. Ito ay hindi custodial at tanging ang Piglet, ayon sa pagkakabanggit, ang may-ari nito ay maaaring makipag-ugnayan dito - magdeposito ng mga token o masira ito at mag-withdraw ng lahat ng nilalaman nito",
     "walletTitle": "wallet",
     "depositButton": "Deposito ({{invested}}/{{total}})",
@@ -680,7 +686,8 @@
       "telegram": "Sumali sa aming Telegram Channel"
     },
     "marketplaces": {
-      "title": "Available din sa:"
+      "title": "Available din sa:",
+      "googlePlay": "Kunin sa Google Play"
     }
   },
   "errors": {
