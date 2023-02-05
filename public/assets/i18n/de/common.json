@@ -53,7 +53,7 @@
       "day_other": "{{count}} Tage"
     },
     "public": {
-      "text": "Tritt unsere Discord-Community bei und erhalte spezielle Angebote!",
+      "text": "Du kannst ein Piglet mit PiFi Tokens kaufen",
       "mintNow": "Jetzt Minten"
     },
     "binance": {
@@ -185,7 +185,7 @@
     "discordLoginButton": "Anmeldung bei Discord",
     "logoutButton": "Ausloggen",
     "spinButton": "Dreh am Glücksrad und gewinne",
-    "infoBox": "Die Weihnachtszeit ist vorbei. Wir bereiten schon die nächste vor. Bleiben Sie in Verbindung",
+    "infoBox": "Die Saison ist beendet. Wir bereiten die nächste Saison vor. Bleib in Kontakt",
     "welcomeToast": "Willkommen {{username}}",
     "welcomeText": "Willkommen {{username}}",
     "checkTheRulesText": "Die detaillierten Regeln findest du hier →",
@@ -310,9 +310,14 @@
     "promoCodeCaption": "Rabattcode:",
     "promoCodeCheckButton": "Prüfen",
     "promoCodePlaceholder": "CODE HIER EINFÜGEN...",
+    "howToBuyPiFi": "Erfahre, wie du PiFi kaufen kannst",
     "quantityCaption": "Menge:",
     "buyNowButton": "Minten",
+    "addToMetamaskButton": "PiFi zu MetaMask hinzufügen",
     "discountedPrice": "{{price}} BNB",
+    "priceInPiFi": "{{price}} PiFi",
+    "balanceCaption": "Balance:",
+    "balanceInPiFi": "{{balance}} PiFi",
     "totalCaption": "Gesamt:",
     "tiersTitle": "Ebenen",
     "tierIndex": "Ebene {{index}}",
@@ -363,6 +368,7 @@
     "dailyMint": "{{dailyMint}} PiFi Täglich",
     "viewMore": "Mehr sehen",
     "pifi": "PiFi:",
+    "addToMetamaskButton": "Zu MetaMask hinzufügen",
     "walletDescription": "Dies ist die Wallet deines Piglets. Sie ist nicht zugriffsberechtigt (non-custodial) und nur das Piglet bzw. sein Besitzer kann mit ihr interagieren - Token einzahlen oder sie aufbrechen und alles, was sie enthält, abheben",
     "walletTitle": "Wallet",
     "depositButton": "Einzahlen ({{invested}}/{{total}})",
@@ -684,7 +690,8 @@
       "telegram": "Unserem Telegram-Kanal beitreten"
     },
     "marketplaces": {
-      "title": "Auch verfügbar auf:"
+      "title": "Auch verfügbar auf:",
+      "googlePlay": "Bei Google Play herunterladen"
     }
   },
   "errors": {
