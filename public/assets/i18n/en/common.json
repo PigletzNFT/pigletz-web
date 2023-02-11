@@ -479,6 +479,8 @@
             "stakeButton": "Stake",
             "unstakeButton": "Unstake",
             "stakedBadge": "Staked",
+            "stakeBadge": "Stake It",
+            "stakeBadgeSmall": "for more PiFi",
             "expired": "Expired",
             "alreadyStaked": "This piglet has been staked already on {{stakedOnDate}} for {{days}} days",
             "neverStaked": "This piglet has never been staked",
@@ -597,7 +599,9 @@
             "description2": "Furthermore, the material state of the Piglet is considered the last Level 4, that has the highest base mining rate."
         },
         "ourPigletz": {
-            "title": "Gallery"
+            "galleryTitle": "Gallery",
+            "mintYours": "Mint your Piglet now",
+            "richestPigletz": "Richest Pigletz"
         },
         "roadmap": {
             "title": "Roadmap",
