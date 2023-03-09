@@ -262,7 +262,7 @@
       "error": "Извините, что-то пошло не так"
     },
     "depositToken": {
-      "pending": "Депозит в размере {{сумма}} {{symbol}}",
+      "pending": "Депозит в размере {{amount}} {{symbol}}",
       "success": "Поздравляем!",
       "error": "Извините, что-то пошло не так"
     },
@@ -369,7 +369,7 @@
     "addToMetamaskButton": "Добавь в MetaMask",
     "walletDescription": "Это кошелек вашей Поросёнка-копилку. Он не имеет расходов и только Поросенок-копилка, т.е.  её владелец может с ним взаимодействовать - внести токены или разбить её и вывести все, что в ней содержится.",
     "walletTitle": "Кошелёк",
-    "depositButton": "Депозит ({{инвестировано}}/{{всего}})",
+    "depositButton": "Депозит  ({{invested}}/{{total}})",
     "totalValue": "Общая стоимость:",
     "usdValueTip": "Рыночная стоимость – ${{market}}<br />Абсолютная стоимость – ${{absolute}}<br />Стоимость без учета PiFi – ${{exPiFi}}",
     "pifiToNextLevel": "{{pifi}} PiFi до Уровня {{nextLevel}}",
@@ -420,7 +420,7 @@
       "maxButton": "MAX",
       "availableBalance": "Доступно:",
       "depositButton": "Внести на депозит сейчас",
-      "unregisteredDeposit": "У вас есть незарегистрированных {{баланс}} {{символ}} $({{балансUSD}}) ",
+      "unregisteredDeposit": "У вас есть незарегистрированных  {{balance}} {{symbol}} $({{balanceUSD}})",
       "reisteredDeposit": "Зарегистрируйте сейчас"
     },
     "boosters": {
