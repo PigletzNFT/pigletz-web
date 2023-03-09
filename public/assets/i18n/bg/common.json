@@ -105,6 +105,8 @@
   "pigletzList": {
     "title": "Pigletz колекция",
     "description": "Прекрасната колекция на {{address}}",
+    "totalPiFiLabel": "Общо PiFi",
+    "totalUSDLabel": "Общо USD",
     "noPigletzError": "Този акаунт няма прасенца",
     "my": {
       "description": "Твоята прекрасна колекция"
