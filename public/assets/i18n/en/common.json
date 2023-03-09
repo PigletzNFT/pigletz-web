@@ -384,6 +384,7 @@
         "dematerializeButton": "Digitalize",
         "pigletNotFoundError": "Piglet {{tokenId}} not found",
         "traitToolTip": "{{percents}}% Pigletz have this trait",
+        "pigletChartLabel": "Piglet value for the last 30 days",
         "levels": {
             "level1": "1",
             "level2": "2",
