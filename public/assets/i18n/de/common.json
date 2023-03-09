@@ -105,6 +105,7 @@
   "pigletzList": {
     "title": "Pigletz Sammlung",
     "description": "Die schöne Sammlung von {{address}}",
+    "totalPiFiLabel": "Total PiFi",
     "totalUSDLabel": "Total USD",
     "noPigletzError": "Dieses Konto hat keine Pigletz",
     "my": {
