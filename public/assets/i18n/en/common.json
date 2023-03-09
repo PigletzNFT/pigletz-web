@@ -372,7 +372,7 @@
         "walletTitle": "Wallet",
         "depositButton": "Deposit ({{invested}}/{{total}})",
         "totalValue": "Total value:",
-        "usdValueTip": "Market value is ${{market}}<br />Absolute value is ${{absolute}}",
+        "usdValueTip": "Market value is ${{market}}<br />Absolute value is ${{absolute}}<br />Value excluding PiFi is ${{exPiFi}}",
         "pifiToNextLevel": "{{pifi}} PiFi to Level {{nextLevel}}",
         "reachedLevelCaption": "I reached <b>Level {{level}}</b>",
         "gotoLevelButton": "Go to Level {{level}}",
@@ -445,9 +445,9 @@
                 "Special": "Special"
             },
             "descriptions": {
-                "Invest tokens with value of at least $100 USD": "Get your piglet valuation above $100 USD",
-                "Invest tokens with value of at least $500 USD": "Get your piglet valuation above $500 USD",
-                "Invest tokens with value of at least $2000 USD": "Get your piglet valuation above $2000 USD",
+                "Invest tokens with value of at least $100 USD": "Deposit tokens for more than $100 USD",
+                "Invest tokens with value of at least $500 USD": "Deposit tokens for more than $500 USD",
+                "Invest tokens with value of at least $2000 USD": "Deposit tokens for more than $2000 USD",
                 "Collect 3 piglets": "Collect 3 Pigletz",
                 "Collect 7 piglets": "Collect 7 Pigletz",
                 "Invest 3 different tokens": "Invest 3 different non-zero valued tokens, excluding PiFi",
@@ -458,13 +458,13 @@
                 "It is born like this": "It is born like this"
             },
             "tips": {
-                "Invest tokens with value of at least $100 USD": "You can do it by investing tokens",
-                "Invest tokens with value of at least $500 USD": "You can do it by investing tokens",
-                "Invest tokens with value of at least $2000 USD": "You can do it by investing tokens",
+                "Invest tokens with value of at least $100 USD": "You have deposited tokens for ${{usd}}<br />PiFi is not included.",
+                "Invest tokens with value of at least $500 USD": "You have deposited tokens for ${{usd}}<br />PiFi is not included.",
+                "Invest tokens with value of at least $2000 USD": "You have deposited tokens for ${{usd}}<br />PiFi is not included.",
                 "Collect 3 piglets": "Just mint 3",
                 "Collect 7 piglets": "Just mint 7",
-                "Invest 3 different tokens": "Tokens need to be listed on PancakeSwap",
-                "Invest 7 different tokens": "Tokens need to be listed on PancakeSwap",
+                "Invest 3 different tokens": "You have {{tokensCount}} tokens other than PiFi.<br />Tokens need to be listed on PancakeSwap",
+                "Invest 7 different tokens": "You have {{tokensCount}} tokens other than PiFi.<br />Tokens need to be listed on PancakeSwap",
                 "Collect 3 with the same zodiac sign": "Booster will affect all 3",
                 "Collect 12 piglets with different zodiac signs": "Booster will affect all 12",
                 "Stake it in the Staking Contract": "Stake your Piglet to activate",
@@ -530,7 +530,8 @@
             "holders": "Holders",
             "circulatingPifi": "Circulating PiFi",
             "pifiInPigletz": "PiFi in Pigletz",
-            "totalValueInPigletz": "Total Value in Pigletz"
+            "totalValueInPigletz": "Total Value in Pigletz",
+            "totalValueChartLabel": "Total value for the last 30 days"
         },
         "latestNews": {
             "title": "Latest News",
