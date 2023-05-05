@@ -1,712 +1,718 @@
 {
+  "seo": {
+    "url": "https://pigletz.com",
+    "title": "Pigletz - 第一个与现实连接的 NFT！",
+    "description": "Pigletz 是一款独特的 NFT 收藏游戏：有独特的 3D 可爱小猪；数字小猪里存有您的代币；NFT可升级； DeFi——持有、质押、借贷；真实3D小猪实物",
+    "image": "https://pigletz.com/assets/images/social-banner.jpg"
+  },
+  "nav": {
+    "website": "小猪网",
+    "home": "主页",
+    "gallery": "画廊",
+    "about": "关于",
+    "pigletz": "我的小猪",
+    "staked": "我的质押",
+    "mystery": "我的盲盒",
+    "connect": "连接钱包",
+    "buypiglets": "铸造小猪",
+    "menu": "菜单",
+    "back": "后退",
+    "language": "语言",
+    "languages": {
+      "en": "English",
+      "bg": "Български",
+      "de": "Deutsch",
+      "es": "Español",
+      "tr": "Türkçe",
+      "tl": "Filipino",
+      "ar": "العربية",
+      "ru": "Русский",
+      "id": "Bahasa Indonesia",
+      "zh": "简体中文"
+    }
+  },
+  "buttons": {
+    "close": "关闭"
+  },
+  "marketing": {
+    "notifications": {
+      "subscribeToast": "🐽 订阅更新"
+    }
+  },
+  "banner": {
+    "countdown": {
+      "text": "旋转转盘赢小猪 {{time}}",
+      "mintNow": "现在铸造",
+      "second": "{{count}} 秒",
+      "second_other": "{{count}} 秒",
+      "minute": "{{count}} 分钟",
+      "minute_other": "{{count}} 分钟",
+      "hour": "{{count}} 小时",
+      "hour_other": "{{count}} 小时",
+      "day": "{{count}} 天",
+      "day_other": "{{count}} 天"
+    },
+    "public": {
+      "text": "你可以用PiFi代币铸造一只小猪",
+      "mintNow": "现在就铸造"
+    },
+    "binance": {
+      "text": "Pigletz 现已上线币安 NFT",
+      "buy": "从币安购买"
+    },
+    "staking": {
+      "text": "小猪质押将于 {{time}} 开启"
+    },
+    "blackFriday": {
+      "text": "黑色星期五交易将在 {{time}} 结束"
+    },
+    "christmas2022": {
+      "text": "圣诞节优惠将在 {{time}} 结束"
+    }
+  },
+  "footer": {
+    "copyright": "© 2021-2023 Pigletz",
+    "terms": "条款和条件",
+    "privacy": "隐私政策",
+    "contracts": {
+      "title": "合同：",
+      "pigletz": "小猪 (BEP721)",
+      "pifi": "PiFi (BEP20)",
+      "salesManager": "销售",
+      "mysteryBox": "盲盒 (BEP721)"
+    }
+  },
+  "presale": {
+    "title": "小猪预售",
+    "description": "欢迎中选！您被选中参加我们的预售，在这里您有机会以尽可能低的价格铸造一只独特的 Piglet。您还可以在同一笔交易中批量铸造 5只、10只 或 20只。所有小猪都可以享受您的折扣代码！",
+    "tiersDescription": "我们正在铸造不同数量和价格的藏品。价格会随着时间的推移而上涨，最终将达到 8 BNB。然而，价格越高，获得特殊助力的机会也越大。",
+    "checkTiers": "查看以下阶段"
+  },
+  "mint": {
+    "title": "小猪铸造",
+    "description": "欢迎！在这里你可以铸造你的新小猪。我们会采取公开公平的随机算法组合。如果您想获得折扣代码，请加入我们 Discord、Telegram 和 Twitter 并询问。玩的开心！",
+    "tiersDescription": "我们正在铸造具有不同数量和价格的收藏品。价格随着时间的推移而上涨，最终将达到 8 BNB。然而，价格越高，获得特殊助力的机会也越大。",
+    "checkTiers": "查看以下阶段"
+  },
+  "blackFridayMint": {
+    "title": "黑色星期五特卖！",
+    "description": "只有在有限的时间内，您才能在这里以 50% 的折扣铸造您的小猪。不要错过机会。"
+  },
+  "christmasMint": {
+    "title": "圣诞优惠！",
+    "description": "只有在圣诞节假期，您才能在这里以 50% 的折扣铸造您的小猪。圣诞节快乐！"
+  },
+  "pigletzList": {
+    "title": "小猪收藏集",
+    "description": "{{address}} 的精美收藏",
+    "totalPiFiLabel": "总计 PiFi",
+    "totalUSDLabel": "总美元",
+    "noPigletzError": "该账号没有小猪",
+    "my": {
+      "description": "你的精美收藏"
+    },
     "seo": {
-        "url": "https://pigletz.com",
-        "title": "Pigletz - 第一个与现实连接的 NFT！",
-        "description": "Pigletz 是一款独特的 NFT 收藏游戏：有独特的 3D 可爱小猪；数字小猪里存有您的代币；NFT可升级； DeFi——持有、质押、借贷；真实3D小猪实物",
-        "image": "https://pigletz.com/assets/images/social-banner.jpg"
+      "title": "小猪藏品",
+      "description": "珍贵的 {{count}} 幅小猪集",
+      "description_other": "{{count}} 只小猪的价值收藏集"
     },
-    "nav": {
-        "website": "小猪网",
-        "home": "主页",
-        "gallery": "画廊",
-        "about": "关于",
-        "pigletz": "我的小猪",
-        "staked": "我的质押",
-        "mystery": "我的盲盒",
-        "connect": "连接钱包",
-        "buypiglets": "铸造小猪",
-        "menu": "菜单",
-        "back": "后退",
-        "language": "语言",
-        "languages": {
-            "en": "English",
-            "bg": "Български",
-            "de": "Deutsch",
-            "es": "Español",
-            "tr": "Türkçe",
-            "tl": "Filipino",
-            "ar": "العربية",
-            "ru": "Русский",
-            "id": "Bahasa Indonesia",
-            "zh": "简体中文"
-        }
+    "viewStakedButton": "查看质押情况",
+    "boostersOfferTitle": "您需要<b>助力吗？</b>",
+    "boostersOfferCaption": "投资自己的小猪，它会为您创造更多价值",
+    "levelReachedCaption": "我达到了<b>等级{{level}}</b>",
+    "item": {
+      "pifiBalance": "{{balance}} PiFi",
+      "level": "等级 {{level}}"
+    }
+  },
+  "pigletzStakedList": {
+    "title": "质押小猪",
+    "description": "{{address}} 拥有的质押小猪",
+    "noPigletzError": "该账户没有质押任何小猪",
+    "my": {
+      "description": "你质押的小猪"
     },
-    "buttons": {
-        "close": "关闭"
+    "seo": {
+      "title": "已质押小猪",
+      "description": "该账户拥有的质押小猪列表"
+    }
+  },
+  "mysteryBoxList": {
+    "title": "盲盒",
+    "description": "{{address}} 拥有这些盲盒",
+    "my": {
+      "description": "这是你的盲盒。打开就能看到里面的小猪！"
     },
-    "marketing": {
-        "notifications": {
-            "subscribeToast": "🐽 订阅更新"
-        }
+    "seo": {
+      "title": "小猪盲盒",
+      "description": "珍贵的 {{count}} 个装满 Pigletz 的神秘盒子",
+      "description_other": "{{count}} 个装满小猪的宝藏盲盒"
     },
-    "banner": {
-        "countdown": {
-            "text": "旋转转盘赢小猪 {{time}}",
-            "mintNow": "现在铸造",
-            "second": "{{count}} 秒",
-            "second_other": "{{count}} 秒",
-            "minute": "{{count}} 分钟",
-            "minute_other": "{{count}} 分钟",
-            "hour": "{{count}} 小时",
-            "hour_other": "{{count}} 小时",
-            "day": "{{count}} 天",
-            "day_other": "{{count}} 天"
-        },
-        "public": {
-            "text": "你可以用PiFi代币铸造一只小猪",
-            "mintNow": "现在就铸造"
-        },
-        "binance": {
-            "text": "Pigletz 现已上线币安 NFT",
-            "buy": "从币安购买"
-        },
-        "staking": {
-            "text": "小猪质押将于 {{time}} 开启"
-        },
-        "blackFriday": {
-            "text": "黑色星期五交易将在 {{time}} 结束"
-        },
-        "christmas2022": {
-            "text": "圣诞节优惠将在 {{time}} 结束"
-        }
+    "boostersOfferTitle": "你需要<b>助力</b>吗",
+    "boostersOfferCaption": "投资您的小猪，让它为您创造更多价值",
+    "levelReachedCaption": "我达到了<b>等级{{level}}</b>",
+    "lockedUntilDateText": "此盲盒在 {{date}} 之前不能打开",
+    "readyLabel": "点击打开",
+    "timeLeft": {
+      "year": "{{count}} 年打开",
+      "year_other": "{{count}} 年后打开",
+      "month": "{{count}} 个月后打开",
+      "month_other": "{{count}} 个月后打开",
+      "day": "{{count}} 天后打开",
+      "day_other": "{{count}} 天后打开",
+      "hour": "{{count}} 小时后打开",
+      "hour_other": "{{count}} 小时后打开",
+      "minute": "{{count}} 分钟后打开",
+      "minute_other": "{{count}} 分钟后打开",
+      "second": "{{count}} 秒后打开",
+      "second_other": "{{count}} 秒后打开"
+    }
+  },
+  "connect": {
+    "title": "连接钱包",
+    "balance": "{{balance}} 币安币",
+    "disconnect": "取消连接",
+    "providers": {
+      "metamask": "元掩码",
+      "trustwallet": "信托钱包",
+      "binancewallet": "币安钱包",
+      "walletconnect": "连接钱包"
     },
-    "footer": {
-        "copyright": "© 2021-2022 小猪",
-        "terms": "条款和条件",
-        "privacy": "隐私政策",
-        "contracts": {
-            "title": "合同：",
-            "pigletz": "小猪 (BEP721)",
-            "pifi": "PiFi (BEP20)",
-            "salesManager": "销售",
-            "mysteryBox": "盲盒 (BEP721)"
-        }
+    "howtoTitle": "还没有加密钱包？",
+    "howtoButton": "了解如何连接"
+  },
+  "wof": {
+    "title": "旋转赢小猪",
+    "description": "您可以旋转转盘并有机会赢取免费的小猪。无需付款。只需活跃在我们的 <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">Discord 频道</a>，获得积分。每次旋转将花费您 {{creditsToSpin}} 积分。您可以任意多次旋转转盘。如果您中了头彩，就可以领取一个装有小猪的盲盒。打开盲盒就可以获得全新的独特小猪。祝你好运！",
+    "discordLoginButton": "Discord登录",
+    "logoutButton": "登出",
+    "spinButton": "旋转",
+    "infoBox": "季节已经结束。我们正在准备下一次的活动。请与我们联系",
+    "welcomeToast": "欢迎  {{username}}",
+    "welcomeText": "欢迎  {{username}}",
+    "checkTheRulesText": "查看详细规则→",
+    "claimRewardButton": "领取 {{count}} 只小猪",
+    "claimRewardButton_other": "领取 {{count}} 只小猪",
+    "availableCredits": "您有 <span className=\"wheel-credits\">{{count}}</span> 积分",
+    "availableCredits_other": "您有 <span className=\"wheel-credits\">{{count}}</span>积分",
+    "connectWalletToClaim": "您有 {{count}} 个小猪可以领取。为此，您需要先连接您的钱包。",
+    "connectWalletToClaim_other": "您有 {{count}} 个小猪可以领取。为此，您需要先连接您的钱包。",
+    "rewardNotification": {
+      "5_credits": "您已获得 5 个积分",
+      "10_credits": "您已获得 10 积分",
+      "20_credits": "您已获得 20 积分",
+      "100_credits": "您已获得 100 积分",
+      "jackpot": "你赢了一只小猪"
     },
-    "presale": {
-        "title": "小猪预售",
-        "description": "欢迎中选！您被选中参加我们的预售，在这里您有机会以尽可能低的价格铸造一只独特的 Piglet。您还可以在同一笔交易中批量铸造 5只、10只 或 20只。所有小猪都可以享受您的折扣代码！",
-        "tiersDescription": "我们正在铸造不同数量和价格的藏品。价格会随着时间的推移而上涨，最终将达到 8 BNB。然而，价格越高，获得特殊助力的机会也越大。",
-        "checkTiers": "查看以下阶段"
+    "stats": {
+      "players": "球员",
+      "spins": "旋转",
+      "creditsWon": "赢得学分",
+      "pigletzWon": "小猪赢了"
+    }
+  },
+  "actions": {
+    "levelUp": {
+      "pending": "前往等级{{level}}",
+      "success": "恭喜！",
+      "error": "抱歉，出错了"
     },
-    "mint": {
-        "title": "小猪铸造",
-        "description": "欢迎！在这里你可以铸造你的新小猪。我们会采取公开公平的随机算法组合。如果您想获得折扣代码，请加入我们 Discord、Telegram 和 Twitter 并询问。玩的开心！",
-        "tiersDescription": "我们正在铸造具有不同数量和价格的收藏品。价格随着时间的推移而上涨，最终将达到 8 BNB。然而，价格越高，获得特殊助力的机会也越大。",
-        "checkTiers": "查看以下阶段"
+    "boosterUp": {
+      "pending": "激活助力",
+      "success": "恭喜！",
+      "errors": {
+        "default": "抱歉，出了一些问题",
+        "some piglets dont have the same sign": "有些小猪没有相同的标志",
+        "wrong number of piglets": "小猪数量错误",
+        "not all piglets are owned by the same owner": "并非所有小猪都属于同一所有者",
+        "some piglets have already been boosted": "一些小猪已经得到助力",
+        "some piglets are celebrities": "有些小猪是明星",
+        "some piglets are not of the correct level": "有些小猪的等级不正确",
+        "some piglets have not been boosted": "部分小猪未助力",
+        "some piglets are not boostable": "一些小猪无法助力",
+        "duplicate tokens": "代币重复",
+        "sll piglets must have different signs": "所有小猪必须属于不同的星座"
+      }
     },
-    "blackFridayMint": {
-        "title": "黑色星期五特卖！",
-        "description": "只有在有限的时间内，您才能在这里以 50% 的折扣铸造您的小猪。不要错过机会。"
+    "checkDiscount": {
+      "pending": "验证码",
+      "success": "代码有效",
+      "error": "代码错误或已过期"
     },
-    "christmasMint": {
-        "title": "圣诞优惠！",
-        "description": "只有在圣诞节假期，您才能在这里以 50% 的折扣铸造您的小猪。圣诞节快乐！"
+    "purchasePiglet": {
+      "pending": "正在铸造 {{count}} 只小猪",
+      "pending_other": "正在铸造 {{count}} 只小猪",
+      "success": "{{count}}只小猪成功铸造",
+      "success_other": "成功铸造 {{count}} pigletz ",
+      "error": "抱歉，出错了"
     },
-    "pigletzList": {
-        "title": "小猪收藏集",
-        "description": "{{address}} 的精美收藏",
-        "totalPiFiLabel": "总计 PiFi",
-        "totalUSDLabel": "总美元",
-        "noPigletzError": "该账号没有小猪",
-        "my": {
-            "description": "你的精美收藏"
-        },
-        "seo": {
-            "title": "小猪藏品",
-            "description": "珍贵的 {{count}} 幅小猪集",
-            "description_other": "{{count}} 只小猪的价值收藏集"
-        },
-        "viewStakedButton": "查看质押情况",
-        "boostersOfferTitle": "您需要<b>助力吗？</b>",
-        "boostersOfferCaption": "投资自己的小猪，它会为您创造更多价值",
-        "levelReachedCaption": "我达到了<b>等级{{level}}</b>",
-        "item": {
-            "pifiBalance": "{{balance}} PiFi",
-            "level": "等级 {{level}}"
-        }
+    "approveToken": {
+      "pending": "批准 {{amount}} {{symbol}}",
+      "success": "完成",
+      "error": "抱歉，出错了"
     },
-    "pigletzStakedList": {
-        "title": "质押小猪",
-        "description": "{{address}} 拥有的质押小猪",
-        "noPigletzError": "该账户没有质押任何小猪",
-        "my": {
-            "description": "你质押的小猪"
-        },
-        "seo": {
-            "title": "已质押小猪",
-            "description": "该账户拥有的质押小猪列表"
-        }
+    "openBox": {
+      "pending": "打开装有 {{count}} 只小猪的盲盒",
+      "pending_other": "打开有 {{count}} 小猪的盲盒",
+      "success": "恭喜！",
+      "error": "抱歉，出错了"
     },
-    "mysteryBoxList": {
-        "title": "盲盒",
-        "description": "{{address}} 拥有这些盲盒",
-        "my": {
-            "description": "这是你的盲盒。打开就能看到里面的小猪！"
-        },
-        "seo": {
-            "title": "小猪盲盒",
-            "description": "珍贵的 {{count}} 个装满 Pigletz 的神秘盒子",
-            "description_other": "{{count}} 个装满小猪的宝藏盲盒"
-        },
-        "boostersOfferTitle": "你需要<b>助力</b>吗",
-        "boostersOfferCaption": "投资您的小猪，让它为您创造更多价值",
-        "levelReachedCaption": "我达到了<b>等级{{level}}</b>",
-        "lockedUntilDateText": "此盲盒在 {{date}} 之前不能打开",
-        "readyLabel": "点击打开",
-        "timeLeft": {
-            "year": "{{count}} 年打开",
-            "year_other": "{{count}} 年后打开",
-            "month": "{{count}} 个月后打开",
-            "month_other": "{{count}} 个月后打开",
-            "day": "{{count}} 天后打开",
-            "day_other": "{{count}} 天后打开",
-            "hour": "{{count}} 小时后打开",
-            "hour_other": "{{count}} 小时后打开",
-            "minute": "{{count}} 分钟后打开",
-            "minute_other": "{{count}} 分钟后打开",
-            "second": "{{count}} 秒后打开",
-            "second_other": "{{count}} 秒后打开"
-        }
+    "updateTokenBalance": {
+      "pending": "获取数据",
+      "error": "抱歉，出错了"
     },
-    "connect": {
-        "title": "连接钱包",
-        "balance": "{{balance}} 币安币",
-        "disconnect": "取消连接",
-        "providers": {
-            "metamask": "元掩码",
-            "trustwallet": "信托钱包",
-            "binancewallet": "币安钱包",
-            "walletconnect": "连接钱包"
-        },
-        "howtoTitle": "还没有加密钱包？",
-        "howtoButton": "了解如何连接"
+    "depositToken": {
+      "pending": "抵押 {{amount}} {{symbol}}",
+      "success": "恭喜！",
+      "error": "抱歉，出错了"
     },
-    "wof": {
-        "title": "旋转赢小猪",
-        "description": "您可以旋转转盘并有机会赢取免费的小猪。无需付款。只需活跃在我们的 <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">Discord 频道</a>，获得积分。每次旋转将花费您 {{creditsToSpin}} 积分。您可以任意多次旋转转盘。如果您中了头彩，就可以领取一个装有小猪的盲盒。打开盲盒就可以获得全新的独特小猪。祝你好运！",
-        "discordLoginButton": "Discord登录",
-        "logoutButton": "登出",
-        "spinButton": "旋转",
-        "infoBox": "季节已经结束。我们正在准备下一次的活动。请与我们联系",
-        "welcomeToast": "欢迎  {{username}}",
-        "welcomeText": "欢迎  {{username}}",
-        "checkTheRulesText": "查看详细规则→",
-        "claimRewardButton": "领取 {{count}} 只小猪",
-        "claimRewardButton_other": "领取 {{count}} 只小猪",
-        "availableCredits": "您有 <span className=\"wheel-credits\">{{count}}</span> 积分",
-        "availableCredits_other": "您有 <span className=\"wheel-credits\">{{count}}</span>积分",
-        "connectWalletToClaim": "您有 {{count}} 个小猪可以领取。为此，您需要先连接您的钱包。",
-        "connectWalletToClaim_other": "您有 {{count}} 个小猪可以领取。为此，您需要先连接您的钱包。",
-        "rewardNotification": {
-            "5_credits": "您已获得 5 个积分",
-            "10_credits": "您已获得 10 积分",
-            "20_credits": "您已获得 20 积分",
-            "100_credits": "您已获得 100 积分",
-            "jackpot": "你赢了一只小猪"
-        },
-        "stats": {
-            "players": "球员",
-            "spins": "旋转",
-            "creditsWon": "赢得学分",
-            "pigletzWon": "小猪赢了"
-        }
+    "registerDeposit": {
+      "pending": "注册 {{amount}} {{symbol}}",
+      "success": "成功！",
+      "error": "抱歉，出错了"
     },
-    "actions": {
-        "levelUp": {
-            "pending": "前往等级{{level}}",
-            "success": "恭喜！",
-            "error": "抱歉，出错了"
-        },
-        "boosterUp": {
-            "pending": "激活助力",
-            "success": "恭喜！",
-            "errors": {
-                "default": "抱歉，出了一些问题",
-                "some piglets dont have the same sign": "有些小猪没有相同的标志",
-                "wrong number of piglets": "小猪数量错误",
-                "not all piglets are owned by the same owner": "并非所有小猪都属于同一所有者",
-                "some piglets have already been boosted": "一些小猪已经得到助力",
-                "some piglets are celebrities": "有些小猪是明星",
-                "some piglets are not of the correct level": "有些小猪的等级不正确",
-                "some piglets have not been boosted": "部分小猪未助力",
-                "some piglets are not boostable": "一些小猪无法助力",
-                "duplicate tokens": "代币重复",
-                "sll piglets must have different signs": "所有小猪必须属于不同的星座"
-            }
-        },
-        "checkDiscount": {
-            "pending": "验证码",
-            "success": "代码有效",
-            "error": "代码错误或已过期"
-        },
-        "purchasePiglet": {
-            "pending": "正在铸造 {{count}} 只小猪",
-            "pending_other": "正在铸造 {{count}} 只小猪",
-            "success": "{{count}}只小猪成功铸造",
-            "success_other": "成功铸造 {{count}} pigletz ",
-            "error": "抱歉，出错了"
-        },
-        "approveToken": {
-            "pending": "批准 {{amount}} {{symbol}}",
-            "success": "完成",
-            "error": "抱歉，出错了"
-        },
-        "openBox": {
-            "pending": "打开装有 {{count}} 只小猪的盲盒",
-            "pending_other": "打开有 {{count}} 小猪的盲盒",
-            "success": "恭喜！",
-            "error": "抱歉，出错了"
-        },
-        "updateTokenBalance": {
-            "pending": "获取数据",
-            "error": "抱歉，出错了"
-        },
-        "depositToken": {
-            "pending": "抵押 {{amount}} {{symbol}}",
-            "success": "恭喜！",
-            "error": "抱歉，出错了"
-        },
-        "registerDeposit": {
-            "pending": "注册 {{amount}} {{symbol}}",
-            "success": "成功！",
-            "error": "抱歉，出错了"
-        },
-        "destroy": {
-            "pending": "打破小猪#{{tokenId}}",
-            "success": "结束了",
-            "error": "抱歉，出错了"
-        },
-        "transfer": {
-            "pending": "将小猪 #{{tokenId}} 转移到 {{recipient}}",
-            "success": "已发送",
-            "error": "抱歉，出错了"
-        },
-        "materialize": {
-            "pending": "实物制作Piglet #{{tokenId}}",
-            "success": "已发送",
-            "error": "抱歉，出错了"
-        },
-        "stakePiglet": {
-            "pending": "质押小猪#{{tokenId}} 持续{{period}} ",
-            "success": "质押！",
-            "error": "抱歉，出错了"
-        },
-        "unstakePiglet": {
-            "pending": "取消质押 Piglet #{{tokenId}}",
-            "success": "完成！",
-            "error": "抱歉，出错了"
-        },
-        "claimReward": {
-            "pending": "认领 {{count}} 只小猪",
-            "pending_other": "认领 {{count}} 只小猪",
-            "success": "完成！",
-            "error": "抱歉，出错了"
-        }
+    "destroy": {
+      "pending": "打破小猪#{{tokenId}}",
+      "success": "结束了",
+      "error": "抱歉，出错了"
     },
-    "buy": {
-        "saleAddress": "销售合同：{{地址}}",
-        "promoCodeCaption": "折扣：",
-        "promoCodeCheckButton": "查看",
-        "promoCodePlaceholder": "在此处粘贴代码...",
-        "howToBuyPiFi": "了解如何购买PiFi",
-        "quantityCaption": "数量：",
-        "buyNowButton": "铸造",
-        "addToMetamaskButton": "添加PiFi到MetaMask",
-        "discountedPrice": "{{price}} BNB",
-        "priceInPiFi": "{{price}} PiFi",
-        "balanceCaption": "平衡：",
-        "balanceInPiFi": "{{balance}} PiFi",
-        "totalCaption": "总计：",
-        "tiersTitle": "阶段",
-        "tierIndex": "阶段 {{index}}",
-        "tierPrice": "{{price}} BNB",
-        "itemsInColletionLeft": "还剩 {{amountLeft}}",
-        "howto": {
-            "mobile": {
-                "button": "没有把握？了解如何购买 ↓",
-                "youNeed": "你需要",
-                "metamask": "元掩码",
-                "walletApp": "钱包应用",
-                "android": "安卓",
-                "ios": "iOS",
-                "or": " 或者",
-                "bscTitle": "您需要配置 MetaMask 才能使用BSC主网。",
-                "bscGuide": "操作指南",
-                "bscBalance": "您的 MetaMask 账户中需要有足够的 BNB 余额来购买小猪。您可以从任意加密货币交易所将 BNB 转移到您的 MetaMask 钱包地址。",
-                "bscFindAddress": "如何找到您的钱包地址？",
-                "bscFindAddressStep1": "1. 在您的钱包中点击地址按钮。",
-                "bscFindAddressStep2": "2. 复制地址到您的剪贴板。",
-                "openMetamaskCaption": "点击下面按钮直接在 MetaMask 浏览器中打开我们的 <strong>dApp 销售页面</strong>：",
-                "openMetamaskButton": "打开 MetaMask"
-            },
-            "desktop": {
-                "button": "没有把握？了解如何在桌面上购买 ↓",
-                "youNeed": "你需要",
-                "metamask": "MetaMask",
-                "extension": "Chrome 或 Firefox 的浏览器扩展插件。",
-                "chrome": "谷歌浏览器",
-                "firefox": "Mozilla Firefox",
-                "bscTitle": "您需要配置 MetaMask 才能使用BSC主网。",
-                "bscGuide": "操作指南",
-                "bscVideo": "观看视频",
-                "bscBalance": "您的 MetaMask 账户中需要有足够的 BNB 余额来购买小猪。您可以从任意加密货币交易所将 BNB 转移到您的 MetaMask 钱包地址。",
-                "bscFindAddress": "如何找到您的钱包地址？",
-                "bscFindAddressStep1": "1. 在您浏览器的 MetaMask 扩展程序中，单击您的帐户名称。",
-                "bscFindAddressStep2": "2. 复制地址到您的剪贴板。",
-                "connectWalletCaption1": "如果您的钱包中有足够的资金，您需要将其连接到我们的网站，点击网站导航中的“连接钱包”。",
-                "connectWalletCaption2": "连接后，您可以<strong>使用下面的表格</strong>进行购买。",
-                "watchVideoCaption1": "观看视频",
-                "watchVideoCaption2": "操作指导："
-            }
-        }
+    "transfer": {
+      "pending": "将小猪 #{{tokenId}} 转移到 {{recipient}}",
+      "success": "已发送",
+      "error": "抱歉，出错了"
     },
-    "piglet": {
-        "boost": "{{boost}}% 助力",
-        "level": "等级 {{level}}",
-        "dailyMint": "{{dailyMint}} PiFi 日报",
-        "viewMore": "查看更多",
-        "pifi": "PiFi",
-        "addToMetamaskButton": "添加到 MetaMask",
-        "walletDescription": "这是您的 Piglet 的钱包。它是非托管钱包，因此只有Piglet的主人才可以与其交互 - 存入代币或打破它并提取其中所有的",
-        "walletTitle": "钱包",
-        "depositButton": "存入（{{invested}}/{{total}}）",
-        "totalValue": "总价值：",
-        "usdValueTip": "市场价值是${{market}}<br />绝对价值是${{absolute}}",
-        "totalUsdValueTip": "市场价值是${{market}}<br />绝对价值是${{absolute}}<br />价值不包括PiFi是${{exPiFi}}",
-        "pifiToNextLevel": "{{pifi}} PiFi 对应级别 {{nextLevel}}",
-        "reachedLevelCaption": "我达到了<b>等级{{level}}</b>",
-        "gotoLevelButton": "前往等级{{level}}",
-        "goToCollection": "收藏",
-        "traitsTitle": "小猪特征",
-        "quickInfoTitle": "简要介绍",
-        "destroyButton": "打破",
-        "materializeButton": "实物制作",
-        "dematerializeButton": "数字化",
-        "pigletNotFoundError": "找不到小猪 {{tokenId}}",
-        "traitToolTip": "{{percents}}% Pigletz 有这个特性",
-        "pigletChartLabel": "最近30天的仔猪价值",
-        "levels": {
-            "level1": "1级",
-            "level2": "2级",
-            "level3": "3级"
-        },
-        "investments": {
-            "symbol": "代币",
-            "amount": "数量",
-            "usd": "市场价(USD)",
-            "nothing": "您还没有任何投资"
-        },
-        "pifiLPDeclaration": "* 市场价是 PancakeSwap 上显示的美元价格。绝对值是单位美元价格（1 个代币的美元价格）乘以代币数量。",
-        "destroy": {
-            "title": "打破你的小猪",
-            "description": "打破小猪可以将其中的所有代币提取到您的地址 {{recipient}}，总价值为 ${{balanceInUSD}} 美元。然而，您的小猪将被摧毁并无法恢复。所以三思而后行，看着它的眼睛做决定。",
-            "lesserLevel": "你需要至少达到 2 级才能被打破你的小猪！",
-            "button": "打破",
-            "confirmation": "你确定要打破你的小猪吗？",
-            "confirm": "是的，提现",
-            "decline": "不，我不能"
-        },
-        "transfer": {
-            "recipientPrompt": "请输入收款地址。确保它是 BSC 主网地址！",
-            "confirmText": "您确定要将小猪 #{{tokenId}} 转移到 {{recipient}} 吗？",
-            "transferButton": "转移"
-        },
-        "deposit": {
-            "balance": "{{balance}} {{symbol}} (${{usd}})",
-            "title": "存入Crypto",
-            "selectToken": "请选择代币",
-            "defaultToken": "PancakeSwap 代币 ...",
-            "inputAddress": "或在下方输入代币地址",
-            "inputAmount": "选择存款金额",
-            "maxButton": "MAX",
-            "availableBalance": "可用余额：",
-            "depositButton": "抵押",
-            "unregisteredDeposit": "您有 {{balance}} {{symbol}} $({{balanceUSD}}) 未注册",
-            "reisteredDeposit": "注册"
-        },
-        "boosters": {
-            "requiresLevel": "需要 {{level}} 等级",
-            "activateButton": "激活助力",
-            "activated": "已激活",
-            "title": "助力",
-            "tokenSelect": {
-                "title": "选择 {{count}} 个 Pigletz"
-            },
-            "names": {
-                "Invest $100": "价值 100 美元",
-                "Invest $500": "价值 500 美元",
-                "Invest $2000": "价值 $2000",
-                "Collect 3": "收藏 3",
-                "Collect 7": "收藏 7",
-                "Invest 3 tokens": "投资 3 个代币",
-                "Invest 7 tokens": "投资 7 个代币",
-                "3 Similar": "集齐3只同星座",
-                "12 Different": "集齐12星座",
-                "Staked": "质押",
-                "Special": "与众不同"
-            },
-            "descriptions": {
-                "Invest tokens with value of at least $100 USD": "存入超过 100 美元的代币",
-                "Invest tokens with value of at least $500 USD": "存入超过 500 美元的代币",
-                "Invest tokens with value of at least $2000 USD": "存入超过 2000 美元的代币",
-                "Collect 3 piglets": "收集 3 只小猪",
-                "Collect 7 piglets": "收集 7 只小猪",
-                "Invest 3 different tokens": "投资 3 个不同的非零价值代币，不包括 PiFi",
-                "Invest 7 different tokens": "投资 7 种不同的非零价值代币，不包括 PiFi",
-                "Collect 3 with the same zodiac sign": "集齐3只相同星座的小猪",
-                "Collect 12 piglets with different zodiac signs": "集齐12只不同星座的小猪",
-                "Stake it in the Staking Contract": "质押在合约中",
-                "It is born like this": "它是这样诞生的"
-            },
-            "tips": {
-                "Invest tokens with value of at least $100 USD": "您已存入代币 ${{usd}}<br />不包括 PiFi。",
-                "Invest tokens with value of at least $500 USD": "您已存入代币 ${{usd}}<br />不包括 PiFi。",
-                "Invest tokens with value of at least $2000 USD": "您已存入代币 ${{usd}}<br />不包括 PiFi。",
-                "Collect 3 piglets": "铸造3只才可启用",
-                "Collect 7 piglets": "铸造7只才能启用",
-                "Invest 3 different tokens": "除了 PiFi，您还有 {{tokensCount}} 个代币。<br />代币需要在 PancakeSwap 上列出",
-                "Invest 7 different tokens": "除了 PiFi，您还有 {{tokensCount}} 个代币。<br />代币需要在 PancakeSwap 上列出",
-                "Collect 3 with the same zodiac sign": "助推器将影响这三部分",
-                "Collect 12 piglets with different zodiac signs": "所有12星座的小猪都会获得助力",
-                "Stake it in the Staking Contract": "即将上线",
-                "It is born like this": "它是这样诞生的"
-            }
-        },
-        "staking": {
-            "title": "质押",
-            "description": "通过质押可以将小猪的PiFi 铸造能力提高 50%。只需将你的小猪锁定在质押合约中一段指定的时间。在此期间你不能使用那只小猪。合约到期后，您可以取消质押并再次使用它。然而停用后50%的助力将不再发挥作用。所有其他助力均不受质押影响。",
-            "stakedOnDate": "质押在",
-            "stakeDurationTitle": "质押期限",
-            "stakeDuration": "{{count}} 天",
-            "stakeDuration_other": "{{count}} 天",
-            "stakeButton": "质押",
-            "unstakeButton": "解除质押",
-            "stakedBadge": "已质押",
-            "stakeBadge": "放样",
-            "stakeBadgeSmall": "更多 PiFi",
-            "expired": "已到期",
-            "alreadyStaked": "这只小猪已经在 {{stakedOnDate}} 质押了 {{days}} 天",
-            "neverStaked": "这只小猪从未被质押",
-            "periods": ["3个月", "6个月", "1年", "2年"],
-            "timeLeft": {
-                "year": "剩余年限",
-                "year_other": "剩余年限",
-                "month": "剩余月数",
-                "month_other": "剩余月数",
-                "day": "剩余天数",
-                "day_other": "剩余天数"
-            },
-            "periodFormatted": {
-                "year": "{{count}} 年",
-                "year_other": "{{count}} 年",
-                "month": "{{count}} 月",
-                "month_other": "{{count}} 个月",
-                "day": "{{count}} 日",
-                "day_other": "{{count}} 天"
-            },
-            "dialog": {
-                "title": "质押",
-                "subtitle": "选择质押期",
-                "description": "一经质押，小猪在合约到期之前不能使用",
-                "confirmButton": "质押",
-                "declineButton": "取消"
-            }
-        }
+    "materialize": {
+      "pending": "实物制作Piglet #{{tokenId}}",
+      "success": "已发送",
+      "error": "抱歉，出错了"
+    },
+    "stakePiglet": {
+      "pending": "质押小猪#{{tokenId}} 持续{{period}} ",
+      "success": "质押！",
+      "error": "抱歉，出错了"
+    },
+    "unstakePiglet": {
+      "pending": "取消质押 Piglet #{{tokenId}}",
+      "success": "完成！",
+      "error": "抱歉，出错了"
+    },
+    "claimReward": {
+      "pending": "认领 {{count}} 只小猪",
+      "pending_other": "认领 {{count}} 只小猪",
+      "success": "完成！",
+      "error": "抱歉，出错了"
+    }
+  },
+  "buy": {
+    "saleAddress": "销售合同：{{地址}}",
+    "promoCodeCaption": "折扣：",
+    "promoCodeCheckButton": "查看",
+    "promoCodePlaceholder": "在此处粘贴代码...",
+    "howToBuyPiFi": "了解如何购买PiFi",
+    "quantityCaption": "数量：",
+    "buyNowButton": "铸造",
+    "addToMetamaskButton": "添加PiFi到MetaMask",
+    "discountedPrice": "{{price}} BNB",
+    "priceInPiFi": "{{price}} PiFi",
+    "balanceCaption": "平衡：",
+    "balanceInPiFi": "{{balance}} PiFi",
+    "totalCaption": "总计：",
+    "tiersTitle": "阶段",
+    "tierIndex": "阶段 {{index}}",
+    "tierPrice": "{{price}} BNB",
+    "itemsInColletionLeft": "还剩 {{amountLeft}}",
+    "howto": {
+      "mobile": {
+        "button": "没有把握？了解如何购买 ↓",
+        "youNeed": "你需要",
+        "metamask": "元掩码",
+        "walletApp": "钱包应用",
+        "android": "安卓",
+        "ios": "iOS",
+        "or": " 或者",
+        "bscTitle": "您需要配置 MetaMask 才能使用BSC主网。",
+        "bscGuide": "操作指南",
+        "bscBalance": "您的 MetaMask 账户中需要有足够的 BNB 余额来购买小猪。您可以从任意加密货币交易所将 BNB 转移到您的 MetaMask 钱包地址。",
+        "bscFindAddress": "如何找到您的钱包地址？",
+        "bscFindAddressStep1": "1. 在您的钱包中点击地址按钮。",
+        "bscFindAddressStep2": "2. 复制地址到您的剪贴板。",
+        "openMetamaskCaption": "点击下面按钮直接在 MetaMask 浏览器中打开我们的 <strong>dApp 销售页面</strong>：",
+        "openMetamaskButton": "打开 MetaMask"
+      },
+      "desktop": {
+        "button": "没有把握？了解如何在桌面上购买 ↓",
+        "youNeed": "你需要",
+        "metamask": "MetaMask",
+        "extension": "Chrome 或 Firefox 的浏览器扩展插件。",
+        "chrome": "谷歌浏览器",
+        "firefox": "Mozilla Firefox",
+        "bscTitle": "您需要配置 MetaMask 才能使用BSC主网。",
+        "bscGuide": "操作指南",
+        "bscVideo": "观看视频",
+        "bscBalance": "您的 MetaMask 账户中需要有足够的 BNB 余额来购买小猪。您可以从任意加密货币交易所将 BNB 转移到您的 MetaMask 钱包地址。",
+        "bscFindAddress": "如何找到您的钱包地址？",
+        "bscFindAddressStep1": "1. 在您浏览器的 MetaMask 扩展程序中，单击您的帐户名称。",
+        "bscFindAddressStep2": "2. 复制地址到您的剪贴板。",
+        "connectWalletCaption1": "如果您的钱包中有足够的资金，您需要将其连接到我们的网站，点击网站导航中的“连接钱包”。",
+        "connectWalletCaption2": "连接后，您可以<strong>使用下面的表格</strong>进行购买。",
+        "watchVideoCaption1": "观看视频",
+        "watchVideoCaption2": "操作指导："
+      }
+    }
+  },
+  "piglet": {
+    "boost": "{{boost}}% 助力",
+    "level": "等级 {{level}}",
+    "dailyMint": "{{dailyMint}} PiFi 日报",
+    "viewMore": "查看更多",
+    "pifi": "PiFi",
+    "addToMetamaskButton": "添加到 MetaMask",
+    "buyCrypto": "购买加密货币",
+    "walletDescription": "这是您的 Piglet 的钱包。它是非托管钱包，因此只有Piglet的主人才可以与其交互 - 存入代币或打破它并提取其中所有的",
+    "walletTitle": "钱包",
+    "depositButton": "存入（{{invested}}/{{total}}）",
+    "totalValue": "总价值：",
+    "usdValueTip": "市场价值是${{market}}<br />绝对价值是${{absolute}}",
+    "totalUsdValueTip": "市场价值是${{market}}<br />绝对价值是${{absolute}}<br />价值不包括PiFi是${{exPiFi}}",
+    "pifiToNextLevel": "{{pifi}} PiFi 对应级别 {{nextLevel}}",
+    "reachedLevelCaption": "我达到了<b>等级{{level}}</b>",
+    "gotoLevelButton": "前往等级{{level}}",
+    "goToCollection": "收藏",
+    "traitsTitle": "小猪特征",
+    "quickInfoTitle": "简要介绍",
+    "destroyButton": "打破",
+    "materializeButton": "实物制作",
+    "dematerializeButton": "数字化",
+    "pigletNotFoundError": "找不到小猪 {{tokenId}}",
+    "traitToolTip": "{{percents}}% Pigletz 有这个特性",
+    "pigletChartLabel": "最近30天的仔猪价值",
+    "levels": {
+      "level1": "1级",
+      "level2": "2级",
+      "level3": "3级"
+    },
+    "investments": {
+      "symbol": "代币",
+      "amount": "数量",
+      "usd": "市场价(USD)",
+      "nothing": "您还没有任何投资"
+    },
+    "pifiLPDeclaration": "* 市场价是 PancakeSwap 上显示的美元价格。绝对值是单位美元价格（1 个代币的美元价格）乘以代币数量。",
+    "destroy": {
+      "title": "打破你的小猪",
+      "description": "打破小猪可以将其中的所有代币提取到您的地址 {{recipient}}，总价值为 ${{balanceInUSD}} 美元。然而，您的小猪将被摧毁并无法恢复。所以三思而后行，看着它的眼睛做决定。",
+      "lesserLevel": "你需要至少达到 2 级才能被打破你的小猪！",
+      "button": "打破",
+      "confirmation": "你确定要打破你的小猪吗？",
+      "confirm": "是的，提现",
+      "decline": "不，我不能"
+    },
+    "transfer": {
+      "recipientPrompt": "请输入收款地址。确保它是 BSC 主网地址！",
+      "confirmText": "您确定要将小猪 #{{tokenId}} 转移到 {{recipient}} 吗？",
+      "transferButton": "转移"
+    },
+    "deposit": {
+      "balance": "{{balance}} {{symbol}} (${{usd}})",
+      "title": "存入Crypto",
+      "selectToken": "请选择代币",
+      "defaultToken": "PancakeSwap 代币 ...",
+      "inputAddress": "或在下方输入代币地址",
+      "inputAmount": "选择存款金额",
+      "maxButton": "MAX",
+      "availableBalance": "可用余额：",
+      "depositButton": "抵押",
+      "unregisteredDeposit": "您有 {{balance}} {{symbol}} $({{balanceUSD}}) 未注册",
+      "reisteredDeposit": "注册"
+    },
+    "boosters": {
+      "requiresLevel": "需要 {{level}} 等级",
+      "activateButton": "激活助力",
+      "activated": "已激活",
+      "title": "助力",
+      "tokenSelect": {
+        "title": "选择 {{count}} 个 Pigletz"
+      },
+      "names": {
+        "Invest $100": "价值 100 美元",
+        "Invest $500": "价值 500 美元",
+        "Invest $2000": "价值 $2000",
+        "Collect 3": "收藏 3",
+        "Collect 7": "收藏 7",
+        "Invest 3 tokens": "投资 3 个代币",
+        "Invest 7 tokens": "投资 7 个代币",
+        "3 Similar": "集齐3只同星座",
+        "12 Different": "集齐12星座",
+        "Staked": "质押",
+        "Special": "与众不同"
+      },
+      "descriptions": {
+        "Invest tokens with value of at least $100 USD": "存入超过 100 美元的代币",
+        "Invest tokens with value of at least $500 USD": "存入超过 500 美元的代币",
+        "Invest tokens with value of at least $2000 USD": "存入超过 2000 美元的代币",
+        "Collect 3 piglets": "收集 3 只小猪",
+        "Collect 7 piglets": "收集 7 只小猪",
+        "Invest 3 different tokens": "投资 3 个不同的非零价值代币，不包括 PiFi",
+        "Invest 7 different tokens": "投资 7 种不同的非零价值代币，不包括 PiFi",
+        "Collect 3 with the same zodiac sign": "集齐3只相同星座的小猪",
+        "Collect 12 piglets with different zodiac signs": "集齐12只不同星座的小猪",
+        "Stake it in the Staking Contract": "质押在合约中",
+        "It is born like this": "它是这样诞生的"
+      },
+      "tips": {
+        "Invest tokens with value of at least $100 USD": "您已存入代币 ${{usd}}<br />不包括 PiFi。",
+        "Invest tokens with value of at least $500 USD": "您已存入代币 ${{usd}}<br />不包括 PiFi。",
+        "Invest tokens with value of at least $2000 USD": "您已存入代币 ${{usd}}<br />不包括 PiFi。",
+        "Collect 3 piglets": "铸造3只才可启用",
+        "Collect 7 piglets": "铸造7只才能启用",
+        "Invest 3 different tokens": "除了 PiFi，您还有 {{tokensCount}} 个代币。<br />代币需要在 PancakeSwap 上列出",
+        "Invest 7 different tokens": "除了 PiFi，您还有 {{tokensCount}} 个代币。<br />代币需要在 PancakeSwap 上列出",
+        "Collect 3 with the same zodiac sign": "助推器将影响这三部分",
+        "Collect 12 piglets with different zodiac signs": "所有12星座的小猪都会获得助力",
+        "Stake it in the Staking Contract": "即将上线",
+        "It is born like this": "它是这样诞生的"
+      }
+    },
+    "staking": {
+      "title": "质押",
+      "description": "通过质押可以将小猪的PiFi 铸造能力提高 50%。只需将你的小猪锁定在质押合约中一段指定的时间。在此期间你不能使用那只小猪。合约到期后，您可以取消质押并再次使用它。然而停用后50%的助力将不再发挥作用。所有其他助力均不受质押影响。",
+      "stakedOnDate": "质押在",
+      "stakeDurationTitle": "质押期限",
+      "stakeDuration": "{{count}} 天",
+      "stakeDuration_other": "{{count}} 天",
+      "stakeButton": "质押",
+      "unstakeButton": "解除质押",
+      "stakedBadge": "已质押",
+      "stakeBadge": "放样",
+      "stakeBadgeSmall": "更多 PiFi",
+      "expired": "已到期",
+      "alreadyStaked": "这只小猪已经在 {{stakedOnDate}} 质押了 {{days}} 天",
+      "neverStaked": "这只小猪从未被质押",
+      "periods": [
+        "3个月",
+        "6个月",
+        "1年",
+        "2年"
+      ],
+      "timeLeft": {
+        "year": "剩余年限",
+        "year_other": "剩余年限",
+        "month": "剩余月数",
+        "month_other": "剩余月数",
+        "day": "剩余天数",
+        "day_other": "剩余天数"
+      },
+      "periodFormatted": {
+        "year": "{{count}} 年",
+        "year_other": "{{count}} 年",
+        "month": "{{count}} 月",
+        "month_other": "{{count}} 个月",
+        "day": "{{count}} 日",
+        "day_other": "{{count}} 天"
+      },
+      "dialog": {
+        "title": "质押",
+        "subtitle": "选择质押期",
+        "description": "一经质押，小猪在合约到期之前不能使用",
+        "confirmButton": "质押",
+        "declineButton": "取消"
+      }
+    }
+  },
+  "about": {
+    "title": "关于 Pigletz"
+  },
+  "home": {
+    "subtitle": "第一个与现实连接的 NFT！",
+    "howitworks": "看看它如何运作",
+    "videoModalTitle": "这个如何运作",
+    "intro": {
+      "whitepaper": "白皮书"
+    },
+    "stats": {
+      "title": "Pigletz 统计",
+      "mintedPigletz": "铸币小猪",
+      "brokenPigletz": "破碎的小猪",
+      "stakedPigletz": "赌注小猪",
+      "holders": "持有人",
+      "circulatingPifi": "循环PiFi",
+      "pifiInPigletz": "Pigletz 中的 PiFi",
+      "totalValueInPigletz": "Pigletz 的总价值",
+      "totalValueChartLabel": "最近 30 天的总价值"
+    },
+    "latestNews": {
+      "title": "最新消息",
+      "seeMoreNewsButton": "查看更多新闻"
+    },
+    "latestVideos": {
+      "title": "最新影片"
     },
     "about": {
-        "title": "关于 Pigletz"
+      "title": "什么是 Pigletz？",
+      "features": [
+        "合集 12,345 个 Piglet NFT",
+        "每个人都有存钱罐的效用",
+        "您可以在其中保存您的加密令牌",
+        "每个小猪每天都在为你挖 PiFi 代币",
+        "Pigletz NFT 可升级为 3 个级别",
+        "唯一可以在现实世界中实现的 NFT",
+        "您只能通过破坏 Piglet 来提取您的资金"
+      ],
+      "learnMore": "学到更多"
     },
-    "home": {
-        "subtitle": "第一个与现实连接的 NFT！",
-        "howitworks": "看看它如何运作",
-        "videoModalTitle": "这个如何运作",
-        "intro": {
-            "whitepaper": "白皮书"
+    "nft": {
+      "title": "这是一个NFT",
+      "features": [
+        "12,345 只独特的限量版小猪，具有各种可证明随机稀缺性的特征",
+        "100% 手工制作的 3D 模型",
+        "总共可能有超过 20 亿种组合",
+        "购买时随机铸造",
+        "随着小猪成长，它的特征也会显露出来",
+        "另有 5 只明星 NFT 将用于慈善捐赠"
+      ]
+    },
+    "token": {
+      "title": "代币经济",
+      "learnMore": "了解更多",
+      "caption1": "每只小猪从您购买之日起就开始开采 PiFi 代币。",
+      "caption2": "您可以像将硬币存入存钱罐一样将代币存入您的小猪。",
+      "caption3": "打破你的小猪，获取所有存入的代币以及所有开采的 PiFi 代币。"
+    },
+    "game": {
+      "title": "游戏",
+      "learnMore": "了解更多",
+      "caption1": "升级小猪，看看有哪些提高基础挖矿效率的特征",
+      "caption2": "收集并应用助力以进一步提高代币生产速度",
+      "caption3": "可以使用我们的 Dapp 便捷监控和管理您的小猪"
+    },
+    "boosters": {
+      "title": "助力",
+      "description": "助力可提高小猪的 PiFi 代币挖矿速度。一共有9种助力。"
+    },
+    "defi": {
+      "title": "DeFi",
+      "learnMore": "了解更多",
+      "description": "您可以将您的小猪锁定特定时间，以加速挖矿过程。",
+      "steaking": {
+        "title": "存入小猪",
+        "description": "锁定你的小猪，加快挖矿速度"
+      },
+      "lending": {
+        "title": "借贷",
+        "description": "通过抵押您的小猪获得 PiFi 信用额度。"
+      }
+    },
+    "3dprint": {
+      "title": "做成实物",
+      "learnMore": "了解更多",
+      "description1": "您可以使用 PiFi 代币购买您的 NFT 的 3D 打印件，在现实世界中呈现它。当您订购 3D 打印的小猪存钱罐时，NFT 将被锁定在智能合约中。物理对象内部有一个解锁代码，您必须打破小猪存钱罐才能获得密码。这确保了物品在给定时间点仅在一个场景中发挥作用，使其始终保持 NFT 特性。",
+      "description2": "此外，小猪以实物状态呈现即是最高等级 4 级，具有最高的基础挖矿效率。"
+    },
+    "ourPigletz": {
+      "galleryTitle": "画廊",
+      "mintYours": "现在铸造你的小猪",
+      "richestPigletz": "最富有的小猪"
+    },
+    "roadmap": {
+      "title": "路线图",
+      "stages": [
+        {
+          "description": "<b>概念始于</b> 2021年初",
+          "progress": 100,
+          "status": "✓ 完成"
         },
-        "stats": {
-            "title": "Pigletz 统计",
-            "mintedPigletz": "铸币小猪",
-            "brokenPigletz": "破碎的小猪",
-            "stakedPigletz": "赌注小猪",
-            "holders": "持有人",
-            "circulatingPifi": "循环PiFi",
-            "pifiInPigletz": "Pigletz 中的 PiFi",
-            "totalValueInPigletz": "Pigletz 的总价值",
-            "totalValueChartLabel": "最近 30 天的总价值"
+        {
+          "description": "<b>团队成立</b>并始于（2021 年第 2 季度）",
+          "progress": 100,
+          "status": "✓ 完成"
         },
-        "latestNews": {
-            "title": "最新消息",
-            "seeMoreNewsButton": "查看更多新闻"
+        {
+          "description": "<b>概念和建模</b>小猪的特征（2021 年第 3 季度）",
+          "progress": 100,
+          "status": "✓ 完成"
         },
-        "latestVideos": {
-            "title": "最新影片"
+        {
+          "description": "<b>智能合约和 Dapps</b> 的开发（2021 年第 4 季度）",
+          "progress": 100,
+          "status": "✓ 完成"
         },
-        "about": {
-            "title": "什么是 Pigletz？",
-            "features": [
-                "合集 12,345 个 Piglet NFT",
-                "每个人都有存钱罐的效用",
-                "您可以在其中保存您的加密令牌",
-                "每个小猪每天都在为你挖 PiFi 代币",
-                "Pigletz NFT 可升级为 3 个级别",
-                "唯一可以在现实世界中实现的 NFT",
-                "您只能通过破坏 Piglet 来提取您的资金"
-            ],
-            "learnMore": "学到更多"
+        {
+          "description": "<b>链上发布</b><br />（2021 年 12 月）",
+          "progress": 100,
+          "status": "✓ 完成"
         },
-        "nft": {
-            "title": "这是一个NFT",
-            "features": [
-                "12,345 只独特的限量版小猪，具有各种可证明随机稀缺性的特征",
-                "100% 手工制作的 3D 模型",
-                "总共可能有超过 20 亿种组合",
-                "购买时随机铸造",
-                "随着小猪成长，它的特征也会显露出来",
-                "另有 5 只明星 NFT 将用于慈善捐赠"
-            ]
+        {
+          "description": "<b>首次预售</b><br />（2021 年 12 月 18 日）",
+          "progress": 100,
+          "status": "✓ 完成"
         },
-        "token": {
-            "title": "代币经济",
-            "learnMore": "了解更多",
-            "caption1": "每只小猪从您购买之日起就开始开采 PiFi 代币。",
-            "caption2": "您可以像将硬币存入存钱罐一样将代币存入您的小猪。",
-            "caption3": "打破你的小猪，获取所有存入的代币以及所有开采的 PiFi 代币。"
+        {
+          "description": "在<b>Binance NFT</b><br />上线（2022 年 1 月）",
+          "progress": 100,
+          "status": "✓ 完成"
         },
-        "game": {
-            "title": "游戏",
-            "learnMore": "了解更多",
-            "caption1": "升级小猪，看看有哪些提高基础挖矿效率的特征",
-            "caption2": "收集并应用助力以进一步提高代币生产速度",
-            "caption3": "可以使用我们的 Dapp 便捷监控和管理您的小猪"
+        {
+          "description": "<b>第一批 3D 打印</b>已制作<br />（2022 年第一季度）",
+          "progress": 100,
+          "status": "✓ 完成"
         },
-        "boosters": {
-            "title": "助力",
-            "description": "助力可提高小猪的 PiFi 代币挖矿速度。一共有9种助力。"
+        {
+          "description": "<b>在 PancakeSwap 上创建 PiFi 流动资金池</b><br />（2022 年 5 月）",
+          "progress": 100,
+          "status": "✓ 完成"
         },
-        "defi": {
-            "title": "DeFi",
-            "learnMore": "了解更多",
-            "description": "您可以将您的小猪锁定特定时间，以加速挖矿过程。",
-            "steaking": {
-                "title": "存入小猪",
-                "description": "锁定你的小猪，加快挖矿速度"
-            },
-            "lending": {
-                "title": "借贷",
-                "description": "通过抵押您的小猪获得 PiFi 信用额度。"
-            }
+        {
+          "description": "<b>DeFi 质押</b> 发布<br />（2022 年第 3 季度）",
+          "progress": 100,
+          "status": "✓ 完成"
         },
-        "3dprint": {
-            "title": "做成实物",
-            "learnMore": "了解更多",
-            "description1": "您可以使用 PiFi 代币购买您的 NFT 的 3D 打印件，在现实世界中呈现它。当您订购 3D 打印的小猪存钱罐时，NFT 将被锁定在智能合约中。物理对象内部有一个解锁代码，您必须打破小猪存钱罐才能获得密码。这确保了物品在给定时间点仅在一个场景中发挥作用，使其始终保持 NFT 特性。",
-            "description2": "此外，小猪以实物状态呈现即是最高等级 4 级，具有最高的基础挖矿效率。"
+        {
+          "description": " <b>移动端钱包</b> 发布<br />（2022 年第 4 季度）",
+          "progress": 100,
+          "status": "✓ 完成"
         },
-        "ourPigletz": {
-            "galleryTitle": "画廊",
-            "mintYours": "现在铸造你的小猪",
-            "richestPigletz": "最富有的小猪"
+        {
+          "description": " <b>旋转赢奖</b> Pigletz <br />（2022 年第 4 季度）",
+          "progress": 100,
+          "status": "✓ 完成"
         },
-        "roadmap": {
-            "title": "路线图",
-            "stages": [
-                {
-                    "description": "<b>概念始于</b> 2021年初",
-                    "progress": 100,
-                    "status": "✓ 完成"
-                },
-                {
-                    "description": "<b>团队成立</b>并始于（2021 年第 2 季度）",
-                    "progress": 100,
-                    "status": "✓ 完成"
-                },
-                {
-                    "description": "<b>概念和建模</b>小猪的特征（2021 年第 3 季度）",
-                    "progress": 100,
-                    "status": "✓ 完成"
-                },
-                {
-                    "description": "<b>智能合约和 Dapps</b> 的开发（2021 年第 4 季度）",
-                    "progress": 100,
-                    "status": "✓ 完成"
-                },
-                {
-                    "description": "<b>链上发布</b><br />（2021 年 12 月）",
-                    "progress": 100,
-                    "status": "✓ 完成"
-                },
-                {
-                    "description": "<b>首次预售</b><br />（2021 年 12 月 18 日）",
-                    "progress": 100,
-                    "status": "✓ 完成"
-                },
-                {
-                    "description": "在<b>Binance NFT</b><br />上线（2022 年 1 月）",
-                    "progress": 100,
-                    "status": "✓ 完成"
-                },
-                {
-                    "description": "<b>第一批 3D 打印</b>已制作<br />（2022 年第一季度）",
-                    "progress": 100,
-                    "status": "✓ 完成"
-                },
-                {
-                    "description": "<b>在 PancakeSwap 上创建 PiFi 流动资金池</b><br />（2022 年 5 月）",
-                    "progress": 100,
-                    "status": "✓ 完成"
-                },
-                {
-                    "description": "<b>DeFi 质押</b> 发布<br />（2022 年第 3 季度）",
-                    "progress": 100,
-                    "status": "✓ 完成"
-                },
-                {
-                    "description": " <b>移动端钱包</b> 发布<br />（2022 年第 4 季度）",
-                    "progress": 100,
-                    "status": "✓ 完成"
-                },
-                {
-                    "description": " <b>旋转赢奖</b> Pigletz <br />（2022 年第 4 季度）",
-                    "progress": 100,
-                    "status": "✓ 完成"
-                },
-                {
-                    "description": " <b>跨链</b>即将上线<br />",
-                    "progress": 10,
-                    "status": "正在进行..."
-                },
-                {
-                    "description": " <b>整合元宇宙</b>敬请期待<br />",
-                    "progress": 0,
-                    "status": "敬请期待"
-                }
-            ]
+        {
+          "description": " <b>跨链</b>即将上线<br />",
+          "progress": 10,
+          "status": "正在进行..."
         },
-        "joinUs": {
-            "announcement": "小猪现已上线BSC",
-            "description": "关注我们以获取更多信息、预售详情、日期以及折扣",
-            "twitter": "在推特上关注我们",
-            "discord": "加入我们的 Discord ",
-            "telegram": "加入我们的电报群"
-        },
-        "marketplaces": {
-            "title": "可以访问：",
-            "googlePlay": "从 Google Play 下载"
+        {
+          "description": " <b>整合元宇宙</b>敬请期待<br />",
+          "progress": 0,
+          "status": "敬请期待"
         }
+      ]
     },
-    "errors": {
-        "privacyPolicy": "现在无法加载隐私政策",
-        "termsOfUse": "现在无法加载使用条款",
-        "wofRules": "无法加载规则",
-        "newsArticle": "无法加载该文章",
-        "newsArticlesList": "无法加载新闻"
+    "joinUs": {
+      "announcement": "小猪现已上线BSC",
+      "description": "关注我们以获取更多信息、预售详情、日期以及折扣",
+      "twitter": "在推特上关注我们",
+      "discord": "加入我们的 Discord ",
+      "telegram": "加入我们的电报群"
     },
-    "newsList": {
-        "title": "消息",
-        "readMore": "阅读更多",
-        "allNews": "所有新闻"
-    },
-    "videoList": {
-        "watch": "立即观看"
+    "marketplaces": {
+      "title": "可以访问：",
+      "googlePlay": "从 Google Play 下载"
     }
+  },
+  "errors": {
+    "privacyPolicy": "现在无法加载隐私政策",
+    "termsOfUse": "现在无法加载使用条款",
+    "wofRules": "无法加载规则",
+    "newsArticle": "无法加载该文章",
+    "newsArticlesList": "无法加载新闻"
+  },
+  "newsList": {
+    "title": "消息",
+    "readMore": "阅读更多",
+    "allNews": "所有新闻"
+  },
+  "videoList": {
+    "watch": "立即观看"
+  }
 }
