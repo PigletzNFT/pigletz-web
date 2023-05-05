@@ -1,712 +1,718 @@
 {
+  "seo": {
+    "url": "https://pigletz.com",
+    "title": "Pigletz - ¡El primer NFT que se materializa!",
+    "description": "Pigletz es un juego único de coleccionables NFT que ofrece: Pigletz lindos y únicos, impresos en 3D;  alcancía digital para almacenar tokens; NFT actualizables con niveles; DeFi: token propio, staking, lending; figura real del Piglet en 3D",
+    "image": "https://pigletz.com/assets/images/social-banner.jpg"
+  },
+  "nav": {
+    "website": "Pigletz.com",
+    "home": "Inicio",
+    "gallery": "Galería",
+    "about": "Sobre",
+    "pigletz": "Mis Pigletz",
+    "staked": "Mis inversiónes",
+    "mystery": "Mis cajas",
+    "connect": "Conectar cartera",
+    "buypiglets": "Acuñar Pigletz",
+    "menu": "Menú",
+    "back": "Atrás",
+    "language": "Idioma",
+    "languages": {
+      "en": "English",
+      "bg": "Български",
+      "de": "Deutsch",
+      "es": "Español",
+      "tr": "Türkçe",
+      "tl": "Filipino",
+      "ar": "العربية",
+      "ru": "Русский",
+      "id": "Bahasa Indonesia",
+      "zh": "简体中文"
+    }
+  },
+  "buttons": {
+    "close": "Cerrar"
+  },
+  "marketing": {
+    "notifications": {
+      "subscribeToast": "🐽 Suscríbete para recibir actualizaciones"
+    }
+  },
+  "banner": {
+    "countdown": {
+      "text": "El podcast comienza en {{time}}",
+      "mintNow": "menta ahora",
+      "second": "{{count}} segundo",
+      "second_other": "{{count}} segundos",
+      "minute": "{{count}} minuto",
+      "minute_other": "{{count}} minutos",
+      "hour": "{{count}} hora",
+      "hour_other": "{{count}} horas",
+      "day": "{{count}} día",
+      "day_other": "{{count}} días"
+    },
+    "public": {
+      "text": "Puedes acuñar un Piglet con PiFi Tokens",
+      "mintNow": "Acuñar ahora"
+    },
+    "binance": {
+      "text": "Pigletz ya está disponible en Binance NFT",
+      "buy": "Comprar en Binance"
+    },
+    "staking": {
+      "text": "La participación de Pigletz llegará en {{time}}"
+    },
+    "blackFriday": {
+      "text": "La oferta de BLACK FRIDAY terminará en {{time}}"
+    },
+    "christmas2022": {
+      "text": "La oferta de Navidad terminará en {{time}}"
+    }
+  },
+  "footer": {
+    "copyright": "© 2021-2023 Pigletz",
+    "terms": "Términos y condiciones",
+    "privacy": "Política de privacidad",
+    "contracts": {
+      "title": "Contratos:",
+      "pigletz": "Pigletz (BEP721)",
+      "pifi": "PiFi (BEP20)",
+      "salesManager": "Ventas",
+      "mysteryBox": "Caja misteriosa (BEP721)"
+    }
+  },
+  "presale": {
+    "title": "Pigletz Preventa",
+    "description": "Bienvenido, afortunado! ! Fuiste seleccionado para participar en nuestra Preventa y tienes la oportunidad de acuñar tu único Piglet al precio más bajo posible. También puedes acuñar un paquete de 5, 10 o 20 Pigletz en la misma transacción. Tu código de descuento se aplicará a todos ellos. ¡Disfruta!",
+    "tiersDescription": "Acuñamos colecciones de diferentes cantidades y precios. El precio aumenta con el tiempo y al final llegará a unos 8 BNB. Sin embargo, el precio más alto aumenta la probabilidad de obtener un refuerzo especial.",
+    "checkTiers": "Comprueba las colecciones abajo"
+  },
+  "mint": {
+    "title": "Acuñando Pigletz",
+    "description": "¡Bienvenido! Aquí puedes acuñar tu nuevo Piglet que va a ser seleccionado a través de un algoritmo aleatorio demostrablemente justo. Si quieres recibir códigos de descuento, únete a nuestras comunidades en Discord, Telegram y Twitter y pregunta por las opciones. ¡Disfruta!",
+    "tiersDescription": "Acuñamos colecciones de diferentes cantidades y precios. El precio aumenta con el tiempo y al final llegará a unos 8 BNB. Sin embargo, el precio más alto aumenta la probabilidad de obtener un refuerzo especial.",
+    "checkTiers": "Comprueba las colecciones abajo"
+  },
+  "blackFridayMint": {
+    "title": "OFERTA DE VIERNES NEGRO!",
+    "description": "Solo por tiempo limitado puedes acuñar aquí tu lechón con un 50% de descuento. No pierdas tu oportunidad."
+  },
+  "christmasMint": {
+    "title": "¡OFERTA DE NAVIDAD!",
+    "description": "Solo para las fiestas navideñas puedes acuñar aquí tu Piglet con un 50% de descuento. ¡Feliz navidad!"
+  },
+  "pigletzList": {
+    "title": "Colección de Pigletz",
+    "description": "La bonita colección de{{address}}",
+    "totalPiFiLabel": "PiFi totales",
+    "totalUSDLabel": "USD totales",
+    "noPigletzError": "Esta cuenta no tiene pigletz",
+    "my": {
+      "description": "Tu bonita colección"
+    },
     "seo": {
-        "url": "https://pigletz.com",
-        "title": "Pigletz - ¡El primer NFT que se materializa!",
-        "description": "Pigletz es un juego único de coleccionables NFT que ofrece: Pigletz lindos y únicos, impresos en 3D;  alcancía digital para almacenar tokens; NFT actualizables con niveles; DeFi: token propio, staking, lending; figura real del Piglet en 3D",
-        "image": "https://pigletz.com/assets/images/social-banner.jpg"
+      "title": "Colección de Pigletz",
+      "description": "Una valiosa colección de {{count}} Piglet",
+      "description_other": "Una valiosa colección de {{count}} Pigletz"
     },
-    "nav": {
-        "website": "Pigletz.com",
-        "home": "Inicio",
-        "gallery": "Galería",
-        "about": "Sobre",
-        "pigletz": "Mis Pigletz",
-        "staked": "Mis inversiónes",
-        "mystery": "Mis cajas",
-        "connect": "Conectar cartera",
-        "buypiglets": "Acuñar Pigletz",
-        "menu": "Menú",
-        "back": "Atrás",
-        "language": "Idioma",
-        "languages": {
-            "en": "English",
-            "bg": "Български",
-            "de": "Deutsch",
-            "es": "Español",
-            "tr": "Türkçe",
-            "tl": "Filipino",
-            "ar": "العربية",
-            "ru": "Русский",
-            "id": "Bahasa Indonesia",
-            "zh": "简体中文"
-        }
+    "viewStakedButton": "Ver inversión",
+    "boostersOfferTitle": "¿Necesitas <b>refuerzos?</b>",
+    "boostersOfferCaption": "¡Invierte en tu Piglet para que aporte más valor para ti! ",
+    "levelReachedCaption": "He alcanzado <b>el nivel {{level}}</b>",
+    "item": {
+      "pifiBalance": "{{balance}} PiFi",
+      "level": "Nivel {{level}}"
+    }
+  },
+  "pigletzStakedList": {
+    "title": "Pigletz inversión",
+    "description": "El pigletz inversión propiedad de {{address}}",
+    "noPigletzError": "Esta cuenta no tiene pigletz inversiónes",
+    "my": {
+      "description": "Tu pigletz inversiónes"
     },
-    "buttons": {
-        "close": "Cerrar"
+    "seo": {
+      "title": "Pigletz inversiónes",
+      "description": "Lista de los Pigletz inversión que pertenecen a esta cuenta"
+    }
+  },
+  "mysteryBoxList": {
+    "title": "Cajas misteriosas",
+    "description": "Lista de cajas, propiedad de {{address}}",
+    "my": {
+      "description": "Tus cajas misteriosas. ¡Abre para ver los Pigletz adentro!"
     },
-    "marketing": {
-        "notifications": {
-            "subscribeToast": "🐽 Suscríbete para recibir actualizaciones"
-        }
+    "seo": {
+      "title": "Cajas misteriosas de Pigletz",
+      "description": "Una valiosa colección de {{count}} caja misteriosa, llena de Pigletz",
+      "description_other": "Una valiosa colección de {{count}} cajas misteriosas, llenas de Pigletz"
     },
-    "banner": {
-        "countdown": {
-            "text": "El podcast comienza en {{time}}",
-            "mintNow": "menta ahora",
-            "second": "{{count}} segundo",
-            "second_other": "{{count}} segundos",
-            "minute": "{{count}} minuto",
-            "minute_other": "{{count}} minutos",
-            "hour": "{{count}} hora",
-            "hour_other": "{{count}} horas",
-            "day": "{{count}} día",
-            "day_other": "{{count}} días"
-        },
-        "public": {
-            "text": "Puedes acuñar un Piglet con PiFi Tokens",
-            "mintNow": "Acuñar ahora"
-        },
-        "binance": {
-            "text": "Pigletz ya está disponible en Binance NFT",
-            "buy": "Comprar en Binance"
-        },
-        "staking": {
-            "text": "La participación de Pigletz llegará en {{time}}"
-        },
-        "blackFriday": {
-            "text": "La oferta de BLACK FRIDAY terminará en {{time}}"
-        },
-        "christmas2022": {
-            "text": "La oferta de Navidad terminará en {{time}}"
-        }
+    "boostersOfferTitle": "¿Necesitas <b>refuerzos</b>",
+    "boostersOfferCaption": "¡Invierte en tu Piglet para que aporte más valor para ti!",
+    "levelReachedCaption": "He alcanzado <b>Nivel {{level}}</b>",
+    "lockedUntilDateText": "Esta caja no se puede abrir antes del {{date}}",
+    "readyLabel": "Haga clic para abrir",
+    "timeLeft": {
+      "year": "{{count}} año para abrir",
+      "year_other": "{{count}} años para abrir",
+      "month": "{{count}} mes para abrir",
+      "month_other": "{{count}} meses para abrir",
+      "day": "{{count}} día para abrir",
+      "day_other": "{{count}} días para abrir",
+      "hour": "{{count}} hora para abrir",
+      "hour_other": "{{count}} horas para abrir",
+      "minute": "{{count}} minuto para abrir",
+      "minute_other": "{{count}} minutos para abrir",
+      "second": "{{count}} segundo para abrir",
+      "second_other": "{{count}} segundos para abrir"
+    }
+  },
+  "connect": {
+    "title": "Conectar billetera",
+    "balance": "{{balance}} BNB",
+    "disconnect": "Desconectar",
+    "providers": {
+      "metamask": "MetaMask",
+      "trustwallet": "Billetera Trust Wallet",
+      "binancewallet": "Billetera de Binance",
+      "walletconnect": "Conectar billetera"
     },
-    "footer": {
-        "copyright": "© 2021-2022 Pigletz",
-        "terms": "Términos y condiciones",
-        "privacy": "Política de privacidad",
-        "contracts": {
-            "title": "Contratos:",
-            "pigletz": "Pigletz (BEP721)",
-            "pifi": "PiFi (BEP20)",
-            "salesManager": "Ventas",
-            "mysteryBox": "Caja misteriosa (BEP721)"
-        }
+    "howtoTitle": "¿Todavía no tienes billetera para criptomonedas?",
+    "howtoButton": "¡Aprende cómo!"
+  },
+  "wof": {
+    "title": "Gira y gana Pigletz",
+    "description": "Aquí puedes girar la rueda y tener la oportunidad de ganar Pigletz gratis. No se requiere pago. Solo mantente activo en nuestros <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">canales de discord</a> y recibirás créditos. Cada giro le costará {{creditsToSpin}} créditos. Puedes girar la rueda tantas veces como quieras. Si gana el premio mayor, puede reclamar una caja misteriosa con un cerdito adentro. Ábrelo para revelar tu nuevo Piglet único. ¡Buena suerte!",
+    "discordLoginButton": "Iniciar sesión en Discord",
+    "logoutButton": "Cerrar sesión",
+    "spinButton": "Girar",
+    "infoBox": "La temporada ha terminado. Estamos preparando el siguiente. Estar en contacto",
+    "welcomeToast": "Bienvenido {{username}}",
+    "welcomeText": "Bienvenido {{username}},",
+    "checkTheRulesText": "Consulte las reglas detalladas aquí →",
+    "claimRewardButton": "Reclamar {{count}} Piglet",
+    "claimRewardButton_other": "Reclama {{count}} Pigletz",
+    "availableCredits": "Tienes <span className=\"wheel-credits\">{{count}}</span> crédito",
+    "availableCredits_other": "Tienes <span className=\"wheel-credits\">{{count}}</span> créditos",
+    "connectWalletToClaim": "Tiene {{count}} Piglet para reclamar. Para hacer eso, primero debe conectar su billetera.",
+    "connectWalletToClaim_other": "Tienes {{count}} Pigletz para reclamar. Para hacer eso, primero debe conectar su billetera.",
+    "rewardNotification": {
+      "5_credits": "Has ganado 5 créditos.",
+      "10_credits": "Has ganado 10 créditos.",
+      "20_credits": "Has ganado 20 créditos.",
+      "100_credits": "Has ganado 100 créditos.",
+      "jackpot": "Has ganado un Piglet"
     },
-    "presale": {
-        "title": "Pigletz Preventa",
-        "description": "Bienvenido, afortunado! ! Fuiste seleccionado para participar en nuestra Preventa y tienes la oportunidad de acuñar tu único Piglet al precio más bajo posible. También puedes acuñar un paquete de 5, 10 o 20 Pigletz en la misma transacción. Tu código de descuento se aplicará a todos ellos. ¡Disfruta!",
-        "tiersDescription": "Acuñamos colecciones de diferentes cantidades y precios. El precio aumenta con el tiempo y al final llegará a unos 8 BNB. Sin embargo, el precio más alto aumenta la probabilidad de obtener un refuerzo especial.",
-        "checkTiers": "Comprueba las colecciones abajo"
+    "stats": {
+      "players": "Jugadores",
+      "spins": "Giros",
+      "creditsWon": "Créditos Ganados",
+      "pigletzWon": "Pigletz ganó"
+    }
+  },
+  "actions": {
+    "levelUp": {
+      "pending": "Subir de nivel {{level}}",
+      "success": "¡Felicidades!",
+      "error": "¡Perdón, algo salió mal!"
     },
-    "mint": {
-        "title": "Acuñando Pigletz",
-        "description": "¡Bienvenido! Aquí puedes acuñar tu nuevo Piglet que va a ser seleccionado a través de un algoritmo aleatorio demostrablemente justo. Si quieres recibir códigos de descuento, únete a nuestras comunidades en Discord, Telegram y Twitter y pregunta por las opciones. ¡Disfruta!",
-        "tiersDescription": "Acuñamos colecciones de diferentes cantidades y precios. El precio aumenta con el tiempo y al final llegará a unos 8 BNB. Sin embargo, el precio más alto aumenta la probabilidad de obtener un refuerzo especial.",
-        "checkTiers": "Comprueba las colecciones abajo"
+    "boosterUp": {
+      "pending": "Activando refuerzo",
+      "success": "¡Felicidades!",
+      "errors": {
+        "default": "¡Perdón, algo salió mal!",
+        "some piglets dont have the same sign": "Algunos Pigletz no tienen el mismo signo",
+        "wrong number of piglets": "Número incorrecto de Pigletz",
+        "not all piglets are owned by the same owner": "No todos los Pigletz son propiedad del mismo dueño",
+        "some piglets have already been boosted": "Algunos Pigletz ya han sido reforzados",
+        "some piglets are celebrities": "Algunos Pigletz son celebridades",
+        "some piglets are not of the correct level": "Algunos Pigletz no tienen el nivel correcto",
+        "some piglets have not been boosted": "Algunos Pigletz no han sido reforzados",
+        "some piglets are not boostable": "Algunos Pigletz no se pueden reforzar",
+        "duplicate tokens": "Tokens duplicados",
+        "sll piglets must have different signs": "Todos los Pigletz deben tener signos diferentes"
+      }
     },
-    "blackFridayMint": {
-        "title": "OFERTA DE VIERNES NEGRO!",
-        "description": "Solo por tiempo limitado puedes acuñar aquí tu lechón con un 50% de descuento. No pierdas tu oportunidad."
+    "checkDiscount": {
+      "pending": "Comprobando el código",
+      "success": "El código es válido",
+      "error": "Código incorrecto o caducado"
     },
-    "christmasMint": {
-        "title": "¡OFERTA DE NAVIDAD!",
-        "description": "Solo para las fiestas navideñas puedes acuñar aquí tu Piglet con un 50% de descuento. ¡Feliz navidad!"
+    "purchasePiglet": {
+      "pending": "Acuñando {{count}} Piglet",
+      "pending_other": "Acuñando {{count}} Pigletz",
+      "success": "{{count}} Piglet acuñado con éxito",
+      "success_other": "{{count}} Pigletz acuñados con éxito",
+      "error": "¡Perdón, algo salió mal!"
     },
-    "pigletzList": {
-        "title": "Colección de Pigletz",
-        "description": "La bonita colección de{{address}}",
-        "totalPiFiLabel": "PiFi totales",
-        "totalUSDLabel": "USD totales",
-        "noPigletzError": "Esta cuenta no tiene pigletz",
-        "my": {
-            "description": "Tu bonita colección"
-        },
-        "seo": {
-            "title": "Colección de Pigletz",
-            "description": "Una valiosa colección de {{count}} Piglet",
-            "description_other": "Una valiosa colección de {{count}} Pigletz"
-        },
-        "viewStakedButton": "Ver inversión",
-        "boostersOfferTitle": "¿Necesitas <b>refuerzos?</b>",
-        "boostersOfferCaption": "¡Invierte en tu Piglet para que aporte más valor para ti! ",
-        "levelReachedCaption": "He alcanzado <b>el nivel {{level}}</b>",
-        "item": {
-            "pifiBalance": "{{balance}} PiFi",
-            "level": "Nivel {{level}}"
-        }
+    "approveToken": {
+      "pending": "Aprobando {{amount}} {{symbol}}",
+      "success": "Hecho",
+      "error": "¡Perdón, algo salió mal!"
     },
-    "pigletzStakedList": {
-        "title": "Pigletz inversión",
-        "description": "El pigletz inversión propiedad de {{address}}",
-        "noPigletzError": "Esta cuenta no tiene pigletz inversiónes",
-        "my": {
-            "description": "Tu pigletz inversiónes"
-        },
-        "seo": {
-            "title": "Pigletz inversiónes",
-            "description": "Lista de los Pigletz inversión que pertenecen a esta cuenta"
-        }
+    "openBox": {
+      "pending": "Abriendo caja con {{count}} Piglet",
+      "pending_other": "Abriendo caja con {{count}} Pigletz",
+      "success": "¡Felicidades!",
+      "error": "¡Perdón, algo salió mal!"
     },
-    "mysteryBoxList": {
-        "title": "Cajas misteriosas",
-        "description": "Lista de cajas, propiedad de {{address}}",
-        "my": {
-            "description": "Tus cajas misteriosas. ¡Abre para ver los Pigletz adentro!"
-        },
-        "seo": {
-            "title": "Cajas misteriosas de Pigletz",
-            "description": "Una valiosa colección de {{count}} caja misteriosa, llena de Pigletz",
-            "description_other": "Una valiosa colección de {{count}} cajas misteriosas, llenas de Pigletz"
-        },
-        "boostersOfferTitle": "¿Necesitas <b>refuerzos</b>",
-        "boostersOfferCaption": "¡Invierte en tu Piglet para que aporte más valor para ti!",
-        "levelReachedCaption": "He alcanzado <b>Nivel {{level}}</b>",
-        "lockedUntilDateText": "Esta caja no se puede abrir antes del {{date}}",
-        "readyLabel": "Haga clic para abrir",
-        "timeLeft": {
-            "year": "{{count}} año para abrir",
-            "year_other": "{{count}} años para abrir",
-            "month": "{{count}} mes para abrir",
-            "month_other": "{{count}} meses para abrir",
-            "day": "{{count}} día para abrir",
-            "day_other": "{{count}} días para abrir",
-            "hour": "{{count}} hora para abrir",
-            "hour_other": "{{count}} horas para abrir",
-            "minute": "{{count}} minuto para abrir",
-            "minute_other": "{{count}} minutos para abrir",
-            "second": "{{count}} segundo para abrir",
-            "second_other": "{{count}} segundos para abrir"
-        }
+    "updateTokenBalance": {
+      "pending": "Recuperacion de datos",
+      "error": "Perdón, algo salió mal"
     },
-    "connect": {
-        "title": "Conectar billetera",
-        "balance": "{{balance}} BNB",
-        "disconnect": "Desconectar",
-        "providers": {
-            "metamask": "MetaMask",
-            "trustwallet": "Billetera Trust Wallet",
-            "binancewallet": "Billetera de Binance",
-            "walletconnect": "Conectar billetera"
-        },
-        "howtoTitle": "¿Todavía no tienes billetera para criptomonedas?",
-        "howtoButton": "¡Aprende cómo!"
+    "depositToken": {
+      "pending": "Depositando {{amount}} {{symbol}}",
+      "success": "¡Felicidades!",
+      "error": "¡Perdón, algo salió mal!"
     },
-    "wof": {
-        "title": "Gira y gana Pigletz",
-        "description": "Aquí puedes girar la rueda y tener la oportunidad de ganar Pigletz gratis. No se requiere pago. Solo mantente activo en nuestros <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">canales de discord</a> y recibirás créditos. Cada giro le costará {{creditsToSpin}} créditos. Puedes girar la rueda tantas veces como quieras. Si gana el premio mayor, puede reclamar una caja misteriosa con un cerdito adentro. Ábrelo para revelar tu nuevo Piglet único. ¡Buena suerte!",
-        "discordLoginButton": "Iniciar sesión en Discord",
-        "logoutButton": "Cerrar sesión",
-        "spinButton": "Girar",
-        "infoBox": "La temporada ha terminado. Estamos preparando el siguiente. Estar en contacto",
-        "welcomeToast": "Bienvenido {{username}}",
-        "welcomeText": "Bienvenido {{username}},",
-        "checkTheRulesText": "Consulte las reglas detalladas aquí →",
-        "claimRewardButton": "Reclamar {{count}} Piglet",
-        "claimRewardButton_other": "Reclama {{count}} Pigletz",
-        "availableCredits": "Tienes <span className=\"wheel-credits\">{{count}}</span> crédito",
-        "availableCredits_other": "Tienes <span className=\"wheel-credits\">{{count}}</span> créditos",
-        "connectWalletToClaim": "Tiene {{count}} Piglet para reclamar. Para hacer eso, primero debe conectar su billetera.",
-        "connectWalletToClaim_other": "Tienes {{count}} Pigletz para reclamar. Para hacer eso, primero debe conectar su billetera.",
-        "rewardNotification": {
-            "5_credits": "Has ganado 5 créditos.",
-            "10_credits": "Has ganado 10 créditos.",
-            "20_credits": "Has ganado 20 créditos.",
-            "100_credits": "Has ganado 100 créditos.",
-            "jackpot": "Has ganado un Piglet"
-        },
-        "stats": {
-            "players": "Jugadores",
-            "spins": "Giros",
-            "creditsWon": "Créditos Ganados",
-            "pigletzWon": "Pigletz ganó"
-        }
+    "registerDeposit": {
+      "pending": "Registrando {{amount}} {{symbol}}",
+      "success": "¡Éxito!",
+      "error": "¡Perdón, algo salió mal!"
     },
-    "actions": {
-        "levelUp": {
-            "pending": "Subir de nivel {{level}}",
-            "success": "¡Felicidades!",
-            "error": "¡Perdón, algo salió mal!"
-        },
-        "boosterUp": {
-            "pending": "Activando refuerzo",
-            "success": "¡Felicidades!",
-            "errors": {
-                "default": "¡Perdón, algo salió mal!",
-                "some piglets dont have the same sign": "Algunos Pigletz no tienen el mismo signo",
-                "wrong number of piglets": "Número incorrecto de Pigletz",
-                "not all piglets are owned by the same owner": "No todos los Pigletz son propiedad del mismo dueño",
-                "some piglets have already been boosted": "Algunos Pigletz ya han sido reforzados",
-                "some piglets are celebrities": "Algunos Pigletz son celebridades",
-                "some piglets are not of the correct level": "Algunos Pigletz no tienen el nivel correcto",
-                "some piglets have not been boosted": "Algunos Pigletz no han sido reforzados",
-                "some piglets are not boostable": "Algunos Pigletz no se pueden reforzar",
-                "duplicate tokens": "Tokens duplicados",
-                "sll piglets must have different signs": "Todos los Pigletz deben tener signos diferentes"
-            }
-        },
-        "checkDiscount": {
-            "pending": "Comprobando el código",
-            "success": "El código es válido",
-            "error": "Código incorrecto o caducado"
-        },
-        "purchasePiglet": {
-            "pending": "Acuñando {{count}} Piglet",
-            "pending_other": "Acuñando {{count}} Pigletz",
-            "success": "{{count}} Piglet acuñado con éxito",
-            "success_other": "{{count}} Pigletz acuñados con éxito",
-            "error": "¡Perdón, algo salió mal!"
-        },
-        "approveToken": {
-            "pending": "Aprobando {{amount}} {{symbol}}",
-            "success": "Hecho",
-            "error": "¡Perdón, algo salió mal!"
-        },
-        "openBox": {
-            "pending": "Abriendo caja con {{count}} Piglet",
-            "pending_other": "Abriendo caja con {{count}} Pigletz",
-            "success": "¡Felicidades!",
-            "error": "¡Perdón, algo salió mal!"
-        },
-        "updateTokenBalance": {
-            "pending": "Recuperacion de datos",
-            "error": "Perdón, algo salió mal"
-        },
-        "depositToken": {
-            "pending": "Depositando {{amount}} {{symbol}}",
-            "success": "¡Felicidades!",
-            "error": "¡Perdón, algo salió mal!"
-        },
-        "registerDeposit": {
-            "pending": "Registrando {{amount}} {{symbol}}",
-            "success": "¡Éxito!",
-            "error": "¡Perdón, algo salió mal!"
-        },
-        "destroy": {
-            "pending": "Rompiendo Piglet #{{tokenId}}",
-            "success": "Se acabó",
-            "error": "¡Perdón, algo salió mal!"
-        },
-        "transfer": {
-            "pending": "Transferencia de Piglet #{{tokenId}} a {{recipient}}",
-            "success": "Enviado",
-            "error": "¡Perdón, algo salió mal!"
-        },
-        "materialize": {
-            "pending": "Materializando Piglet #{{tokenId}}",
-            "success": "Enviado",
-            "error": "¡Perdón, algo salió mal!"
-        },
-        "stakePiglet": {
-            "pending": "Invirtiendo Piglet #{{tokenId}} por {{period}}",
-            "success": "Invertido!",
-            "error": "Perdón, algo salió mal"
-        },
-        "unstakePiglet": {
-            "pending": "Piglet desquiciado n.° {{tokenId}}",
-            "success": "¡Lo tienes!",
-            "error": "Perdón, algo salió mal"
-        },
-        "claimReward": {
-            "pending": "Reclamando {{count}} Piglet",
-            "pending_other": "Reclamando {{count}} Pigletz",
-            "success": "¡Lo tienes!",
-            "error": "Perdón, algo salió mal"
-        }
+    "destroy": {
+      "pending": "Rompiendo Piglet #{{tokenId}}",
+      "success": "Se acabó",
+      "error": "¡Perdón, algo salió mal!"
     },
-    "buy": {
-        "saleAddress": "Contrato de venta: {{address}}",
-        "promoCodeCaption": "Descuento:",
-        "promoCodeCheckButton": "Verificar",
-        "promoCodePlaceholder": "Copiar código aquí...",
-        "howToBuyPiFi": "Aprende a comprar PiFi",
-        "quantityCaption": "Cantidad:",
-        "buyNowButton": "Acuñar",
-        "addToMetamaskButton": "Agregar PiFi a MetaMask",
-        "discountedPrice": "{{price}} BNB",
-        "priceInPiFi": "{{price}} PiFi",
-        "balanceCaption": "Balance:",
-        "balanceInPiFi": "{{balance}} PiFi",
-        "totalCaption": "Total:",
-        "tiersTitle": "Colecciones",
-        "tierIndex": "Colección {{index}}",
-        "tierPrice": "{{price}} BNB",
-        "itemsInColletionLeft": "quedan {{amountLeft}}",
-        "howto": {
-            "mobile": {
-                "button": "¿No estás seguro? Aprende a comprar ↓",
-                "youNeed": "Necesitas ",
-                "metamask": "MetaMask",
-                "walletApp": "Wallet App",
-                "android": "Android",
-                "ios": "iOS",
-                "or": " o",
-                "bscTitle": "Debes configurar MetaMask para usar Binance Smart Chain Mainnet.",
-                "bscGuide": "¡Sigue esta guía!",
-                "bscBalance": "Necesitas suficiente saldo de BNB en tu cuenta de MetaMask para comprar un Piglet. Usa tu Crypto Exchange favorito para transferir BNB a tu dirección pública de MetaMask.",
-                "bscFindAddress": "¿Cómo encontrar la dirección pública de tu billetera?",
-                "bscFindAddressStep1": "1. En tu billetera, pincha sobre Dirección.",
-                "bscFindAddressStep2": "2. La dirección se copia en tu portapapeles.",
-                "openMetamaskCaption": "Usa el siguiente botón para abrir nuestra <strong>página de venta de dApp</strong> directamente en el navegador MetaMask:",
-                "openMetamaskButton": "Abrir MetaMask"
-            },
-            "desktop": {
-                "button": "¿No estás seguro? Aprende a comprar a través de tu Escritorio ↓",
-                "youNeed": "Necesitas ",
-                "metamask": "MetaMask",
-                "extension": "Extensión del navegador para Chrome o Firefox",
-                "chrome": "Google Chrome",
-                "firefox": "Mozilla Firefox",
-                "bscTitle": "Debes configurar MetaMask para usar Binance Smart Chain Mainnet.",
-                "bscGuide": "¡Sigue esta guía!",
-                "bscVideo": "¡Mira este video!",
-                "bscBalance": "Necesitas suficiente saldo de BNB en tu cuenta de MetaMask para comprar un Piglet. Usa tu Crypto Exchange favorito para transferir BNB a tu dirección pública de MetaMask.",
-                "bscFindAddress": "¿Cómo encontrar la dirección pública de tu billetera?",
-                "bscFindAddressStep1": "1. En la extensión MetaMask de tu navegador, haz clic en el nombre de tu cuenta.",
-                "bscFindAddressStep2": "2. La dirección es copiada en tu portapapeles.",
-                "connectWalletCaption1": "Cuando tengas fondos suficientes en tu billetera, debes conectarla a nuestro sitio web, haciendo clic en \"Conectar billetera\" en la navegación del sitio web.",
-                "connectWalletCaption2": "Cuando estés conectado, puedes <strong>utilizar el siguiente formulario</strong> para realizar una compra.",
-                "watchVideoCaption1": "¡Mira este video!",
-                "watchVideoCaption2": " instrucciones paso a paso:"
-            }
-        }
+    "transfer": {
+      "pending": "Transferencia de Piglet #{{tokenId}} a {{recipient}}",
+      "success": "Enviado",
+      "error": "¡Perdón, algo salió mal!"
     },
-    "piglet": {
-        "boost": "{{boost}}% refuerzo",
-        "level": "Nivel {{level}}",
-        "dailyMint": "{{dailyMint}} PiFi diario",
-        "viewMore": "Ver más",
-        "pifi": "PiFi:",
-        "addToMetamaskButton": "Añadir a MetaMask",
-        "walletDescription": "Esta es la billetera no custodiada de tu Piglet. Solo el Piglet, respectivamente, su propietario puede interactuar con ella: depositar tokens o romperlo y retirar todo lo que contiene",
-        "walletTitle": "Billetera",
-        "depositButton": "Depósito ({{invested}}/{{total}})",
-        "totalValue": "Valor total:",
-        "usdValueTip": "El valor de mercado es ${{market}}<br />El valor absoluto es ${{absolute}}",
-        "totalUsdValueTip": "El valor de mercado es ${{market}}<br />El valor absoluto es ${{absolute}}<br />El valor excluyendo PiFi es ${{exPiFi}}",
-        "pifiToNextLevel": "{{pifi}} PiFi a nivel {{nextLevel}}",
-        "reachedLevelCaption": "He alcanzado <b>Nivel {{level}}</b>",
-        "gotoLevelButton": "Ir al nivel {{level}}",
-        "goToCollection": "Colección",
-        "traitsTitle": "Rasgos de tu Piglet",
-        "quickInfoTitle": "Información rápida",
-        "destroyButton": "Destruir",
-        "materializeButton": "Materializar",
-        "dematerializeButton": "Digitalizar",
-        "pigletNotFoundError": "Lechón {{tokenId}} no encontrado",
-        "traitToolTip": "{{percents}}% Pigletz tiene este rasgo",
-        "pigletChartLabel": "Valor de lechones de los últimos 30 días",
-        "levels": {
-            "level1": "1",
-            "level2": "2",
-            "level3": "3"
-        },
-        "investments": {
-            "symbol": "TOKEN",
-            "amount": "SUMA",
-            "usd": "USD",
-            "nothing": "Todavía no tienes ninguna inversión"
-        },
-        "pifiLPDeclaration": "El valor del PiFi se estimará después de que se cree el LP en PancakeSwap. Esto sucederá solo UNA VEZ durante la venta.",
-        "destroy": {
-            "title": "Romper tu Piglet",
-            "description": "El hecho de romper tu Piglet removerá todos los tokens dentro de él con un valor total de ${{balanceInUSD}} USD a tu dirección {{recipient}}. Sin embargo, tu Piglet será destruido y perdido para siempre. Así que, ¡Piénsalo dos veces, míralo a los ojos y decide!",
-            "lesserLevel": " ¡Debes haber alcanzado al menos el nivel 2 para que se te permita romper tu Piglet!",
-            "button": "Romper",
-            "confirmation": "¿Estás seguro de que quieres romper tu Piglet?",
-            "confirm": "Sí, cobrar",
-            "decline": "No, no puedo"
-        },
-        "transfer": {
-            "recipientPrompt": "Por favor, introduzca la dirección del destinatario. ¡Asegúrese de que sea una dirección de BSC Mainnet!",
-            "confirmText": "¿Está seguro de que desea transferir Piglet #{{tokenId}} a {{recipient}}?",
-            "transferButton": "Transferir"
-        },
-        "deposit": {
-            "balance": "{{balance}} {{symbol}} (${{usd}})",
-            "title": "Depósito Cripto",
-            "selectToken": "Por favor, selecciona un token",
-            "defaultToken": "Tokens PancakeSwap...",
-            "inputAddress": "o escribe la dirección del token a continuación",
-            "inputAmount": "Elige una cantidad a depositar",
-            "maxButton": "MAX",
-            "availableBalance": "Disponible:",
-            "depositButton": "Depositar ahora",
-            "unregisteredDeposit": "Tienes {{balance}} {{symbol}} $({{balanceUSD}}) sin registrar",
-            "reisteredDeposit": "Registrar ahora"
-        },
-        "boosters": {
-            "requiresLevel": "Exige nivel {{level}}",
-            "activateButton": "Activar refuerzo",
-            "activated": "Activado",
-            "title": "Refuerzos",
-            "tokenSelect": {
-                "title": "Selecciona {{count}} Pigletz"
-            },
-            "names": {
-                "Invest $100": "Valor de $100",
-                "Invest $500": "Valor de $500",
-                "Invest $2000": "Valor de $2000",
-                "Collect 3": "Recoger 3",
-                "Collect 7": "Recoger 7",
-                "Invest 3 tokens": "Invertir 3 Tokens",
-                "Invest 7 tokens": "Invertir 7 Tokens",
-                "3 Similar": "3 similares",
-                "12 Different": "12 diferentes",
-                "Staked": "Staked",
-                "Special": "Especial"
-            },
-            "descriptions": {
-                "Invest tokens with value of at least $100 USD": "Deposite tokens por más de $100 USD",
-                "Invest tokens with value of at least $500 USD": "Deposite tokens por más de $500 USD",
-                "Invest tokens with value of at least $2000 USD": "Deposite tokens por más de $2000 USD",
-                "Collect 3 piglets": "Recoger 3 Pigletz",
-                "Collect 7 piglets": "Recoger 7 Pigletz",
-                "Invest 3 different tokens": "Invertir 3 diferentes tokens, excluyendo PiFi",
-                "Invest 7 different tokens": "Invertir 7 diferentes tokens, excluyendo PiFi",
-                "Collect 3 with the same zodiac sign": "Recoger 3 Pigletz con el mismo signo zodiacal",
-                "Collect 12 piglets with different zodiac signs": "Recoger 12 Pigletz con diferente signo zodiacal",
-                "Stake it in the Staking Contract": "Invertir en el contrato de inversión",
-                "It is born like this": "Ha nacido así"
-            },
-            "tips": {
-                "Invest tokens with value of at least $100 USD": "Has depositado tokens por ${{usd}}<br />PiFi no está incluido.",
-                "Invest tokens with value of at least $500 USD": "Has depositado tokens por ${{usd}}<br />PiFi no está incluido.",
-                "Invest tokens with value of at least $2000 USD": "Has depositado tokens por ${{usd}}<br />PiFi no está incluido.",
-                "Collect 3 piglets": "Acuña solo 3",
-                "Collect 7 piglets": "Acuña solo 7",
-                "Invest 3 different tokens": "Tiene {{tokensCount}} tokens que no sean PiFi.<br />Los tokens deben estar incluidos en PancakeSwap",
-                "Invest 7 different tokens": "Tiene {{tokensCount}} tokens que no sean PiFi.<br />Los tokens deben estar incluidos en PancakeSwap",
-                "Collect 3 with the same zodiac sign": "El refuerzo afectará a los 3",
-                "Collect 12 piglets with different zodiac signs": "El refuerzo afectará a todos los 12",
-                "Stake it in the Staking Contract": "Próximamente",
-                "It is born like this": "Ha nacido así"
-            }
-        },
-        "staking": {
-            "title": "Inversión",
-            "description": "El inversión permite a Pigletz aumentar su poder de acuñación de PiFi en un 50 %. No requiere nada más que bloquear a su Piglet en el contrato de participación durante un período de tiempo específico. Antes de que pase ese tiempo no puedes usar ese Piglet. Después de que expire el período de tiempo, puede retirar el Piglet y usarlo nuevamente. Sin embargo, esto desactivará el refuerzo del 50%. Todos los demás refuerzos no se ven afectados por la apuesta.",
-            "stakedOnDate": "Invertido en",
-            "stakeDurationTitle": "Duración de la inversión",
-            "stakeDuration": "{{count}} día",
-            "stakeDuration_other": "{{count}} días",
-            "stakeButton": "Inversión",
-            "unstakeButton": "Deja de invertir",
-            "stakedBadge": "Invertido",
-            "stakeBadge": "Apuéstalo",
-            "stakeBadgeSmall": "por más PiFi",
-            "expired": "Venció",
-            "alreadyStaked": "Este Piglet ya ha sido invertido el {{stakedOnDate}} durante {{days}} días",
-            "neverStaked": "Este Piglet nunca ha sido invertido",
-            "periods": ["3 meses", "6 meses", "1 año", "2 años"],
-            "timeLeft": {
-                "year": "queda un año",
-                "year_other": "quedan años",
-                "month": "mes restante",
-                "month_other": "quedan meses",
-                "day": "días que quedan",
-                "day_other": "Días restantes"
-            },
-            "periodFormatted": {
-                "year": "{{count}} año",
-                "year_other": "{{count}} años",
-                "month": "{{count}} mes",
-                "month_other": "{{count}} meses",
-                "day": "{{count}} día",
-                "day_other": "{{count}} días"
-            },
-            "dialog": {
-                "title": "Invertir",
-                "subtitle": "Elija un período de inversión",
-                "description": "Una vez invertido, el Piglet no se puede utilizar hasta que expire el período.",
-                "confirmButton": "Invertir",
-                "declineButton": "Cancelar"
-            }
-        }
+    "materialize": {
+      "pending": "Materializando Piglet #{{tokenId}}",
+      "success": "Enviado",
+      "error": "¡Perdón, algo salió mal!"
+    },
+    "stakePiglet": {
+      "pending": "Invirtiendo Piglet #{{tokenId}} por {{period}}",
+      "success": "Invertido!",
+      "error": "Perdón, algo salió mal"
+    },
+    "unstakePiglet": {
+      "pending": "Piglet desquiciado n.° {{tokenId}}",
+      "success": "¡Lo tienes!",
+      "error": "Perdón, algo salió mal"
+    },
+    "claimReward": {
+      "pending": "Reclamando {{count}} Piglet",
+      "pending_other": "Reclamando {{count}} Pigletz",
+      "success": "¡Lo tienes!",
+      "error": "Perdón, algo salió mal"
+    }
+  },
+  "buy": {
+    "saleAddress": "Contrato de venta: {{address}}",
+    "promoCodeCaption": "Descuento:",
+    "promoCodeCheckButton": "Verificar",
+    "promoCodePlaceholder": "Copiar código aquí...",
+    "howToBuyPiFi": "Aprende a comprar PiFi",
+    "quantityCaption": "Cantidad:",
+    "buyNowButton": "Acuñar",
+    "addToMetamaskButton": "Agregar PiFi a MetaMask",
+    "discountedPrice": "{{price}} BNB",
+    "priceInPiFi": "{{price}} PiFi",
+    "balanceCaption": "Balance:",
+    "balanceInPiFi": "{{balance}} PiFi",
+    "totalCaption": "Total:",
+    "tiersTitle": "Colecciones",
+    "tierIndex": "Colección {{index}}",
+    "tierPrice": "{{price}} BNB",
+    "itemsInColletionLeft": "quedan {{amountLeft}}",
+    "howto": {
+      "mobile": {
+        "button": "¿No estás seguro? Aprende a comprar ↓",
+        "youNeed": "Necesitas ",
+        "metamask": "MetaMask",
+        "walletApp": "Wallet App",
+        "android": "Android",
+        "ios": "iOS",
+        "or": " o",
+        "bscTitle": "Debes configurar MetaMask para usar Binance Smart Chain Mainnet.",
+        "bscGuide": "¡Sigue esta guía!",
+        "bscBalance": "Necesitas suficiente saldo de BNB en tu cuenta de MetaMask para comprar un Piglet. Usa tu Crypto Exchange favorito para transferir BNB a tu dirección pública de MetaMask.",
+        "bscFindAddress": "¿Cómo encontrar la dirección pública de tu billetera?",
+        "bscFindAddressStep1": "1. En tu billetera, pincha sobre Dirección.",
+        "bscFindAddressStep2": "2. La dirección se copia en tu portapapeles.",
+        "openMetamaskCaption": "Usa el siguiente botón para abrir nuestra <strong>página de venta de dApp</strong> directamente en el navegador MetaMask:",
+        "openMetamaskButton": "Abrir MetaMask"
+      },
+      "desktop": {
+        "button": "¿No estás seguro? Aprende a comprar a través de tu Escritorio ↓",
+        "youNeed": "Necesitas ",
+        "metamask": "MetaMask",
+        "extension": "Extensión del navegador para Chrome o Firefox",
+        "chrome": "Google Chrome",
+        "firefox": "Mozilla Firefox",
+        "bscTitle": "Debes configurar MetaMask para usar Binance Smart Chain Mainnet.",
+        "bscGuide": "¡Sigue esta guía!",
+        "bscVideo": "¡Mira este video!",
+        "bscBalance": "Necesitas suficiente saldo de BNB en tu cuenta de MetaMask para comprar un Piglet. Usa tu Crypto Exchange favorito para transferir BNB a tu dirección pública de MetaMask.",
+        "bscFindAddress": "¿Cómo encontrar la dirección pública de tu billetera?",
+        "bscFindAddressStep1": "1. En la extensión MetaMask de tu navegador, haz clic en el nombre de tu cuenta.",
+        "bscFindAddressStep2": "2. La dirección es copiada en tu portapapeles.",
+        "connectWalletCaption1": "Cuando tengas fondos suficientes en tu billetera, debes conectarla a nuestro sitio web, haciendo clic en \"Conectar billetera\" en la navegación del sitio web.",
+        "connectWalletCaption2": "Cuando estés conectado, puedes <strong>utilizar el siguiente formulario</strong> para realizar una compra.",
+        "watchVideoCaption1": "¡Mira este video!",
+        "watchVideoCaption2": " instrucciones paso a paso:"
+      }
+    }
+  },
+  "piglet": {
+    "boost": "{{boost}}% refuerzo",
+    "level": "Nivel {{level}}",
+    "dailyMint": "{{dailyMint}} PiFi diario",
+    "viewMore": "Ver más",
+    "pifi": "PiFi:",
+    "addToMetamaskButton": "Añadir a MetaMask",
+    "buyCrypto": "Comprar cripto",
+    "walletDescription": "Esta es la billetera no custodiada de tu Piglet. Solo el Piglet, respectivamente, su propietario puede interactuar con ella: depositar tokens o romperlo y retirar todo lo que contiene",
+    "walletTitle": "Billetera",
+    "depositButton": "Depósito ({{invested}}/{{total}})",
+    "totalValue": "Valor total:",
+    "usdValueTip": "El valor de mercado es ${{market}}<br />El valor absoluto es ${{absolute}}",
+    "totalUsdValueTip": "El valor de mercado es ${{market}}<br />El valor absoluto es ${{absolute}}<br />El valor excluyendo PiFi es ${{exPiFi}}",
+    "pifiToNextLevel": "{{pifi}} PiFi a nivel {{nextLevel}}",
+    "reachedLevelCaption": "He alcanzado <b>Nivel {{level}}</b>",
+    "gotoLevelButton": "Ir al nivel {{level}}",
+    "goToCollection": "Colección",
+    "traitsTitle": "Rasgos de tu Piglet",
+    "quickInfoTitle": "Información rápida",
+    "destroyButton": "Destruir",
+    "materializeButton": "Materializar",
+    "dematerializeButton": "Digitalizar",
+    "pigletNotFoundError": "Lechón {{tokenId}} no encontrado",
+    "traitToolTip": "{{percents}}% Pigletz tiene este rasgo",
+    "pigletChartLabel": "Valor de lechones de los últimos 30 días",
+    "levels": {
+      "level1": "1",
+      "level2": "2",
+      "level3": "3"
+    },
+    "investments": {
+      "symbol": "TOKEN",
+      "amount": "SUMA",
+      "usd": "USD",
+      "nothing": "Todavía no tienes ninguna inversión"
+    },
+    "pifiLPDeclaration": "El valor del PiFi se estimará después de que se cree el LP en PancakeSwap. Esto sucederá solo UNA VEZ durante la venta.",
+    "destroy": {
+      "title": "Romper tu Piglet",
+      "description": "El hecho de romper tu Piglet removerá todos los tokens dentro de él con un valor total de ${{balanceInUSD}} USD a tu dirección {{recipient}}. Sin embargo, tu Piglet será destruido y perdido para siempre. Así que, ¡Piénsalo dos veces, míralo a los ojos y decide!",
+      "lesserLevel": " ¡Debes haber alcanzado al menos el nivel 2 para que se te permita romper tu Piglet!",
+      "button": "Romper",
+      "confirmation": "¿Estás seguro de que quieres romper tu Piglet?",
+      "confirm": "Sí, cobrar",
+      "decline": "No, no puedo"
+    },
+    "transfer": {
+      "recipientPrompt": "Por favor, introduzca la dirección del destinatario. ¡Asegúrese de que sea una dirección de BSC Mainnet!",
+      "confirmText": "¿Está seguro de que desea transferir Piglet #{{tokenId}} a {{recipient}}?",
+      "transferButton": "Transferir"
+    },
+    "deposit": {
+      "balance": "{{balance}} {{symbol}} (${{usd}})",
+      "title": "Depósito Cripto",
+      "selectToken": "Por favor, selecciona un token",
+      "defaultToken": "Tokens PancakeSwap...",
+      "inputAddress": "o escribe la dirección del token a continuación",
+      "inputAmount": "Elige una cantidad a depositar",
+      "maxButton": "MAX",
+      "availableBalance": "Disponible:",
+      "depositButton": "Depositar ahora",
+      "unregisteredDeposit": "Tienes {{balance}} {{symbol}} $({{balanceUSD}}) sin registrar",
+      "reisteredDeposit": "Registrar ahora"
+    },
+    "boosters": {
+      "requiresLevel": "Exige nivel {{level}}",
+      "activateButton": "Activar refuerzo",
+      "activated": "Activado",
+      "title": "Refuerzos",
+      "tokenSelect": {
+        "title": "Selecciona {{count}} Pigletz"
+      },
+      "names": {
+        "Invest $100": "Valor de $100",
+        "Invest $500": "Valor de $500",
+        "Invest $2000": "Valor de $2000",
+        "Collect 3": "Recoger 3",
+        "Collect 7": "Recoger 7",
+        "Invest 3 tokens": "Invertir 3 Tokens",
+        "Invest 7 tokens": "Invertir 7 Tokens",
+        "3 Similar": "3 similares",
+        "12 Different": "12 diferentes",
+        "Staked": "Staked",
+        "Special": "Especial"
+      },
+      "descriptions": {
+        "Invest tokens with value of at least $100 USD": "Deposite tokens por más de $100 USD",
+        "Invest tokens with value of at least $500 USD": "Deposite tokens por más de $500 USD",
+        "Invest tokens with value of at least $2000 USD": "Deposite tokens por más de $2000 USD",
+        "Collect 3 piglets": "Recoger 3 Pigletz",
+        "Collect 7 piglets": "Recoger 7 Pigletz",
+        "Invest 3 different tokens": "Invertir 3 diferentes tokens, excluyendo PiFi",
+        "Invest 7 different tokens": "Invertir 7 diferentes tokens, excluyendo PiFi",
+        "Collect 3 with the same zodiac sign": "Recoger 3 Pigletz con el mismo signo zodiacal",
+        "Collect 12 piglets with different zodiac signs": "Recoger 12 Pigletz con diferente signo zodiacal",
+        "Stake it in the Staking Contract": "Invertir en el contrato de inversión",
+        "It is born like this": "Ha nacido así"
+      },
+      "tips": {
+        "Invest tokens with value of at least $100 USD": "Has depositado tokens por ${{usd}}<br />PiFi no está incluido.",
+        "Invest tokens with value of at least $500 USD": "Has depositado tokens por ${{usd}}<br />PiFi no está incluido.",
+        "Invest tokens with value of at least $2000 USD": "Has depositado tokens por ${{usd}}<br />PiFi no está incluido.",
+        "Collect 3 piglets": "Acuña solo 3",
+        "Collect 7 piglets": "Acuña solo 7",
+        "Invest 3 different tokens": "Tiene {{tokensCount}} tokens que no sean PiFi.<br />Los tokens deben estar incluidos en PancakeSwap",
+        "Invest 7 different tokens": "Tiene {{tokensCount}} tokens que no sean PiFi.<br />Los tokens deben estar incluidos en PancakeSwap",
+        "Collect 3 with the same zodiac sign": "El refuerzo afectará a los 3",
+        "Collect 12 piglets with different zodiac signs": "El refuerzo afectará a todos los 12",
+        "Stake it in the Staking Contract": "Próximamente",
+        "It is born like this": "Ha nacido así"
+      }
+    },
+    "staking": {
+      "title": "Inversión",
+      "description": "El inversión permite a Pigletz aumentar su poder de acuñación de PiFi en un 50 %. No requiere nada más que bloquear a su Piglet en el contrato de participación durante un período de tiempo específico. Antes de que pase ese tiempo no puedes usar ese Piglet. Después de que expire el período de tiempo, puede retirar el Piglet y usarlo nuevamente. Sin embargo, esto desactivará el refuerzo del 50%. Todos los demás refuerzos no se ven afectados por la apuesta.",
+      "stakedOnDate": "Invertido en",
+      "stakeDurationTitle": "Duración de la inversión",
+      "stakeDuration": "{{count}} día",
+      "stakeDuration_other": "{{count}} días",
+      "stakeButton": "Inversión",
+      "unstakeButton": "Deja de invertir",
+      "stakedBadge": "Invertido",
+      "stakeBadge": "Apuéstalo",
+      "stakeBadgeSmall": "por más PiFi",
+      "expired": "Venció",
+      "alreadyStaked": "Este Piglet ya ha sido invertido el {{stakedOnDate}} durante {{days}} días",
+      "neverStaked": "Este Piglet nunca ha sido invertido",
+      "periods": [
+        "3 meses",
+        "6 meses",
+        "1 año",
+        "2 años"
+      ],
+      "timeLeft": {
+        "year": "queda un año",
+        "year_other": "quedan años",
+        "month": "mes restante",
+        "month_other": "quedan meses",
+        "day": "días que quedan",
+        "day_other": "Días restantes"
+      },
+      "periodFormatted": {
+        "year": "{{count}} año",
+        "year_other": "{{count}} años",
+        "month": "{{count}} mes",
+        "month_other": "{{count}} meses",
+        "day": "{{count}} día",
+        "day_other": "{{count}} días"
+      },
+      "dialog": {
+        "title": "Invertir",
+        "subtitle": "Elija un período de inversión",
+        "description": "Una vez invertido, el Piglet no se puede utilizar hasta que expire el período.",
+        "confirmButton": "Invertir",
+        "declineButton": "Cancelar"
+      }
+    }
+  },
+  "about": {
+    "title": "Acerca de Pigletz"
+  },
+  "home": {
+    "subtitle": "¡El primer NFT que se materializa!",
+    "howitworks": "¡Ve cómo funciona!",
+    "videoModalTitle": "Cómo funciona",
+    "intro": {
+      "whitepaper": "Whitepaper"
+    },
+    "stats": {
+      "title": "Estadísticas de Pigletz",
+      "mintedPigletz": "Pigletz acuñado",
+      "brokenPigletz": "Pigletz rotos",
+      "stakedPigletz": "Pigletz invertidos",
+      "holders": "Titulares",
+      "circulatingPifi": "PiFi circulante",
+      "pifiInPigletz": "PiFi en Pigletz",
+      "totalValueInPigletz": "Valor total en Pigletz",
+      "totalValueChartLabel": "Valor total de los últimos 30 días"
+    },
+    "latestNews": {
+      "title": "Últimas noticias",
+      "seeMoreNewsButton": "Ver más noticias"
+    },
+    "latestVideos": {
+      "title": "Últimos vidéos"
     },
     "about": {
-        "title": "Acerca de Pigletz"
+      "title": "¿Qué es Pigletz?",
+      "features": [
+        "Una colección de 12.345 NFT de Pigletz",
+        "Cada uno tiene una utilidad de una alcancía",
+        "Puede guardar sus tokens criptográficos en él",
+        "Cada Piglet extrae tokens PiFi para ti todos los días",
+        "Pigletz NFT se puede actualizar en 3 niveles",
+        "El único NFT que se puede materializar en el mundo real",
+        "Puede retirar sus fondos solo rompiendo el Piglet"
+      ],
+      "learnMore": "Aprende más"
     },
-    "home": {
-        "subtitle": "¡El primer NFT que se materializa!",
-        "howitworks": "¡Ve cómo funciona!",
-        "videoModalTitle": "Cómo funciona",
-        "intro": {
-            "whitepaper": "Whitepaper"
+    "nft": {
+      "title": "Es un NFT",
+      "features": [
+        "12,345 Pigletz únicos de edición limitada con rasgos aleatorios comprobables de varias rarezas",
+        "Modelos 3D hechos a mano 100% ",
+        "Un total de más de 2 mil millones de combinaciones posibles",
+        "Acuñado al azar en el momento de la compra",
+        "Las características se revelan a medida que crece tu Piglet",
+        "Adicionales 5 NTF de celebridades van a la caridad"
+      ]
+    },
+    "token": {
+      "title": "Economía del Token",
+      "learnMore": "Saber más",
+      "caption1": "Cada Piglet comienza a acuñar tokens PiFi desde el primer día que lo compras",
+      "caption2": "Puedes depositar tokens en tu Piglet de la misma manera que depositas monedas en la alcancía",
+      "caption3": "Rompe tu Piglet para acceder a todos los tokens depositados más todos los tokens PiFi acuñados."
+    },
+    "game": {
+      "title": "Gamificación",
+      "learnMore": "Saber más",
+      "caption1": "Sube de nivel para revelar los rasgos de tu Piglet y mejora la cantidad básica de tokens generados",
+      "caption2": "Recoge y usa refuerzos para aumentar aún más la velocidad de acuñación de tokens.",
+      "caption3": "Supervisa y gestiona tus Pigletz a través de nuestra Dapp."
+    },
+    "boosters": {
+      "title": "Refuerzos",
+      "description": "Los refuerzos aumentan la velocidad de acuñación de tokens PiFi de tus Pigletz. Son 9 en total."
+    },
+    "defi": {
+      "title": "DeFi",
+      "learnMore": "Saber más",
+      "description": "Puedes bloquear tu Piglet durante un tiempo específico para acelerar el proceso de acuñación.",
+      "steaking": {
+        "title": "Piglet Staking",
+        "description": "Bloquea tu Piglet para una acuñación más rápida"
+      },
+      "lending": {
+        "title": "Lending",
+        "description": "Consigue una línea de crédito PiFi empeñando tu Piglet."
+      }
+    },
+    "3dprint": {
+      "title": "Materialización",
+      "learnMore": "Saber más",
+      "description1": "Puedes usar tokens PiFi para comprar una impresión 3D de tu NFT, que lo representa en el mundo real. Cuando solicitas tu Piglet impreso en 3D, el NFT se bloquea dentro de un contrato inteligente. El objeto físico tiene un código de desbloqueo dentro, pero tienes que romper el Piglet para obtener el cifrado. Esto garantiza que el ítem funcione en una sola realidad en un momento dado, conservando siempre sus características NFT.",
+      "description2": "Además, la materializaión del Piglet se considera el último Nivel 4, que posee la cantidad básica más alta de tokens generados."
+    },
+    "ourPigletz": {
+      "galleryTitle": "Galería",
+      "mintYours": "Acuña tu Piglet ahora",
+      "richestPigletz": "Los Pigletz más ricos"
+    },
+    "roadmap": {
+      "title": "Mapa",
+      "stages": [
+        {
+          "description": "<b>La idea nació</b> a principios de 2021",
+          "progress": 100,
+          "status": "✓ Realizado"
         },
-        "stats": {
-            "title": "Estadísticas de Pigletz",
-            "mintedPigletz": "Pigletz acuñado",
-            "brokenPigletz": "Pigletz rotos",
-            "stakedPigletz": "Pigletz invertidos",
-            "holders": "Titulares",
-            "circulatingPifi": "PiFi circulante",
-            "pifiInPigletz": "PiFi en Pigletz",
-            "totalValueInPigletz": "Valor total en Pigletz",
-            "totalValueChartLabel": "Valor total de los últimos 30 días"
+        {
+          "description": "<b>Se formó el equipo</b> y comenzamos a trabajar (segundo trimestre de 2021)",
+          "progress": 100,
+          "status": "✓ Realizado"
         },
-        "latestNews": {
-            "title": "Últimas noticias",
-            "seeMoreNewsButton": "Ver más noticias"
+        {
+          "description": "<b>Conceptualización y modelado</b> de los rasgos de los Pigletz (tercer trimestre de 2021)",
+          "progress": 100,
+          "status": "✓ Realizado"
         },
-        "latestVideos": {
-            "title": "Últimos vidéos"
+        {
+          "description": "Desarrollo de <b> los contratos inteligentes y Dapps</b> (cuarto trimestre de 2021)",
+          "progress": 100,
+          "status": "✓ Realizado"
         },
-        "about": {
-            "title": "¿Qué es Pigletz?",
-            "features": [
-                "Una colección de 12.345 NFT de Pigletz",
-                "Cada uno tiene una utilidad de una alcancía",
-                "Puede guardar sus tokens criptográficos en él",
-                "Cada Piglet extrae tokens PiFi para ti todos los días",
-                "Pigletz NFT se puede actualizar en 3 niveles",
-                "El único NFT que se puede materializar en el mundo real",
-                "Puede retirar sus fondos solo rompiendo el Piglet"
-            ],
-            "learnMore": "Aprende más"
+        {
+          "description": "<b>Lanzamiento en cadena</b><br />(Diciembre 2021)",
+          "progress": 100,
+          "status": "✓ Realizado"
         },
-        "nft": {
-            "title": "Es un NFT",
-            "features": [
-                "12,345 Pigletz únicos de edición limitada con rasgos aleatorios comprobables de varias rarezas",
-                "Modelos 3D hechos a mano 100% ",
-                "Un total de más de 2 mil millones de combinaciones posibles",
-                "Acuñado al azar en el momento de la compra",
-                "Las características se revelan a medida que crece tu Piglet",
-                "Adicionales 5 NTF de celebridades van a la caridad"
-            ]
+        {
+          "description": "<b>Primera preventa</b><br />(18 de diciembre de 2021)",
+          "progress": 100,
+          "status": "✓ Realizado"
         },
-        "token": {
-            "title": "Economía del Token",
-            "learnMore": "Saber más",
-            "caption1": "Cada Piglet comienza a acuñar tokens PiFi desde el primer día que lo compras",
-            "caption2": "Puedes depositar tokens en tu Piglet de la misma manera que depositas monedas en la alcancía",
-            "caption3": "Rompe tu Piglet para acceder a todos los tokens depositados más todos los tokens PiFi acuñados."
+        {
+          "description": "Lanzamiento en Binance NFT<br />(diciembre de 2021 - enero de 2022)",
+          "progress": 100,
+          "status": "✓ Realizado"
         },
-        "game": {
-            "title": "Gamificación",
-            "learnMore": "Saber más",
-            "caption1": "Sube de nivel para revelar los rasgos de tu Piglet y mejora la cantidad básica de tokens generados",
-            "caption2": "Recoge y usa refuerzos para aumentar aún más la velocidad de acuñación de tokens.",
-            "caption3": "Supervisa y gestiona tus Pigletz a través de nuestra Dapp."
+        {
+          "description": "Se entregan las <b>primeras impresiones en 3D</b><br />(primer trimestre de 2022) ",
+          "progress": 100,
+          "status": "✓ Realizado"
         },
-        "boosters": {
-            "title": "Refuerzos",
-            "description": "Los refuerzos aumentan la velocidad de acuñación de tokens PiFi de tus Pigletz. Son 9 en total."
+        {
+          "description": "<b>Agrega liquidez PiFi en PancakeSwap</b><br />(Después de la venta)",
+          "progress": 100,
+          "status": "✓ Realizado"
         },
-        "defi": {
-            "title": "DeFi",
-            "learnMore": "Saber más",
-            "description": "Puedes bloquear tu Piglet durante un tiempo específico para acelerar el proceso de acuñación.",
-            "steaking": {
-                "title": "Piglet Staking",
-                "description": "Bloquea tu Piglet para una acuñación más rápida"
-            },
-            "lending": {
-                "title": "Lending",
-                "description": "Consigue una línea de crédito PiFi empeñando tu Piglet."
-            }
+        {
+          "description": "<b>DeFi Staking</b> es realizado <br /> (tercer trimestre de 2022)",
+          "progress": 100,
+          "status": "✓ Realizado"
         },
-        "3dprint": {
-            "title": "Materialización",
-            "learnMore": "Saber más",
-            "description1": "Puedes usar tokens PiFi para comprar una impresión 3D de tu NFT, que lo representa en el mundo real. Cuando solicitas tu Piglet impreso en 3D, el NFT se bloquea dentro de un contrato inteligente. El objeto físico tiene un código de desbloqueo dentro, pero tienes que romper el Piglet para obtener el cifrado. Esto garantiza que el ítem funcione en una sola realidad en un momento dado, conservando siempre sus características NFT.",
-            "description2": "Además, la materializaión del Piglet se considera el último Nivel 4, que posee la cantidad básica más alta de tokens generados."
+        {
+          "description": " Lanzamiento de <b>Mobile Wallet</b> <br /> (cuarto trimestre de 2022)",
+          "progress": 100,
+          "status": "✓ Realizado"
         },
-        "ourPigletz": {
-            "galleryTitle": "Galería",
-            "mintYours": "Acuña tu Piglet ahora",
-            "richestPigletz": "Los Pigletz más ricos"
+        {
+          "description": " <b>Gira y gana</b> Pigletz <br /> (cuarto trimestre de 2022)",
+          "progress": 100,
+          "status": "✓ Realizado"
         },
-        "roadmap": {
-            "title": "Mapa",
-            "stages": [
-                {
-                    "description": "<b>La idea nació</b> a principios de 2021",
-                    "progress": 100,
-                    "status": "✓ Realizado"
-                },
-                {
-                    "description": "<b>Se formó el equipo</b> y comenzamos a trabajar (segundo trimestre de 2021)",
-                    "progress": 100,
-                    "status": "✓ Realizado"
-                },
-                {
-                    "description": "<b>Conceptualización y modelado</b> de los rasgos de los Pigletz (tercer trimestre de 2021)",
-                    "progress": 100,
-                    "status": "✓ Realizado"
-                },
-                {
-                    "description": "Desarrollo de <b> los contratos inteligentes y Dapps</b> (cuarto trimestre de 2021)",
-                    "progress": 100,
-                    "status": "✓ Realizado"
-                },
-                {
-                    "description": "<b>Lanzamiento en cadena</b><br />(Diciembre 2021)",
-                    "progress": 100,
-                    "status": "✓ Realizado"
-                },
-                {
-                    "description": "<b>Primera preventa</b><br />(18 de diciembre de 2021)",
-                    "progress": 100,
-                    "status": "✓ Realizado"
-                },
-                {
-                    "description": "Lanzamiento en Binance NFT<br />(diciembre de 2021 - enero de 2022)",
-                    "progress": 100,
-                    "status": "✓ Realizado"
-                },
-                {
-                    "description": "Se entregan las <b>primeras impresiones en 3D</b><br />(primer trimestre de 2022) ",
-                    "progress": 100,
-                    "status": "✓ Realizado"
-                },
-                {
-                    "description": "<b>Agrega liquidez PiFi en PancakeSwap</b><br />(Después de la venta)",
-                    "progress": 100,
-                    "status": "✓ Realizado"
-                },
-                {
-                    "description": "<b>DeFi Staking</b> es realizado <br /> (tercer trimestre de 2022)",
-                    "progress": 100,
-                    "status": "✓ Realizado"
-                },
-                {
-                    "description": " Lanzamiento de <b>Mobile Wallet</b> <br /> (cuarto trimestre de 2022)",
-                    "progress": 100,
-                    "status": "✓ Realizado"
-                },
-                {
-                    "description": " <b>Gira y gana</b> Pigletz <br /> (cuarto trimestre de 2022)",
-                    "progress": 100,
-                    "status": "✓ Realizado"
-                },
-                {
-                    "description": " <b>Cross-chain</b> próximamente<br />",
-                    "progress": 10,
-                    "status": "Trabajando..."
-                },
-                {
-                    "description": " <b>Integración del metaverso</b> próximamente<br />",
-                    "progress": 0,
-                    "status": "próximos"
-                }
-            ]
+        {
+          "description": " <b>Cross-chain</b> próximamente<br />",
+          "progress": 10,
+          "status": "Trabajando..."
         },
-        "joinUs": {
-            "announcement": "Pigletz ya está disponible en Binance Smart Chain",
-            "description": "¡Síguenos para más información, fechas de preventa y venta y descuentos!",
-            "twitter": "Síguenos en Twitter",
-            "discord": "Únete a nuestro Discord Server",
-            "telegram": "Únete a nuestro grupo de Telegram"
-        },
-        "marketplaces": {
-            "title": "También disponible en:",
-            "googlePlay": "Consiguelo en Google Play"
+        {
+          "description": " <b>Integración del metaverso</b> próximamente<br />",
+          "progress": 0,
+          "status": "próximos"
         }
+      ]
     },
-    "errors": {
-        "privacyPolicy": "No se puede cargar la Política de privacidad ahora",
-        "termsOfUse": "No se pueden cargar los Términos de uso ahora",
-        "wofRules": "No se pueden cargar las reglas.",
-        "newsArticle": "No se puede cargar ese artículo",
-        "newsArticlesList": "No puedo cargar las noticias."
+    "joinUs": {
+      "announcement": "Pigletz ya está disponible en Binance Smart Chain",
+      "description": "¡Síguenos para más información, fechas de preventa y venta y descuentos!",
+      "twitter": "Síguenos en Twitter",
+      "discord": "Únete a nuestro Discord Server",
+      "telegram": "Únete a nuestro grupo de Telegram"
     },
-    "newsList": {
-        "title": "Noticias",
-        "readMore": "Lee mas",
-        "allNews": "Todas las noticias"
-    },
-    "videoList": {
-        "watch": "Ver ahora"
+    "marketplaces": {
+      "title": "También disponible en:",
+      "googlePlay": "Consiguelo en Google Play"
     }
+  },
+  "errors": {
+    "privacyPolicy": "No se puede cargar la Política de privacidad ahora",
+    "termsOfUse": "No se pueden cargar los Términos de uso ahora",
+    "wofRules": "No se pueden cargar las reglas.",
+    "newsArticle": "No se puede cargar ese artículo",
+    "newsArticlesList": "No puedo cargar las noticias."
+  },
+  "newsList": {
+    "title": "Noticias",
+    "readMore": "Lee mas",
+    "allNews": "Todas las noticias"
+  },
+  "videoList": {
+    "watch": "Ver ahora"
+  }
 }
