@@ -1,712 +1,718 @@
 {
+  "seo": {
+    "url": "https://pigletz.com",
+    "title": "Pigletz - Ang unang NFT na nagkakatotoo!",
+    "description": "Ang Pigletz ay isang natatanging NFT collectable game na nagpapakilala ng: natatanging 3D cute na biik; isang digital na alkansya na may hawak ng iyong mga token; naa-upgrade na mga NFT na may level; DeFi - sariling token, staking, lending; at tunay na 3D piglet figure",
+    "image": "https://pigletz.com/assets/images/social-banner.jpg"
+  },
+  "nav": {
+    "website": "Pigletz.com",
+    "home": "Bahay",
+    "gallery": "Galleria",
+    "about": "Tungkol sa",
+    "pigletz": "Ang Pigletz ko",
+    "staked": "Aking Staked",
+    "mystery": "Aking Mga Kahon",
+    "connect": "Ikonekta ang Wallet",
+    "buypiglets": "Mint Pigletz",
+    "menu": "Menu",
+    "back": "Bumalik",
+    "language": "Wika",
+    "languages": {
+      "en": "English",
+      "bg": "Български",
+      "de": "Deutsch",
+      "es": "Español",
+      "tr": "Türkçe",
+      "tl": "Filipino",
+      "ar": "العربية",
+      "ru": "Русский",
+      "id": "Bahasa Indonesia",
+      "zh": "简体中文"
+    }
+  },
+  "buttons": {
+    "close": "Isara"
+  },
+  "marketing": {
+    "notifications": {
+      "subscribeToast": "🐽 Mag-subscribe para sa mga update"
+    }
+  },
+  "banner": {
+    "countdown": {
+      "text": "Ang Spin at Win Pigletz ay darating sa {{time}}",
+      "mintNow": "Mint Ngayon",
+      "second": "{{count}} segundo",
+      "second_other": "{{count}} segundo",
+      "minute": "{{count}} minuto",
+      "minute_other": "{{count}} minuto",
+      "hour": "{{count}} oras",
+      "hour_other": "{{count}} oras",
+      "day": "{{count}} araw",
+      "day_other": "{{count}} araw"
+    },
+    "public": {
+      "text": "Maaari kang mag-mint ng Piglet na may PiFi Token",
+      "mintNow": "Mint Ngayon"
+    },
+    "binance": {
+      "text": "Available na ngayon ang Pigletz sa Binance NFT",
+      "buy": "Bumili sa Binance"
+    },
+    "staking": {
+      "text": "Papasok ang Pigletz Staking {{time}}"
+    },
+    "blackFriday": {
+      "text": "Ang deal sa BLACK FRIDAY ay matatapos sa {{time}}"
+    },
+    "christmas2022": {
+      "text": "Matatapos ang alok sa Pasko sa {{oras}}"
+    }
+  },
+  "footer": {
+    "copyright": "© 2021-2023 Pigletz",
+    "terms": "Mga Tuntunin at Kundisyon",
+    "privacy": "Patakaran sa Privacy",
+    "contracts": {
+      "title": "Mga kontrata:",
+      "pigletz": "Pigletz (BEP721)",
+      "pifi": "PiFi (BEP20)",
+      "salesManager": "Benta",
+      "mysteryBox": "MysteryBox (BEP721)"
+    }
+  },
+  "presale": {
+    "title": "Pigletz Presale",
+    "description": "Maligayang pagdating! Ikaw ay napili upang lumahok sa aming Presale at dito mayroon kang pagkakataong mag-mint ng isang natatanging Piglet sa pinakamababang posibleng presyo. Maaari ka ring mag-mint ng isang bundle ng 5, 10 o 20 sa parehong transaksyon. Ang iyong discount code ay ilalapat sa lahat ng mga ito. Enjoy!",
+    "tiersDescription": "Kami ay gumagawa ng mga koleksyon na may iba't ibang halaga at presyo. Ang pagtaas ng presyo sa paglipas ng panahon at sa dulo ay aabot sa 8 BNB. Gayunpaman sa mas mataas na presyo mayroon ding mas mataas na pagkakataon na makuha ang espesyal na booster.",
+    "checkTiers": "suriin ang mga tier sa ibaba"
+  },
+  "mint": {
+    "title": "Pigletz Minting",
+    "description": "Maligayang pagdating! Dito maaari mong i-mint ang iyong bagong Piglet. Pipiliin ito gamit ang provably fair random algorithm. Kung gusto mong makatanggap ng mga discount code sumali sa aming mga komunidad sa Discord, Telegram at Twitter at hilingin ang mga opsyon. Enjoy!",
+    "tiersDescription": "Kami ay gumagawa ng mga koleksyon na may iba't ibang halaga at presyo. Ang pagtaas ng presyo sa paglipas ng panahon at sa dulo ay aabot sa 8 BNB. Gayunpaman sa mas mataas na presyo mayroon ding mas mataas na pagkakataon na makuha ang espesyal na booster.",
+    "checkTiers": "suriin ang mga tier sa ibaba"
+  },
+  "blackFridayMint": {
+    "title": "BLACK FRIDAY DEAL!",
+    "description": "Sa limitadong panahon lamang ay maaari mong i-mint ang iyong biik dito na may 50% na diskwento. Huwag palampasin ang iyong pagkakataon."
+  },
+  "christmasMint": {
+    "title": "Alok na PASKO!",
+    "description": "Para lamang sa mga pista opisyal ng Pasko maaari mong i-mint ang iyong biik dito na may 50% na diskwento. Maligayang Pasko!"
+  },
+  "pigletzList": {
+    "title": "Pigletz Collection",
+    "description": "Ang magandang koleksyon ng {{address}}",
+    "totalPiFiLabel": "Kabuuang PiFi",
+    "totalUSDLabel": "Kabuuang USD",
+    "noPigletzError": "Ang account na ito ay walang anumang pigletz",
+    "my": {
+      "description": "Ang maganda mong collection"
+    },
     "seo": {
-        "url": "https://pigletz.com",
-        "title": "Pigletz - Ang unang NFT na nagkakatotoo!",
-        "description": "Ang Pigletz ay isang natatanging NFT collectable game na nagpapakilala ng: natatanging 3D cute na biik; isang digital na alkansya na may hawak ng iyong mga token; naa-upgrade na mga NFT na may level; DeFi - sariling token, staking, lending; at tunay na 3D piglet figure",
-        "image": "https://pigletz.com/assets/images/social-banner.jpg"
+      "title": "Pigletz Collection",
+      "description": "Isang mahalagang koleksyon ng {{count}} na biik",
+      "description_other": "Isang mahalagang koleksyon ng {{count}} pigletz"
     },
-    "nav": {
-        "website": "Pigletz.com",
-        "home": "Bahay",
-        "gallery": "Galleria",
-        "about": "Tungkol sa",
-        "pigletz": "Ang Pigletz ko",
-        "staked": "Aking Staked",
-        "mystery": "Aking Mga Kahon",
-        "connect": "Ikonekta ang Wallet",
-        "buypiglets": "Mint Pigletz",
-        "menu": "Menu",
-        "back": "Bumalik",
-        "language": "Wika",
-        "languages": {
-            "en": "English",
-            "bg": "Български",
-            "de": "Deutsch",
-            "es": "Español",
-            "tr": "Türkçe",
-            "tl": "Filipino",
-            "ar": "العربية",
-            "ru": "Русский",
-            "id": "Bahasa Indonesia",
-            "zh": "简体中文"
-        }
+    "viewStakedButton": "Tingnan ang Nakataya",
+    "boostersOfferTitle": "Kailangan mo ba ng <b>mga booster</b>",
+    "boostersOfferCaption": "Mamuhunan sa iyong Piglet at ito ay magbubunga ng higit na halaga para sa iyo",
+    "levelReachedCaption": "Naabot ko ang <b>Level {{level}}</b>",
+    "item": {
+      "pifiBalance": "{{balance}} PiFi",
+      "level": "Antas {{level}}"
+    }
+  },
+  "pigletzStakedList": {
+    "title": "Tinaya na Pigletz",
+    "description": "Ang nakatayang pigletz are pagmamay-ari ni {{address}}",
+    "noPigletzError": "Ang account na ito ay walang anumang pigletz na nakataya",
+    "my": {
+      "description": "Iyong pigletz na nakataya"
     },
-    "buttons": {
-        "close": "Isara"
+    "seo": {
+      "title": "Nakatayang Pigletz",
+      "description": "Listahan ng nakatayang pigletz na pag-aari ng account na ito"
+    }
+  },
+  "mysteryBoxList": {
+    "title": "Mga Kahon ng Misteryo",
+    "description": "Listahan ng mga kahon na pagmamay-ari ni {{address}}",
+    "my": {
+      "description": "Ang iyong mga misteryong kahon. Buksan upang makita ang Pigletz sa loob!"
     },
-    "marketing": {
-        "notifications": {
-            "subscribeToast": "🐽 Mag-subscribe para sa mga update"
-        }
+    "seo": {
+      "title": "Mga Kahong Misteryo ng Pigletz",
+      "description": "Isang mahalagang koleksyon ng {{count}} mystery box na puno ng Pigletz",
+      "description_other": "Isang mahalagang koleksyon ng {{count}} na mga misteryong kahon na puno ng Pigletz"
     },
-    "banner": {
-        "countdown": {
-            "text": "Ang Spin at Win Pigletz ay darating sa {{time}}",
-            "mintNow": "Mint Ngayon",
-            "second": "{{count}} segundo",
-            "second_other": "{{count}} segundo",
-            "minute": "{{count}} minuto",
-            "minute_other": "{{count}} minuto",
-            "hour": "{{count}} oras",
-            "hour_other": "{{count}} oras",
-            "day": "{{count}} araw",
-            "day_other": "{{count}} araw"
-        },
-        "public": {
-            "text": "Maaari kang mag-mint ng Piglet na may PiFi Token",
-            "mintNow": "Mint Ngayon"
-        },
-        "binance": {
-            "text": "Available na ngayon ang Pigletz sa Binance NFT",
-            "buy": "Bumili sa Binance"
-        },
-        "staking": {
-            "text": "Papasok ang Pigletz Staking {{time}}"
-        },
-        "blackFriday": {
-            "text": "Ang deal sa BLACK FRIDAY ay matatapos sa {{time}}"
-        },
-        "christmas2022": {
-            "text": "Matatapos ang alok sa Pasko sa {{oras}}"
-        }
+    "boostersOfferTitle": "Kailangan mo ba ng <b>mga booster</b>",
+    "boostersOfferCaption": "Mamuhunan sa iyong Piglet at ito ay magbubunga ng higit na halaga para sa iyo",
+    "levelReachedCaption": "Naabot ko ang <b>Level {{level}}</b>",
+    "lockedUntilDateText": "Hindi mabubuksan ang kahong ito bago ang {{date}}",
+    "readyLabel": "I-click para buksan",
+    "timeLeft": {
+      "year": "{{count}} taon upang buksan",
+      "year_other": "{{count}} taon upang mabubuksan",
+      "month": "{{count}} buwan upang mabubuksan",
+      "month_other": "{{count}} na buwan upang mabubuksan",
+      "day": "{{count}} araw upang mabubuksan",
+      "day_other": "{{count}} na araw upang mabubuksan",
+      "hour": "{{count}} oras upang mabubuksan",
+      "hour_other": "{{count}} na oras upang mabubuksan",
+      "minute": "{{count}} minuto upang mabubuksan",
+      "minute_other": "{{count}} minuto upang mabubuksan",
+      "second": "{{count}} segundo bago mabubuksan",
+      "second_other": "{{count}} segundo upang mabubuksan"
+    }
+  },
+  "connect": {
+    "title": "Ikonekta ang Wallet",
+    "balance": "{{balance}} BNB",
+    "disconnect": "Idiskonekta",
+    "providers": {
+      "metamask": "MetaMask",
+      "trustwallet": "Trust Wallet",
+      "binancewallet": "Binance Wallet",
+      "walletconnect": "Kumonekta sa Wallet"
     },
-    "footer": {
-        "copyright": "© 2021-2022 Pigletz",
-        "terms": "Mga Tuntunin at Kundisyon",
-        "privacy": "Patakaran sa Privacy",
-        "contracts": {
-            "title": "Mga kontrata:",
-            "pigletz": "Pigletz (BEP721)",
-            "pifi": "PiFi (BEP20)",
-            "salesManager": "Benta",
-            "mysteryBox": "MysteryBox (BEP721)"
-        }
+    "howtoTitle": "Wala kang anumang crypto wallet?",
+    "howtoButton": "Alamin kung paano kumonekta"
+  },
+  "wof": {
+    "title": "Ikutin para manalo",
+    "description": "Sa Wheel of Fortune binibigyan ka namin ng pagkakataong manalo ng libreng Pigletz. Walang kailangang bayaran. Maging aktibo lang sa aming <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">discord channels</a> at makakatanggap ka ng mga credit. Bawat pag-ikot ay babayaran ka ng {{creditsToSpin}} na mga kredito. Maaari mong paikutin ang gulong nang maraming beses hangga't gusto mo. Kung nanalo ka sa Jackpot maaari kang mag-claim ng isang misteryong kahon na may Piglet sa loob. Buksan ito upang ipakita ang iyong bagong natatanging Piglet. Good luck!",
+    "discordLoginButton": "Mag-login sa Discord",
+    "logoutButton": "Mag-logout",
+    "spinButton": "Ikutin para manalo",
+    "infoBox": "Natapos na ang season. Inihahanda na namin ang susunod. Makipag-ugnayan",
+    "welcomeToast": "Maligayang pagdating {{username}}",
+    "welcomeText": "Maligayang pagdating {{username}}",
+    "checkTheRulesText": "Tingnan ang mga detalyadong panuntunan dito →",
+    "claimRewardButton": "Angkinin ang {{count}} Piglet",
+    "claimRewardButton_other": "Angkinin ang {{count}} Pigletz",
+    "availableCredits": "Mayroon kang <span className=\"wheel-credits\">{{count}}</span> kredito.",
+    "availableCredits_other": "Mayroon kang <span className=\"wheel-credits\">{{count}}</span> kredito.",
+    "connectWalletToClaim": "Mayroon kang {{count}} Piglet na pwede mong makuha. Upang makuha, ikonekta muna ang iyong wallet.",
+    "connectWalletToClaim_other": "Mayroon kang {{count}} Pigletz na pwede mong makuha. Upang makuha, ikonekta muna ang iyong wallet.",
+    "rewardNotification": {
+      "5_credits": "Nanalo ka ng 5 credits",
+      "10_credits": "Nanalo ka ng 10 credits",
+      "20_credits": "Nanalo ka ng 20 credits",
+      "100_credits": "Nanalo ka ng 100 credits",
+      "jackpot": "Nanalo ka ng Piglet"
     },
-    "presale": {
-        "title": "Pigletz Presale",
-        "description": "Maligayang pagdating! Ikaw ay napili upang lumahok sa aming Presale at dito mayroon kang pagkakataong mag-mint ng isang natatanging Piglet sa pinakamababang posibleng presyo. Maaari ka ring mag-mint ng isang bundle ng 5, 10 o 20 sa parehong transaksyon. Ang iyong discount code ay ilalapat sa lahat ng mga ito. Enjoy!",
-        "tiersDescription": "Kami ay gumagawa ng mga koleksyon na may iba't ibang halaga at presyo. Ang pagtaas ng presyo sa paglipas ng panahon at sa dulo ay aabot sa 8 BNB. Gayunpaman sa mas mataas na presyo mayroon ding mas mataas na pagkakataon na makuha ang espesyal na booster.",
-        "checkTiers": "suriin ang mga tier sa ibaba"
+    "stats": {
+      "players": "Mga manlalaro",
+      "spins": "Umiikot",
+      "creditsWon": "Nanalo ang Credits",
+      "pigletzWon": "Nanalo ng Pigletz"
+    }
+  },
+  "actions": {
+    "levelUp": {
+      "pending": "Pupunta sa level {{level}}",
+      "success": "Congrats!",
+      "error": "pasensya, mayroong kamalian"
     },
-    "mint": {
-        "title": "Pigletz Minting",
-        "description": "Maligayang pagdating! Dito maaari mong i-mint ang iyong bagong Piglet. Pipiliin ito gamit ang provably fair random algorithm. Kung gusto mong makatanggap ng mga discount code sumali sa aming mga komunidad sa Discord, Telegram at Twitter at hilingin ang mga opsyon. Enjoy!",
-        "tiersDescription": "Kami ay gumagawa ng mga koleksyon na may iba't ibang halaga at presyo. Ang pagtaas ng presyo sa paglipas ng panahon at sa dulo ay aabot sa 8 BNB. Gayunpaman sa mas mataas na presyo mayroon ding mas mataas na pagkakataon na makuha ang espesyal na booster.",
-        "checkTiers": "suriin ang mga tier sa ibaba"
+    "boosterUp": {
+      "pending": "Pag-activate ng booster",
+      "success": "Congrats!",
+      "errors": {
+        "default": "pasensya, mayroong kamalian",
+        "some piglets dont have the same sign": "Ang ilang mga pigletz ay walang parehong tanda",
+        "wrong number of piglets": "Maling bilang ng biik",
+        "not all piglets are owned by the same owner": "Hindi lahat ng pigletz ay pag-aari ng iisang tao",
+        "some piglets have already been boosted": "Na-boost na ang ilang pigletz",
+        "some piglets are celebrities": "Ang ilang mga pigletz ay mga kilalang tao",
+        "some piglets are not of the correct level": "Ang ilang pigletz ay wala sa tamang antas",
+        "some piglets have not been boosted": "Ang ilang mga pigletz ay hindi pinalakas",
+        "some piglets are not boostable": "Ang ilang pigletz ay hindi boostable",
+        "duplicate tokens": "Dobleng mga token",
+        "sll piglets must have different signs": "Lahat ng pigletz ay dapat may iba't ibang palatandaan"
+      }
     },
-    "blackFridayMint": {
-        "title": "BLACK FRIDAY DEAL!",
-        "description": "Sa limitadong panahon lamang ay maaari mong i-mint ang iyong biik dito na may 50% na diskwento. Huwag palampasin ang iyong pagkakataon."
+    "checkDiscount": {
+      "pending": "Sinusuri ang code",
+      "success": "Ang code ay Valid",
+      "error": "Ito ay isang mali o nag-expire na code"
     },
-    "christmasMint": {
-        "title": "Alok na PASKO!",
-        "description": "Para lamang sa mga pista opisyal ng Pasko maaari mong i-mint ang iyong biik dito na may 50% na diskwento. Maligayang Pasko!"
+    "purchasePiglet": {
+      "pending": "Nagmi-minting ng {{count}} na biik",
+      "pending_other": "Nagmi-minting ng {{count}} pigletz",
+      "success": "{{count}} na biik ang matagumpay na naigawa",
+      "success_other": "{{count}} na biik ang matagumpay na naigawa",
+      "error": "pasensya, mayroong kamalian"
     },
-    "pigletzList": {
-        "title": "Pigletz Collection",
-        "description": "Ang magandang koleksyon ng {{address}}",
-        "totalPiFiLabel": "Kabuuang PiFi",
-        "totalUSDLabel": "Kabuuang USD",
-        "noPigletzError": "Ang account na ito ay walang anumang pigletz",
-        "my": {
-            "description": "Ang maganda mong collection"
-        },
-        "seo": {
-            "title": "Pigletz Collection",
-            "description": "Isang mahalagang koleksyon ng {{count}} na biik",
-            "description_other": "Isang mahalagang koleksyon ng {{count}} pigletz"
-        },
-        "viewStakedButton": "Tingnan ang Nakataya",
-        "boostersOfferTitle": "Kailangan mo ba ng <b>mga booster</b>",
-        "boostersOfferCaption": "Mamuhunan sa iyong Piglet at ito ay magbubunga ng higit na halaga para sa iyo",
-        "levelReachedCaption": "Naabot ko ang <b>Level {{level}}</b>",
-        "item": {
-            "pifiBalance": "{{balance}} PiFi",
-            "level": "Antas {{level}}"
-        }
+    "approveToken": {
+      "pending": "Pag-apruba para sa {{amount}} {{symbol}}",
+      "success": "Tapos na",
+      "error": "pasensya, mayroong kamalian"
     },
-    "pigletzStakedList": {
-        "title": "Tinaya na Pigletz",
-        "description": "Ang nakatayang pigletz are pagmamay-ari ni {{address}}",
-        "noPigletzError": "Ang account na ito ay walang anumang pigletz na nakataya",
-        "my": {
-            "description": "Iyong pigletz na nakataya"
-        },
-        "seo": {
-            "title": "Nakatayang Pigletz",
-            "description": "Listahan ng nakatayang pigletz na pag-aari ng account na ito"
-        }
+    "openBox": {
+      "pending": "Pagbubukas ng kahon na may {{count}} na biik",
+      "pending_other": "Pagbubukas ng kahon na may {{count}} pigletz",
+      "success": "Congratz!",
+      "error": "pasensya, mayroong kamalian"
     },
-    "mysteryBoxList": {
-        "title": "Mga Kahon ng Misteryo",
-        "description": "Listahan ng mga kahon na pagmamay-ari ni {{address}}",
-        "my": {
-            "description": "Ang iyong mga misteryong kahon. Buksan upang makita ang Pigletz sa loob!"
-        },
-        "seo": {
-            "title": "Mga Kahong Misteryo ng Pigletz",
-            "description": "Isang mahalagang koleksyon ng {{count}} mystery box na puno ng Pigletz",
-            "description_other": "Isang mahalagang koleksyon ng {{count}} na mga misteryong kahon na puno ng Pigletz"
-        },
-        "boostersOfferTitle": "Kailangan mo ba ng <b>mga booster</b>",
-        "boostersOfferCaption": "Mamuhunan sa iyong Piglet at ito ay magbubunga ng higit na halaga para sa iyo",
-        "levelReachedCaption": "Naabot ko ang <b>Level {{level}}</b>",
-        "lockedUntilDateText": "Hindi mabubuksan ang kahong ito bago ang {{date}}",
-        "readyLabel": "I-click para buksan",
-        "timeLeft": {
-            "year": "{{count}} taon upang buksan",
-            "year_other": "{{count}} taon upang mabubuksan",
-            "month": "{{count}} buwan upang mabubuksan",
-            "month_other": "{{count}} na buwan upang mabubuksan",
-            "day": "{{count}} araw upang mabubuksan",
-            "day_other": "{{count}} na araw upang mabubuksan",
-            "hour": "{{count}} oras upang mabubuksan",
-            "hour_other": "{{count}} na oras upang mabubuksan",
-            "minute": "{{count}} minuto upang mabubuksan",
-            "minute_other": "{{count}} minuto upang mabubuksan",
-            "second": "{{count}} segundo bago mabubuksan",
-            "second_other": "{{count}} segundo upang mabubuksan"
-        }
+    "updateTokenBalance": {
+      "pending": "Kumukuha ng datos",
+      "error": "Pasensya po, mayroong kamalian"
     },
-    "connect": {
-        "title": "Ikonekta ang Wallet",
-        "balance": "{{balance}} BNB",
-        "disconnect": "Idiskonekta",
-        "providers": {
-            "metamask": "MetaMask",
-            "trustwallet": "Trust Wallet",
-            "binancewallet": "Binance Wallet",
-            "walletconnect": "Kumonekta sa Wallet"
-        },
-        "howtoTitle": "Wala kang anumang crypto wallet?",
-        "howtoButton": "Alamin kung paano kumonekta"
+    "depositToken": {
+      "pending": "Pagdedeposito ng {{amount}} {{symbol}}",
+      "success": "Congratz!",
+      "error": "pasensya, mayroong kamalian"
     },
-    "wof": {
-        "title": "Ikutin para manalo",
-        "description": "Sa Wheel of Fortune binibigyan ka namin ng pagkakataong manalo ng libreng Pigletz. Walang kailangang bayaran. Maging aktibo lang sa aming <a href=\"{{discordLink}}\" target=\"_blank\" rel=\"noreferrer\">discord channels</a> at makakatanggap ka ng mga credit. Bawat pag-ikot ay babayaran ka ng {{creditsToSpin}} na mga kredito. Maaari mong paikutin ang gulong nang maraming beses hangga't gusto mo. Kung nanalo ka sa Jackpot maaari kang mag-claim ng isang misteryong kahon na may Piglet sa loob. Buksan ito upang ipakita ang iyong bagong natatanging Piglet. Good luck!",
-        "discordLoginButton": "Mag-login sa Discord",
-        "logoutButton": "Mag-logout",
-        "spinButton": "Ikutin para manalo",
-        "infoBox": "Natapos na ang season. Inihahanda na namin ang susunod. Makipag-ugnayan",
-        "welcomeToast": "Maligayang pagdating {{username}}",
-        "welcomeText": "Maligayang pagdating {{username}}",
-        "checkTheRulesText": "Tingnan ang mga detalyadong panuntunan dito →",
-        "claimRewardButton": "Angkinin ang {{count}} Piglet",
-        "claimRewardButton_other": "Angkinin ang {{count}} Pigletz",
-        "availableCredits": "Mayroon kang <span className=\"wheel-credits\">{{count}}</span> kredito.",
-        "availableCredits_other": "Mayroon kang <span className=\"wheel-credits\">{{count}}</span> kredito.",
-        "connectWalletToClaim": "Mayroon kang {{count}} Piglet na pwede mong makuha. Upang makuha, ikonekta muna ang iyong wallet.",
-        "connectWalletToClaim_other": "Mayroon kang {{count}} Pigletz na pwede mong makuha. Upang makuha, ikonekta muna ang iyong wallet.",
-        "rewardNotification": {
-            "5_credits": "Nanalo ka ng 5 credits",
-            "10_credits": "Nanalo ka ng 10 credits",
-            "20_credits": "Nanalo ka ng 20 credits",
-            "100_credits": "Nanalo ka ng 100 credits",
-            "jackpot": "Nanalo ka ng Piglet"
-        },
-        "stats": {
-            "players": "Mga manlalaro",
-            "spins": "Umiikot",
-            "creditsWon": "Nanalo ang Credits",
-            "pigletzWon": "Nanalo ng Pigletz"
-        }
+    "registerDeposit": {
+      "pending": "Nagrerehistro ng {{amount}} {{symbol}}",
+      "success": "Tagumpay!",
+      "error": "pasensya, mayroong kamalian"
     },
-    "actions": {
-        "levelUp": {
-            "pending": "Pupunta sa level {{level}}",
-            "success": "Congrats!",
-            "error": "pasensya, mayroong kamalian"
-        },
-        "boosterUp": {
-            "pending": "Pag-activate ng booster",
-            "success": "Congrats!",
-            "errors": {
-                "default": "pasensya, mayroong kamalian",
-                "some piglets dont have the same sign": "Ang ilang mga pigletz ay walang parehong tanda",
-                "wrong number of piglets": "Maling bilang ng biik",
-                "not all piglets are owned by the same owner": "Hindi lahat ng pigletz ay pag-aari ng iisang tao",
-                "some piglets have already been boosted": "Na-boost na ang ilang pigletz",
-                "some piglets are celebrities": "Ang ilang mga pigletz ay mga kilalang tao",
-                "some piglets are not of the correct level": "Ang ilang pigletz ay wala sa tamang antas",
-                "some piglets have not been boosted": "Ang ilang mga pigletz ay hindi pinalakas",
-                "some piglets are not boostable": "Ang ilang pigletz ay hindi boostable",
-                "duplicate tokens": "Dobleng mga token",
-                "sll piglets must have different signs": "Lahat ng pigletz ay dapat may iba't ibang palatandaan"
-            }
-        },
-        "checkDiscount": {
-            "pending": "Sinusuri ang code",
-            "success": "Ang code ay Valid",
-            "error": "Ito ay isang mali o nag-expire na code"
-        },
-        "purchasePiglet": {
-            "pending": "Nagmi-minting ng {{count}} na biik",
-            "pending_other": "Nagmi-minting ng {{count}} pigletz",
-            "success": "{{count}} na biik ang matagumpay na naigawa",
-            "success_other": "{{count}} na biik ang matagumpay na naigawa",
-            "error": "pasensya, mayroong kamalian"
-        },
-        "approveToken": {
-            "pending": "Pag-apruba para sa {{amount}} {{symbol}}",
-            "success": "Tapos na",
-            "error": "pasensya, mayroong kamalian"
-        },
-        "openBox": {
-            "pending": "Pagbubukas ng kahon na may {{count}} na biik",
-            "pending_other": "Pagbubukas ng kahon na may {{count}} pigletz",
-            "success": "Congratz!",
-            "error": "pasensya, mayroong kamalian"
-        },
-        "updateTokenBalance": {
-            "pending": "Kumukuha ng datos",
-            "error": "Pasensya po, mayroong kamalian"
-        },
-        "depositToken": {
-            "pending": "Pagdedeposito ng {{amount}} {{symbol}}",
-            "success": "Congratz!",
-            "error": "pasensya, mayroong kamalian"
-        },
-        "registerDeposit": {
-            "pending": "Nagrerehistro ng {{amount}} {{symbol}}",
-            "success": "Tagumpay!",
-            "error": "pasensya, mayroong kamalian"
-        },
-        "destroy": {
-            "pending": "Breaking Piglet #{{tokenId}}",
-            "success": "Tapos na",
-            "error": "pasensya, mayroong kamalian"
-        },
-        "transfer": {
-            "pending": "Paglilipat ng Piglet #{{tokenId}} sa {{recipient}}",
-            "success": "Ipinadala",
-            "error": "pasensya, mayroong kamalian"
-        },
-        "materialize": {
-            "pending": "Pagaganap ng Piglet #{{tokenId}}",
-            "success": "Ipinadala",
-            "error": "pasensya, mayroong kamalian"
-        },
-        "stakePiglet": {
-            "pending": "Itaya ang Piglet #{{tokenId}} hanggang {{period}}",
-            "success": "Nakataya!",
-            "error": "pasensya po, mayroong kamalian"
-        },
-        "unstakePiglet": {
-            "pending": "Kunin ang pagkataya ng Piglet #{{tokenId}}",
-            "success": "Nakuha mo!",
-            "error": "pasensya po, mayroong kamalian"
-        },
-        "claimReward": {
-            "pending": "Kunin ang {{count}} Piglet",
-            "pending_other": "Kunin ang {{count}} Pigletz",
-            "success": "Nakuha mo!",
-            "error": "pasensya po, mayroong kamalian"
-        }
+    "destroy": {
+      "pending": "Breaking Piglet #{{tokenId}}",
+      "success": "Tapos na",
+      "error": "pasensya, mayroong kamalian"
     },
-    "buy": {
-        "saleAddress": "Kontrata sa Pagbebenta: {{address}}",
-        "promoCodeCaption": "diskwento:",
-        "promoCodeCheckButton": "Suriin",
-        "promoCodePlaceholder": "I-paste ang CODE DITO...",
-        "howToBuyPiFi": "Alamin kung paano bumili ng PiFi",
-        "quantityCaption": "Dami:",
-        "buyNowButton": "Mint",
-        "addToMetamaskButton": "Magdagdag ng PiFi sa MetaMask",
-        "discountedPrice": "{{price}} BNB",
-        "priceInPiFi": "{{price}} PiFi",
-        "balanceCaption": "Balanse:",
-        "balanceInPiFi": "{{balance}} PiFi",
-        "totalCaption": "Kabuuan:",
-        "tiersTitle": "Mga Baitang",
-        "tierIndex": "Baitang {{index}}",
-        "tierPrice": "{{price}} BNB",
-        "itemsInColletionLeft": "{{amountLeft}} natitira ",
-        "howto": {
-            "mobile": {
-                "button": "Hindi ako sigurado? Alamin Kung Paano Bumili ↓",
-                "youNeed": "Kailangan mo ang",
-                "metamask": "MetaMask",
-                "walletApp": "Wallet App",
-                "android": "Android",
-                "ios": "iOS",
-                "or": " o",
-                "bscTitle": "Kailangan mong i-configure ang MetaMask para magamit ang Binance Smart Chain Mainnet.",
-                "bscGuide": "Sundin ang gabay na ito",
-                "bscBalance": "Kailangan mo ng sapat na Balanse sa BNB sa iyong MetaMask Account para makabili ng Piglet. Gamitin ang iyong paboritong Crypto Exchange upang ilipat ang BNB sa iyong MetaMask Public Address.",
-                "bscFindAddress": "Paano mahahanap ang iyong Wallet Public Address?",
-                "bscFindAddressStep1": "1. Sa iyong Wallet i-tap ang Address pill.",
-                "bscFindAddressStep2": "2. Ang address ay kinopya sa iyong clipboard.",
-                "openMetamaskCaption": "Gamitin ang button sa ibaba upang buksan ang aming <strong>Pahina ng Pagbebenta ng dApp</strong> nang direkta sa MetaMask Browser:",
-                "openMetamaskButton": "Buksan ang MetaMask"
-            },
-            "desktop": {
-                "button": "Hindi ako sigurado? Alamin Kung Paano Bumili sa Desktop ↓",
-                "youNeed": "Kailangan mo ang",
-                "metamask": "MetaMask",
-                "extension": "Extension ng Browser para sa Chrome o Firefox.",
-                "chrome": "Google Chrome",
-                "firefox": "Mozilla Firefox",
-                "bscTitle": "Kailangan mong i-configure ang MetaMask para magamit ang Binance Smart Chain Mainnet.",
-                "bscGuide": "Sundin ang gabay na ito",
-                "bscVideo": "Panoorin ang video na ito",
-                "bscBalance": "Kailangan mo ng sapat na Balanse sa BNB sa iyong MetaMask Account para makabili ng Piglet. Gamitin ang iyong paboritong Crypto Exchange upang ilipat ang BNB sa iyong MetaMask Public Address.",
-                "bscFindAddress": "Paano mahahanap ang iyong Wallet Public Address?",
-                "bscFindAddressStep1": "1. Sa MetaMask Extension ng iyong Browser i-click ang Pangalan ng iyong Account.",
-                "bscFindAddressStep2": "2. Ang address ay kinopya sa iyong clipboard.",
-                "connectWalletCaption1": "Kapag mayroon kang sapat na pondo sa iyong wallet kailangan mong Ikonekta ito sa aming website, pag-click sa \"Connect Wallet\" sa Website Navigation.",
-                "connectWalletCaption2": "Kapag nakakonekta ka, maaari mong <strong>gamitin ang form sa ibaba</strong> upang bumili.",
-                "watchVideoCaption1": "Panoorin ang video na ito",
-                "watchVideoCaption2": " para sa sunud-sunod na mga tagubilin:"
-            }
-        }
+    "transfer": {
+      "pending": "Paglilipat ng Piglet #{{tokenId}} sa {{recipient}}",
+      "success": "Ipinadala",
+      "error": "pasensya, mayroong kamalian"
     },
-    "piglet": {
-        "boost": "{{boost}}% boost",
-        "level": "Antas {{level}}",
-        "dailyMint": "{{dailyMint}} PiFi Daily",
-        "viewMore": "Tingnan ang Higit Pa",
-        "pifi": "PiFi:",
-        "addToMetamaskButton": "Idagdag sa MetaMask",
-        "walletDescription": "Ito ang pitaka ng Piglet mo. Ito ay hindi custodial at tanging ang Piglet, ayon sa pagkakabanggit, ang may-ari nito ay maaaring makipag-ugnayan dito - magdeposito ng mga token o masira ito at mag-withdraw ng lahat ng nilalaman nito",
-        "walletTitle": "wallet",
-        "depositButton": "Deposito ({{invested}}/{{total}})",
-        "totalValue": "Kabuuang halaga:",
-        "usdValueTip": "Ang market value ay ${{market}}<br />Ang absolute value ay ${{absolute}}",
-        "totalUsdValueTip": "Ang market value ay ${{market}}<br />Ang absolute value ay ${{absolute}}<br />Ang value na hindi kasama ang PiFi ay ${{exPiFi}}",
-        "pifiToNextLevel": "{{pifi}} PiFi hanggang Level {{nextLevel}}",
-        "reachedLevelCaption": "Naabot ko ang <b>Level {{level}}</b>",
-        "gotoLevelButton": "Pumunta sa Level {{level}}",
-        "goToCollection": "Koleksyon",
-        "traitsTitle": "Mga Katangian ng Baboy",
-        "quickInfoTitle": "Mabilis na Impormasyon",
-        "destroyButton": "sirain",
-        "materializeButton": "magpakatotoo",
-        "dematerializeButton": "I-digitize",
-        "pigletNotFoundError": "Piglet {{tokenId}} hindi mahanap",
-        "traitToolTip": "{{percents}}% Pigletz ay may ganitong katangian",
-        "pigletChartLabel": "Halaga ng Piglet sa huling 30 araw",
-        "levels": {
-            "level1": "1",
-            "level2": "2",
-            "level3": "3"
-        },
-        "investments": {
-            "symbol": "TOKEN",
-            "amount": "HALAGA",
-            "usd": "USD",
-            "nothing": "Wala ka pang puhunan"
-        },
-        "pifiLPDeclaration": "Tatantyahin ang halaga ng PiFi pagkatapos gawin ang LP sa PancakeSwap. ISANG BESES lang ito mangyayari sa panahon ng sale.",
-        "destroy": {
-            "title": "Basagin ang Iyong Piglet",
-            "description": "Ang pagsira sa iyong Piglet ay babawiin ang lahat ng mga token sa loob nito na may kabuuang halaga na ${{balanceInUSD}} USD sa iyong address {{recipient}}. Gayunpaman, ang iyong Piglet ay mawawasak at mawawala magpakailanman. Kaya mag-isip nang dalawang beses, tingnan ang mga mata nito at magpasya.",
-            "lesserLevel": "Kailangan mong maging at least Level 2 para payagang basagin ang iyong biik!",
-            "button": "Pahinga",
-            "confirmation": "Sigurado ka bang gusto mong basagin ang iyong biik?",
-            "confirm": "Oo, cash out",
-            "decline": "Hindi, hindi ko kaya"
-        },
-        "transfer": {
-            "recipientPrompt": "Itaka po dito ang address ng tatanggap. Tiyaking ito ay BSC Mainnet address!",
-            "confirmText": "Sigurado ka bang gusto mong ilipat ang Piglet #{{tokenId}} sa {{recipient}}?",
-            "transferButton": "Ilipat"
-        },
-        "deposit": {
-            "balance": "{{balance}} {{symbol}} (${{usd}})",
-            "title": "Ideposito ang Crypto",
-            "selectToken": "Mangyaring pumili ng token",
-            "defaultToken": "Mga token ng PancakeSwap ...",
-            "inputAddress": "o I-type ang Token Address sa ibaba",
-            "inputAmount": "Piliin ang Halaga na Idedeposito",
-            "maxButton": "MAX",
-            "availableBalance": "Available:",
-            "depositButton": "Deposito Ngayon",
-            "unregisteredDeposit": "Mayroon kang {{balance}} {{symbol}} $({{balanceUSD}}) na hindi nakarehistro",
-            "reisteredDeposit": "Mag-rehistro na ngayon"
-        },
-        "boosters": {
-            "requiresLevel": "Nangangailangan ng antas {{level}}",
-            "activateButton": "I-activate ang Booster",
-            "activated": "Na-activate",
-            "title": "Mga Boosters",
-            "tokenSelect": {
-                "title": "Piliin ang {{count}} Pigletz"
-            },
-            "names": {
-                "Invest $100": "Halaga ng $100",
-                "Invest $500": "Halaga ng $500",
-                "Invest $2000": "Halaga ng $2000",
-                "Collect 3": "Kolektahin 3",
-                "Collect 7": "Kolektahin ang 7",
-                "Invest 3 tokens": "Mamuhunan ng 3 Token",
-                "Invest 7 tokens": "Mamuhunan ng 7 Token",
-                "3 Similar": "3 Katulad",
-                "12 Different": "12 Magkaiba",
-                "Staked": "Nakataya",
-                "Special": "Espesyal"
-            },
-            "descriptions": {
-                "Invest tokens with value of at least $100 USD": "Mga token ng deposito para sa higit sa $100 USD",
-                "Invest tokens with value of at least $500 USD": "Mga token ng deposito para sa higit sa $500 USD",
-                "Invest tokens with value of at least $2000 USD": "Mga token ng deposito para sa higit sa $2000 USD",
-                "Collect 3 piglets": "Mangolekta ng 3 Pigletz",
-                "Collect 7 piglets": "Mangolekta ng 7 Pigletz",
-                "Invest 3 different tokens": "Mag-invest ng 3 magkakaibang non-zero valued na token, hindi kasama ang PiFi",
-                "Invest 7 different tokens": "Mag-invest ng 7 iba't ibang non-zero valued token, hindi kasama ang PiFi",
-                "Collect 3 with the same zodiac sign": "Mangolekta ng 3 pigletz na may parehong zodiac sign",
-                "Collect 12 piglets with different zodiac signs": "Mangolekta ng 12 pigletz na may iba't ibang zodiac sign",
-                "Stake it in the Staking Contract": "Itala ito sa Staking Contract",
-                "It is born like this": "Ito ay ipinanganak na ganito"
-            },
-            "tips": {
-                "Invest tokens with value of at least $100 USD": "Nag-deposito ka ng mga token para sa ${{usd}}<br />Hindi kasama ang PiFi.",
-                "Invest tokens with value of at least $500 USD": "Nag-deposito ka ng mga token para sa ${{usd}}<br />Hindi kasama ang PiFi.",
-                "Invest tokens with value of at least $2000 USD": "Nag-deposito ka ng mga token para sa ${{usd}}<br />Hindi kasama ang PiFi.",
-                "Collect 3 piglets": "Mint 3 lang",
-                "Collect 7 piglets": "Mint 7 lang",
-                "Invest 3 different tokens": "Mayroon kang {{tokensCount}} token maliban sa PiFi.<br />Kailangang nakalista ang mga Token sa PancakeSwap",
-                "Invest 7 different tokens": "Mayroon kang {{tokensCount}} token maliban sa PiFi.<br />Kailangang nakalista ang mga Token sa PancakeSwap",
-                "Collect 3 with the same zodiac sign": "Maaapektuhan ng booster ang lahat 3",
-                "Collect 12 piglets with different zodiac signs": "Maaapektuhan ng booster ang lahat ng 12",
-                "Stake it in the Staking Contract": "Malapit na",
-                "It is born like this": "Ito ay ipinanganak na ganito"
-            }
-        },
-        "staking": {
-            "title": "Pagtataya",
-            "description": "Ang pagtataya ay nagbibigay-daan sa Pigletz na palakasin ang kanilang PiFi minting power na may 50%. Hindi ito nangangailangan ng anuman kundi i-lock lamang ang iyong Piglet sa kontrata ng staking para sa isang tiyak na panahon. Bago matapos ang oras na iyon, hindi mo magagamit ang Piglet. Matapos mag-expire ang panahon na yaon, maaari mong alisin ang Piglet at gamitin ito muli. Gayunpaman, ide-deactivate nito ang 50% booster. Ang lahat ng iba pang boosters ay hindi apektado ng staking.",
-            "stakedOnDate": "Nakataya sa",
-            "stakeDurationTitle": "Ang tagal ng pagkataya",
-            "stakeDuration": "{{count}} araw",
-            "stakeDuration_other": "{{count}} araw",
-            "stakeButton": "I-taya",
-            "unstakeButton": "Kunin ang pagkataya",
-            "stakedBadge": "Nakataya",
-            "stakeBadge": "Stake",
-            "stakeBadgeSmall": "para sa higit pang PiFi",
-            "expired": "Nag-expire na",
-            "alreadyStaked": "Ang piglet na ito ay nakataya na noong {{stakedOnDate}} ng {{days}} araw",
-            "neverStaked": "Ang biik na ito ay hindi pa natataya",
-            "periods": ["3 buwan", "6 na buwan", "1 taon", "2 taon"],
-            "timeLeft": {
-                "year": "taon ang natitira",
-                "year_other": "taon ang natitira",
-                "month": "buwan ang natitira",
-                "month_other": "natitira pang buwan",
-                "day": "araw na natitira",
-                "day_other": "araw na natitira"
-            },
-            "periodFormatted": {
-                "year": "{{count}} taon",
-                "year_other": "{{count}} taon",
-                "month": "{{count}} buwan",
-                "month_other": "{{count}} na buwan",
-                "day": "{{count}} araw",
-                "day_other": "{{count}} araw"
-            },
-            "dialog": {
-                "title": "Taya",
-                "subtitle": "Pumili ng panahon ng pagkataya",
-                "description": "Kapag nakataya ang biik ay hindi na magagamit hanggang sa matapos ang panahon sa kanyang pagkataya",
-                "confirmButton": "i-taya",
-                "declineButton": "Kanselahin"
-            }
-        }
+    "materialize": {
+      "pending": "Pagaganap ng Piglet #{{tokenId}}",
+      "success": "Ipinadala",
+      "error": "pasensya, mayroong kamalian"
+    },
+    "stakePiglet": {
+      "pending": "Itaya ang Piglet #{{tokenId}} hanggang {{period}}",
+      "success": "Nakataya!",
+      "error": "pasensya po, mayroong kamalian"
+    },
+    "unstakePiglet": {
+      "pending": "Kunin ang pagkataya ng Piglet #{{tokenId}}",
+      "success": "Nakuha mo!",
+      "error": "pasensya po, mayroong kamalian"
+    },
+    "claimReward": {
+      "pending": "Kunin ang {{count}} Piglet",
+      "pending_other": "Kunin ang {{count}} Pigletz",
+      "success": "Nakuha mo!",
+      "error": "pasensya po, mayroong kamalian"
+    }
+  },
+  "buy": {
+    "saleAddress": "Kontrata sa Pagbebenta: {{address}}",
+    "promoCodeCaption": "diskwento:",
+    "promoCodeCheckButton": "Suriin",
+    "promoCodePlaceholder": "I-paste ang CODE DITO...",
+    "howToBuyPiFi": "Alamin kung paano bumili ng PiFi",
+    "quantityCaption": "Dami:",
+    "buyNowButton": "Mint",
+    "addToMetamaskButton": "Magdagdag ng PiFi sa MetaMask",
+    "discountedPrice": "{{price}} BNB",
+    "priceInPiFi": "{{price}} PiFi",
+    "balanceCaption": "Balanse:",
+    "balanceInPiFi": "{{balance}} PiFi",
+    "totalCaption": "Kabuuan:",
+    "tiersTitle": "Mga Baitang",
+    "tierIndex": "Baitang {{index}}",
+    "tierPrice": "{{price}} BNB",
+    "itemsInColletionLeft": "{{amountLeft}} natitira ",
+    "howto": {
+      "mobile": {
+        "button": "Hindi ako sigurado? Alamin Kung Paano Bumili ↓",
+        "youNeed": "Kailangan mo ang",
+        "metamask": "MetaMask",
+        "walletApp": "Wallet App",
+        "android": "Android",
+        "ios": "iOS",
+        "or": " o",
+        "bscTitle": "Kailangan mong i-configure ang MetaMask para magamit ang Binance Smart Chain Mainnet.",
+        "bscGuide": "Sundin ang gabay na ito",
+        "bscBalance": "Kailangan mo ng sapat na Balanse sa BNB sa iyong MetaMask Account para makabili ng Piglet. Gamitin ang iyong paboritong Crypto Exchange upang ilipat ang BNB sa iyong MetaMask Public Address.",
+        "bscFindAddress": "Paano mahahanap ang iyong Wallet Public Address?",
+        "bscFindAddressStep1": "1. Sa iyong Wallet i-tap ang Address pill.",
+        "bscFindAddressStep2": "2. Ang address ay kinopya sa iyong clipboard.",
+        "openMetamaskCaption": "Gamitin ang button sa ibaba upang buksan ang aming <strong>Pahina ng Pagbebenta ng dApp</strong> nang direkta sa MetaMask Browser:",
+        "openMetamaskButton": "Buksan ang MetaMask"
+      },
+      "desktop": {
+        "button": "Hindi ako sigurado? Alamin Kung Paano Bumili sa Desktop ↓",
+        "youNeed": "Kailangan mo ang",
+        "metamask": "MetaMask",
+        "extension": "Extension ng Browser para sa Chrome o Firefox.",
+        "chrome": "Google Chrome",
+        "firefox": "Mozilla Firefox",
+        "bscTitle": "Kailangan mong i-configure ang MetaMask para magamit ang Binance Smart Chain Mainnet.",
+        "bscGuide": "Sundin ang gabay na ito",
+        "bscVideo": "Panoorin ang video na ito",
+        "bscBalance": "Kailangan mo ng sapat na Balanse sa BNB sa iyong MetaMask Account para makabili ng Piglet. Gamitin ang iyong paboritong Crypto Exchange upang ilipat ang BNB sa iyong MetaMask Public Address.",
+        "bscFindAddress": "Paano mahahanap ang iyong Wallet Public Address?",
+        "bscFindAddressStep1": "1. Sa MetaMask Extension ng iyong Browser i-click ang Pangalan ng iyong Account.",
+        "bscFindAddressStep2": "2. Ang address ay kinopya sa iyong clipboard.",
+        "connectWalletCaption1": "Kapag mayroon kang sapat na pondo sa iyong wallet kailangan mong Ikonekta ito sa aming website, pag-click sa \"Connect Wallet\" sa Website Navigation.",
+        "connectWalletCaption2": "Kapag nakakonekta ka, maaari mong <strong>gamitin ang form sa ibaba</strong> upang bumili.",
+        "watchVideoCaption1": "Panoorin ang video na ito",
+        "watchVideoCaption2": " para sa sunud-sunod na mga tagubilin:"
+      }
+    }
+  },
+  "piglet": {
+    "boost": "{{boost}}% boost",
+    "level": "Antas {{level}}",
+    "dailyMint": "{{dailyMint}} PiFi Daily",
+    "viewMore": "Tingnan ang Higit Pa",
+    "pifi": "PiFi:",
+    "addToMetamaskButton": "Idagdag sa MetaMask",
+    "buyCrypto": "Bumili ng Crypto",
+    "walletDescription": "Ito ang pitaka ng Piglet mo. Ito ay hindi custodial at tanging ang Piglet, ayon sa pagkakabanggit, ang may-ari nito ay maaaring makipag-ugnayan dito - magdeposito ng mga token o masira ito at mag-withdraw ng lahat ng nilalaman nito",
+    "walletTitle": "wallet",
+    "depositButton": "Deposito ({{invested}}/{{total}})",
+    "totalValue": "Kabuuang halaga:",
+    "usdValueTip": "Ang market value ay ${{market}}<br />Ang absolute value ay ${{absolute}}",
+    "totalUsdValueTip": "Ang market value ay ${{market}}<br />Ang absolute value ay ${{absolute}}<br />Ang value na hindi kasama ang PiFi ay ${{exPiFi}}",
+    "pifiToNextLevel": "{{pifi}} PiFi hanggang Level {{nextLevel}}",
+    "reachedLevelCaption": "Naabot ko ang <b>Level {{level}}</b>",
+    "gotoLevelButton": "Pumunta sa Level {{level}}",
+    "goToCollection": "Koleksyon",
+    "traitsTitle": "Mga Katangian ng Baboy",
+    "quickInfoTitle": "Mabilis na Impormasyon",
+    "destroyButton": "sirain",
+    "materializeButton": "magpakatotoo",
+    "dematerializeButton": "I-digitize",
+    "pigletNotFoundError": "Piglet {{tokenId}} hindi mahanap",
+    "traitToolTip": "{{percents}}% Pigletz ay may ganitong katangian",
+    "pigletChartLabel": "Halaga ng Piglet sa huling 30 araw",
+    "levels": {
+      "level1": "1",
+      "level2": "2",
+      "level3": "3"
+    },
+    "investments": {
+      "symbol": "TOKEN",
+      "amount": "HALAGA",
+      "usd": "USD",
+      "nothing": "Wala ka pang puhunan"
+    },
+    "pifiLPDeclaration": "Tatantyahin ang halaga ng PiFi pagkatapos gawin ang LP sa PancakeSwap. ISANG BESES lang ito mangyayari sa panahon ng sale.",
+    "destroy": {
+      "title": "Basagin ang Iyong Piglet",
+      "description": "Ang pagsira sa iyong Piglet ay babawiin ang lahat ng mga token sa loob nito na may kabuuang halaga na ${{balanceInUSD}} USD sa iyong address {{recipient}}. Gayunpaman, ang iyong Piglet ay mawawasak at mawawala magpakailanman. Kaya mag-isip nang dalawang beses, tingnan ang mga mata nito at magpasya.",
+      "lesserLevel": "Kailangan mong maging at least Level 2 para payagang basagin ang iyong biik!",
+      "button": "Pahinga",
+      "confirmation": "Sigurado ka bang gusto mong basagin ang iyong biik?",
+      "confirm": "Oo, cash out",
+      "decline": "Hindi, hindi ko kaya"
+    },
+    "transfer": {
+      "recipientPrompt": "Itaka po dito ang address ng tatanggap. Tiyaking ito ay BSC Mainnet address!",
+      "confirmText": "Sigurado ka bang gusto mong ilipat ang Piglet #{{tokenId}} sa {{recipient}}?",
+      "transferButton": "Ilipat"
+    },
+    "deposit": {
+      "balance": "{{balance}} {{symbol}} (${{usd}})",
+      "title": "Ideposito ang Crypto",
+      "selectToken": "Mangyaring pumili ng token",
+      "defaultToken": "Mga token ng PancakeSwap ...",
+      "inputAddress": "o I-type ang Token Address sa ibaba",
+      "inputAmount": "Piliin ang Halaga na Idedeposito",
+      "maxButton": "MAX",
+      "availableBalance": "Available:",
+      "depositButton": "Deposito Ngayon",
+      "unregisteredDeposit": "Mayroon kang {{balance}} {{symbol}} $({{balanceUSD}}) na hindi nakarehistro",
+      "reisteredDeposit": "Mag-rehistro na ngayon"
+    },
+    "boosters": {
+      "requiresLevel": "Nangangailangan ng antas {{level}}",
+      "activateButton": "I-activate ang Booster",
+      "activated": "Na-activate",
+      "title": "Mga Boosters",
+      "tokenSelect": {
+        "title": "Piliin ang {{count}} Pigletz"
+      },
+      "names": {
+        "Invest $100": "Halaga ng $100",
+        "Invest $500": "Halaga ng $500",
+        "Invest $2000": "Halaga ng $2000",
+        "Collect 3": "Kolektahin 3",
+        "Collect 7": "Kolektahin ang 7",
+        "Invest 3 tokens": "Mamuhunan ng 3 Token",
+        "Invest 7 tokens": "Mamuhunan ng 7 Token",
+        "3 Similar": "3 Katulad",
+        "12 Different": "12 Magkaiba",
+        "Staked": "Nakataya",
+        "Special": "Espesyal"
+      },
+      "descriptions": {
+        "Invest tokens with value of at least $100 USD": "Mga token ng deposito para sa higit sa $100 USD",
+        "Invest tokens with value of at least $500 USD": "Mga token ng deposito para sa higit sa $500 USD",
+        "Invest tokens with value of at least $2000 USD": "Mga token ng deposito para sa higit sa $2000 USD",
+        "Collect 3 piglets": "Mangolekta ng 3 Pigletz",
+        "Collect 7 piglets": "Mangolekta ng 7 Pigletz",
+        "Invest 3 different tokens": "Mag-invest ng 3 magkakaibang non-zero valued na token, hindi kasama ang PiFi",
+        "Invest 7 different tokens": "Mag-invest ng 7 iba't ibang non-zero valued token, hindi kasama ang PiFi",
+        "Collect 3 with the same zodiac sign": "Mangolekta ng 3 pigletz na may parehong zodiac sign",
+        "Collect 12 piglets with different zodiac signs": "Mangolekta ng 12 pigletz na may iba't ibang zodiac sign",
+        "Stake it in the Staking Contract": "Itala ito sa Staking Contract",
+        "It is born like this": "Ito ay ipinanganak na ganito"
+      },
+      "tips": {
+        "Invest tokens with value of at least $100 USD": "Nag-deposito ka ng mga token para sa ${{usd}}<br />Hindi kasama ang PiFi.",
+        "Invest tokens with value of at least $500 USD": "Nag-deposito ka ng mga token para sa ${{usd}}<br />Hindi kasama ang PiFi.",
+        "Invest tokens with value of at least $2000 USD": "Nag-deposito ka ng mga token para sa ${{usd}}<br />Hindi kasama ang PiFi.",
+        "Collect 3 piglets": "Mint 3 lang",
+        "Collect 7 piglets": "Mint 7 lang",
+        "Invest 3 different tokens": "Mayroon kang {{tokensCount}} token maliban sa PiFi.<br />Kailangang nakalista ang mga Token sa PancakeSwap",
+        "Invest 7 different tokens": "Mayroon kang {{tokensCount}} token maliban sa PiFi.<br />Kailangang nakalista ang mga Token sa PancakeSwap",
+        "Collect 3 with the same zodiac sign": "Maaapektuhan ng booster ang lahat 3",
+        "Collect 12 piglets with different zodiac signs": "Maaapektuhan ng booster ang lahat ng 12",
+        "Stake it in the Staking Contract": "Malapit na",
+        "It is born like this": "Ito ay ipinanganak na ganito"
+      }
+    },
+    "staking": {
+      "title": "Pagtataya",
+      "description": "Ang pagtataya ay nagbibigay-daan sa Pigletz na palakasin ang kanilang PiFi minting power na may 50%. Hindi ito nangangailangan ng anuman kundi i-lock lamang ang iyong Piglet sa kontrata ng staking para sa isang tiyak na panahon. Bago matapos ang oras na iyon, hindi mo magagamit ang Piglet. Matapos mag-expire ang panahon na yaon, maaari mong alisin ang Piglet at gamitin ito muli. Gayunpaman, ide-deactivate nito ang 50% booster. Ang lahat ng iba pang boosters ay hindi apektado ng staking.",
+      "stakedOnDate": "Nakataya sa",
+      "stakeDurationTitle": "Ang tagal ng pagkataya",
+      "stakeDuration": "{{count}} araw",
+      "stakeDuration_other": "{{count}} araw",
+      "stakeButton": "I-taya",
+      "unstakeButton": "Kunin ang pagkataya",
+      "stakedBadge": "Nakataya",
+      "stakeBadge": "Stake",
+      "stakeBadgeSmall": "para sa higit pang PiFi",
+      "expired": "Nag-expire na",
+      "alreadyStaked": "Ang piglet na ito ay nakataya na noong {{stakedOnDate}} ng {{days}} araw",
+      "neverStaked": "Ang biik na ito ay hindi pa natataya",
+      "periods": [
+        "3 buwan",
+        "6 na buwan",
+        "1 taon",
+        "2 taon"
+      ],
+      "timeLeft": {
+        "year": "taon ang natitira",
+        "year_other": "taon ang natitira",
+        "month": "buwan ang natitira",
+        "month_other": "natitira pang buwan",
+        "day": "araw na natitira",
+        "day_other": "araw na natitira"
+      },
+      "periodFormatted": {
+        "year": "{{count}} taon",
+        "year_other": "{{count}} taon",
+        "month": "{{count}} buwan",
+        "month_other": "{{count}} na buwan",
+        "day": "{{count}} araw",
+        "day_other": "{{count}} araw"
+      },
+      "dialog": {
+        "title": "Taya",
+        "subtitle": "Pumili ng panahon ng pagkataya",
+        "description": "Kapag nakataya ang biik ay hindi na magagamit hanggang sa matapos ang panahon sa kanyang pagkataya",
+        "confirmButton": "i-taya",
+        "declineButton": "Kanselahin"
+      }
+    }
+  },
+  "about": {
+    "title": "Tungkol sa Pigletz"
+  },
+  "home": {
+    "subtitle": "Ang unang NFT na nagkakatotoo!",
+    "howitworks": "Tingnan kung paano ito gumagana",
+    "videoModalTitle": "Paano ito gumagana",
+    "intro": {
+      "whitepaper": "Whitepaper"
+    },
+    "stats": {
+      "title": "Pigletz Stats",
+      "mintedPigletz": "Minted Pigletz",
+      "brokenPigletz": "Sirang Pigletz",
+      "stakedPigletz": "Tinaya na Pigletz",
+      "holders": "Holders",
+      "circulatingPifi": "Umiikot na PiFi",
+      "pifiInPigletz": "PiFi sa Pigletz",
+      "totalValueInPigletz": "Kabuuang Halaga sa Pigletz",
+      "totalValueChartLabel": "Kabuuang halaga para sa huling 30 araw"
+    },
+    "latestNews": {
+      "title": "Pinakabagong Balita",
+      "seeMoreNewsButton": "Tingnan ang higit pang balita"
+    },
+    "latestVideos": {
+      "title": "Pinakabagong Video"
     },
     "about": {
-        "title": "Tungkol sa Pigletz"
+      "title": "Ano ang Pigletz?",
+      "features": [
+        "Isang koleksyon ng 12,345 Piglet NFT",
+        "Ang bawat isa ay may utility ng isang Alkansya",
+        "Maaari mong i-save ang iyong mga crypto token dito",
+        "Ang bawat Piglet ay nagmimina para sa iyo ng mga token ng PiFi araw-araw",
+        "Ang Pigletz NFT ay naa-upgrade sa 3 antas",
+        "Ang tanging NFT na maaaring ma-materialize sa totoong mundo",
+        "Maaari mong bawiin ang iyong mga pondo sa pamamagitan lamang ng pagsira sa Piglet"
+      ],
+      "learnMore": "Matuto pa"
     },
-    "home": {
-        "subtitle": "Ang unang NFT na nagkakatotoo!",
-        "howitworks": "Tingnan kung paano ito gumagana",
-        "videoModalTitle": "Paano ito gumagana",
-        "intro": {
-            "whitepaper": "Whitepaper"
+    "nft": {
+      "title": "Ito ay isang NFT",
+      "features": [
+        "12,345 natatanging Limited Edition Pigletz na may mapapatunayang random na katangian ng iba't ibang pambihira",
+        "100% hand-crafted na mga 3d na modelo",
+        "Isang kabuuang mahigit 2 bilyong kumbinasyon ang posible",
+        "Random na minted sa pagbili",
+        "Nabubunyag ang mga katangian habang lumalaki ang iyong Piglet",
+        "Karagdagang 5 celebrity NTF na pupunta sa charity"
+      ]
+    },
+    "token": {
+      "title": "Tokenomics",
+      "learnMore": "Matuto pa",
+      "caption1": "Ang bawat biik ay magsisimulang magmina ng mga PiFi token mula sa araw na binili mo ito.",
+      "caption2": "Maaari kang magdeposito ng mga token sa iyong biik gaya ng pagdedeposito mo ng mga barya sa alkansya.",
+      "caption3": "Hatiin ang iyong biik para ma-access ang lahat ng nadeposito na token kasama ang lahat ng mined na PiFi token."
+    },
+    "game": {
+      "title": "Gamification",
+      "learnMore": "Matuto pa",
+      "caption1": "Mag-level up para ipakita ang mga katangian ng Piglet at pahusayin ang base mining rate.",
+      "caption2": "Kolektahin at ilapat ang mga booster para pataasin pa ang bilis ng produksyon ng token.",
+      "caption3": "Subaybayan at pamahalaan ang iyong Pigletz sa pamamagitan ng aming maginhawang Dapp."
+    },
+    "boosters": {
+      "title": "Mga Boosters",
+      "description": "Pinapataas ng mga Boosters ang PiFi token mining speed ng iyong pigletz. Mayroong 9 sa kanila sa kabuuan."
+    },
+    "defi": {
+      "title": "DeFi",
+      "learnMore": "Matuto pa",
+      "description": "Maaari mong i-lock ang iyong biik para sa isang tiyak na oras upang mapabilis ang proseso ng pagmimina.",
+      "steaking": {
+        "title": "Piglet Staking",
+        "description": "I-lock ang iyong biik para sa mas mabilis na pagmimina"
+      },
+      "lending": {
+        "title": "Pagpapahiram",
+        "description": "Kumuha ng linya ng kredito ng PiFi sa pamamagitan ng pagsangla sa iyong biik."
+      }
+    },
+    "3dprint": {
+      "title": "Materialisasyon",
+      "learnMore": "Matuto pa",
+      "description1": "Maaari mong gamitin ang mga token ng PiFi upang bumili ng 3D print ng iyong NFT, na kumakatawan dito sa totoong mundo. Kapag nag-order ka ng iyong 3D-printed na alkansya, ang NFT ay naka-lock sa isang Smart Contract. Ang pisikal na bagay ay may unlock code sa loob, ngunit kailangan mong basagin ang Piglet upang makuha ang cipher. Tinitiyak nito na gumagana ang item sa isang realidad lamang sa isang partikular na punto ng oras, palaging pinapanatili ang mga katangian ng NFT nito.",
+      "description2": "Higit pa rito, ang materyal na estado ng Piglet ay itinuturing na huling Level 4, na may pinakamataas na rate ng base mining."
+    },
+    "ourPigletz": {
+      "galleryTitle": "Gallery",
+      "mintYours": "Mint ang iyong Piglet ngayon",
+      "richestPigletz": "Pinakamayamang Pigletz"
+    },
+    "roadmap": {
+      "title": "Roadmap",
+      "stages": [
+        {
+          "description": "<b>Ipinanganak ang ideya</b> sa simula ng 2021",
+          "progress": 100,
+          "status": "✓ Nakumpleto"
         },
-        "stats": {
-            "title": "Pigletz Stats",
-            "mintedPigletz": "Minted Pigletz",
-            "brokenPigletz": "Sirang Pigletz",
-            "stakedPigletz": "Tinaya na Pigletz",
-            "holders": "Holders",
-            "circulatingPifi": "Umiikot na PiFi",
-            "pifiInPigletz": "PiFi sa Pigletz",
-            "totalValueInPigletz": "Kabuuang Halaga sa Pigletz",
-            "totalValueChartLabel": "Kabuuang halaga para sa huling 30 araw"
+        {
+          "description": "<b>Nabuo ang koponan</b> at nagsimulang magtrabaho (Q2 2021)",
+          "progress": 100,
+          "status": "✓ Nakumpleto"
         },
-        "latestNews": {
-            "title": "Pinakabagong Balita",
-            "seeMoreNewsButton": "Tingnan ang higit pang balita"
+        {
+          "description": "<b>Pagkonsepto at Pagmomodelo</b> sa mga katangian ng Pigletz (Q3 2021)",
+          "progress": 100,
+          "status": "✓ Nakumpleto"
         },
-        "latestVideos": {
-            "title": "Pinakabagong Video"
+        {
+          "description": "Pagbuo ng <b>Mga Smart Contract at Dapp</b> (Q4 2021)",
+          "progress": 100,
+          "status": "✓ Nakumpleto"
         },
-        "about": {
-            "title": "Ano ang Pigletz?",
-            "features": [
-                "Isang koleksyon ng 12,345 Piglet NFT",
-                "Ang bawat isa ay may utility ng isang Alkansya",
-                "Maaari mong i-save ang iyong mga crypto token dito",
-                "Ang bawat Piglet ay nagmimina para sa iyo ng mga token ng PiFi araw-araw",
-                "Ang Pigletz NFT ay naa-upgrade sa 3 antas",
-                "Ang tanging NFT na maaaring ma-materialize sa totoong mundo",
-                "Maaari mong bawiin ang iyong mga pondo sa pamamagitan lamang ng pagsira sa Piglet"
-            ],
-            "learnMore": "Matuto pa"
+        {
+          "description": "<b>Ilunsad sa chain</b><br />(Disyembre 2021)",
+          "progress": 100,
+          "status": "✓ Nakumpleto"
         },
-        "nft": {
-            "title": "Ito ay isang NFT",
-            "features": [
-                "12,345 natatanging Limited Edition Pigletz na may mapapatunayang random na katangian ng iba't ibang pambihira",
-                "100% hand-crafted na mga 3d na modelo",
-                "Isang kabuuang mahigit 2 bilyong kumbinasyon ang posible",
-                "Random na minted sa pagbili",
-                "Nabubunyag ang mga katangian habang lumalaki ang iyong Piglet",
-                "Karagdagang 5 celebrity NTF na pupunta sa charity"
-            ]
+        {
+          "description": "<b>Unang pre sale</b><br />(Disyembre 18, 2021)",
+          "progress": 100,
+          "status": "✓ Nakumpleto"
         },
-        "token": {
-            "title": "Tokenomics",
-            "learnMore": "Matuto pa",
-            "caption1": "Ang bawat biik ay magsisimulang magmina ng mga PiFi token mula sa araw na binili mo ito.",
-            "caption2": "Maaari kang magdeposito ng mga token sa iyong biik gaya ng pagdedeposito mo ng mga barya sa alkansya.",
-            "caption3": "Hatiin ang iyong biik para ma-access ang lahat ng nadeposito na token kasama ang lahat ng mined na PiFi token."
+        {
+          "description": "Maglunsad ng listing sa Binance NFT<br />(Enero 2022)",
+          "progress": 100,
+          "status": "✓ Nakumpleto"
         },
-        "game": {
-            "title": "Gamification",
-            "learnMore": "Matuto pa",
-            "caption1": "Mag-level up para ipakita ang mga katangian ng Piglet at pahusayin ang base mining rate.",
-            "caption2": "Kolektahin at ilapat ang mga booster para pataasin pa ang bilis ng produksyon ng token.",
-            "caption3": "Subaybayan at pamahalaan ang iyong Pigletz sa pamamagitan ng aming maginhawang Dapp."
+        {
+          "description": "Ang <b>Mga Unang 3D Print</b> ay inihatid<br />(Q1 2022)",
+          "progress": 100,
+          "status": "✓ Nakumpleto"
         },
-        "boosters": {
-            "title": "Mga Boosters",
-            "description": "Pinapataas ng mga Boosters ang PiFi token mining speed ng iyong pigletz. Mayroong 9 sa kanila sa kabuuan."
+        {
+          "description": "<b>Gumawa ng PiFi Liquidity Pool sa PancakeSwap</b><br />(Pagkatapos ng sale)",
+          "progress": 100,
+          "status": "✓ Nakumpleto"
         },
-        "defi": {
-            "title": "DeFi",
-            "learnMore": "Matuto pa",
-            "description": "Maaari mong i-lock ang iyong biik para sa isang tiyak na oras upang mapabilis ang proseso ng pagmimina.",
-            "steaking": {
-                "title": "Piglet Staking",
-                "description": "I-lock ang iyong biik para sa mas mabilis na pagmimina"
-            },
-            "lending": {
-                "title": "Pagpapahiram",
-                "description": "Kumuha ng linya ng kredito ng PiFi sa pamamagitan ng pagsangla sa iyong biik."
-            }
+        {
+          "description": "Ang <b>DeFi Staking</b> ay inilabas <br /> (Q3 2022)",
+          "progress": 100,
+          "status": "✓ Nakumpleto"
         },
-        "3dprint": {
-            "title": "Materialisasyon",
-            "learnMore": "Matuto pa",
-            "description1": "Maaari mong gamitin ang mga token ng PiFi upang bumili ng 3D print ng iyong NFT, na kumakatawan dito sa totoong mundo. Kapag nag-order ka ng iyong 3D-printed na alkansya, ang NFT ay naka-lock sa isang Smart Contract. Ang pisikal na bagay ay may unlock code sa loob, ngunit kailangan mong basagin ang Piglet upang makuha ang cipher. Tinitiyak nito na gumagana ang item sa isang realidad lamang sa isang partikular na punto ng oras, palaging pinapanatili ang mga katangian ng NFT nito.",
-            "description2": "Higit pa rito, ang materyal na estado ng Piglet ay itinuturing na huling Level 4, na may pinakamataas na rate ng base mining."
+        {
+          "description": " <b>Ang Mobile Wallet</b> ay  narito na <br /> (Q4 2022)",
+          "progress": 100,
+          "status": "✓ Nakumpleto"
         },
-        "ourPigletz": {
-            "galleryTitle": "Gallery",
-            "mintYours": "Mint ang iyong Piglet ngayon",
-            "richestPigletz": "Pinakamayamang Pigletz"
+        {
+          "description": " <b>Spin at Win </b> Pigletz <br /> (Q4 2022)",
+          "progress": 100,
+          "status": "✓ Nakumpleto"
         },
-        "roadmap": {
-            "title": "Roadmap",
-            "stages": [
-                {
-                    "description": "<b>Ipinanganak ang ideya</b> sa simula ng 2021",
-                    "progress": 100,
-                    "status": "✓ Nakumpleto"
-                },
-                {
-                    "description": "<b>Nabuo ang koponan</b> at nagsimulang magtrabaho (Q2 2021)",
-                    "progress": 100,
-                    "status": "✓ Nakumpleto"
-                },
-                {
-                    "description": "<b>Pagkonsepto at Pagmomodelo</b> sa mga katangian ng Pigletz (Q3 2021)",
-                    "progress": 100,
-                    "status": "✓ Nakumpleto"
-                },
-                {
-                    "description": "Pagbuo ng <b>Mga Smart Contract at Dapp</b> (Q4 2021)",
-                    "progress": 100,
-                    "status": "✓ Nakumpleto"
-                },
-                {
-                    "description": "<b>Ilunsad sa chain</b><br />(Disyembre 2021)",
-                    "progress": 100,
-                    "status": "✓ Nakumpleto"
-                },
-                {
-                    "description": "<b>Unang pre sale</b><br />(Disyembre 18, 2021)",
-                    "progress": 100,
-                    "status": "✓ Nakumpleto"
-                },
-                {
-                    "description": "Maglunsad ng listing sa Binance NFT<br />(Enero 2022)",
-                    "progress": 100,
-                    "status": "✓ Nakumpleto"
-                },
-                {
-                    "description": "Ang <b>Mga Unang 3D Print</b> ay inihatid<br />(Q1 2022)",
-                    "progress": 100,
-                    "status": "✓ Nakumpleto"
-                },
-                {
-                    "description": "<b>Gumawa ng PiFi Liquidity Pool sa PancakeSwap</b><br />(Pagkatapos ng sale)",
-                    "progress": 100,
-                    "status": "✓ Nakumpleto"
-                },
-                {
-                    "description": "Ang <b>DeFi Staking</b> ay inilabas <br /> (Q3 2022)",
-                    "progress": 100,
-                    "status": "✓ Nakumpleto"
-                },
-                {
-                    "description": " <b>Ang Mobile Wallet</b> ay  narito na <br /> (Q4 2022)",
-                    "progress": 100,
-                    "status": "✓ Nakumpleto"
-                },
-                {
-                    "description": " <b>Spin at Win </b> Pigletz <br /> (Q4 2022)",
-                    "progress": 100,
-                    "status": "✓ Nakumpleto"
-                },
-                {
-                    "description": " <b>Cross-chain</b> parating na<br />",
-                    "progress": 10,
-                    "status": "Nagtatrabaho..."
-                },
-                {
-                    "description": " <b>Metaverse Integrasyon</b> parating na<br />",
-                    "progress": 0,
-                    "status": "Paparating"
-                }
-            ]
+        {
+          "description": " <b>Cross-chain</b> parating na<br />",
+          "progress": 10,
+          "status": "Nagtatrabaho..."
         },
-        "joinUs": {
-            "announcement": "Live na ngayon si Pigletz sa Binance Smart Chain",
-            "description": "Sundan kami para sa higit pang impormasyon, pre-sale at mga petsa ng pagbebenta at mga diskwento",
-            "twitter": "Sundan kami sa Twitter",
-            "discord": "Sumali sa aming Discord Server",
-            "telegram": "Sumali sa aming Telegram Channel"
-        },
-        "marketplaces": {
-            "title": "Available din sa:",
-            "googlePlay": "Kunin sa Google Play"
+        {
+          "description": " <b>Metaverse Integrasyon</b> parating na<br />",
+          "progress": 0,
+          "status": "Paparating"
         }
+      ]
     },
-    "errors": {
-        "privacyPolicy": "Hindi ma-load ang Patakaran sa Privacy ngayon",
-        "termsOfUse": "Hindi ma-load ang Mga Tuntunin ng Paggamit ngayon",
-        "wofRules": "Hindi ma-load ang mga panuntunan",
-        "newsArticle": "Hindi ma-load ang artikulong iyon",
-        "newsArticlesList": "Hindi ma-load ang balita"
+    "joinUs": {
+      "announcement": "Live na ngayon si Pigletz sa Binance Smart Chain",
+      "description": "Sundan kami para sa higit pang impormasyon, pre-sale at mga petsa ng pagbebenta at mga diskwento",
+      "twitter": "Sundan kami sa Twitter",
+      "discord": "Sumali sa aming Discord Server",
+      "telegram": "Sumali sa aming Telegram Channel"
     },
-    "newsList": {
-        "title": "Balita",
-        "readMore": "Magbasa pa",
-        "allNews": "Lahat ng Balita"
-    },
-    "videoList": {
-        "watch": "Manood ngayon"
+    "marketplaces": {
+      "title": "Available din sa:",
+      "googlePlay": "Kunin sa Google Play"
     }
+  },
+  "errors": {
+    "privacyPolicy": "Hindi ma-load ang Patakaran sa Privacy ngayon",
+    "termsOfUse": "Hindi ma-load ang Mga Tuntunin ng Paggamit ngayon",
+    "wofRules": "Hindi ma-load ang mga panuntunan",
+    "newsArticle": "Hindi ma-load ang artikulong iyon",
+    "newsArticlesList": "Hindi ma-load ang balita"
+  },
+  "newsList": {
+    "title": "Balita",
+    "readMore": "Magbasa pa",
+    "allNews": "Lahat ng Balita"
+  },
+  "videoList": {
+    "watch": "Manood ngayon"
+  }
 }
