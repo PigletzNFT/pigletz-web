@@ -71,7 +71,7 @@
         }
     },
     "footer": {
-        "copyright": "© 2021-2022 Pigletz",
+        "copyright": "© 2021-2023 Pigletz",
         "terms": "Terms and Conditions",
         "privacy": "Privacy Policy",
         "contracts": {
@@ -368,6 +368,7 @@
         "viewMore": "View More",
         "pifi": "PiFi:",
         "addToMetamaskButton": "Add to MetaMask",
+        "buyCrypto": "Buy Crypto",
         "walletDescription": "This is your Piglet's wallet. It is non-custodial and only the Piglet, respectively its owner can interact with it - deposit tokens or break it and withdraw everything it contains",
         "walletTitle": "Wallet",
         "depositButton": "Deposit ({{invested}}/{{total}})",
