@@ -477,6 +477,7 @@
         "staking": {
             "title": "Staking",
             "description": "Staking enables Pigletz to boost their PiFi minting power with 50%. It doesn't require anything but just to lock your Piglet into the staking contract for a specified amount of time. Before that time to pass you cannot use that Piglet. After the time period expires you can unstake the Piglet and use it agian. However this will deactivate the 50% booster. All other boosters are unaffected by the staking.",
+            "onlyOnceNotice": "Pigletz can be staked only once!",
             "stakedOnDate": "Staked on",
             "stakeDurationTitle": "Stake duration",
             "stakeDuration": "{{count}} day",
