@@ -476,6 +476,7 @@
     "staking": {
       "title": "质押",
       "description": "通过质押可以将小猪的PiFi 铸造能力提高 50%。只需将你的小猪锁定在质押合约中一段指定的时间。在此期间你不能使用那只小猪。合约到期后，您可以取消质押并再次使用它。然而停用后50%的助力将不再发挥作用。所有其他助力均不受质押影响。",
+      "onlyOnceNotice": "Pigletz 只能抵押一次！",
       "stakedOnDate": "质押在",
       "stakeDurationTitle": "质押期限",
       "stakeDuration": "{{count}} 天",
