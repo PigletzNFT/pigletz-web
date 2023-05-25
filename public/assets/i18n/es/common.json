@@ -476,6 +476,7 @@
     "staking": {
       "title": "Inversión",
       "description": "El inversión permite a Pigletz aumentar su poder de acuñación de PiFi en un 50 %. No requiere nada más que bloquear a su Piglet en el contrato de participación durante un período de tiempo específico. Antes de que pase ese tiempo no puedes usar ese Piglet. Después de que expire el período de tiempo, puede retirar el Piglet y usarlo nuevamente. Sin embargo, esto desactivará el refuerzo del 50%. Todos los demás refuerzos no se ven afectados por la apuesta.",
+      "onlyOnceNotice": "¡Pigletz solo se puede apostar una vez!",
       "stakedOnDate": "Invertido en",
       "stakeDurationTitle": "Duración de la inversión",
       "stakeDuration": "{{count}} día",
