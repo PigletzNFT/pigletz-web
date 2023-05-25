@@ -476,6 +476,7 @@
     "staking": {
       "title": "Staking yapılıyor",
       "description": "Staking, Pigletz'ine PiFi Token basma gücünü %50 oranında artırmasını sağlar. Hiçbir şey gerektirmez, sadece Pigletz'ine belirli bir süre için staking sözleşmesine kilitlemeniz yeterlidir. Bu süre geçmeden önce o Piglet'i kullanamazsın. Süre dolduktan sonra Piglet'i stake'ten çıkarabilir ve tekrar kullanabilirsin. Ancak bu %50 güçlendiriciyi devre dışı bırakacaktır. Diğer tüm güçlendiriciler stake işleminden etkilenmez.",
+      "onlyOnceNotice": "Pigletz yalnızca bir kez stake edilebilir!",
       "stakedOnDate": "Stake yapıldı",
       "stakeDurationTitle": "Stake süresi",
       "stakeDuration": "{{count}} gün",
