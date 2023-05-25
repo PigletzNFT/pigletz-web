@@ -476,6 +476,7 @@
     "staking": {
       "title": "Staking",
       "description": "Mit Staking können deine Pigletz ihre PiFi-Minting-Power um 50 % steigern. Dazu muss man nichts weiter tun, als sein Piglet für eine bestimmte Zeit an den Staking-Vertrag zu binden. Vor Ablauf dieser Zeit kannst du das Piglet nicht benutzen. Nach Ablauf des Zeitraums kannst du das Piglet wieder entsperren und es erneut benutzen. Dadurch wird jedoch der 50%-Booster deaktiviert. Alle anderen Booster werden durch das Staking nicht betroffen.",
+      "onlyOnceNotice": "Jedes Piglet kann nur einmal gestaked werden!",
       "stakedOnDate": "Staked am",
       "stakeDurationTitle": "Stake Dauer",
       "stakeDuration": "{{count}} Tag",
