@@ -476,6 +476,7 @@
     "staking": {
       "title": "Pagtataya",
       "description": "Ang pagtataya ay nagbibigay-daan sa Pigletz na palakasin ang kanilang PiFi minting power na may 50%. Hindi ito nangangailangan ng anuman kundi i-lock lamang ang iyong Piglet sa kontrata ng staking para sa isang tiyak na panahon. Bago matapos ang oras na iyon, hindi mo magagamit ang Piglet. Matapos mag-expire ang panahon na yaon, maaari mong alisin ang Piglet at gamitin ito muli. Gayunpaman, ide-deactivate nito ang 50% booster. Ang lahat ng iba pang boosters ay hindi apektado ng staking.",
+      "onlyOnceNotice": "Isang beses lang puwedeng i-stakes ang Pigletz!",
       "stakedOnDate": "Nakataya sa",
       "stakeDurationTitle": "Ang tagal ng pagkataya",
       "stakeDuration": "{{count}} araw",
