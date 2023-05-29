@@ -476,6 +476,7 @@
     "staking": {
       "title": "Mempertaruhkan",
       "description": "Staking memungkinkan Pigletz untuk meningkatkan kekuatan pencetakan PiFi mereka hingga 50%. Tidak diperlukan apa pun selain mengunci Piglet Anda ke dalam kontrak taruhan untuk jangka waktu tertentu. Sebelum waktu itu berlalu, Anda tidak dapat menggunakan Piglet itu. Setelah periode waktu berakhir, Anda dapat melepaskan Piglet dan menggunakannya lagi. Namun ini akan menonaktifkan penguat 50%. Semua booster lainnya tidak terpengaruh oleh staking.",
+      "onlyOnceNotice": "Pigletz hanya dapat dipertaruhkan sekali!",
       "stakedOnDate": "Dipertaruhkan",
       "stakeDurationTitle": "Durasi taruhan",
       "stakeDuration": "{{count}} hari",
