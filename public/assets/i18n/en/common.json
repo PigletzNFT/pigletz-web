@@ -82,17 +82,25 @@
             "mysteryBox": "MysteryBox (BEP721)"
         }
     },
-    "presale": {
-        "title": "Pigletz Presale",
-        "description": "Welcome chosen one! You were selected to participate in our Presale and here you have the chance the mint an unique Piglet at the lowest possible price. You can also mint a bundle of 5, 10 or 20 in the same transaction. Your discount code will be applied to all of them. Enjoy!",
+    "mint": {
         "tiersDescription": "We are minting collections with different amounts and prices. The price increases with time and at the end will reach 8 BNB. However with the higher price there is also a higher chance to get the special booster.",
         "checkTiers": "check the tiers below"
     },
-    "mint": {
-        "title": "Pigletz Minting",
-        "description": "Welcome! Here you can mint your new Piglet. It will be selected using provably fair random algorithm. If you want to receive discount codes join our communities in Discord, Telegram and Twitter and ask for the options. Enjoy!",
-        "tiersDescription": "We are minting collections with different amounts and prices. The price increases with time and at the end will reach 8 BNB. However with the higher price there is also a higher chance to get the special booster.",
-        "checkTiers": "check the tiers below"
+    "presale": {
+        "title": "Pigletz Presale",
+        "description": "Welcome chosen one! You were selected to participate in our Presale and here you have the chance the mint an unique Piglet at the lowest possible price. You can also mint a bundle of 5, 10 or 20 in the same transaction. Your discount code will be applied to all of them. Enjoy!"
+    },
+    "mintWithBnb": {
+        "title": "Mint Pigletz with BNB",
+        "description": "Welcome! Here you can mint your new Piglet. It will be selected using provably fair random algorithm. If you want to receive discount codes join our communities in Discord, Telegram and Twitter and ask for the options. Enjoy!"
+    },
+    "mintWithCard": {
+        "title": "Mint Pigletz with a Card",
+        "description": "Welcome! Here you can mint your new Piglet. It will be selected using provably fair random algorithm. Only now you can pay with a Credit/Debit card and get 50% discount. Enjoy!"
+    },
+    "mintWithPifi": {
+        "title": "Mint Pigletz with PiFi",
+        "description": "Welcome! Here you can mint your new Piglet. It will be selected using provably fair random algorithm. If you want to receive discount codes join our communities in Discord, Telegram and Twitter and ask for the options. Enjoy!"
     },
     "blackFridayMint": {
         "title": "BLACK FRIDAY DEAL!",
@@ -237,7 +245,8 @@
         "checkDiscount": {
             "pending": "Checking code",
             "success": "The code is Valid",
-            "error": "This is a wrong or expired code"
+            "error": "This is a wrong or expired code",
+            "notEnough": "Not enough Pigletz available for purchase from the current tier"
         },
         "purchasePiglet": {
             "pending": "Minting {{count}} piglet",
@@ -305,6 +314,12 @@
         }
     },
     "buy": {
+        "modes": {
+            "bnb": "Use BNB",
+            "pifi": "Use PiFi",
+            "card": "Use Card"
+        },
+        "nftPayTitle": "Mint with NFTpay",
         "saleAddress": "Sale Contract: {{address}}",
         "promoCodeCaption": "Discount:",
         "promoCodeCheckButton": "Check",
